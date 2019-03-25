@@ -2622,7 +2622,7 @@
                      <orth extent="full" lang="ar">mtrwk</orth>
                   </form> [pass. part. n. of <foreign lang="ar" TEIform="foreign">taraka</foreign>, <hi rend="ital" TEIform="hi">Left, forsaken,</hi> &amp;c. ―         -b2- ] In lexicology, <hi rend="ital" TEIform="hi">Obsolete.</hi> (Mz 10th <foreign lang="ar" TEIform="foreign">nwE</foreign>.)   </entryFree> 
             </div2> 
-            <div2 n="Alt~urokumaAnu" type="root" org="uniform" sample="complete" part="N"
+            <div2 n="trkmAn" type="root" org="uniform" sample="complete" part="N"
                   TEIform="div2">
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">Alt~urokumaAnu</foreign>
@@ -5582,7 +5582,7 @@
                      <orth extent="full" lang="ar">AtArh</orth>
                      <orth extent="full" lang="ar">AtArp</orth>
                   </form> 
-                  <hi rend="ital" TEIform="hi">He repeated it,</hi> or <hi rend="ital" TEIform="hi">did it again, time after time.</hi> (S in art. <foreign lang="ar" TEIform="foreign">tyr</foreign>, M, K.) ―         -b2-  <hi rend="ital" TEIform="hi">He continued to look at him,</hi> or <hi rend="ital" TEIform="hi">it, time after time.</hi> (TA.) And <foreign lang="ar" TEIform="foreign">A^atarotu A_ilayohi Aln~aZara</foreign>, (T, K *) and <foreign lang="ar" TEIform="foreign">Alr~amoYBa</foreign>, inf. n. <foreign lang="ar" TEIform="foreign">A_itaArapN</foreign>, (T,) <hi rend="ital" TEIform="hi">i. q.</hi> 
+                  <hi rend="ital" TEIform="hi">He repeated it,</hi> or <hi rend="ital" TEIform="hi">did it again, time after time.</hi> (S in art. <foreign lang="ar" TEIform="foreign">tyr</foreign>, M, K.) ―         -b2-  <hi rend="ital" TEIform="hi">He continued to look at him,</hi> or <hi rend="ital" TEIform="hi">it, time after time.</hi> (TA.) And <foreign lang="ar" TEIform="foreign">A^atarotu A_ilayohi Aln~aZara</foreign>, (T, K *) and <foreign lang="ar" TEIform="foreign">Alr~amoYa</foreign>, inf. n. <foreign lang="ar" TEIform="foreign">A_itaArapN</foreign>, (T,) <hi rend="ital" TEIform="hi">i. q.</hi> 
                   <foreign lang="ar" TEIform="foreign">A^atoA^arotuhu</foreign>, (K,) i. e. <hi rend="ital" TEIform="hi">I looked at him sharply,</hi> or <hi rend="ital" TEIform="hi">intently:</hi> (TA:) [or <hi rend="ital" TEIform="hi">time after time:</hi>] and <hi rend="ital" TEIform="hi">I cast,</hi> or <hi rend="ital" TEIform="hi">shot, at him time after time.</hi> (T.) ―         -b3-  <foreign lang="ar" TEIform="foreign">fulaAnN yutaAru EalaY A^ano yuw^oxa*a</foreign> is said by AA to mean <hi rend="ital" TEIform="hi">Such a one is encompassed,</hi> or <hi rend="ital" TEIform="hi">gone round,</hi> (<foreign lang="ar" TEIform="foreign">yudaAru</foreign>,) <hi rend="ital" TEIform="hi">in order that he may be taken:</hi> and he cites, from a poem of ' Ámir Ibn-Ketheer El-Moháribee, <quote TEIform="quote">
                      <L>
                         <foreign lang="ar" TEIform="foreign">laqado gaDibuwA EalaY~a waA^a$oqa*uwniY</foreign>
@@ -5645,6 +5645,12 @@
                      <orth extent="full" lang="ar">mtAr</orth>
                   </form>: see 4. <pb n="323" TEIform="pb"/>    
                </entryFree> 
+	     </div2>
+            <div2 n="twq" type="root" org="uniform" sample="complete" part="N" TEIform="div2">
+               <head TEIform="head">
+                  <foreign lang="ar" TEIform="foreign">twq</foreign>
+               </head>    
+
                <entryFree id="n4198" key="taAqa A_ilayohi" type="main">     
                   <form>       
                      <itype>1</itype>        
@@ -5824,12 +5830,12 @@
                <head TEIform="head">
                   <foreign lang="ar" TEIform="foreign">twY</foreign>
                </head>    
-               <entryFree id="n4218" key="tawiYBa" type="main">     
+               <entryFree id="n4218" key="tawiYa" type="main">     
                   <form>       
                      <itype>1</itype>        
-                     <orth orig="" extent="full" lang="ar">tawiYBa</orth>
-                     <orth extent="full" lang="ar">twyB</orth>
-                  </form>, (T, S, M, Mgh, K,) in the dial. of Teiyi <foreign lang="ar" TEIform="foreign">tawaY</foreign>, (AAF, M,) aor.     
+                     <orth orig="" extent="full" lang="ar">tawiYa</orth>
+                     <orth extent="full" lang="ar">twY</orth>
+                  </form>, (T, S, M, Mgh, K,) in the dial. of Ṭeiyi <foreign lang="ar" TEIform="foreign">tawaY</foreign>, (AAF, M,) aor.     
     <form n="infl">       
                      <orth orig="Ba" lang="ar">tawaYa</orth>
                   </form>, (S, K,) inf. n. <foreign lang="ar" TEIform="foreign">tawFY</foreign>, (T, S, M, Mgh, K,) <hi rend="ital" TEIform="hi">It perished; came to an end;</hi> (S, Mgh, K;) <hi rend="ital" TEIform="hi">it passed away</hi> (T, M, Mgh) <hi rend="ital" TEIform="hi">unhoped for:</hi> (T, M:) said of property. (T, S, M, Mgh.) Hence the saying, in a trad., <foreign lang="ar" TEIform="foreign">laA tawaY EalaY maAli A@moriy^K musolimK</foreign> [<hi rend="ital" TEIform="hi">There shall be no perishing of the property of a man that is a Muslim</hi>]: applied to the case of a man to whom is transferred the responsibility for a debt, and who dies insolvent; meaning that the responsibility shall return to him who transferred it. (Mgh.)    </entryFree> 
@@ -6040,7 +6046,7 @@
                      <orth extent="full" lang="ar">tys</orth>
                   </form> 
                   <hi rend="ital" TEIform="hi">A he-goat;</hi> the <hi rend="ital" TEIform="hi">male of the</hi> 
-                  <foreign lang="ar" TEIform="foreign">maEoz</foreign>: (S,* M, A, K:) and the <hi rend="ital" TEIform="hi">male of the mountain-goat:</hi> (A, K) and <hi rend="ital" TEIform="hi">of the gazelle:</hi> (S, M, A, K:) the female of the last [as well as of the first and second] is called <foreign lang="ar" TEIform="foreign">EanozN</foreign>: (S, M:) or <hi rend="ital" TEIform="hi">that has completed a year:</hi> (A, K:) or <hi rend="ital" TEIform="hi">a yearling he-goat:</hi> before the year it is called <foreign lang="ar" TEIform="foreign">jadoYBN</foreign>: (AZ, * Msb, TA:) pl. (of pauc., <pb n="325" TEIform="pb"/> M) <foreign lang="ar" TEIform="foreign">A^atoyaAsN</foreign> (S, M, K) and <foreign lang="ar" TEIform="foreign">A^atoyusN</foreign>, (M, TA,) and (of mult., M) <foreign lang="ar" TEIform="foreign">tuyuwsN</foreign> (S, M, Msb, K) and <foreign lang="ar" TEIform="foreign">tiyasapN</foreign> and ↓ 
+                  <foreign lang="ar" TEIform="foreign">maEoz</foreign>: (S,* M, A, K:) and the <hi rend="ital" TEIform="hi">male of the mountain-goat:</hi> (A, K) and <hi rend="ital" TEIform="hi">of the gazelle:</hi> (S, M, A, K:) the female of the last [as well as of the first and second] is called <foreign lang="ar" TEIform="foreign">EanozN</foreign>: (S, M:) or <hi rend="ital" TEIform="hi">that has completed a year:</hi> (A, K:) or <hi rend="ital" TEIform="hi">a yearling he-goat:</hi> before the year it is called <foreign lang="ar" TEIform="foreign">jadoYN</foreign>: (AZ, * Msb, TA:) pl. (of pauc., <pb n="325" TEIform="pb"/> M) <foreign lang="ar" TEIform="foreign">A^atoyaAsN</foreign> (S, M, K) and <foreign lang="ar" TEIform="foreign">A^atoyusN</foreign>, (M, TA,) and (of mult., M) <foreign lang="ar" TEIform="foreign">tuyuwsN</foreign> (S, M, Msb, K) and <foreign lang="ar" TEIform="foreign">tiyasapN</foreign> and ↓ 
       <orth type="arrow" lang="ar">matoyuwsaA='u</orth> [like <foreign lang="ar" TEIform="foreign">ma$oyuwxaA='u</foreign>, q. v.]: (K:) the last [which is properly a quasi-pl. n.] signifies the same as <foreign lang="ar" TEIform="foreign">tuyuwsN</foreign>, (S,) or <hi rend="ital" TEIform="hi">a herd of</hi> 
                   <foreign lang="ar" TEIform="foreign">tuyuws</foreign>. (M.) You say of the <foreign lang="ar" TEIform="foreign">nak~aAH</foreign>, [i. e. of him who marries often, or the like,] <foreign lang="ar" TEIform="foreign">baniY fulaAnK</foreign> ↓ 
       <orth type="arrow" lang="ar">huwa mino mutoyuwsaA='i</orth> (tropical:)  [lit. <hi rend="ital" TEIform="hi">He is of the he-goats of the sons of such a one</hi>]. (A, TA.)    </entryFree> 
