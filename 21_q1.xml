@@ -2649,8 +2649,7 @@
                      <orth extent="full" lang="ar">*</orth>
                   </form>: see <foreign lang="ar">naAsiy^N</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="qlw and qlY" type="root"
-                 >
+            <div2 n="qlw and qlY" type="root">
                <head>
                   <foreign lang="ar">qlw</foreign> and <foreign lang="ar">qlY</foreign>
                </head>    
@@ -2927,9 +2926,7 @@
                <head>
                   <foreign lang="ar">qnf*</foreign>
                </head>    
-               <entryFree id="n42848"
-                          key="qunofu*"
-                          type="main">     
+               <entryFree id="n42848" key="qunofu*" type="main">     
                   <form>       
                      <orth orig="" extent="full" lang="ar">qunofu*</orth>
                      <orth extent="full" lang="ar">*</orth>
@@ -2953,8 +2950,7 @@
                   <hi>Half an</hi> 
                   <foreign lang="ar">A_irodab~</foreign>. (T, voce <foreign lang="ar">A_irodab~</foreign>.) See <foreign lang="ar">kur~N</foreign>.   </entryFree> 
             </div2> 
-            <div2 n="qnw and qnY" type="root"
-                 >
+            <div2 n="qnw and qnY" type="root">
                <head>
                   <foreign lang="ar">qnw</foreign> and <foreign lang="ar">qnY</foreign>
                </head>    
@@ -3114,8 +3110,7 @@
                   </form> 
                   <hi>Always remaining at the water.</hi> (K.)   </entryFree> 
             </div2> 
-            <div2 n="qw: see qwY" type="root"
-                 >
+            <div2 n="qw: see qwY" type="root">
                <head>
                   <foreign lang="ar">qw</foreign>: see <foreign lang="ar">qwY</foreign>
                </head>   
