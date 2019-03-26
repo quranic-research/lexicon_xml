@@ -1,0 +1,256 @@
+#The following errors in html-tags where found in 23_l0.xml:
+Line 80: <div1 part="N" n="l" org="uniform" sample="complete" type="alphabetical letter"
+Line 81: TEIform="div1">
+Line 162: <div2 n="lA^T lA^Z lA^f" type="root" org="uniform" sample="complete" part="N"
+Line 163: TEIform="div2">
+Line 173: <div2 n="lA^m lA^Y" type="root" org="uniform" sample="complete" part="N"
+Line 174: TEIform="div2">
+Line 1280: <div2 n="ltd ltz ltm ltn" type="root" org="uniform" sample="complete" part="N"
+Line 1281: TEIform="div2">
+Line 1378: <div2 n="lvd lvT lvg lvq lvm lvY" type="root" org="uniform" sample="complete"
+Line 1380: TEIform="div2">
+Line 1727: <div2 n="ljd: see lj*" type="root" org="uniform" sample="complete" part="N"
+Line 1728: TEIform="div2">
+Line 1773: <div2 n="ljf ljm ljn" type="root" org="uniform" sample="complete" part="N"
+Line 1774: TEIform="div2">
+Line 2347: <div2 n="lHf lHq lHk lHm lHn lHY" type="root" org="uniform" sample="complete"
+Line 2349: TEIform="div2">
+Line 2475: <div2 n="lxf lxm lxn lxY" type="root" org="uniform" sample="complete" part="N"
+Line 2476: TEIform="div2">
+Line 2615: <div2 n="lds ldg ldm ldn" type="root" org="uniform" sample="complete" part="N"
+Line 2616: TEIform="div2">
+Line 2765: <div2 n="l*E l*m l*Y" type="root" org="uniform" sample="complete" part="N"
+Line 2766: TEIform="div2">
+Line 3038: <div2 n="lzq lzm lzn" type="root" org="uniform" sample="complete" part="N"
+Line 3039: TEIform="div2">
+Line 3129: <div2 n="lsE lsm lsn" type="root" org="uniform" sample="complete" part="N"
+Line 3130: TEIform="div2">
+Line 3301: <div2 n="lSf lSq lT" type="root" org="uniform" sample="complete" part="N"
+Line 3302: TEIform="div2">
+Line 3492: <div2 n="lTE lTf lTm lTY" type="root" org="uniform" sample="complete" part="N"
+Line 3493: TEIform="div2">
+Line 3894: <div2 n="lET lEf lEq lEm lEn" type="root" org="uniform" sample="complete" part="N"
+Line 3895: TEIform="div2">
+Line 4630: <div2 n="lfE lfq lfm lq" type="root" org="uniform" sample="complete" part="N"
+Line 4631: TEIform="div2">
+Line 5040: <div2 n="lqE lqf lqm lqn lqY lk" type="root" org="uniform" sample="complete" part="N"
+Line 5041: TEIform="div2">
+Line 5235: <div2 n="lkE lkm lkn lkY" type="root" org="uniform" sample="complete" part="N"
+Line 5236: TEIform="div2">
+Line 5746: <div2 n="lmE lmq lmk lmY" type="root" org="uniform" sample="complete" part="N"
+Line 5747: TEIform="div2">
+Line 6135: <div2 n="lhz lhs lhT lhE lhf lhq" type="root" org="uniform" sample="complete"
+Line 6137: TEIform="div2">
+Line 6155: <div2 n="lhm lhn lhw lw" type="root" org="uniform" sample="complete" part="N"
+Line 6156: TEIform="div2">
+Line 6448: <entryFree id="n38094"
+Line 6450: type="main">
+Line 6950: <div2 n="lwE lwf lwq lwk lwm lwn lwh lwY lY" type="root" org="uniform"
+Line 6953: TEIform="div2">
+Line 7263: <div2 n="lyE lyf lyq lyl lyn" type="root" org="uniform" sample="complete" part="N"
+Line 7264: TEIform="div2">
+#<=
+#===============================================================================
+#The following shows the html-tag count of 23_l0.xml:
+</L>	=> 28
+</TEI.2>	=> 1
+</author>	=> 1
+</authority>	=> 1
+</availability>	=> 1
+</biblStruct>	=> 1
+</body>	=> 1
+</date>	=> 1
+</div1>	=> 1
+</div2>	=> 137
+</encodingDesc>	=> 1
+</entryFree>	=> 852
+</fileDesc>	=> 1
+</foreign>	=> 4056
+</form>	=> 980
+</funder>	=> 2
+</head>	=> 137
+</hi>	=> 4645
+</imprint>	=> 1
+</item>	=> 3
+</itype>	=> 284
+</langUsage>	=> 1
+</language>	=> 5
+</list>	=> 1
+</listBibl>	=> 1
+</monogr>	=> 1
+</note>	=> 2
+</notesStmt>	=> 1
+</orth>	=> 2297
+</p>	=> 1
+</profileDesc>	=> 1
+</pubPlace>	=> 2
+</publicationStmt>	=> 1
+</publisher>	=> 2
+</quote>	=> 18
+</refsDecl>	=> 2
+</sourceDesc>	=> 1
+</teiHeader>	=> 1
+</text>	=> 1
+</title>	=> 3
+</titleStmt>	=> 1
+<?xml>	=> 1
+<L>	=> 28
+<TEI.2>	=> 1
+<analytic/>	=> 1
+<author>	=> 1
+<authority>	=> 1
+<availability>	=> 1
+<biblStruct>	=> 1
+<body>	=> 1
+<date>	=> 1
+<div2>	=> 114
+<encodingDesc>	=> 1
+<entryFree>	=> 851
+<fileDesc>	=> 1
+<foreign>	=> 4056
+<form>	=> 980
+<funder>	=> 2
+<head>	=> 137
+<hi>	=> 4645
+<imprint>	=> 1
+<item>	=> 3
+<itype>	=> 284
+<langUsage>	=> 1
+<language>	=> 5
+<list>	=> 1
+<listBibl>	=> 1
+<monogr>	=> 1
+<note>	=> 2
+<notesStmt>	=> 1
+<orth>	=> 2302
+<p>	=> 1
+<pb>	=> 46
+<profileDesc>	=> 1
+<pubPlace>	=> 2
+<publicationStmt>	=> 1
+<publisher>	=> 2
+<quote>	=> 18
+<refsDecl>	=> 2
+<sourceDesc>	=> 1
+<state>	=> 3
+<teiHeader>	=> 1
+<text>	=> 1
+<title>	=> 3
+<titleStmt>	=> 1
+#<=
+#===============================================================================
+#The following shows the character count of 23_l0.xml:
+Character	NL	=> 7275
+Character	SP	=> 234776
+Character	!	=> 12
+Character	"	=> 52522
+Character	#	=> 5
+Character	$	=> 200
+Character	&	=> 117
+Character	'	=> 341
+Character	(	=> 4342
+Character	)	=> 4346
+Character	*	=> 1253
+Character	,	=> 9426
+Character	-	=> 2207
+Character	.	=> 6188
+Character	/	=> 13533
+Character	0	=> 279
+Character	1	=> 485
+Character	2	=> 1133
+Character	3	=> 1222
+Character	4	=> 445
+Character	5	=> 389
+Character	6	=> 386
+Character	7	=> 889
+Character	8	=> 507
+Character	9	=> 274
+Character	:	=> 2379
+Character	;	=> 1710
+Character	<	=> 27012
+Character	=	=> 26353
+Character	>	=> 27012
+Character	?	=> 10
+Character	@	=> 41
+Character	A	=> 6906
+Character	B	=> 218
+Character	C	=> 65
+Character	D	=> 149
+Character	E	=> 9789
+Character	F	=> 1944
+Character	G	=> 31
+Character	H	=> 1773
+Character	I	=> 9565
+Character	J	=> 34
+Character	K	=> 1897
+Character	L	=> 706
+Character	M	=> 777
+Character	N	=> 3018
+Character	O	=> 92
+Character	P	=> 46
+Character	Q	=> 33
+Character	R	=> 39
+Character	S	=> 1973
+Character	T	=> 11174
+Character	U	=> 13
+Character	V	=> 25
+Character	W	=> 56
+Character	X	=> 1
+Character	Y	=> 531
+Character	Z	=> 335
+Character	[	=> 963
+Character	]	=> 964
+Character	^	=> 916
+Character	_	=> 175
+Character	`	=> 30
+Character	a	=> 44718
+Character	b	=> 6205
+Character	c	=> 5232
+Character	d	=> 14592
+Character	e	=> 50324
+Character	f	=> 30168
+Character	g	=> 23348
+Character	h	=> 30147
+Character	i	=> 50625
+Character	j	=> 1027
+Character	k	=> 2381
+Character	l	=> 27731
+Character	m	=> 18073
+Character	n	=> 42225
+Character	o	=> 46863
+Character	p	=> 7075
+Character	q	=> 935
+Character	r	=> 56291
+Character	s	=> 12394
+Character	t	=> 33148
+Character	u	=> 8800
+Character	v	=> 2284
+Character	w	=> 4648
+Character	x	=> 2207
+Character	y	=> 8026
+Character	z	=> 519
+Character	~	=> 1621
+Character	Á	=> 4
+Character	à	=> 4
+Character	á	=> 96
+Character	ä	=> 3
+Character	å	=> 1
+Character	æ	=> 6
+Character	è	=> 1
+Character	ë	=> 1
+Character	í	=> 2
+Character	ï	=> 8
+Character	ö	=> 3
+Character	β	=> 2
+Character	λ	=> 1
+Character	ο	=> 1
+Character	ς	=> 1
+Character	ό	=> 1
+Character	ل	=> 1
+Character	—	=> 5
+Character	―	=> 776
+Character	“	=> 49
+Character	”	=> 49
+Character	↓	=> 559
+Total:	1014488
+
