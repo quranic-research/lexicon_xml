@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 06_H0.xml:
-Character	HT	=> 4
-Character	NL	=> 29993
-Character	SP	=> 974523
+Character	HT	=> 306287
+Character	NL	=> 46661
+Character	SP	=> 344253
 Character	!	=> 45
 Character	"	=> 110292
 Character	#	=> 1
@@ -214,5 +214,6 @@ Character	”	=> 288
 Character	†	=> 3
 Character	‡	=> 1
 Character	↓	=> 2744
-Total:	3859990
+Character	＝	=> 917
+Total:	3553588
 

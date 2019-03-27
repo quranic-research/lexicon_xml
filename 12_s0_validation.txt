@@ -93,8 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 12_s0.xml:
-Character	NL	=> 26508
-Character	SP	=> 921349
+Character	HT	=> 278188
+Character	NL	=> 42668
+Character	SP	=> 358541
 Character	!	=> 26
 Character	"	=> 99758
 Character	$	=> 863
@@ -247,5 +248,6 @@ Character	―	=> 2710
 Character	“	=> 367
 Character	”	=> 367
 Character	↓	=> 2440
-Total:	3782221
+Character	＝	=> 796
+Total:	3514557
 

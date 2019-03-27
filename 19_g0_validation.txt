@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 19_g0.xml:
-Character	NL	=> 13840
-Character	SP	=> 464036
+Character	HT	=> 146145
+Character	NL	=> 22414
+Character	SP	=> 168792
 Character	!	=> 13
 Character	"	=> 49646
 Character	$	=> 892
@@ -216,5 +217,6 @@ Character	“	=> 138
 Character	”	=> 138
 Character	†	=> 1
 Character	↓	=> 1225
-Total:	1847645
+Character	＝	=> 488
+Total:	1707608
 

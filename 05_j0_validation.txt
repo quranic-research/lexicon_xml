@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 05_j0.xml:
-Character	HT	=> 4
-Character	NL	=> 19739
-Character	SP	=> 636156
+Character	HT	=> 201989
+Character	NL	=> 30885
+Character	SP	=> 219341
 Character	!	=> 25
 Character	"	=> 70391
 Character	#	=> 3
@@ -221,5 +221,6 @@ Character	’	=> 1
 Character	“	=> 170
 Character	”	=> 168
 Character	↓	=> 1775
-Total:	2479423
+Character	＝	=> 618
+Total:	2276357
 

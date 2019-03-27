@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 23_l0.xml:
-Character	NL	=> 7244
-Character	SP	=> 220139
+Character	HT	=> 74781
+Character	NL	=> 11587
+Character	SP	=> 66752
 Character	!	=> 12
 Character	"	=> 24328
 Character	#	=> 5
@@ -203,5 +204,6 @@ Character	―	=> 776
 Character	“	=> 49
 Character	”	=> 49
 Character	↓	=> 559
-Total:	814149
+Character	＝	=> 136
+Total:	740022
 

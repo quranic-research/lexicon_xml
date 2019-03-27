@@ -1,0 +1,40 @@
+GENERAL REGEX RULES:
+The following general rule apply for any RegEx markup
+	meta-characters:
+		\ marks that the next character is not to be interpreted as meta-character
+		--------grouping-----------------
+		( )	is used for grouping and stores a match, if it is not headed by '?:' and the like (see below)
+			the first match is stored in the variable $1
+			the second match in $2 etc.
+			these variables then can be used to insert the matched content in the statement for SReplaceWith
+			(?: ) is used for grouping without matching
+		[ ]	is used to group alternative letters, it only interprets '-' and '^' as metacharacters (see below)
+			[Ab]	means 'A' OR 'b' 
+			[A-Z]	means any character from 'A' to 'Z' (range)
+			[^Bd]	means any character EXCEPT 'B' or 'd' (complement)
+		|	is used for list separation (alternation)
+		/	is used as delimiter in search/replace functions in the form s/$SearchFor/SReplaceWith/g (see below)
+		--------wildcard characters-----------------
+		^ 	marks beginning of line, or is used to negate a list (see [ ] above)
+		.	any character within the line
+		$ 	marks end of line, or starts a scalar-variable
+		--------quantifiers-----------------
+		?	match 0 or 1 times
+		*	match 0 or more times
+		+	match 1 or more times
+		{ }	encolses the number of matches
+			{n}	match exactely n-times
+			{n,}	match at least n-times
+			{n,m}	match at leat n-times but not more than m-times
+		--------special modifiers-----------------
+		<	is used to mark lookbehinds
+		=	indicates positive statements (in lookaheads and lookbehinds)
+		!	indicates negative statements (in lookaheads and lookbehinds)
+	search/replace	s///g is the regex structure (s=search/replace, /$SearchFor/SReplaceWith/ , g=replace all) 
+			$SearchFor stands for the search text, which is entered in the 'search for' field of the editor
+			$ReplaceWith stands for the replacement text, which is entered in the 'replace with' field of the editor
+	For Lookaheads and LookBehinds the following syntax can be used
+		(?= )	Positive lookahed: means followed by (the condition to be added after the equal sign)
+		(?! )	Negative lookahed: means not followed by (the condition to be added after the equal sign)
+		(?<= )	Positive lookbehind: means preceeded by (the condition to be added after the equal sign)
+		(?<! )	Negative lookbehind:  means not preceeded by (the condition to be added after the equal sign)

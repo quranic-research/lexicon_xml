@@ -97,8 +97,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 11_z0.xml:
-Character	NL	=> 11374
-Character	SP	=> 369799
+Character	HT	=> 115811
+Character	NL	=> 17765
+Character	SP	=> 126463
 Character	!	=> 9
 Character	"	=> 39494
 Character	$	=> 315
@@ -242,5 +243,6 @@ Character	―	=> 1048
 Character	“	=> 134
 Character	”	=> 134
 Character	↓	=> 861
-Total:	1426920
+Character	＝	=> 276
+Total:	1306062
 

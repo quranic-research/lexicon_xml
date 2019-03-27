@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 23_l1.xml:
-Character	NL	=> 2566
-Character	SP	=> 67184
+Character	HT	=> 23036
+Character	NL	=> 3664
+Character	SP	=> 12940
 Character	!	=> 3
 Character	"	=> 7382
 Character	$	=> 80
@@ -189,5 +190,6 @@ Character	―	=> 226
 Character	“	=> 1
 Character	”	=> 1
 Character	↓	=> 25
-Total:	211668
+Character	＝	=> 3
+Total:	181561
 

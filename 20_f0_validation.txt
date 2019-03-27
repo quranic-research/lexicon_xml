@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 20_f0.xml:
-Character	NL	=> 20741
-Character	SP	=> 704003
+Character	HT	=> 214593
+Character	NL	=> 32983
+Character	SP	=> 263208
 Character	!	=> 15
 Character	"	=> 74252
 Character	$	=> 1369
@@ -233,5 +234,6 @@ Character	―	=> 1971
 Character	“	=> 252
 Character	”	=> 249
 Character	↓	=> 1708
-Total:	2808314
+Character	＝	=> 602
+Total:	2594956
 

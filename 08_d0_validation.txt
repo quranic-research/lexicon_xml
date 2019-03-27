@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 08_d0.xml:
-Character	NL	=> 16242
-Character	SP	=> 529720
+Character	HT	=> 162349
+Character	NL	=> 24882
+Character	SP	=> 186118
 Character	!	=> 39
 Character	"	=> 60232
 Character	$	=> 402
@@ -219,5 +220,6 @@ Character	―	=> 1385
 Character	“	=> 204
 Character	”	=> 203
 Character	↓	=> 1366
-Total:	2091636
+Character	＝	=> 378
+Total:	1919401
 

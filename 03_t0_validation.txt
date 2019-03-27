@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 03_t0.xml:
-Character	HT	=> 1
-Character	NL	=> 6340
-Character	SP	=> 195002
+Character	HT	=> 57419
+Character	NL	=> 8836
+Character	SP	=> 63594
 Character	!	=> 13
 Character	"	=> 22534
 Character	$	=> 147
@@ -215,5 +215,6 @@ Character	’	=> 1
 Character	“	=> 51
 Character	”	=> 51
 Character	↓	=> 394
-Total:	737448
+Character	＝	=> 104
+Total:	666058
 

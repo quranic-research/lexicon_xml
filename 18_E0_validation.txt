@@ -91,9 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 18_E0.xml:
-Character	HT	=> 5
-Character	NL	=> 34631
-Character	SP	=> 1229900
+Character	HT	=> 381398
+Character	NL	=> 58118
+Character	SP	=> 494518
 Character	!	=> 41
 Character	"	=> 131916
 Character	$	=> 2458
@@ -247,5 +247,6 @@ Character	―	=> 4082
 Character	“	=> 411
 Character	”	=> 410
 Character	↓	=> 3661
-Total:	5130242
+Character	＝	=> 1351
+Total:	4801091
 

@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 07_x0.xml:
-Character	NL	=> 21258
-Character	SP	=> 704342
+Character	HT	=> 220374
+Character	NL	=> 33629
+Character	SP	=> 256373
 Character	!	=> 22
 Character	"	=> 78058
 Character	$	=> 1411
@@ -215,5 +216,6 @@ Character	―	=> 2094
 Character	“	=> 189
 Character	”	=> 185
 Character	↓	=> 2130
-Total:	2826742
+Character	＝	=> 600
+Total:	2612118
 

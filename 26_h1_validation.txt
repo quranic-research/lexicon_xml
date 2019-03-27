@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 26_h1.xml:
-Character	NL	=> 1736
-Character	SP	=> 44011
+Character	HT	=> 14791
+Character	NL	=> 2387
+Character	SP	=> 7941
 Character	"	=> 4768
 Character	$	=> 65
 Character	&	=> 22
@@ -187,5 +188,6 @@ Character	―	=> 118
 Character	“	=> 5
 Character	”	=> 5
 Character	↓	=> 27
-Total:	134150
+Character	＝	=> 1
+Total:	113523
 

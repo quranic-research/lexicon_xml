@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 14_S0.xml:
-Character	NL	=> 15979
-Character	SP	=> 548271
+Character	HT	=> 168791
+Character	NL	=> 25924
+Character	SP	=> 209134
 Character	!	=> 10
 Character	"	=> 59712
 Character	#	=> 2
@@ -218,5 +219,6 @@ Character	―	=> 1602
 Character	“	=> 204
 Character	”	=> 204
 Character	↓	=> 1509
-Total:	2219078
+Character	＝	=> 539
+Total:	2059216
 
