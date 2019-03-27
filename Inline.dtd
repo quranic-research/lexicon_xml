@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % inline "choice|expan|corr|reg|ref|subst|del|add|anchor|foreign|hi|lb">
+
+<!-- choice (expansion and correction) -->
+<!ELEMENT choice ((abbr,expan)|(sic,corr)|(orig,reg))>
+<!ELEMENT abbr (#PCDATA|foreign|corr)*>
+<!ELEMENT expan (#PCDATA|%inline;)*>
+<!ATTLIST expan
+  resp (EWL|WHL|NUI) #REQUIRED
+>
+<!ELEMENT sic (#PCDATA|foreign)*>
+<!ELEMENT corr (#PCDATA|foreign)*>
+<!ATTLIST corr
+  resp (EWL|WHL|NUI) #REQUIRED
+>
+<!ELEMENT orig (#PCDATA|foreign)*>
+<!ELEMENT reg (#PCDATA|foreign)*>
+<!ATTLIST reg
+  resp (WHL|NUI) #REQUIRED
+>
+<!-- subst (deletion and addition) -->
+<!ELEMENT subst (del,add)>
+<!ELEMENT add (#PCDATA|%inline;)*>
+<!ATTLIST add
+  resp (EWL|WHL|NUI) #REQUIRED
+>
+<!ELEMENT del (#PCDATA|%inline;)*>
+<!ATTLIST del
+  resp (EWL|WHL|NUI) #REQUIRED
+>
+<!-- referencing -->
+<!ELEMENT ref (#PCDATA|%inline;)*>
+<!ATTLIST ref
+  target CDATA #REQUIRED
+>
+<!ELEMENT anchor (#PCDATA|%inline;)*>
+<!ATTLIST anchor
+  type (arrow) #REQUIRED
+>  
+<!-- others -->
+<!ELEMENT foreign (#PCDATA|hi)*>
+<!ATTLIST foreign
+  lang (ar|fa|gr|la|fr|he|syc) #REQUIRED
+>
+<!ELEMENT hi (#PCDATA|%inline;)*>
+<!-- attribute rend="ital" was removed as rendition is now defined in the teiHeader (under encodingDesc) -->
+<!ELEMENT lb EMPTY>
