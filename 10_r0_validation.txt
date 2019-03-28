@@ -94,8 +94,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 10_r0.xml:
-Character	NL	=> 28087
-Character	SP	=> 964300
+Character	HT	=> 292848
+Character	NL	=> 44820
+Character	SP	=> 368698
 Character	!	=> 15
 Character	"	=> 103089
 Character	$	=> 1571
@@ -214,5 +215,6 @@ Character	―	=> 2734
 Character	“	=> 309
 Character	”	=> 306
 Character	↓	=> 2645
-Total:	3927925
+Character	＝	=> 826
+Total:	3642730
 

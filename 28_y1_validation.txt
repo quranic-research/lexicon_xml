@@ -89,8 +89,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 28_y1.xml:
-Character	NL	=> 497
-Character	SP	=> 12314
+Character	HT	=> 4312
+Character	NL	=> 712
+Character	SP	=> 2105
 Character	!	=> 1
 Character	"	=> 1346
 Character	$	=> 23
@@ -184,5 +185,5 @@ Character	―	=> 48
 Character	“	=> 3
 Character	”	=> 3
 Character	↓	=> 9
-Total:	37964
+Total:	32282
 

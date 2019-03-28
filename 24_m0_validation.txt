@@ -93,8 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 24_m0.xml:
-Character	NL	=> 9136
-Character	SP	=> 265750
+Character	HT	=> 95938
+Character	NL	=> 14819
+Character	SP	=> 92827
 Character	!	=> 22
 Character	"	=> 31142
 Character	#	=> 2
@@ -208,5 +209,6 @@ Character	―	=> 1054
 Character	“	=> 53
 Character	”	=> 54
 Character	↓	=> 708
-Total:	1071068
+Character	＝	=> 143
+Total:	999909
 

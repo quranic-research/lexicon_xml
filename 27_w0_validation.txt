@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 27_w0.xml:
-Character	HT	=> 2
-Character	NL	=> 8382
-Character	SP	=> 268931
+Character	HT	=> 88505
+Character	NL	=> 13684
+Character	SP	=> 88977
 Character	!	=> 30
 Character	"	=> 29288
 Character	#	=> 6
@@ -211,5 +211,6 @@ Character	―	=> 1040
 Character	“	=> 56
 Character	”	=> 55
 Character	↓	=> 629
-Total:	1034091
+Character	＝	=> 129
+Total:	948071
 

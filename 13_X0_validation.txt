@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 13_X0.xml:
-Character	HT	=> 6
-Character	NL	=> 19507
-Character	SP	=> 668807
+Character	HT	=> 206214
+Character	NL	=> 31637
+Character	SP	=> 254087
 Character	!	=> 39
 Character	"	=> 71550
 Character	#	=> 13
@@ -215,5 +215,6 @@ Character	―	=> 2014
 Character	“	=> 292
 Character	”	=> 291
 Character	↓	=> 1768
-Total:	2710336
+Character	＝	=> 612
+Total:	2514566
 

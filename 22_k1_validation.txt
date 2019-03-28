@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 22_k1.xml:
-Character	NL	=> 2085
-Character	SP	=> 53080
+Character	HT	=> 17986
+Character	NL	=> 2876
+Character	SP	=> 9397
 Character	!	=> 3
 Character	"	=> 5826
 Character	$	=> 95
@@ -201,5 +202,5 @@ Character	―	=> 142
 Character	“	=> 3
 Character	”	=> 3
 Character	↓	=> 20
-Total:	161920
+Total:	137014
 

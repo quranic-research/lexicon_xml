@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 17_Z0.xml:
-Character	NL	=> 2614
-Character	SP	=> 94762
+Character	HT	=> 26784
+Character	NL	=> 4104
+Character	SP	=> 40275
 Character	!	=> 2
 Character	"	=> 10012
 Character	$	=> 92
@@ -200,5 +201,6 @@ Character	―	=> 253
 Character	“	=> 38
 Character	”	=> 37
 Character	↓	=> 238
-Total:	402220
+Character	＝	=> 82
+Total:	376089
 

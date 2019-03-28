@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 28_y0.xml:
-Character	NL	=> 995
-Character	SP	=> 30556
+Character	HT	=> 8917
+Character	NL	=> 1409
+Character	SP	=> 11106
 Character	!	=> 5
 Character	"	=> 3472
 Character	$	=> 30
@@ -187,5 +188,6 @@ Character	―	=> 49
 Character	“	=> 2
 Character	”	=> 2
 Character	↓	=> 114
-Total:	123790
+Character	＝	=> 34
+Total:	113705
 

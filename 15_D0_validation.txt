@@ -92,9 +92,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 15_D0.xml:
-Character	HT	=> 1
-Character	NL	=> 7747
-Character	SP	=> 264234
+Character	HT	=> 80654
+Character	NL	=> 12426
+Character	SP	=> 99228
 Character	!	=> 9
 Character	"	=> 28580
 Character	$	=> 271
@@ -201,5 +201,6 @@ Character	―	=> 799
 Character	“	=> 76
 Character	”	=> 74
 Character	↓	=> 642
-Total:	1067172
+Character	＝	=> 185
+Total:	987683
 

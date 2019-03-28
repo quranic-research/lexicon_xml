@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 02_b0.xml:
-Character	HT	=> 1
-Character	NL	=> 21778
-Character	SP	=> 721973
+Character	HT	=> 212771
+Character	NL	=> 32434
+Character	SP	=> 266309
 Character	!	=> 99
 Character	"	=> 80976
 Character	$	=> 1109
@@ -256,5 +256,6 @@ Character	’	=> 4
 Character	“	=> 269
 Character	”	=> 262
 Character	↓	=> 1839
-Total:	2907244
+Character	＝	=> 460
+Total:	2675466
 

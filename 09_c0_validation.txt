@@ -92,8 +92,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 09_c0.xml:
-Character	NL	=> 5852
-Character	SP	=> 201564
+Character	HT	=> 61508
+Character	NL	=> 9468
+Character	SP	=> 77708
 Character	!	=> 6
 Character	"	=> 21884
 Character	#	=> 4
@@ -205,5 +206,6 @@ Character	―	=> 618
 Character	“	=> 55
 Character	”	=> 55
 Character	↓	=> 545
-Total:	824391
+Character	＝	=> 166
+Total:	765825
 

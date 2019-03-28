@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 25_n0.xml:
-Character	HT	=> 12
-Character	NL	=> 16696
-Character	SP	=> 541558
+Character	HT	=> 179881
+Character	NL	=> 27575
+Character	SP	=> 185049
 Character	!	=> 31
 Character	"	=> 58108
 Character	#	=> 2
@@ -236,5 +236,6 @@ Character	”	=> 127
 Character	†	=> 1
 Character	‡	=> 1
 Character	↓	=> 1391
-Total:	2106375
+Character	＝	=> 404
+Total:	1941018
 

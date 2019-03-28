@@ -94,8 +94,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 21_q0.xml:
-Character	NL	=> 14017
-Character	SP	=> 464254
+Character	HT	=> 145913
+Character	NL	=> 22427
+Character	SP	=> 171345
 Character	!	=> 10
 Character	"	=> 50940
 Character	$	=> 750
@@ -223,5 +224,6 @@ Character	―	=> 1305
 Character	“	=> 93
 Character	”	=> 93
 Character	↓	=> 1436
-Total:	1855627
+Character	＝	=> 466
+Total:	1717507
 

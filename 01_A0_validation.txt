@@ -94,9 +94,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 01_A0.xml:
-Character	HT	=> 4
-Character	NL	=> 16793
-Character	SP	=> 598256
+Character	HT	=> 165724
+Character	NL	=> 25421
+Character	SP	=> 247330
 Character	!	=> 112
 Character	"	=> 67663
 Character	$	=> 822
@@ -246,5 +246,6 @@ Character	’	=> 4
 Character	“	=> 200
 Character	”	=> 186
 Character	↓	=> 1521
-Total:	2546696
+Character	＝	=> 407
+Total:	2370525
 

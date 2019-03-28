@@ -91,8 +91,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 16_T0.xml:
-Character	NL	=> 11054
-Character	SP	=> 383443
+Character	HT	=> 117889
+Character	NL	=> 18099
+Character	SP	=> 146826
 Character	!	=> 14
 Character	"	=> 41890
 Character	$	=> 493
@@ -220,5 +221,6 @@ Character	―	=> 1245
 Character	“	=> 106
 Character	”	=> 106
 Character	↓	=> 929
-Total:	1572625
+Character	＝	=> 305
+Total:	1461247
 
