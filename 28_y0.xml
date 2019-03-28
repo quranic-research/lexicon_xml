@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI>
 	<teiHeader type="text" status="new">
 		<fileDesc>
 			<titleStmt>
@@ -31,7 +31,6 @@
 			<sourceDesc>
 				<listBibl>
 					<biblStruct>
-						<analytic/>
 						<monogr>
 							<title>An Arabic-English Lexicon</title>
 							<imprint>
@@ -65,17 +64,16 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 n="Y" type="alphabetical letter">
-					<head lang="ar">Y
-					</head>
-				<div2 type="root" n="Y">
-					<entryFree id="n42419" key="Y" type="main">
+			<div1 type="alphabetical letter" n="Y">
+				<head><foreign lang="ar">Y</foreign></head>
+				<superEntry type="root" n="Y">
+					<entry type="main" id="n42419" key="Y">
 						<form>
-							<itype>alphabetical letter</itype>
+							<iType>alphabetical letter</iType>
 							<orth extent="full" lang="ar">Y</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								 The twenty-eighth letter of the alphabet: called <foreign lang="ar">yaA='N</foreign>. It is one of the letters termed <hi>soft,</hi> or <hi>weak,</hi> and is a letter of prolongation and of augmentation. As a numeral it signifies <hi>Ten.</hi>
+								The twenty-eighth letter of the alphabet: called <foreign lang="ar">yaA='N</foreign>. It is one of the letters termed <hi>soft,</hi> or <hi>weak,</hi> and is a letter of prolongation and of augmentation. As a numeral it signifies <hi>Ten.</hi>
 						＝
 						-A2-
 								<foreign lang="ar">Y</foreign> for <foreign lang="ar">yA</foreign> frequently occurs in the phrase <foreign lang="ar">yarasuwla A@ll~`hi</foreign>, and in <foreign lang="ar">yaA^ay~uhaA</foreign>.
@@ -97,15 +95,15 @@
 						―
 						-b3-
 								<foreign lang="ar">yaAyaA</foreign> and <foreign lang="ar">yaAyaho</foreign>, see art. <foreign lang="ar">A^ayaA</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="yA^" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yA^">
 					<head>
 								<foreign lang="ar">yA^</foreign>
 					</head>
-					<entryFree id="n42420" key="yaA^oyaA^ahu" type="main">
+					<entry type="main" id="n42420" key="yaA^oyaA^ahu">
 						<form type="R Q">
-							<itype>R. Q. 1</itype>
+							<iType>R. Q. 1</iType>
 							<orth orig="" extent="full" lang="ar">yaA^oyaA^ahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -123,8 +121,8 @@
 								<foreign lang="ar">yaA^oyaA^a biAlA_ibili</foreign> 
 								<hi>He called to the camels by the cry</hi> 
 								<foreign lang="ar">A^aYo</foreign>, (whence the verb is formed by transposition, TA,) <hi>to quiet them.</hi> (K.)
-					</entryFree>
-					<entryFree id="n42421" key="yaA^oyaA='N" type="main">
+					</entry>
+					<entry type="main" id="n42421" key="yaA^oyaA='N">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaA^oyaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -137,8 +135,8 @@
 						―
 						-b3-
 							See art. <foreign lang="ar">A^ayaA</foreign>.
-					</entryFree>
-					<entryFree id="n42422" key="yuw^oyuw^N" type="main">
+					</entry>
+					<entry type="main" id="n42422" key="yuw^oyuw^N">
 						<form>
 							<orth orig="" extent="full" lang="ar">yuw^oyuw^N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -150,25 +148,25 @@
 						-b2-
 							Also, accord. to AA, The <hi>head,</hi> or <hi>uppermost part, of a vessel in which</hi> 
 								<foreign lang="ar">kuHol</foreign> (<hi>collyrium</hi>) <hi>is kept:</hi> mentioned before as called <foreign lang="ar">buw^obuw^N</foreign>, which is perhaps a mistake for <foreign lang="ar">yw^yw^</foreign>. (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="yA^s" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yA^s">
 					<head>
 								<foreign lang="ar">yA^s</foreign>
 					</head>
-					<entryFree id="n42423" key="yay^isa" type="main">
+					<entry type="main" id="n42423" key="yay^isa">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">yay^isa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, (S, M, A, Msb, K,) <foreign lang="ar">mina Al$~aYo'i</foreign>, (S, A *, Msb,) aor. <foreign lang="ar">yayoy^asu</foreign> and <foreign lang="ar">yayoy^isu</foreign>, (S, M, Msb, K,) the latter of which is extr., (Sb, S, M, K,) like <foreign lang="ar">yaHosibu</foreign>, aor. of <foreign lang="ar">Hasiba</foreign>, and <foreign lang="ar">yanoEimu</foreign>, aor. of <foreign lang="ar">naEima</foreign>, (As, S, TA,) and is of the dial. of the higher classes of Mudar, as are also the similar instances, but the former is of the dial. of the lower classes of the Mudar; (AZ, S, Msb, TA;) or, as Sb says, accord. to his companions, the verb was originally of two forms, <foreign lang="ar">yay^isa</foreign>, aor. <foreign lang="ar">yayoy^asu</foreign>, and <foreign lang="ar">yaA^asa</foreign>, aor. <foreign lang="ar">yayoy^isu</foreign>, and a compound [which is <foreign lang="ar">yay^isa</foreign> having <foreign lang="ar">yayoy^isu</foreign> for its aor.] was then formed from the two; but as to <foreign lang="ar">wamiqa</foreign>, aor. <foreign lang="ar">yamiqu</foreign>, and <foreign lang="ar">wafiqa</foreign>, aor. <foreign lang="ar">yafiqu</foreign>, and <foreign lang="ar">warima</foreign>. aor. <foreign lang="ar">yarimu</foreign>, and <foreign lang="ar">waliYa</foreign>, aor. <foreign lang="ar">yaliY</foreign>, and <foreign lang="ar">waviqa</foreign>, aor. <foreign lang="ar">yaviqu</foreign>, and <foreign lang="ar">wariva</foreign>, aor. <foreign lang="ar">yarivu</foreign>, in each of these only one form is allowable, with the kesr; (S, TA;) and some change the second <foreign lang="ar">Y</foreign> of the aor. of <foreign lang="ar">yay^isa</foreign> into <foreign lang="ar">A</foreign>, and say <foreign lang="ar">yaAyasu</foreign> and <foreign lang="ar">yaA='asu</foreign>; (Mbr, S, TA;) and I'Ab reads, in the Kur. xii. 87, <foreign lang="ar">yiyy^asu</foreign>, after the manner of the dial. of those who pronounce the first letter of the aor. with kesr excepting such as is with <foreign lang="ar">Y</foreign> [for its first letter], (K, TA,) which dial, is that of Temeem and Keys and Hudheyl and Asad; (Ks, Lh, TA;) the case of <foreign lang="ar">Y</foreign> being made an exception by them because kesr with that letter is difficult of pronunciation; (Sb, TA;) but some of the Benoo-Kelb pronounce <foreign lang="ar">Y</foreign> also with kesr, which is extr.; (Fr, Lb, TA:) and this is done in the instances of <foreign lang="ar">yiyy^asu</foreign> and <foreign lang="ar">yiyjalu</foreign> because one <foreign lang="ar">Y</foreign> is here strengthened by another; (K, TA;) [I find also, in a copy of the M, <foreign lang="ar">yay^iysu</foreign>, as an extr. form of the aor. of this verb, on the authority of Sb; but it is doubtless a mistranscription for <foreign lang="ar">yiyy^asu</foreign>; and there is another evident mistranscription in a quotation from Sb immediately following in that copy, relating to aors. of the form of <foreign lang="ar">yiyy^asu</foreign>, which has been rendered correctly above, in the present work, from the TA;] inf. n. <foreign lang="ar">yaA^osN</foreign> (S, M, A, Msb, K) and <foreign lang="ar">yaA^asN</foreign>, (TA,) or <foreign lang="ar">yaA=sN</foreign>, (as in a copy of the M,) and <foreign lang="ar">yaA=sapN</foreign>; (Ibn-'Abbád, M, K, TA [but in a MS. copy of the K I find it written <foreign lang="ar">yaA^asapN</foreign>; and in the CK, <foreign lang="ar">yaA^osap</foreign>;]) and <foreign lang="ar">A_iyaAsN</foreign> is also used as an inf. n. of this verb, though properly an inf. n. of 4; (Msb;) <hi>He despaired of the thing;</hi> syn. of the inf. n. <foreign lang="ar">qunuwT</foreign>, (S, A, K,) contr. of <foreign lang="ar">rajaA='N</foreign>: (M, A, K:) or <hi>he cut off hope of the thing:</hi> (A, K: *) or <hi>his hope of the thing became cut off:</hi> (Mgh:) and 
-							↓<orth type="arrow" lang="ar">A_isotayoy^asa</orth> signifies the same, (S, A, K,) in like manner followed by <foreign lang="ar">mano</foreign>; (S;) and so does 
-							↓<orth type="arrow" lang="ar">A_it~aA^asa</orth>, (S, K,) [originally <foreign lang="ar">A_iytaA^asa</foreign>,] of the measure <foreign lang="ar">A_ifotaEala</foreign>, but with incorporation [of the <foreign lang="ar">Y</foreign> into the <foreign lang="ar">t</foreign>]. (S.) It is allowable to transpose the letters of <foreign lang="ar">yay^isa</foreign>, so as to say <foreign lang="ar">A^ayisa</foreign>; but not those of the inf. n. (Msb.) There is not a word in the Arabic language commencing with <foreign lang="ar">Y</foreign> followed by <foreign lang="ar">'</foreign> except <foreign lang="ar">yay^isa</foreign> [and its derivatives] (IKtt) [and <foreign lang="ar">yaA^ayaA^a</foreign> and its derivatives, and words commencing with an augmentative <foreign lang="ar">Y</foreign> followed by a radical
+							<anchor type="arrow"><foreign lang="ar">A_isotayoy^asa↓</foreign></anchor> signifies the same, (S, A, K,) in like manner followed by <foreign lang="ar">mano</foreign>; (S;) and so does 
+							<anchor type="arrow"><foreign lang="ar">A_it~aA^asa↓</foreign></anchor>, (S, K,) [originally <foreign lang="ar">A_iytaA^asa</foreign>,] of the measure <foreign lang="ar">A_ifotaEala</foreign>, but with incorporation [of the <foreign lang="ar">Y</foreign> into the <foreign lang="ar">t</foreign>]. (S.) It is allowable to transpose the letters of <foreign lang="ar">yay^isa</foreign>, so as to say <foreign lang="ar">A^ayisa</foreign>; but not those of the inf. n. (Msb.) There is not a word in the Arabic language commencing with <foreign lang="ar">Y</foreign> followed by <foreign lang="ar">'</foreign> except <foreign lang="ar">yay^isa</foreign> [and its derivatives] (IKtt) [and <foreign lang="ar">yaA^ayaA^a</foreign> and its derivatives, and words commencing with an augmentative <foreign lang="ar">Y</foreign> followed by a radical
 						<form n="infl">
 							<orth orig="Bu" lang="ar">yaAu^a</orth>
 						</form>
-								] . The expression <foreign lang="ar">laA yaA^osa mino TuwlK</foreign>. occurring in a description of Mohammad, means that his stature was such as would not make [one] to despair of his height; for he was nearer to tallness than he was to shortness: (K, * TA:) <foreign lang="ar">yA^s</foreign> is here an indeterminate noun governed in
+								]. The expression <foreign lang="ar">laA yaA^osa mino TuwlK</foreign>. occurring in a description of Mohammad, means that his stature was such as would not make [one] to despair of his height; for he was nearer to tallness than he was to shortness: (K, * TA:) <foreign lang="ar">yA^s</foreign> is here an indeterminate noun governed in
 						<pb n="2974"/> the accus. case by the negative <foreign lang="ar">lA</foreign>: (TA:) or, accord. to one relation, the words are, <foreign lang="ar">laA yaAy^isa</foreign> 
 								<foreign lang="ar">mino TuwlK</foreign>, [in the CK, erroneously, <foreign lang="ar">lA yAyasu</foreign>,] meaning, that his height was not despaired of; i. e., he who vied with him in tallness would not despair of him on account of his excessive height: (K, TA:) so that <foreign lang="ar">yaAy^is</foreign> is here in the sense of <foreign lang="ar">mayow^uws</foreign>, like <foreign lang="ar">maA='N daAfiqN</foreign> in the sense of <foreign lang="ar">madofuwqN</foreign>. (TA.)
 						―
@@ -177,101 +175,103 @@
 								<hi>The woman was,</hi> or <hi>became, barren.</hi> (Msb.)
 						―
 						-b3-
-								<foreign lang="ar">yay^isa</foreign>, (S, M, A, Msb, K,) aor. <foreign lang="ar">yayoy^asu</foreign> and <foreign lang="ar">yayoy^isu</foreign>, (M,) also signifies (tropical:)  <hi>He knew;</hi> syn. <foreign lang="ar">Ealima</foreign>; (S, M, A, Msb, K;) in the dial. of En-Nakha'; (S, Msb;) or, accord. to El-Kelbee, (M,) or Ibn-El-Kelbee, (TA,) in the dial. of Wahbeel, a tribe of En-Nakha'; or, accord. to El-Kásim Ibn-Maan, of the dial. of Hawázin. (M, TA.) So in the Kur. [xiii. 30] <foreign lang="ar">A^afalamo yayoy^asi A@l~a*iyna A=manuwA</foreign> [<hi>Do not then those who have believed know?</hi>]: (S, M, Msb, K:) or, accord. to some of the lexicologists, <hi>do not then those who have believed know with a knowledge wherewith they despair of its being otherwise than what they know?</hi> or the meaning is, <hi>do not then those who have believed despair</hi> of the belief of those whom God has described as those who will not believe? (M, TA;) but I' Ab (M, TA) and 'Alee and others (TA) used to read <foreign lang="ar">A^afalamo yatabay~ani A@l~a*iyna A=manuwA</foreign>; and I'Ab said that he thought that the writer had written <foreign lang="ar">yayoy^as</foreign> in a state of drowsiness. (M *, TA.) Soheym Ibn-Wetheel El-Yarboo'ee also uses the verb in this sense, in a verse cited in art. <foreign lang="ar">ysr</foreign>, voce <foreign lang="ar">yasara</foreign>, q. v. (S, M *). [Z-says,] You say, <foreign lang="ar">qado yay^isotu A^an~aka rajulu SidoqK</foreign>, meaning, (tropical:)  <hi>I have known</hi> [<hi>that thou art a good man</hi>], because with eager desire is restlessness, and with the cessation thereof is quiet and tranquility; wherefore it is said, <foreign lang="ar">AlyaA^osu A^aHadu Alr~aAHatayoni</foreign> [<hi>Despair is one of the two states of rest.</hi>] (A, TA.)
-					</entryFree>
-					<entryFree id="n42424" key="A^ayoA^asahu" type="main">
+								<foreign lang="ar">yay^isa</foreign>, (S, M, A, Msb, K,) aor. <foreign lang="ar">yayoy^asu</foreign> and <foreign lang="ar">yayoy^isu</foreign>, (M,) also signifies (tropical:) 
+								<hi>He knew;</hi> syn. <foreign lang="ar">Ealima</foreign>; (S, M, A, Msb, K;) in the dial. of En-Nakha'; (S, Msb;) or, accord. to El-Kelbee, (M,) or Ibn-El-Kelbee, (TA,) in the dial. of Wahbeel, a tribe of En-Nakha'; or, accord. to El-Kásim Ibn-Maan, of the dial. of Hawázin. (M, TA.) So in the Kur. [xiii. 30] <foreign lang="ar">A^afalamo yayoy^asi A@l~a*iyna A=manuwA</foreign> [<hi>Do not then those who have believed know?</hi>]: (S, M, Msb, K:) or, accord. to some of the lexicologists, <hi>do not then those who have believed know with a knowledge wherewith they despair of its being otherwise than what they know?</hi> or the meaning is, <hi>do not then those who have believed despair</hi> of the belief of those whom God has described as those who will not believe? (M, TA;) but I' Ab (M, TA) and 'Alee and others (TA) used to read <foreign lang="ar">A^afalamo yatabay~ani A@l~a*iyna A=manuwA</foreign>; and I'Ab said that he thought that the writer had written <foreign lang="ar">yayoy^as</foreign> in a state of drowsiness. (M *, TA.) Soheym Ibn-Wetheel El-Yarboo'ee also uses the verb in this sense, in a verse cited in art. <foreign lang="ar">ysr</foreign>, voce <foreign lang="ar">yasara</foreign>, q. v. (S, M *). [Z-says,] You say, <foreign lang="ar">qado yay^isotu A^an~aka rajulu SidoqK</foreign>, meaning, (tropical:) 
+								<hi>I have known</hi> [<hi>that thou art a good man</hi>], because with eager desire is restlessness, and with the cessation thereof is quiet and tranquility; wherefore it is said, <foreign lang="ar">AlyaA^osu A^aHadu Alr~aAHatayoni</foreign> [<hi>Despair is one of the two states of rest.</hi>] (A, TA.)
+					</entry>
+					<entry type="main" id="n42424" key="A^ayoA^asahu">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^ayoA^asahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, (S, M, A, Mgh, K,) inf. n. <foreign lang="ar">A_iyaAsN</foreign>, (L, Mgh, Msb,) of the same measure as <foreign lang="ar">kitaAbN</foreign>, (Msb,) originally <foreign lang="ar">A_iyoA=sN</foreign>, (L, Msb,) like <foreign lang="ar">A_iyoEaAsN</foreign>, (L,) and <foreign lang="ar">A_iyomaAnN</foreign>, (Msb,) <hi>He made him to despair:</hi> (S, M, A, K:) or <hi>to cut off hope:</hi> (A:) or <hi>to cease to have hope:</hi> (Mgh:) <foreign lang="ar">mano ka*aA</foreign> of such a thing: (S:) as also 
-							↓<orth type="arrow" lang="ar">A=yasahu</orth> [from <foreign lang="ar">A^ayisa</foreign>]. (Mgh, K.)
+							<anchor type="arrow"><foreign lang="ar">A=yasahu↓</foreign></anchor> [from <foreign lang="ar">A^ayisa</foreign>]. (Mgh, K.)
 						―
 						-b2-
 								[Hence,] <foreign lang="ar">A^ayoA^usahaA A@ll~`hu</foreign> 
 								<hi>God made her to be,</hi> or <hi>become, barren.</hi> (Msb.)
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth lang="ar">A_iyotaAa^a</orth>
 						</form>
 								see 1.
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth lang="ar">A_isotayoAa^a</orth>
 						</form>
 								see 1.
-					</entryFree>
-					<entryFree id="n42425" key="yaA^asN" type="main">
+					</entry>
+					<entry type="main" id="n42425" key="yaA^asN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaA^asN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Phthisis,</hi> or <hi>consumption;</hi> syn. <foreign lang="ar">sil~N</foreign>; (M, K;) because he who is affected by it is despaired of; (M;) or [because] the first who was affected by it was <foreign lang="ar">AlyaA^asu</foreign>, (K, TA,) or <foreign lang="ar">A_iloyaAs</foreign>, (TA,) the son of Mudar the son of Nizár: (K, TA:) or, as Suh says, in the R, this disease was called <foreign lang="ar">daA='u yaAs</foreign>, or <foreign lang="ar">daA='u A_iloyaAsa</foreign>, because <foreign lang="ar">AlyAs</foreign> the son of Mudar died of it. (TA.)
-					</entryFree>
-					<entryFree id="n42426" key="yaw^usN" type="main">
+					</entry>
+					<entry type="main" id="n42426" key="yaw^usN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaw^usN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaAy^isN</foreign>.
-					</entryFree>
-					<entryFree id="n42427" key="yaw^uwsN" type="main">
+					</entry>
+					<entry type="main" id="n42427" key="yaw^uwsN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaw^uwsN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaAy^isN</foreign>.
-					</entryFree>
-					<entryFree id="n42428" key="yay^iysN" type="main">
+					</entry>
+					<entry type="main" id="n42428" key="yay^iysN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yay^iysN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaAy^isN</foreign>.
-					</entryFree>
-					<entryFree id="n42429" key="yaAy^isN" type="main">
+					</entry>
+					<entry type="main" id="n42429" key="yaAy^isN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaAy^isN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(M, Mgh, Msb) and 
-							↓<orth type="arrow" lang="ar">yay^iys</orth> (M) and 
-							↓<orth type="arrow" lang="ar">yaw^uwsN</orth> (S, M, A, K) and 
-							↓<orth type="arrow" lang="ar">yaw^usN</orth> (M, K) <hi>Despairing:</hi> (S, M, A, Mgh, K:) but the third has an intensive signification, (Bd, xli. 49,) [and so the last.]
-					</entryFree>
-					<entryFree id="n42430" key="yaAy^isapN" type="main">
+							<anchor type="arrow"><foreign lang="ar">yay^iys↓</foreign></anchor> (M) and 
+							<anchor type="arrow"><foreign lang="ar">yaw^uwsN↓</foreign></anchor> (S, M, A, K) and 
+							<anchor type="arrow"><foreign lang="ar">yaw^usN↓</foreign></anchor> (M, K) <hi>Despairing:</hi> (S, M, A, Mgh, K:) but the third has an intensive signification, (Bd, xli. 49,) [and so the last.]
+					</entry>
+					<entry type="main" id="n42430" key="yaAy^isapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaAy^isapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, A <hi>barren</hi> woman. (Msb.)
-					</entryFree>
-					<entryFree id="n42431" key="mayow^uwsN minohu" type="main">
+					</entry>
+					<entry type="main" id="n42431" key="mayow^uwsN minohu">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayow^uwsN minohu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Despaired of.</hi> (M, Mgh, Msb. *)
-					</entryFree>
-				</div2>
-				<div2 n="yb" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yb">
 					<head>
 								<foreign lang="ar">yb</foreign>
 					</head>
-					<entryFree id="n42432" key="xar~abuwhu wyab~abuwhu" type="main">
+					<entry type="main" id="n42432" key="xar~abuwhu wyab~abuwhu">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">xar~abuwhu wyab~abuwhu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>They rendered it waste, and made it desolate:</hi> see <foreign lang="ar">yabaAbN</foreign>]. (A.)
-					</entryFree>
-					<entryFree id="n42433" key="yabaAbN" type="main">
+					</entry>
+					<entry type="main" id="n42433" key="yabaAbN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yabaAbN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -284,57 +284,63 @@
 								<hi>A tank,</hi> or <hi>cistern, that is empty; containing no water.</hi> (A.) <foreign lang="ar">A^amosaY mina</foreign> 
 								<foreign lang="ar">AlA^aniysi ybAbFA</foreign> 
 								<hi>It became devoid of inhabitants:</hi> occurring in a verse of Ibn-Abee-Rabee'ah. (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="ybs" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ybs">
 					<head>
 								<foreign lang="ar">ybs</foreign>
 					</head>
-					<entryFree id="n42434" key="yabisa" type="main">
+					<entry type="main" id="n42434" key="yabisa">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">yabisa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, aor. <foreign lang="ar">yayobasu</foreign> (S, M, A, Msb, K) and <foreign lang="ar">yaAbasu</foreign> (K) and <foreign lang="ar">yayobisu</foreign>, (S, M, Msb, K,) which latter is extr., (S, M, K,) so that it is like <foreign lang="ar">yay^isa</foreign>, (TA,) inf. n. <foreign lang="ar">yubosN</foreign> (S, M, Msb *) and <foreign lang="ar">yabasN</foreign> (M, Msb, * TA) and <foreign lang="ar">yabosN</foreign> (M) and <foreign lang="ar">yubuwsapN</foreign>, (K [but not there said to be an inf. n., being only mentioned there in an explanation of the word <foreign lang="ar">yabasN</foreign>, and accord. to general rule it would be an inf. n. of <foreign lang="ar">yabusa</foreign>, which is probably an obsolete form,]) <hi>It was,</hi> or <hi>became, dry;</hi> or <hi>it dried,</hi> or <hi>dried up; after having been moist, humid, succulent,</hi> or <hi>the like:</hi> (A, Msb, K:) or, [rather,] <hi>it was,</hi> or <hi>became, dry;</hi> or <hi>it dried,</hi> or <hi>dried up:</hi> and also, [but perhaps tropically,] <hi>it was,</hi> or <hi>became, stiff, rigid, tough, firm, resisting pressure,</hi> or <hi>hard:</hi> [<hi>contr. of</hi> 
 								<foreign lang="ar">raTuba</foreign>:] <foreign lang="ar">yubosN</foreign> signifying the <hi>contr. of</hi> 
 								<foreign lang="ar">ruTuwbapN</foreign>: (M:) <foreign lang="ar">yubuwsapN</foreign> is <hi>a quality which necessarily implies difficulty of assuming form and of becoming separated and of becoming united:</hi> (KT:) and 
-							↓<orth type="arrow" lang="ar">Ait~abasa</orth>, (S, M, K,) of the measure <foreign lang="ar">AifotaEala</foreign>, (S,) the <foreign lang="ar">Y</foreign> being changed into <foreign lang="ar">t</foreign>, (M,) as well as [its original form] <foreign lang="ar">Aiytabasa</foreign>, (TA [there written <foreign lang="ar">Atabasa</foreign> because it has the conjunction <foreign lang="ar">wa</foreign> prefixed to it]) aor. [of the former] <foreign lang="ar">yat~abisu</foreign> and [of the latter] <foreign lang="ar">yaAtabisu</foreign>, (M,) signifies the same as <foreign lang="ar">yabisa</foreign>: (M, K:) or is quasipass. of 
-							↓<orth type="arrow" lang="ar">yab~asahu</orth> [and therefore signifies <hi>it became dried,</hi> or <hi>dried up;</hi> &amp;c.]; (Ibn-Es-Sarráj, S;) [as also 
-							↓<orth type="arrow" lang="ar">tyb~s</orth>, occurring in the TA, art. <foreign lang="ar">Eks</foreign>.] You say, <foreign lang="ar">yabisa Aln~abaAtu</foreign> [<hi>The plant,</hi> or <hi>herbage, became dry;</hi> &amp;c.] (S, K.) And <foreign lang="ar">yabisati AlA^aroDu</foreign> 
+							<anchor type="arrow"><foreign lang="ar">Ait~abasa↓</foreign></anchor>, (S, M, K,) of the measure <foreign lang="ar">AifotaEala</foreign>, (S,) the <foreign lang="ar">Y</foreign> being changed into <foreign lang="ar">t</foreign>, (M,) as well as [its original form] <foreign lang="ar">Aiytabasa</foreign>, (TA [there written <foreign lang="ar">Atabasa</foreign> because it has the conjunction <foreign lang="ar">wa</foreign> prefixed to it]) aor. [of the former] <foreign lang="ar">yat~abisu</foreign> and [of the latter] <foreign lang="ar">yaAtabisu</foreign>, (M,) signifies the same as <foreign lang="ar">yabisa</foreign>: (M, K:) or is quasipass. of 
+							<anchor type="arrow"><foreign lang="ar">yab~asahu↓</foreign></anchor> [and therefore signifies <hi>it became dried,</hi> or <hi>dried up;</hi> &amp;c.]; (Ibn-Es-Sarráj, S;) [as also 
+							<anchor type="arrow"><foreign lang="ar">tyb~s↓</foreign></anchor>, occurring in the TA, art. <foreign lang="ar">Eks</foreign>.] You say, <foreign lang="ar">yabisa Aln~abaAtu</foreign> [<hi>The plant,</hi> or <hi>herbage, became dry;</hi> &amp;c.] (S, K.) And <foreign lang="ar">yabisati AlA^aroDu</foreign> 
 								<hi>The land lost its water and moisture; its water and moisture went away.</hi> (M.)
 						―
 						-b2-
-								[Hence, <foreign lang="ar">yabisato TabiyEatuhu</foreign> (assumed tropical:)  <hi>He became costive.</hi> And] <foreign lang="ar">yabisa</foreign> 
-								<foreign lang="ar">maA bayonahumaA</foreign> (tropical:)  [<hi>That friendship which was between them two became withered;</hi> (see 2, and see also <foreign lang="ar">varFY</foreign>;) i. e.,] <hi>they became disunited, each from the other; the bond of friendship that united them, each to the other, became severed;</hi> syn. <foreign lang="ar">taqaATaEaA</foreign>. (A, TA.)
+								[Hence, <foreign lang="ar">yabisato TabiyEatuhu</foreign> (assumed tropical:) 
+								<hi>He became costive.</hi> And] <foreign lang="ar">yabisa</foreign> 
+								<foreign lang="ar">maA bayonahumaA</foreign> (tropical:) 
+								[<hi>That friendship which was between them two became withered;</hi> (see 2, and see also <foreign lang="ar">varFY</foreign>;) i. e.,] <hi>they became disunited, each from the other; the bond of friendship that united them, each to the other, became severed;</hi> syn. <foreign lang="ar">taqaATaEaA</foreign>. (A, TA.)
 						―
 						-b3-
 							Hence also, (M,) 
-							↓<orth type="arrow" lang="ar">Aiybaso</orth>, (so in a copy of the M [agreeably with an explanation of its part. n. <foreign lang="ar">yaAbisN</foreign>, q. v., and in a copy of the A written <foreign lang="ar">Ayobaso</foreign>,]) or <foreign lang="ar">A^ayobiso</foreign>, [from <foreign lang="ar">A^ayobasa</foreign>,] like <foreign lang="ar">A^akorimo</foreign>, (K,) (tropical:)  <hi>Be thou silent;</hi> or <hi>cease thou from speaking:</hi> (M, A, K:) said to a man. (M.)
-					</entryFree>
-					<entryFree id="n42435" key="yb~shu" type="main">
+							<anchor type="arrow"><foreign lang="ar">Aiybaso↓</foreign></anchor>, (so in a copy of the M [agreeably with an explanation of its part. n. <foreign lang="ar">yaAbisN</foreign>, q. v., and in a copy of the A written <foreign lang="ar">Ayobaso</foreign>,]) or <foreign lang="ar">A^ayobiso</foreign>, [from <foreign lang="ar">A^ayobasa</foreign>,] like <foreign lang="ar">A^akorimo</foreign>, (K,) (tropical:) 
+								<hi>Be thou silent;</hi> or <hi>cease thou from speaking:</hi> (M, A, K:) said to a man. (M.)
+					</entry>
+					<entry type="main" id="n42435" key="yb~shu">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">yb~shu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, (S, A, K;) inf. n. <foreign lang="ar">tayobiysN</foreign>, (S,) <hi>He dried it; made it dry;</hi> [&amp;c.; see 1;] (S, A, K;) as also 
-							↓<orth type="arrow" lang="ar">A^ayobasahu</orth>. (M, A, K.)
+							<anchor type="arrow"><foreign lang="ar">A^ayobasahu↓</foreign></anchor>. (M, A, K.)
 						―
 						-b2-
-								[Hence the saying,] <foreign lang="ar">A^uEiy*uka biA@ll~`hi A^ano tuyab~isa raHimFA maboluwlapF</foreign> (tropical:)  [<hi>I pray that thou mayest be preserved by God from thy withering a freshened tie of relationship</hi>]. (A, TA.) And <foreign lang="ar">laA tuwbisi Alv~araY bayoniY wabayonaka</foreign> (tropical:)  [<hi>Wither not the fresh and vigorous friendship, between me and thee;</hi> i. e., <hi>sever not thou the firm bond of friendship that unites me and thee:</hi> see <foreign lang="ar">yabisa maA bayonahumaA</foreign>; and see also <foreign lang="ar">varFY</foreign>]. (A, TA.)
-					</entryFree>
-					<entryFree id="n42436" key="yAbshu" type="main">
+								[Hence the saying,] <foreign lang="ar">A^uEiy*uka biA@ll~`hi A^ano tuyab~isa raHimFA maboluwlapF</foreign> (tropical:) 
+								[<hi>I pray that thou mayest be preserved by God from thy withering a freshened tie of relationship</hi>]. (A, TA.) And <foreign lang="ar">laA tuwbisi Alv~araY bayoniY wabayonaka</foreign> (tropical:) 
+								[<hi>Wither not the fresh and vigorous friendship, between me and thee;</hi> i. e., <hi>sever not thou the firm bond of friendship that unites me and thee:</hi> see <foreign lang="ar">yabisa maA bayonahumaA</foreign>; and see also <foreign lang="ar">varFY</foreign>]. (A, TA.)
+					</entry>
+					<entry type="main" id="n42436" key="yAbshu">
 						<form>
-							<itype>3</itype>
+							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">yAbshu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								(assumed tropical:)  <hi>He treated him with dryness and hardness,</hi> or <hi>niggardliness;</hi> syn. <foreign lang="ar">qaAsaHahu</foreign>; (L, K, art. <foreign lang="ar">qsH</foreign>;) i. e. <foreign lang="ar">EAmlh bAlybs wAl$d~h</foreign>. (TK, in that art.) [See <foreign lang="ar">yaAbisN</foreign>.]
-					</entryFree>
-					<entryFree id="n42437" key="Aybst AlA^aroDu" type="main">
+								(assumed tropical:) 
+								<hi>He treated him with dryness and hardness,</hi> or <hi>niggardliness;</hi> syn. <foreign lang="ar">qaAsaHahu</foreign>; (L, K, art. <foreign lang="ar">qsH</foreign>;) i. e. <foreign lang="ar">EAmlh bAlybs wAl$d~h</foreign>. (TK, in that art.) [See <foreign lang="ar">yaAbisN</foreign>.]
+					</entry>
+					<entry type="main" id="n42437" key="Aybst AlA^aroDu">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">Aybst AlA^aroDu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -355,24 +361,24 @@
 						-A2-
 								<foreign lang="ar">Aybshu</foreign>: see 2, in two places.
 						<pb n="2975"/>
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth lang="ar">tayab~asa</orth>
 						</form>
 								see 1.
-					</entryFree>
-					<entryFree id="n42438" key="8" type="main">
+					</entry>
+					<entry type="main" id="n42438" key="8">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">Ait~abasa</orth>
 							<orth extent="full" lang="ar">*</orth> and
 							<orth orig="" extent="full" lang="ar">Aiytabasa</orth>
 						</form>
 								, aor. <foreign lang="ar">yat~abisu</foreign> and <foreign lang="ar">yaAtabisu</foreign>: see 1.
-					</entryFree>
-					<entryFree id="n42439" key="yabosN" type="main">
+					</entry>
+					<entry type="main" id="n42439" key="yabosN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yabosN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -381,8 +387,8 @@
 						＝
 						-A2-
 							and see <foreign lang="ar">yaAbisN</foreign>, throughout.
-					</entryFree>
-					<entryFree id="n42440" key="yubosN" type="main">
+					</entry>
+					<entry type="main" id="n42440" key="yubosN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yubosN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -391,8 +397,8 @@
 						＝
 						-A2-
 							and see <foreign lang="ar">yaAbisN</foreign>, in two places.
-					</entryFree>
-					<entryFree id="n42441" key="yabasN" type="main">
+					</entry>
+					<entry type="main" id="n42441" key="yabasN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yabasN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -401,15 +407,15 @@
 						＝
 						-A2-
 							and see <foreign lang="ar">yaAbisN</foreign>, throughout.
-					</entryFree>
-					<entryFree id="n42442" key="yabisN" type="main">
+					</entry>
+					<entry type="main" id="n42442" key="yabisN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yabisN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaAbisN</foreign>.
-					</entryFree>
-					<entryFree id="n42443" key="yabaAsN" type="main">
+					</entry>
+					<entry type="main" id="n42443" key="yabaAsN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yabaAsN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -418,63 +424,78 @@
 						＝
 						-A2-
 								<foreign lang="ar">yabaAsi</foreign>, like <foreign lang="ar">qiTaAmi</foreign>, [as a proper name,] <hi>The pudendum;</hi> syn. <foreign lang="ar">Als~awo'apu</foreign>: or <hi>the anus;</hi> syn. <foreign lang="ar">Alfunoduwrapu</foreign>; (K, TA [in one copy of the K, <foreign lang="ar">Alqunoduwrapu</foreign>; and in the CK, <foreign lang="ar">Alqinoda'owapu</foreign>;]) i. e., <foreign lang="ar">AlAisotu</foreign>: on the authority of IAar. (TA.)
-					</entryFree>
-					<entryFree id="n42444" key="yabuwsN" type="main">
+					</entry>
+					<entry type="main" id="n42444" key="yabuwsN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yabuwsN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaAbisN</foreign>; for the latter, throughout.
-					</entryFree>
-					<entryFree id="n42445" key="yabiysN" type="main">
+					</entry>
+					<entry type="main" id="n42445" key="yabiysN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yabiysN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaAbisN</foreign>; for the latter, throughout.
-					</entryFree>
-					<entryFree id="n42446" key="yaAbisN" type="main">
+					</entry>
+					<entry type="main" id="n42446" key="yaAbisN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaAbisN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Dry,</hi> or <hi>dried up, after having been moist, humid, succulent,</hi> or <hi>the like:</hi> (A, Msb, K:) or, [rather,] <hi>dry,</hi> or <hi>dried up,</hi> or <hi>exsiccated:</hi> and also, [but perhaps tropically,] <hi>stiff, rigid, tough, firm, resisting pressure,</hi> or <hi>hard:</hi> [see 1:] (M:) pl. <foreign lang="ar">yub~asN</foreign> (M) and 
-							↓<orth type="arrow" lang="ar">yabosN</orth>, which latter is like <foreign lang="ar">rakobN</foreign> as pl. of <foreign lang="ar">rAkibN</foreign>: (ISk, S, Msb:) and 
-							↓<orth type="arrow" lang="ar">yubosN</orth> is a dial. form. of <foreign lang="ar">yabosN</foreign>: (A'Obeyd, S:) or <foreign lang="ar">yabosN</foreign> is [rather] a quasi-pl. of <foreign lang="ar">yaAbisN</foreign>, as is also 
-							↓<orth type="arrow" lang="ar">yabasN</orth>: (M:) or this last is used by poetic license for <foreign lang="ar">yabosN</foreign>: (TA:) also, (S, M,) 
-							↓<orth type="arrow" lang="ar">yabosN</orth> signifies the same as <foreign lang="ar">yaAbisN</foreign>, (S, M, Msb, K,) as also 
-							↓<orth type="arrow" lang="ar">yabasN</orth>, (M,) and 
-							↓<orth type="arrow" lang="ar">yabisN</orth>, (M, K,) and 
-							↓<orth type="arrow" lang="ar">yabiysN</orth>, (K,) and 
-							↓<orth type="arrow" lang="ar">yabowsN</orth>, (M,) and 
-							↓<orth type="arrow" lang="ar">yabaAsN</orth>, (TA,) and 
-							↓<orth type="arrow" lang="ar">A^ayobasu</orth>: (K:) or 
-							↓<orth type="arrow" lang="ar">yabasN</orth> signifies <hi>dry from its origin, not having been known moist:</hi> (K:) but 
-							↓<orth type="arrow" lang="ar">yabosN</orth> is applied to a thing <hi>dry after having been known to be moist:</hi> (TA:) and as to the path of Moses, [to which the former of the last two epithets is applied in the Kur. xx. 79,] it had never been known as a path either moist or dry, for God only showed it to them created such; but the epithet is also read with sukoon to the <foreign lang="ar">b</foreign>, because, though it had not been a path, it was a place wherein had been water and which had dried up: (K, TA:) the latter reading is that of El-Hasan El-Basree: and El-Aamash read the word with kesr to the <foreign lang="ar">b</foreign>: (TA:) Th [however] says, (S,) you say 
-							↓<orth type="arrow" lang="ar">HaTabN yabosN</orth>, <hi>dry fire-wood,</hi> as though it were so <hi>naturally:</hi> (S, Msb:) [and J says,] 
-							↓<orth type="arrow" lang="ar">yabasN</orth> signifies a place <hi>dry after having been moist;</hi> and so in the instance in the Kur. mentioned above: (S:) [and Fei says,] it signifies a place <hi>that has had in it water which has gone away;</hi> or, as Az says, a path <hi>in which is no moisture:</hi> (Msb:) [and ISd says,] 
-							↓<orth type="arrow" lang="ar">yabosN</orth> and 
-							↓<orth type="arrow" lang="ar">yabas</orth> signify a place that is <hi>dry:</hi> and in like manner, applied to land (<foreign lang="ar">A^aroD</foreign>), <hi>of which the water and pasturage have dried up:</hi> and the latter, so applied, (assumed tropical:)  <hi>hard;</hi> (M;) as also <foreign lang="ar">yaAbisN</foreign> (tropical:)  applied to a stone: (A:) 
-							↓<orth type="arrow" lang="ar">yabysN</orth> is [generally] applied to a plant, or herbage, as signifying <hi>dry,</hi> or <hi>dried up;</hi> (S, M, A, Msb, K;) as also [sometimes] <foreign lang="ar">yaAbisN</foreign>; (M, K;) the former being of the measure <foreign lang="ar">faEiylN</foreign> in the sense of the measure <foreign lang="ar">faAEilN</foreign>: (Msb:) or it is so applied to herbs, or leguminous plants, of the sort termed <foreign lang="ar">A^aHoraAr</foreign> [that are eaten without being cooked, or that are slender and succulent, &amp;c.], (As, K,) and of the sort termed <foreign lang="ar">*ukuwr</foreign> [that are hard and thick, or thick and rough, &amp;c.]; (As, TA;) and [so As, in the TA; and so in some copies of the K; but in the CK, or] those herbs and leguminous plants that become scattered when they dry up; (As, K;) as also 
-							↓<orth type="arrow" lang="ar">yubosN</orth> and 
-							↓<orth type="arrow" lang="ar">yabosN</orth>; (TA;) but not to what is dry of the <foreign lang="ar">HaliY~</foreign> and <foreign lang="ar">Sil~iyaAn</foreign> and <foreign lang="ar">Halamap</foreign>. (As, TA.)
+							<anchor type="arrow"><foreign lang="ar">yabosN↓</foreign></anchor>, which latter is like <foreign lang="ar">rakobN</foreign> as pl. of <foreign lang="ar">rAkibN</foreign>: (ISk, S, Msb:) and 
+							<anchor type="arrow"><foreign lang="ar">yubosN↓</foreign></anchor> is a dial. form. of <foreign lang="ar">yabosN</foreign>: (A'Obeyd, S:) or <foreign lang="ar">yabosN</foreign> is [rather] a quasi-pl. of <foreign lang="ar">yaAbisN</foreign>, as is also 
+							<anchor type="arrow"><foreign lang="ar">yabasN↓</foreign></anchor>: (M:) or this last is used by poetic license for <foreign lang="ar">yabosN</foreign>: (TA:) also, (S, M,) 
+							<anchor type="arrow"><foreign lang="ar">yabosN↓</foreign></anchor> signifies the same as <foreign lang="ar">yaAbisN</foreign>, (S, M, Msb, K,) as also 
+							<anchor type="arrow"><foreign lang="ar">yabasN↓</foreign></anchor>, (M,) and 
+							<anchor type="arrow"><foreign lang="ar">yabisN↓</foreign></anchor>, (M, K,) and 
+							<anchor type="arrow"><foreign lang="ar">yabiysN↓</foreign></anchor>, (K,) and 
+							<anchor type="arrow"><foreign lang="ar">yabowsN↓</foreign></anchor>, (M,) and 
+							<anchor type="arrow"><foreign lang="ar">yabaAsN↓</foreign></anchor>, (TA,) and 
+							<anchor type="arrow"><foreign lang="ar">A^ayobasu↓</foreign></anchor>: (K:) or 
+							<anchor type="arrow"><foreign lang="ar">yabasN↓</foreign></anchor> signifies <hi>dry from its origin, not having been known moist:</hi> (K:) but 
+							<anchor type="arrow"><foreign lang="ar">yabosN↓</foreign></anchor> is applied to a thing <hi>dry after having been known to be moist:</hi> (TA:) and as to the path of Moses, [to which the former of the last two epithets is applied in the Kur. xx. 79,] it had never been known as a path either moist or dry, for God only showed it to them created such; but the epithet is also read with sukoon to the <foreign lang="ar">b</foreign>, because, though it had not been a path, it was a place wherein had been water and which had dried up: (K, TA:) the latter reading is that of El-Hasan El-Basree: and El-Aamash read the word with kesr to the <foreign lang="ar">b</foreign>: (TA:) Th [however] says, (S,) you say 
+							<anchor type="arrow"><foreign lang="ar">HaTabN yabosN↓</foreign></anchor>, <hi>dry fire-wood,</hi> as though it were so <hi>naturally:</hi> (S, Msb:) [and J says,] 
+							<anchor type="arrow"><foreign lang="ar">yabasN↓</foreign></anchor> signifies a place <hi>dry after having been moist;</hi> and so in the instance in the Kur. mentioned above: (S:) [and Fei says,] it signifies a place <hi>that has had in it water which has gone away;</hi> or, as Az says, a path <hi>in which is no moisture:</hi> (Msb:) [and ISd says,] 
+							<anchor type="arrow"><foreign lang="ar">yabosN↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">yabas↓</foreign></anchor> signify a place that is <hi>dry:</hi> and in like manner, applied to land (<foreign lang="ar">A^aroD</foreign>), <hi>of which the water and pasturage have dried up:</hi> and the latter, so applied, (assumed tropical:) 
+								<hi>hard;</hi> (M;) as also <foreign lang="ar">yaAbisN</foreign> (tropical:) 
+								applied to a stone: (A:) 
+							<anchor type="arrow"><foreign lang="ar">yabysN↓</foreign></anchor> is [generally] applied to a plant, or herbage, as signifying <hi>dry,</hi> or <hi>dried up;</hi> (S, M, A, Msb, K;) as also [sometimes] <foreign lang="ar">yaAbisN</foreign>; (M, K;) the former being of the measure <foreign lang="ar">faEiylN</foreign> in the sense of the measure <foreign lang="ar">faAEilN</foreign>: (Msb:) or it is so applied to herbs, or leguminous plants, of the sort termed <foreign lang="ar">A^aHoraAr</foreign> [that are eaten without being cooked, or that are slender and succulent, &amp;c.], (As, K,) and of the sort termed <foreign lang="ar">*ukuwr</foreign> [that are hard and thick, or thick and rough, &amp;c.]; (As, TA;) and [so As, in the TA; and so in some copies of the K; but in the CK, or] those herbs and leguminous plants that become scattered when they dry up; (As, K;) as also 
+							<anchor type="arrow"><foreign lang="ar">yubosN↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">yabosN↓</foreign></anchor>; (TA;) but not to what is dry of the <foreign lang="ar">HaliY~</foreign> and <foreign lang="ar">Sil~iyaAn</foreign> and <foreign lang="ar">Halamap</foreign>. (As, TA.)
 						―
 						-b2-
 								[Hence,] <foreign lang="ar">Almafoluwju</foreign> 
-								<foreign lang="ar">AlyaAbisu Al$~iq~i</foreign> (assumed tropical:)  <hi>The palsied of whom the half is without sensation and without motion.</hi> (Mgh.) And <foreign lang="ar">rajulN yaAbisN mina Als~ukori</foreign> (AHn) app. meaning (assumed tropical:)  A <hi>man as though he were dead and dried up in consequence of much intoxication.</hi> (M.) [And <foreign lang="ar">yAabisu AlT~abiyEapi</foreign> (assumed tropical:)  <hi>Costive.</hi>] And <foreign lang="ar">sakoraAnu yaAbisN</foreign> (assumed tropical:)  <hi>Intoxicated so much as not to speak;</hi> as though the wine had dried him up by its heat. (M.) And 
-							↓<orth type="arrow" lang="ar">A^ataAnN yabosapN</orth> (IAar, M) and 
-							↓<orth type="arrow" lang="ar">yabasapN</orth> (Th, M) (assumed tropical:)  <hi>A she-ass dry and lean.</hi> (M.) And 
-							↓<orth type="arrow" lang="ar">$aApN yabosN</orth> and 
-							↓<orth type="arrow" lang="ar">yabasN</orth> (AO, S, M, K) (assumed tropical:)  <hi>A ewe,</hi> or <hi>she-goat, without milk:</hi> (AO, S, M, K:) or <hi>whose milk has stopped, and her udder become dry.</hi> (M.) And 
-							↓<orth type="arrow" lang="ar">A_imoraA^apN yabasapN</orth> (assumed tropical:)  <hi>A woman who has no milk:</hi> pl. <foreign lang="ar">yabasaAtN</foreign> and <foreign lang="ar">A^ayobaAsN</foreign> and [quasi-pl. n.] <foreign lang="ar">yaAbisN</foreign> [like <foreign lang="ar">jaAmilN</foreign> and <foreign lang="ar">baAqirN</foreign>]. (TA, from the Moheet.) And 
-							↓<orth type="arrow" lang="ar">EiroqN yabiysN</orth> (assumed tropical:)  [<hi>A dry duct</hi>], meaning, <hi>penis.</hi> (Lh, M.) And <foreign lang="ar">$aEarN yaAbisN</foreign> (tropical:)  <hi>Hair upon which no effect is produced by moistening with water nor with oil;</hi> (A, TA *;) which is the worst sort thereof. (TA.) And 
-							↓<orth type="arrow" lang="ar">yabiysu AlmaA='i</orth> (tropical:)  <hi>Dry sweat:</hi> (M, A:) or [simply] <hi>sweat.</hi> (AA, S, K.) And <foreign lang="ar">rajulN yaAbisN</foreign> and 
-							↓<orth type="arrow" lang="ar">yabiysN</orth> (tropical:)  <hi>A man having little good:</hi> (A:) and <foreign lang="ar">AimoroA^apN yaAbisapN</foreign> and 
-							↓<orth type="arrow" lang="ar">yabiysN</orth> (A, TA) and 
-							↓<orth type="arrow" lang="ar">yabasN</orth> (S, K, TA) (tropical:)  <hi>a woman having little good:</hi> (A:) or <hi>in whom is no good:</hi> (K, TA:) or <hi>who does not cause one to obtain any good.</hi> (S.) And 
-							↓<orth type="arrow" lang="ar">bayonahumaA varFY A^ayobasu</orth> (tropical:)  <hi>Between them two is disunion.</hi> (A, TA.)
-					</entryFree>
-					<entryFree id="n42447" key="A^ayobasu" type="main">
+								<foreign lang="ar">AlyaAbisu Al$~iq~i</foreign> (assumed tropical:) 
+								<hi>The palsied of whom the half is without sensation and without motion.</hi> (Mgh.) And <foreign lang="ar">rajulN yaAbisN mina Als~ukori</foreign> (AHn) app. meaning (assumed tropical:) 
+								A <hi>man as though he were dead and dried up in consequence of much intoxication.</hi> (M.) [And <foreign lang="ar">yAabisu AlT~abiyEapi</foreign> (assumed tropical:) 
+								<hi>Costive.</hi>] And <foreign lang="ar">sakoraAnu yaAbisN</foreign> (assumed tropical:) 
+								<hi>Intoxicated so much as not to speak;</hi> as though the wine had dried him up by its heat. (M.) And 
+							<anchor type="arrow"><foreign lang="ar">A^ataAnN yabosapN↓</foreign></anchor> (IAar, M) and 
+							<anchor type="arrow"><foreign lang="ar">yabasapN↓</foreign></anchor> (Th, M) (assumed tropical:) 
+								<hi>A she-ass dry and lean.</hi> (M.) And 
+							<anchor type="arrow"><foreign lang="ar">$aApN yabosN↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">yabasN↓</foreign></anchor> (AO, S, M, K) (assumed tropical:) 
+								<hi>A ewe,</hi> or <hi>she-goat, without milk:</hi> (AO, S, M, K:) or <hi>whose milk has stopped, and her udder become dry.</hi> (M.) And 
+							<anchor type="arrow"><foreign lang="ar">A_imoraA^apN yabasapN↓</foreign></anchor> (assumed tropical:) 
+								<hi>A woman who has no milk:</hi> pl. <foreign lang="ar">yabasaAtN</foreign> and <foreign lang="ar">A^ayobaAsN</foreign> and [quasi-pl. n.] <foreign lang="ar">yaAbisN</foreign> [like <foreign lang="ar">jaAmilN</foreign> and <foreign lang="ar">baAqirN</foreign>]. (TA, from the Moheet.) And 
+							<anchor type="arrow"><foreign lang="ar">EiroqN yabiysN↓</foreign></anchor> (assumed tropical:) 
+								[<hi>A dry duct</hi>], meaning, <hi>penis.</hi> (Lh, M.) And <foreign lang="ar">$aEarN yaAbisN</foreign> (tropical:) 
+								<hi>Hair upon which no effect is produced by moistening with water nor with oil;</hi> (A, TA *;) which is the worst sort thereof. (TA.) And 
+							<anchor type="arrow"><foreign lang="ar">yabiysu AlmaA='i↓</foreign></anchor> (tropical:) 
+								<hi>Dry sweat:</hi> (M, A:) or [simply] <hi>sweat.</hi> (AA, S, K.) And <foreign lang="ar">rajulN yaAbisN</foreign> and 
+							<anchor type="arrow"><foreign lang="ar">yabiysN↓</foreign></anchor> (tropical:) 
+								<hi>A man having little good:</hi> (A:) and <foreign lang="ar">AimoroA^apN yaAbisapN</foreign> and 
+							<anchor type="arrow"><foreign lang="ar">yabiysN↓</foreign></anchor> (A, TA) and 
+							<anchor type="arrow"><foreign lang="ar">yabasN↓</foreign></anchor> (S, K, TA) (tropical:) 
+								<hi>a woman having little good:</hi> (A:) or <hi>in whom is no good:</hi> (K, TA:) or <hi>who does not cause one to obtain any good.</hi> (S.) And 
+							<anchor type="arrow"><foreign lang="ar">bayonahumaA varFY A^ayobasu↓</foreign></anchor> (tropical:) 
+								<hi>Between them two is disunion.</hi> (A, TA.)
+					</entry>
+					<entry type="main" id="n42447" key="A^ayobasu">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^ayobasu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -482,7 +503,8 @@
 								[comp. and superl. of <foreign lang="ar">yaAbisN</foreign>].
 						―
 						-b2-
-								[Hence the saying,] <foreign lang="ar">A^ayobasu mina AlS~axori</foreign> (tropical:)  <hi>Harder than rock.</hi> (A.)
+								[Hence the saying,] <foreign lang="ar">A^ayobasu mina AlS~axori</foreign> (tropical:) 
+								<hi>Harder than rock.</hi> (A.)
 						＝
 						-A2-
 							See also <foreign lang="ar">yaAbisN</foreign>, near the beginning and at the end.
@@ -493,58 +515,58 @@
 						―
 						-b2-
 							Also, the pl., <hi>Hard things upon which swords are tried.</hi> (K.)
-					</entryFree>
-					<entryFree id="n42448" key="A^aroDN muwbisapN" type="main">
+					</entry>
+					<entry type="main" id="n42448" key="A^aroDN muwbisapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^aroDN muwbisapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[originally <foreign lang="ar">muyobisapN</foreign>] <hi>Land of which the plants,</hi> or <hi>herbage, are drying up,</hi> or <hi>dried up.</hi> (A.)
-					</entryFree>
-					<entryFree id="n42449" key="riyjN miybaAsN" type="main">
+					</entry>
+					<entry type="main" id="n42449" key="riyjN miybaAsN">
 						<form>
 							<orth orig="" extent="full" lang="ar">riyjN miybaAsN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>A very drying wind</hi>]. (TA, voce <foreign lang="ar">nakobaA='u</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="ytm &amp;c." type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ytm &amp;c.">
 					<head>
 								<foreign lang="ar">ytm</foreign> &amp;c.
 					</head>
-					<entryFree>See Supplement
-					</entryFree>
-				</div2>
-				<div2 n="yrnA^" type="root">
+					<entry>See Supplement
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yrnA^">
 					<head>
 								<foreign lang="ar">yrnA^</foreign>
 					</head>
-					<entryFree id="n42450" key="yaronaA^a liHoyatahu" type="main">
+					<entry type="main" id="n42450" key="yaronaA^a liHoyatahu">
 						<form type="Q">
-							<itype>Q. 1</itype>
+							<iType>Q. 1</iType>
 							<orth orig="" extent="full" lang="ar">yaronaA^a liHoyatahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(K, TA; in the CK, [erroneously,] <foreign lang="ar">taran~aA^a</foreign>;) <hi>He dyed his beard with</hi> 
 								<foreign lang="ar">yrn~A^</foreign>. (K.) A strange verb as to its form, (K,) which [except in its final vowel] is that of an aorist, though it is a preterite. (TA.) Mentioned in the L in art. <foreign lang="ar">rnA^</foreign> (q. v.), on the authority of IJ; and there also by ISd; and AHei and others assert the <foreign lang="ar">Y</foreign> to be augmentative. [If so, the verb is a quasi-quadriliteral-radical word.] F follows Sgh, in mentioning it here. (TA.)
-					</entryFree>
-					<entryFree id="n42451" key="yuran~aA^N" type="main">
+					</entry>
+					<entry type="main" id="n42451" key="yuran~aA^N">
 						<form>
 							<orth orig="" extent="full" lang="ar">yuran~aA^N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(S, K) and <foreign lang="ar">yaran~aA^N</foreign> and <foreign lang="ar">yuran~aA='N</foreign> (K) and <foreign lang="ar">yuran~aA</foreign> (without <foreign lang="ar">'</foreign>) and (accord. to [the Bári', as mentioned in] the TA, art. <foreign lang="ar">rnA^</foreign>,) <foreign lang="ar">yaronaA^N</foreign> and <foreign lang="ar">yuronaA^N</foreign> and (accord. to MF, who omits the two forms here immediately preceding,) <foreign lang="ar">yaran~aA'N</foreign> and <foreign lang="ar">yaran~aA</foreign>, without <foreign lang="ar">'</foreign>, (TA,) <hi>i. q.</hi> 
 								<foreign lang="ar">Hin~aA'N</foreign> (S, K) [The <hi>plant Lawsonia inermis</hi>]. See also art. <foreign lang="ar">rnA^</foreign>, where the word is written [erroneously in my opinion] <foreign lang="ar">yarun~aA^N</foreign>. Accord. to IB (not IJ [as in the CK]), the may only be omitted when the word is pronounced with dammeh to the <foreign lang="ar">Y</foreign>. (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="ysr" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ysr">
 					<head>
 								<foreign lang="ar">ysr</foreign>
 					</head>
-					<entryFree id="n42452" key="yasara" type="main">
+					<entry type="main" id="n42452" key="yasara">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">yasara</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -568,22 +590,22 @@
 								<foreign lang="ar">yasara</foreign>, [aor. <foreign lang="ar">yayosiru</foreign>, inf. n. <foreign lang="ar">yasorN</foreign>,] <hi>He divided</hi> anything <hi>into parts,</hi> or <hi>portions.</hi> (TA.) You say, <foreign lang="ar">yasarotu Aln~aAqapa</foreign> 
 								<hi>I divided the flesh of the she-camel into parts</hi> or <hi>portions.</hi> (TA.) And <foreign lang="ar">yasaruwA Aljazuwra</foreign> 
 								<hi>They slaughtered the she-camel and divided its limbs,</hi> (S,) or <hi>portions,</hi> (TA,) <hi>among themselves;</hi> (S, TA;) as also, accord. to Aboo-'Omar ElJarmee, 
-							↓<orth type="arrow" lang="ar">A_it~asaruwhaA</orth>, aor. <foreign lang="ar">yat~asiruwnahaA</foreign>, inf. n. <foreign lang="ar">A_it~isaArN</foreign>; and he adds that some people say, <foreign lang="ar">yaA^otasiruwnahaA</foreign>, inf. n. <foreign lang="ar">A@notisaArN</foreign>, with hemz; and <foreign lang="ar">humo muw^otasiruwna</foreign>; like as they say in the case of <foreign lang="ar">A_it~aEada</foreign>. (S.) Soheym Ibn-Wetheel El-Yarboo'ee says,
+							<anchor type="arrow"><foreign lang="ar">A_it~asaruwhaA↓</foreign></anchor>, aor. <foreign lang="ar">yat~asiruwnahaA</foreign>, inf. n. <foreign lang="ar">A_it~isaArN</foreign>; and he adds that some people say, <foreign lang="ar">yaA^otasiruwnahaA</foreign>, inf. n. <foreign lang="ar">A@notisaArN</foreign>, with hemz; and <foreign lang="ar">humo muw^otasiruwna</foreign>; like as they say in the case of <foreign lang="ar">A_it~aEada</foreign>. (S.) Soheym Ibn-Wetheel El-Yarboo'ee says,
 							<quote>
 								<L><foreign lang="ar">A^aquwlu lahumo biAl$~iEobi A_i*o yayosiruwnaniY</foreign></L>
 								<L><foreign lang="ar">A^alamo tayoy^asuwA A^an~iY A@bonu faArisi zahodami</foreign></L>
 							</quote>
 								[<hi>I say to them, in the ravine, when they divide me among themselves,</hi> deciding what shares they shall severally have in me, <hi>Know ye not that I am the son of the rider of Zahdam,</hi> and that ye may obtain a great ransom for me?] for capture had befallen him, and they played with [gaming-] arrows for him. (S, TA. [but in the latter, instead of <foreign lang="ar">tayoy^asuwA</foreign>, we find <foreign lang="ar">taEolamuwA</foreign>, which signifies the same.]) You say also, 
-							↓<orth type="arrow" lang="ar">A_it~asaruwA</orth>, aor. <foreign lang="ar">yat~asiruwna</foreign> and <foreign lang="ar">yaA^otasiruwna</foreign>; (K;) and 
-							↓<orth type="arrow" lang="ar">tayAasaruwA</orth>; (M, K;) <hi>They divided among themselves the slaughtered camel.</hi> (M, K.)
+							<anchor type="arrow"><foreign lang="ar">A_it~asaruwA↓</foreign></anchor>, aor. <foreign lang="ar">yat~asiruwna</foreign> and <foreign lang="ar">yaA^otasiruwna</foreign>; (K;) and 
+							<anchor type="arrow"><foreign lang="ar">tayAasaruwA↓</foreign></anchor>; (M, K;) <hi>They divided among themselves the slaughtered camel.</hi> (M, K.)
 						―
 						-b2-
 								[Hence,] <foreign lang="ar">yasara</foreign>, aor. <foreign lang="ar">yayosiru</foreign>, (S, M, A, Msb, K,) in the [second] <foreign lang="ar">Y</foreign> is not suppressed as it is in <foreign lang="ar">yaEidu</foreign> and its cöordinates [having <foreign lang="ar">w</foreign> for the first radical], (S,) and <foreign lang="ar">yiysaru</foreign>, like <foreign lang="ar">yiyjalu</foreign>, in the dial. of the Benoo-Asad, (TA,) inf. n. <foreign lang="ar">yasorN</foreign>, (M, TA,) or <foreign lang="ar">mayosirN</foreign>, (A,) <hi>He played at the game called</hi> 
 								<foreign lang="ar">Almayosir</foreign>; (M, Msb, K;) <hi>he played with gamingarrows.</hi> (S, A, Msb.)
-					</entryFree>
-					<entryFree id="n42453" key="ys~rhu" type="main">
+					</entry>
+					<entry type="main" id="n42453" key="ys~rhu">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">ys~rhu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -594,10 +616,12 @@
 						-b2-
 							<hi>He made his circumstances ample; he made his condition,</hi> or <hi>his way</hi> or <hi>course</hi> [<foreign lang="ar">lika*aA</foreign> 
 								<hi>to such a thing</hi>], <hi>easy,</hi> or <hi>smooth:</hi> (Sb, M:) <hi>he accommodated, adapted,</hi> or <hi>disposed, him,</hi> 
-								<foreign lang="ar">liloyusoraY</foreign> [<hi>to easy things,</hi> or <hi>affairs,</hi> or <hi>circumstances;</hi> or <hi>to the easier,</hi> or <hi>easiest, way</hi>]: (S. A, [in the latter of which this is given as a proper, not tropical, signification:]) (tropical:)  <hi>he prepared,</hi> or <hi>made ready, him</hi> or <hi>it,</hi> 
+								<foreign lang="ar">liloyusoraY</foreign> [<hi>to easy things,</hi> or <hi>affairs,</hi> or <hi>circumstances;</hi> or <hi>to the easier,</hi> or <hi>easiest, way</hi>]: (S. A, [in the latter of which this is given as a proper, not tropical, signification:]) (tropical:) 
+								<hi>he prepared,</hi> or <hi>made ready, him</hi> or <hi>it,</hi> 
 								<foreign lang="ar">lika*aA</foreign> 
 								<hi>for such a thing.</hi> (A [in which this signification is said to be tropical.]) <foreign lang="ar">tayosiyrN</foreign> relates to both good and evil: (M, K:) as in the following instances in the Kur; [xcii. 7, 10;] <foreign lang="ar">fasanuyas~iruhu liloyusoraY</foreign>, and <foreign lang="ar">liloEusoraY</foreign>, (M,) [<hi>We will facilitate,</hi> or <hi>smooth, his way,</hi> or] <hi>We will accommodate him,</hi> or <hi>adapt him,</hi> or <hi>dispose him,</hi> [<hi>to a state of ease,</hi> and <hi>to a state of difficulty,</hi> or (as explained in the TA, art. <foreign lang="ar">Esr</foreign>,) <hi>to punishment, and a difficult case:</hi>] (S, A:) or <hi>We will prepare him for paradise,</hi> and <hi>for hell:</hi> (Jel:) or <hi>We will prepare him to return to good,</hi> or <hi>righteous, conduct,</hi> [and <hi>to persevere in evil,</hi> or <hi>unrighteous, conduct;</hi> the former leading to ease, and the latter to difficulty:] (Fr, TA:) or <hi>We will prepare him for that habit of conduct which leads to ease,</hi> such as the entering paradise, and <hi>for that which leads to difficulty,</hi> such as the entering hell: from <foreign lang="ar">ys~r Alfarasa</foreign>, meaning, <hi>he prepared the horse for riding, by saddling and bridling.</hi> (Bd.) It is said in a trad. <foreign lang="ar">waqado yus~ira lahu</foreign> 
-								<foreign lang="ar">TahuwrN</foreign> (assumed tropical:)  <hi>And water for ablution had been prepared and put for him.</hi> (TA.)
+								<foreign lang="ar">TahuwrN</foreign> (assumed tropical:) 
+								<hi>And water for ablution had been prepared and put for him.</hi> (TA.)
 						―
 						-b3-
 								<foreign lang="ar">yas~ara Alr~ajulu</foreign>, (inf. n. <foreign lang="ar">tayosiyrN</foreign>, K,) <hi>The man's camels,</hi> and <hi>his sheep</hi> or <hi>goats, brought forth with ease,</hi> (IAar, M, K), <hi>and none of them perished.</hi> (IAar, M.)
@@ -614,10 +638,10 @@
 						―
 						-b5-
 							See also <foreign lang="ar">A^ayosarato</foreign>.
-					</entryFree>
-					<entryFree id="n42454" key="yAsrhu" type="main">
+					</entry>
+					<entry type="main" id="n42454" key="yAsrhu">
 						<form>
-							<itype>3</itype>
+							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">yAsrhu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -627,23 +651,23 @@
 						＝
 						-A2-
 								<foreign lang="ar">yAsr</foreign>, (inf. n. <foreign lang="ar">muyaAsarapN</foreign>, K,) <hi>He took the left-hand side</hi> or <hi>direction;</hi> (S, M, A, Msb, K;) as also 
-							↓<orth type="arrow" lang="ar">tyAsr</orth>; (S, Msb, K;) which latter is the <hi>contr. of</hi> 
+							<anchor type="arrow"><foreign lang="ar">tyAsr↓</foreign></anchor>; (S, Msb, K;) which latter is the <hi>contr. of</hi> 
 								<foreign lang="ar">tyAmn</foreign>: (K:) or 
-							↓<orth type="arrow" lang="ar">tayaAsaruwA</orth> 
+							<anchor type="arrow"><foreign lang="ar">tayaAsaruwA↓</foreign></anchor> 
 								<hi>they took the lefthand side</hi> or <hi>direction; contr. of</hi> 
 								<foreign lang="ar">tayaAmanuwA</foreign>. (A.) You say, <foreign lang="ar">yaAsiro biA^aSoHaAbika</foreign> 
 								<hi>Take thou the left-hand side</hi> or <hi>direction with thy companions;</hi> (S, A;) as also <foreign lang="ar">tayaAsaro</foreign>; but some disapprove of this latter. (S.) And <foreign lang="ar">yaAsara biAlqawomi</foreign> 
 								<hi>He took the left-hand side</hi> or <hi>direction with the people;</hi> as also 
-							↓<orth type="arrow" lang="ar">yasara bihimo</orth> aor. <foreign lang="ar">yayosiru</foreign>; accord. to Sb. (M, TA.)
-					</entryFree>
-					<entryFree id="n42455" key="A^ayosarato" type="main">
+							<anchor type="arrow"><foreign lang="ar">yasara bihimo↓</foreign></anchor> aor. <foreign lang="ar">yayosiru</foreign>; accord. to Sb. (M, TA.)
+					</entry>
+					<entry type="main" id="n42455" key="A^ayosarato">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^ayosarato</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>She</hi> (a woman, M) <hi>brought forth with ease; she had an easy birth;</hi> (M, A, K;) as also 
-							↓<orth type="arrow" lang="ar">ys~rt</orth>, (M, IKtt,) which is in like manner said of a she-camel; (M;) or, as in the copies of the K, <foreign lang="ar">yasarato</foreign>, without teshdeed. (TA.) One says, in praying (M, A) for a pregnant woman, (A,) <foreign lang="ar">A^ayosarato waA^a*okarato</foreign> 
+							<anchor type="arrow"><foreign lang="ar">ys~rt↓</foreign></anchor>, (M, IKtt,) which is in like manner said of a she-camel; (M;) or, as in the copies of the K, <foreign lang="ar">yasarato</foreign>, without teshdeed. (TA.) One says, in praying (M, A) for a pregnant woman, (A,) <foreign lang="ar">A^ayosarato waA^a*okarato</foreign> 
 								<hi>May she have an easy birth,</hi> (Lh, M, A,) <hi>and may she bring forth a male child.</hi> (Lh, M.) See the contr., <foreign lang="ar">A^aEosarato</foreign>.
 						＝
 						-A2-
@@ -652,32 +676,35 @@
 						-A3-
 								<foreign lang="ar">A^ayomanotu A_ibiliY waA^ayosarotuhaA</foreign> 
 								<hi>I put my camels aside on the right hand and the left.</hi> (A.)
-					</entryFree>
-					<entryFree id="n42456" key="tys~r" type="main">
+					</entry>
+					<entry type="main" id="n42456" key="tys~r">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tys~r</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>It</hi> (a thing, M, Msb) <hi>was,</hi> or <hi>became, facilitated,</hi> or <hi>easy;</hi> (M, A, Msb, K, TA;) <hi>contr. of difficult, hard, strait,</hi> or <hi>intricate;</hi> (TA;) as also 
-							↓<orth type="arrow" lang="ar">Astysr</orth>. (M, A, Msb, K.) You say, <foreign lang="ar">A^axa*onaA maA tayas~ara</foreign>, and 
-							↓<orth type="arrow" lang="ar">maA A@sotayosara</orth>, <hi>We took what was easy</hi> [<hi>of obtainment,</hi> or <hi>of attainment</hi>]. (TA.) And it is said in a trad., respecting the eleemosinary tax called <foreign lang="ar">wayajoEalu mEahaA $aAtayoni A_ini, zakaAp</foreign> 
+							<anchor type="arrow"><foreign lang="ar">Astysr↓</foreign></anchor>. (M, A, Msb, K.) You say, <foreign lang="ar">A^axa*onaA maA tayas~ara</foreign>, and 
+							<anchor type="arrow"><foreign lang="ar">maA A@sotayosara↓</foreign></anchor>, <hi>We took what was easy</hi> [<hi>of obtainment,</hi> or <hi>of attainment</hi>]. (TA.) And it is said in a trad., respecting the eleemosinary tax called <foreign lang="ar">wayajoEalu mEahaA $aAtayoni A_ini, zakaAp</foreign> 
 								<foreign lang="ar">lahu A^awo Ei$ariyna dirohamFA</foreign> 
-							↓<orth type="arrow" lang="ar">A@sotayosarataA</orth> 
+							<anchor type="arrow"><foreign lang="ar">A@sotayosarataA↓</foreign></anchor> 
 								<hi>And he shall put with it,</hi> or <hi>them, two sheep,</hi> or <hi>goats, if they be easy to him</hi> [<hi>to give</hi>], <hi>or twenty dirhems.</hi> (TA.) And in the Kur, [ii. 192,] <foreign lang="ar">mina AlhadoYi</foreign> 
-							↓<orth type="arrow" lang="ar">famaA A@sotayosara</orth> 
+							<anchor type="arrow"><foreign lang="ar">famaA A@sotayosara↓</foreign></anchor> 
 								<hi>What is easy</hi> [<hi>to give</hi>], <hi>of camels and kine and sheep or goats:</hi> or, as some say, <hi>either a camel or a cow or a sheep or goat.</hi> (M, TA.)
 						―
 						-b2-
 							Also, <foreign lang="ar">tys~r lahu</foreign>, (S, TA,) and <foreign lang="ar">lh</foreign> 
-							↓<orth type="arrow" lang="ar">Astysr</orth>, (S, K, TA,) (assumed tropical:)  <hi>It</hi> (a thing, or an affair, K) <hi>was,</hi> or <hi>became, prepared,</hi> or <hi>made ready for him:</hi> (S, K, TA:) [and <hi>he prepared himself for it.</hi>] It is said in a trad., <foreign lang="ar">qado tayas~araA liloqitaAli</foreign> (assumed tropical:)  <hi>They had both prepared themselves,</hi> or <hi>made themselves ready, for fight.</hi> (TA, from a trad.)
+							<anchor type="arrow"><foreign lang="ar">Astysr↓</foreign></anchor>, (S, K, TA,) (assumed tropical:) 
+								<hi>It</hi> (a thing, or an affair, K) <hi>was,</hi> or <hi>became, prepared,</hi> or <hi>made ready for him:</hi> (S, K, TA:) [and <hi>he prepared himself for it.</hi>] It is said in a trad., <foreign lang="ar">qado tayas~araA liloqitaAli</foreign> (assumed tropical:) 
+								<hi>They had both prepared themselves,</hi> or <hi>made themselves ready, for fight.</hi> (TA, from a trad.)
 						―
 						-b3-
-								<foreign lang="ar">tayas~arati AlbilaAdu</foreign> (tropical:)  <hi>The countries became abundant in herbage,</hi> or <hi>in the goods, conveniences,</hi> or <hi>comforts, of life.</hi> (TA, from a trad.)
-					</entryFree>
-					<entryFree id="n42457" key="tayaAsaruwA" type="main">
+								<foreign lang="ar">tayas~arati AlbilaAdu</foreign> (tropical:) 
+								<hi>The countries became abundant in herbage,</hi> or <hi>in the goods, conveniences,</hi> or <hi>comforts, of life.</hi> (TA, from a trad.)
+					</entry>
+					<entry type="main" id="n42457" key="tayaAsaruwA">
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">tayaAsaruwA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -689,42 +716,42 @@
 						＝
 						-A3-
 							And see 1, latter part.
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth lang="ar">A_iyotasara</orth>
 						</form>
 								see 1, in two places.
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth lang="ar">A_isotayosara</orth>
 						</form>
 								see 5, in five places.
 						<pb n="2977"/>
-					</entryFree>
-					<entryFree id="n42458" key="yasorN" type="main">
+					</entry>
+					<entry type="main" id="n42458" key="yasorN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yasorN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(TA) and 
-							↓<orth type="arrow" lang="ar">yasarN</orth>, (M, A, K, TA,) [each an inf. n. (see 1) used as an epithet,] and <foreign lang="ar">yaAsirN</foreign>, (K, TA,) <hi>Easy and gentle in tractableness, submissiveness,</hi> or <hi>manageableness;</hi> applied to a man and to a horse: (TA:) or [simply] <hi>easy; facile;</hi> (M, A, K;) as also 
-							↓<orth type="arrow" lang="ar">yusorN</orth> (TA) and <foreign lang="ar">yasiyrN</foreign>, (Msb), this last being syn. with <foreign lang="ar">hay~inN</foreign>, (S, K,) and signifying <hi>not difficult,</hi> 
+							<anchor type="arrow"><foreign lang="ar">yasarN↓</foreign></anchor>, (M, A, K, TA,) [each an inf. n. (see 1) used as an epithet,] and <foreign lang="ar">yaAsirN</foreign>, (K, TA,) <hi>Easy and gentle in tractableness, submissiveness,</hi> or <hi>manageableness;</hi> applied to a man and to a horse: (TA:) or [simply] <hi>easy; facile;</hi> (M, A, K;) as also 
+							<anchor type="arrow"><foreign lang="ar">yusorN↓</foreign></anchor> (TA) and <foreign lang="ar">yasiyrN</foreign>, (Msb), this last being syn. with <foreign lang="ar">hay~inN</foreign>, (S, K,) and signifying <hi>not difficult,</hi> 
 								<foreign lang="ar">gayoru EasiyrK</foreign>, (A,) and 
-							↓<orth type="arrow" lang="ar">mayosuwrN</orth> [respecting which see also <foreign lang="ar">EusorN</foreign>, pl. <foreign lang="ar">mayaAsiyru</foreign>]. (A.) Hence, 
-							↓<orth type="arrow" lang="ar">yasaraAtN</orth>, pl. of <foreign lang="ar">yasorapN</foreign> and <foreign lang="ar">yasarapN</foreign>, applied to the legs of a beast, signifies <hi>Easy:</hi> (M:) or <hi>light,</hi> or <hi>active,</hi> legs of a beast: (S, TA:) or <hi>light,</hi> or <hi>active, and obedient,</hi> legs of a beast of carriage: (A:) or the <hi>legs</hi> of a she-camel: and you say also, <foreign lang="ar">A_in~a qawaAy^ima h`*aA Alfarasi yasaraAtN xifaAfN</foreign>, meaning, <hi>verily the legs of this horse are obedient</hi> and <hi>light</hi> or <hi>active.</hi> (TA.) [Hence also,] <foreign lang="ar">wilaAdapN yasorN</foreign> [<hi>An easy birth,</hi> or <hi>bringing forth</hi>]. (A.) And <foreign lang="ar">waladato waladahaA</foreign> 
+							<anchor type="arrow"><foreign lang="ar">mayosuwrN↓</foreign></anchor> [respecting which see also <foreign lang="ar">EusorN</foreign>, pl. <foreign lang="ar">mayaAsiyru</foreign>]. (A.) Hence, 
+							<anchor type="arrow"><foreign lang="ar">yasaraAtN↓</foreign></anchor>, pl. of <foreign lang="ar">yasorapN</foreign> and <foreign lang="ar">yasarapN</foreign>, applied to the legs of a beast, signifies <hi>Easy:</hi> (M:) or <hi>light,</hi> or <hi>active,</hi> legs of a beast: (S, TA:) or <hi>light,</hi> or <hi>active, and obedient,</hi> legs of a beast of carriage: (A:) or the <hi>legs</hi> of a she-camel: and you say also, <foreign lang="ar">A_in~a qawaAy^ima h`*aA Alfarasi yasaraAtN xifaAfN</foreign>, meaning, <hi>verily the legs of this horse are obedient</hi> and <hi>light</hi> or <hi>active.</hi> (TA.) [Hence also,] <foreign lang="ar">wilaAdapN yasorN</foreign> [<hi>An easy birth,</hi> or <hi>bringing forth</hi>]. (A.) And <foreign lang="ar">waladato waladahaA</foreign> 
 								<foreign lang="ar">yasorFA</foreign> 
 								<hi>She brought forth her child easily:</hi> (M, K *:) said of a woman: (M:) or 
-							↓<orth type="arrow" lang="ar">yasarFA</orth>. (CK.) And it is said in a trad., 
-							↓<orth type="arrow" lang="ar">A_in~a h`*aA Ald~iyna yusorN</orth> 
+							<anchor type="arrow"><foreign lang="ar">yasarFA↓</foreign></anchor>. (CK.) And it is said in a trad., 
+							<anchor type="arrow"><foreign lang="ar">A_in~a h`*aA Ald~iyna yusorN↓</foreign></anchor> 
 								<hi>Verily this religion is easy; liberal; one having little straitness.</hi> (TA.) You say also, 
-							↓<orth type="arrow" lang="ar">xu*o mayosuwrahu</orth> 
+							<anchor type="arrow"><foreign lang="ar">xu*o mayosuwrahu↓</foreign></anchor> 
 								<foreign lang="ar">wadaEo maEosuwrahu</foreign> [<hi>Take thou what is easy thereof, and leave thou what is difficult</hi>]. (A.) And 
-							↓<orth type="arrow" lang="ar">mayosuwrN</orth> is applied to a saying, or speech: (A:) so in the Kur. xvii. 30; meaning, <hi>gentle;</hi> (Bd, Jel;) <hi>easy:</hi> (Jel:) or 
-							↓<orth type="arrow" lang="ar">quwolN mayosuwrN</orth> means prayer for <foreign lang="ar">mayosuwr</foreign>, i. e., for <foreign lang="ar">yusor</foreign> [q. v.]. (Bd.)
+							<anchor type="arrow"><foreign lang="ar">mayosuwrN↓</foreign></anchor> is applied to a saying, or speech: (A:) so in the Kur. xvii. 30; meaning, <hi>gentle;</hi> (Bd, Jel;) <hi>easy:</hi> (Jel:) or 
+							<anchor type="arrow"><foreign lang="ar">quwolN mayosuwrN↓</foreign></anchor> means prayer for <foreign lang="ar">mayosuwr</foreign>, i. e., for <foreign lang="ar">yusor</foreign> [q. v.]. (Bd.)
 						―
 						-b2-
 								<foreign lang="ar">fatolN yasorN</foreign> [The <hi>twisting</hi> a rope or cord <hi>towards the left, by rolling it against the body from right to left;</hi> or] the <hi>twisting downwards, by extending the right hand towards the body</hi> [<hi>and so rolling the rope or cord downwards against the body or thigh,</hi> which is the usual way of twisting]; (S, A *, K;) <hi>contr. of</hi> 
@@ -732,41 +759,41 @@
 						―
 						-b3-
 								<foreign lang="ar">TaEonN yasorN</foreign> The <hi>thrusting,</hi> or <hi>piercing,</hi> [<hi>straight forward;</hi> or] <hi>opposite the face:</hi> (S, M, K:) opposed to <foreign lang="ar">$azorN</foreign>, which is from one's right and one's left. (TA.) See an ex. voce <foreign lang="ar">$azarahu</foreign>.
-					</entryFree>
-					<entryFree id="n42459" key="yusorN" type="main">
+					</entry>
+					<entry type="main" id="n42459" key="yusorN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yusorN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>Easiness; facility;</hi>] <hi>contr. of</hi> 
 								<foreign lang="ar">EusorN</foreign>; (S, M, Mgh, Msb, K;) as also 
-							↓<orth type="arrow" lang="ar">yusurN</orth>; (S, Msb, TA;) [and 
-							↓<orth type="arrow" lang="ar">yusoraY</orth>; (see 3, where it is variously explained;)] and 
-							↓<orth type="arrow" lang="ar">mayosuwrN</orth> is the <hi>contr. of</hi> 
+							<anchor type="arrow"><foreign lang="ar">yusurN↓</foreign></anchor>; (S, Msb, TA;) [and 
+							<anchor type="arrow"><foreign lang="ar">yusoraY↓</foreign></anchor>; (see 3, where it is variously explained;)] and 
+							<anchor type="arrow"><foreign lang="ar">mayosuwrN↓</foreign></anchor> is the <hi>contr. of</hi> 
 								<foreign lang="ar">maEosuwrN</foreign>, [and therefore signifies as above; or <hi>easy; facile;</hi>] (S;) or this last signifies, (accord. to the lexicologists, M,) what is <hi>made easy;</hi> or <hi>facilitated;</hi> or (accord. to Sb, M, [but see <foreign lang="ar">maEaquwlN</foreign>,]) it is an inf. n. of the measure <foreign lang="ar">mafoEuwlN</foreign>, (M, K,) [used in the sense of <foreign lang="ar">yusorN</foreign> as explained above,] of the same kind as [its contr.] <foreign lang="ar">maEosuwrN</foreign>; and Abu-l-Hasan says, that this is the truth; for it has no unaugmented verb, and inf. ns. of this measure are not of verbs which are in use, but only of imaginary unaugmented triliteral-radical verbs, as in the case of <foreign lang="ar">majoluwdN</foreign>, which is [really] from <foreign lang="ar">tajal~ada</foreign>. (M.) For examples of <foreign lang="ar">yusorN</foreign>, see <foreign lang="ar">EusorN</foreign>.
 						―
 						-b2-
 							Also, (accord. to the M; but in the K, or; and in both of these lexicons the signification here following is placed first;) and in like manner, 
-							↓<orth type="arrow" lang="ar">yusurN</orth>, (K,) and 
-							↓<orth type="arrow" lang="ar">yasaArN</orth>, (S, M, Mgh, Msb, K,) and 
-							↓<orth type="arrow" lang="ar">yasaArapN</orth>, (S, K,) and 
-							↓<orth type="arrow" lang="ar">mayosarapN</orth>, and 
-							↓<orth type="arrow" lang="ar">mayosurapN</orth>, (S, M, K,) of which last Sb says that it is like <foreign lang="ar">masorubapN</foreign> and <foreign lang="ar">ma$orubapN</foreign> in not being after the manner of the verb, [but after that of the simple substantive,] (M,) and 
-							↓<orth type="arrow" lang="ar">mayosirapN</orth>, (K.) <hi>Easiness</hi> [<hi>of circumstances</hi>]; (M, K;) <hi>competence,</hi> or <hi>sufficiency;</hi> or <hi>richness,</hi> or <hi>wealth,</hi> or <hi>opulence;</hi> (S, M, Mgh, Msb, K;) <hi>abundance;</hi> (Msb;) [in these senses, also, <hi>contr. of</hi> 
+							<anchor type="arrow"><foreign lang="ar">yusurN↓</foreign></anchor>, (K,) and 
+							<anchor type="arrow"><foreign lang="ar">yasaArN↓</foreign></anchor>, (S, M, Mgh, Msb, K,) and 
+							<anchor type="arrow"><foreign lang="ar">yasaArapN↓</foreign></anchor>, (S, K,) and 
+							<anchor type="arrow"><foreign lang="ar">mayosarapN↓</foreign></anchor>, and 
+							<anchor type="arrow"><foreign lang="ar">mayosurapN↓</foreign></anchor>, (S, M, K,) of which last Sb says that it is like <foreign lang="ar">masorubapN</foreign> and <foreign lang="ar">ma$orubapN</foreign> in not being after the manner of the verb, [but after that of the simple substantive,] (M,) and 
+							<anchor type="arrow"><foreign lang="ar">mayosirapN↓</foreign></anchor>, (K.) <hi>Easiness</hi> [<hi>of circumstances</hi>]; (M, K;) <hi>competence,</hi> or <hi>sufficiency;</hi> or <hi>richness,</hi> or <hi>wealth,</hi> or <hi>opulence;</hi> (S, M, Mgh, Msb, K;) <hi>abundance;</hi> (Msb;) [in these senses, also, <hi>contr. of</hi> 
 								<foreign lang="ar">EusorN</foreign>;] and 
-							↓<orth type="arrow" lang="ar">yusoraY</orth> signifies [<hi>the same;</hi> or] <hi>easy things</hi> or <hi>affairs</hi> or <hi>circumstances; contr. of</hi> 
+							<anchor type="arrow"><foreign lang="ar">yusoraY↓</foreign></anchor> signifies [<hi>the same;</hi> or] <hi>easy things</hi> or <hi>affairs</hi> or <hi>circumstances; contr. of</hi> 
 								<foreign lang="ar">EusoraY</foreign>; as also 
-							↓<orth type="arrow" lang="ar">mayosarapN</orth>. (TA, art. <foreign lang="ar">Esr</foreign>.) You say also, 
-							↓<orth type="arrow" lang="ar">A^anoZironiY Hat~aY yasaAri</orth> [<hi>Grant thou me a delay until</hi> I shall be in a state of <hi>easiness of circumstances,</hi> &amp;c.]; in which the last word is indecl., with kesr for its termination, because it is altered from the inf. n., which is <foreign lang="ar">Almayosarapu</foreign>. (S.) In the Kur. [ii. 280,] some read, 
-							↓<orth type="arrow" lang="ar">fanaZirapN A_ilaY mayosurihi</orth> [<hi>Then</hi> let there be <hi>a postponement,</hi> or <hi>delay, until his</hi> being in a state of <hi>easiness of circumstances</hi>]: but Akh says, that this is not allowable; for there is no noun of the measure <foreign lang="ar">mafoEulN</foreign> [of this kind]: as to <foreign lang="ar">makorumN</foreign> and <foreign lang="ar">maEuwnN</foreign>, [it is said that] they are pls. [virtually though not in the language of the grammarians] of <foreign lang="ar">makorumapN</foreign> and <foreign lang="ar">maEuwnapN</foreign>. (S.) [On this point, see <foreign lang="ar">maA^olukN</foreign>, voce <foreign lang="ar">A^aluwkN</foreign>.]
+							<anchor type="arrow"><foreign lang="ar">mayosarapN↓</foreign></anchor>. (TA, art. <foreign lang="ar">Esr</foreign>.) You say also, 
+							<anchor type="arrow"><foreign lang="ar">A^anoZironiY Hat~aY yasaAri↓</foreign></anchor> [<hi>Grant thou me a delay until</hi> I shall be in a state of <hi>easiness of circumstances,</hi> &amp;c.]; in which the last word is indecl., with kesr for its termination, because it is altered from the inf. n., which is <foreign lang="ar">Almayosarapu</foreign>. (S.) In the Kur. [ii. 280,] some read, 
+							<anchor type="arrow"><foreign lang="ar">fanaZirapN A_ilaY mayosurihi↓</foreign></anchor> [<hi>Then</hi> let there be <hi>a postponement,</hi> or <hi>delay, until his</hi> being in a state of <hi>easiness of circumstances</hi>]: but Akh says, that this is not allowable; for there is no noun of the measure <foreign lang="ar">mafoEulN</foreign> [of this kind]: as to <foreign lang="ar">makorumN</foreign> and <foreign lang="ar">maEuwnN</foreign>, [it is said that] they are pls. [virtually though not in the language of the grammarians] of <foreign lang="ar">makorumapN</foreign> and <foreign lang="ar">maEuwnapN</foreign>. (S.) [On this point, see <foreign lang="ar">maA^olukN</foreign>, voce <foreign lang="ar">A^aluwkN</foreign>.]
 						＝
 						-A2-
 							See also <foreign lang="ar">yasorN</foreign>, in two places.
 						＝
 						-A3-
 								<foreign lang="ar">Euwdu yusorK</foreign>: see <foreign lang="ar">Euwdu A^usorK</foreign>, in art. <foreign lang="ar">A^sr</foreign>.
-					</entryFree>
-					<entryFree id="n42460" key="yasarN" type="main">
+					</entry>
+					<entry type="main" id="n42460" key="yasarN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yasarN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -775,31 +802,33 @@
 						―
 						-b2-
 							<hi>Made easy,</hi> or <hi>facilitated; i. q.</hi> 
-								<foreign lang="ar">muyas~arN</foreign>: (assumed tropical:)  <hi>prepared:</hi> (K:) or [the <hi>game called</hi>] <foreign lang="ar">Almayosir</foreign> 
-								<hi>prepared:</hi> or, as some say, (assumed tropical:)  <hi>anything prepared.</hi> (M.)
+								<foreign lang="ar">muyas~arN</foreign>: (assumed tropical:) 
+								<hi>prepared:</hi> (K:) or [the <hi>game called</hi>] <foreign lang="ar">Almayosir</foreign> 
+								<hi>prepared:</hi> or, as some say, (assumed tropical:) 
+								<hi>anything prepared.</hi> (M.)
 						＝
 						-A2-
 								<foreign lang="ar">A^aEosaru yasarN</foreign> A man <hi>who works, or does anything, with both his hands</hi> [<hi>alike</hi>]; <hi>ambidextrous; ambidexter:</hi> (S, M, Msb:) and 
-							↓<orth type="arrow" lang="ar">A^aEosaru A^ayosaru</orth> occurs in a trad., accord. to one relation; but the former is the correct expression: (A'Obeyd:) and the fem. is <foreign lang="ar">EasoraA='u yasarapN</foreign>: (M:) explained before, in art. <foreign lang="ar">Esr</foreign>. (K.)
+							<anchor type="arrow"><foreign lang="ar">A^aEosaru A^ayosaru↓</foreign></anchor> occurs in a trad., accord. to one relation; but the former is the correct expression: (A'Obeyd:) and the fem. is <foreign lang="ar">EasoraA='u yasarapN</foreign>: (M:) explained before, in art. <foreign lang="ar">Esr</foreign>. (K.)
 						＝
 						-A3-
 							See also <foreign lang="ar">yaAsirN</foreign>, in six places.
-					</entryFree>
-					<entryFree id="n42461" key="yusurN" type="main">
+					</entry>
+					<entry type="main" id="n42461" key="yusurN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yusurN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yusorN</foreign>, in two places.
-					</entryFree>
-					<entryFree id="n42462" key="yasorapN" type="main">
+					</entry>
+					<entry type="main" id="n42462" key="yasorapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yasorapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yasaArN</foreign>, throughout.
-					</entryFree>
-					<entryFree id="n42463" key="yusoraY" type="main">
+					</entry>
+					<entry type="main" id="n42463" key="yusoraY">
 						<form>
 							<orth orig="" extent="full" lang="ar">yusoraY</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -811,8 +840,8 @@
 						＝
 						-A3-
 							See also <foreign lang="ar">yasaArN</foreign>, throughout.
-					</entryFree>
-					<entryFree id="n42464" key="yasaArN" type="main">
+					</entry>
+					<entry type="main" id="n42464" key="yasaArN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yasaArN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -821,42 +850,42 @@
 						＝
 						-A2-
 							Also, (S, M, Mgh, Msb, K, &amp;c.,) and 
-							↓<orth type="arrow" lang="ar">yisaArN</orth>, (M, Msb, K,) the former of which is the more chaste, (ISk, IAmb, IF, M, Msb, K *,) or the latter is so, (IDrd, M, K,) or the latter is a variation used for the sake of assimilation to [its syn.] <foreign lang="ar">$imaAlN</foreign>, (Sgh, TA,) or it is vulgar, (IKt, Msb,) and not allowable, (S,) or J is in error in disallowing it, (K,) or it is disapproved because the incipient <foreign lang="ar">Y</foreign> with kesr is deemed difficult to pronounce, (M, TA,) but there are three other words commencing like it, namely, <foreign lang="ar">yiwaAmN</foreign>, an inf. n. of <foreign lang="ar">yaAwamahu</foreign>, though this is disallowed by some, and <foreign lang="ar">yiEaArN</foreign>, pl. of <foreign lang="ar">yaEorN</foreign>, and <foreign lang="ar">yisaAfN</foreign>, a proper name of a man, also pronounced with fet-h [to the <foreign lang="ar">Y</foreign>]; (TA;) and another form is 
-							↓<orth type="arrow" lang="ar">yas~aArN</orth>; (Sgh, K;) <hi>contr. of</hi> 
+							<anchor type="arrow"><foreign lang="ar">yisaArN↓</foreign></anchor>, (M, Msb, K,) the former of which is the more chaste, (ISk, IAmb, IF, M, Msb, K *,) or the latter is so, (IDrd, M, K,) or the latter is a variation used for the sake of assimilation to [its syn.] <foreign lang="ar">$imaAlN</foreign>, (Sgh, TA,) or it is vulgar, (IKt, Msb,) and not allowable, (S,) or J is in error in disallowing it, (K,) or it is disapproved because the incipient <foreign lang="ar">Y</foreign> with kesr is deemed difficult to pronounce, (M, TA,) but there are three other words commencing like it, namely, <foreign lang="ar">yiwaAmN</foreign>, an inf. n. of <foreign lang="ar">yaAwamahu</foreign>, though this is disallowed by some, and <foreign lang="ar">yiEaArN</foreign>, pl. of <foreign lang="ar">yaEorN</foreign>, and <foreign lang="ar">yisaAfN</foreign>, a proper name of a man, also pronounced with fet-h [to the <foreign lang="ar">Y</foreign>]; (TA;) and another form is 
+							<anchor type="arrow"><foreign lang="ar">yas~aArN↓</foreign></anchor>; (Sgh, K;) <hi>contr. of</hi> 
 								<foreign lang="ar">yamiynN</foreign>; (S, M, A, Mgh, Msb, K;) and so is 
-							↓<orth type="arrow" lang="ar">yusoraY</orth> of <foreign lang="ar">yumnaY</foreign>, (M, A, Mgh, Msb, K,) and <foreign lang="ar">yasorapN</foreign> of <foreign lang="ar">yamonapN</foreign>, (M, A, Msb, K,) and 
-							↓<orth type="arrow" lang="ar">mayosarapN</orth> of <foreign lang="ar">mayomanapN</foreign>, (A, Msb, K,) and 
-							↓<orth type="arrow" lang="ar">A^ayosaru</orth> of <foreign lang="ar">A^ayomanu</foreign>: (S:) <foreign lang="ar">yasaArN</foreign> and 
-							↓<orth type="arrow" lang="ar">yusoraY</orth> signify The <hi>left</hi> [<hi>hand,</hi> or <hi>arm,</hi> or <hi>foot,</hi> or <hi>leg,</hi> or] <hi>limb:</hi> and the same two words, and 
-							↓<orth type="arrow" lang="ar">yasorapN</orth> and 
-							↓<orth type="arrow" lang="ar">mayosarapN</orth>, the <hi>left,</hi> meaning the <hi>left side</hi> or <hi>direction</hi> or <hi>relative location</hi> or <hi>place:</hi> (Msb:) and 
-							↓<orth type="arrow" lang="ar">A^ayosaru</orth>, the <hi>left side:</hi> or a person [or thing] <hi>that is on the left side:</hi> (Msb, art. <foreign lang="ar">ymn</foreign>:) [and 
-							↓<orth type="arrow" lang="ar">mayosarapN</orth> the <hi>left wing</hi> of an army:] the pl. of <foreign lang="ar">yasaArN</foreign> is <foreign lang="ar">yusurN</foreign> (Lh, M, K) and <foreign lang="ar">yusorN</foreign>, (K,) or <foreign lang="ar">yusarN</foreign>; (AHn, M;) which last is [also] pl. of 
-							↓<orth type="arrow" lang="ar">yusoraY</orth>; (TA;) [and the pl. of 
-							↓<orth type="arrow" lang="ar">mayosarapN</orth> is <foreign lang="ar">mayaAsiru</foreign>.] You say, <foreign lang="ar">qaEada fulaAnN</foreign> 
-							↓<orth type="arrow" lang="ar">yasorapF</orth> 
+							<anchor type="arrow"><foreign lang="ar">yusoraY↓</foreign></anchor> of <foreign lang="ar">yumnaY</foreign>, (M, A, Mgh, Msb, K,) and <foreign lang="ar">yasorapN</foreign> of <foreign lang="ar">yamonapN</foreign>, (M, A, Msb, K,) and 
+							<anchor type="arrow"><foreign lang="ar">mayosarapN↓</foreign></anchor> of <foreign lang="ar">mayomanapN</foreign>, (A, Msb, K,) and 
+							<anchor type="arrow"><foreign lang="ar">A^ayosaru↓</foreign></anchor> of <foreign lang="ar">A^ayomanu</foreign>: (S:) <foreign lang="ar">yasaArN</foreign> and 
+							<anchor type="arrow"><foreign lang="ar">yusoraY↓</foreign></anchor> signify The <hi>left</hi> [<hi>hand,</hi> or <hi>arm,</hi> or <hi>foot,</hi> or <hi>leg,</hi> or] <hi>limb:</hi> and the same two words, and 
+							<anchor type="arrow"><foreign lang="ar">yasorapN↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">mayosarapN↓</foreign></anchor>, the <hi>left,</hi> meaning the <hi>left side</hi> or <hi>direction</hi> or <hi>relative location</hi> or <hi>place:</hi> (Msb:) and 
+							<anchor type="arrow"><foreign lang="ar">A^ayosaru↓</foreign></anchor>, the <hi>left side:</hi> or a person [or thing] <hi>that is on the left side:</hi> (Msb, art. <foreign lang="ar">ymn</foreign>:) [and 
+							<anchor type="arrow"><foreign lang="ar">mayosarapN↓</foreign></anchor> the <hi>left wing</hi> of an army:] the pl. of <foreign lang="ar">yasaArN</foreign> is <foreign lang="ar">yusurN</foreign> (Lh, M, K) and <foreign lang="ar">yusorN</foreign>, (K,) or <foreign lang="ar">yusarN</foreign>; (AHn, M;) which last is [also] pl. of 
+							<anchor type="arrow"><foreign lang="ar">yusoraY↓</foreign></anchor>; (TA;) [and the pl. of 
+							<anchor type="arrow"><foreign lang="ar">mayosarapN↓</foreign></anchor> is <foreign lang="ar">mayaAsiru</foreign>.] You say, <foreign lang="ar">qaEada fulaAnN</foreign> 
+							<anchor type="arrow"><foreign lang="ar">yasorapF↓</foreign></anchor> 
 								<hi>Such a one sat on the left side.</hi> (S.) And 
-							↓<orth type="arrow" lang="ar">qaEaduwA yamonapF wayasorapF</orth>, (A, Msb *,) and <foreign lang="ar">EalaY yamiynK</foreign> 
+							<anchor type="arrow"><foreign lang="ar">qaEaduwA yamonapF wayasorapF↓</foreign></anchor>, (A, Msb *,) and <foreign lang="ar">EalaY yamiynK</foreign> 
 								<foreign lang="ar">wayasaArK</foreign>, and 
-							↓<orth type="arrow" lang="ar">AlyumonaY waAloyusoraY</orth>, and 
-							↓<orth type="arrow" lang="ar">Almayomanapi waAlomayosarapi</orth>, (A,) or <foreign lang="ar">yamiynFAwayasaArFA</foreign>, and <foreign lang="ar">Eani Aloyamiyni waEani AloyasaAri</foreign>, and <foreign lang="ar">AlyumonaY waAloyusoraY</foreign>, and <foreign lang="ar">Almayomanapi waAlomayosarapi</foreign>, meaning, <hi>They sat on the right side and on the left.</hi> (Msb.) And 
-							↓<orth type="arrow" lang="ar">wal~aAhu mayaAsirahu</orth> [<hi>He turned his left parts towards him</hi>]. (A.)
-					</entryFree>
-					<entryFree id="n42465" key="yisaArN" type="main">
+							<anchor type="arrow"><foreign lang="ar">AlyumonaY waAloyusoraY↓</foreign></anchor>, and 
+							<anchor type="arrow"><foreign lang="ar">Almayomanapi waAlomayosarapi↓</foreign></anchor>, (A,) or <foreign lang="ar">yamiynFAwayasaArFA</foreign>, and <foreign lang="ar">Eani Aloyamiyni waEani AloyasaAri</foreign>, and <foreign lang="ar">AlyumonaY waAloyusoraY</foreign>, and <foreign lang="ar">Almayomanapi waAlomayosarapi</foreign>, meaning, <hi>They sat on the right side and on the left.</hi> (Msb.) And 
+							<anchor type="arrow"><foreign lang="ar">wal~aAhu mayaAsirahu↓</foreign></anchor> [<hi>He turned his left parts towards him</hi>]. (A.)
+					</entry>
+					<entry type="main" id="n42465" key="yisaArN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yisaArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yasaArN</foreign>.
-					</entryFree>
-					<entryFree id="n42466" key="yasuwrN" type="main">
+					</entry>
+					<entry type="main" id="n42466" key="yasuwrN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yasuwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaAsirN</foreign>, in two places.
-					</entryFree>
-					<entryFree id="n42467" key="yasiyrN" type="main">
+					</entry>
+					<entry type="main" id="n42467" key="yasiyrN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yasiyrN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -868,22 +897,22 @@
 						＝
 						-A3-
 							See also <foreign lang="ar">yaAsirN</foreign>.
-					</entryFree>
-					<entryFree id="n42468" key="yasaArapN" type="main">
+					</entry>
+					<entry type="main" id="n42468" key="yasaArapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yasaArapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yusorN</foreign>.
-					</entryFree>
-					<entryFree id="n42469" key="yas~aArN" type="main">
+					</entry>
+					<entry type="main" id="n42469" key="yas~aArN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yas~aArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yasaArN</foreign>.
-					</entryFree>
-					<entryFree id="n42470" key="yaAsirN" type="main">
+					</entry>
+					<entry type="main" id="n42470" key="yaAsirN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaAsirN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -899,21 +928,21 @@
 						-b2-
 								[Hence,] The <hi>slaughterer of a camel:</hi> (K, TA:) because he divides its flesh into portions: (TA:) the <hi>person who superintends the division of the slaughtered camel</hi> (M, K) <hi>for the game called</hi> 
 								<foreign lang="ar">Almayosir</foreign>: (K:) pl. [<foreign lang="ar">yaAsiruwna</foreign> and] <foreign lang="ar">A^ayosaArN</foreign>: (M, K:) A'Obeyd says, I have heard them put <foreign lang="ar">yaAsirN</foreign> in the place of <foreign lang="ar">yasarN</foreign>, [for the explanations of which see what follows,] and 
-							↓<orth type="arrow" lang="ar">yasarN</orth> in the place of <foreign lang="ar">yaAsirN</foreign>, (M,) or 
-							↓<orth type="arrow" lang="ar">yasarN</orth> and <foreign lang="ar">yaAsirN</foreign> signify the same: and the pl. is <foreign lang="ar">A^ayosaArN</foreign>: (S, A:) <foreign lang="ar">yaAsirN</foreign> signifies [as explained above, and also] <hi>a person who plays with gaming-arrows,</hi> (S, Msb, TA,) [<hi>at the</hi>
+							<anchor type="arrow"><foreign lang="ar">yasarN↓</foreign></anchor> in the place of <foreign lang="ar">yaAsirN</foreign>, (M,) or 
+							<anchor type="arrow"><foreign lang="ar">yasarN↓</foreign></anchor> and <foreign lang="ar">yaAsirN</foreign> signify the same: and the pl. is <foreign lang="ar">A^ayosaArN</foreign>: (S, A:) <foreign lang="ar">yaAsirN</foreign> signifies [as explained above, and also] <hi>a person who plays with gaming-arrows,</hi> (S, Msb, TA,) [<hi>at the</hi>
 						<pb n="2978"/> 
 								<hi>game called</hi> 
 								<foreign lang="ar">Almayosir</foreign>,] <hi>for a slaughtered camel;</hi> because he is one of those who occasion the slaughter of the camel; and the pl. is [as above and] <foreign lang="ar">yaAsiruwna</foreign>: (TA:) and 
-							↓<orth type="arrow" lang="ar">yasarN</orth>, <hi>i. q.</hi> 
+							<anchor type="arrow"><foreign lang="ar">yasarN↓</foreign></anchor>, <hi>i. q.</hi> 
 								<foreign lang="ar">DariybN</foreign> [which signifies <hi>the same;</hi> and the <hi>person who is entrusted, as deputy, with the disposal of the arrows in the game above mentioned, and who shuffles them in the</hi> 
 								<foreign lang="ar">ribaAbap</foreign>:] and, [as quasi-pl. of <foreign lang="ar">yaAsirN</foreign>, like as <foreign lang="ar">xadamN</foreign> is of <foreign lang="ar">xaAdimN</foreign>,] <hi>a party assembled together at the game called</hi> 
 								<foreign lang="ar">Almayosir</foreign>: (M, K:) pl. <foreign lang="ar">A^ayosaArN</foreign>: (M:) and 
-							↓<orth type="arrow" lang="ar">yasiyrN</orth> and 
-							↓<orth type="arrow" lang="ar">yasuwrN</orth> signify <hi>one who contends with another at a game of hazard;</hi> syn. <foreign lang="ar">qaAmirN</foreign>: (K:) or 
-							↓<orth type="arrow" lang="ar">yasarN</orth> and 
-							↓<orth type="arrow" lang="ar">yasuwrN</orth>, and also <foreign lang="ar">yaAsirN</foreign>, are applied to <hi>one who has,</hi> or <hi>to whom pertains, a gamingarrow.</hi> (IAar, TA.)
-					</entryFree>
-					<entryFree id="n42471" key="A^ayosaru" type="main">
+							<anchor type="arrow"><foreign lang="ar">yasiyrN↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">yasuwrN↓</foreign></anchor> signify <hi>one who contends with another at a game of hazard;</hi> syn. <foreign lang="ar">qaAmirN</foreign>: (K:) or 
+							<anchor type="arrow"><foreign lang="ar">yasarN↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">yasuwrN↓</foreign></anchor>, and also <foreign lang="ar">yaAsirN</foreign>, are applied to <hi>one who has,</hi> or <hi>to whom pertains, a gamingarrow.</hi> (IAar, TA.)
+					</entry>
+					<entry type="main" id="n42471" key="A^ayosaru">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^ayosaru</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -922,29 +951,29 @@
 						＝
 						-A2-
 							See also <foreign lang="ar">yasaArN</foreign>.
-					</entryFree>
-					<entryFree id="n42472" key="mwsirN" type="main">
+					</entry>
+					<entry type="main" id="n42472" key="mwsirN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mwsirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[originally <foreign lang="ar">muyosirN</foreign>,] <hi>Possessing competence,</hi> or <hi>sufficiency;</hi> or <hi>rich,</hi> or <hi>wealthy,</hi> or <hi>opulent:</hi> (M, K:) pl. <foreign lang="ar">mayaAsiyru</foreign>: (Sb, M, K:) [like <foreign lang="ar">mafaAliysu</foreign>, pl. of <foreign lang="ar">mufolisN</foreign>; and <foreign lang="ar">mafaATiyru</foreign>, pl. of <foreign lang="ar">mufoTirN</foreign>; as though the sing. were <foreign lang="ar">mayosuwrN</foreign>:] but by rule it should be <foreign lang="ar">muwsiruwna</foreign>, for the masc., and <foreign lang="ar">muwsiraAtN</foreign> for the fem. (Abu-l-Hasan, M.)
-					</entryFree>
-					<entryFree id="n42473" key="mayosurN" type="main">
+					</entry>
+					<entry type="main" id="n42473" key="mayosurN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayosurN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yusorN</foreign>.
-					</entryFree>
-					<entryFree id="n42474" key="mayosirN" type="main">
+					</entry>
+					<entry type="main" id="n42474" key="mayosirN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayosirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <hi>game,</hi> or <hi>play, with unfeathered and headless arrows;</hi> (M, K;) the <hi>game of hazard which the Arabs play with such arrows;</hi> (S, Mgh, Msb;) <hi>a game of the Arabs, played</hi> [<hi>by ten men,</hi>] <hi>with ten unfeathered and headless arrows:</hi> they first slaughtered a camel, [bought on credit, (see below, in this paragraph,)] and divided it into ten portions, or, as some say, [agreeably with what follows,] into twenty-eight: the first arrow was called <foreign lang="ar">Alfa*~u</foreign>, and had [one notch and] one portion of the slaughtered camel: the second, <foreign lang="ar">Alt~awo'amu</foreign>, and had [two notches and] two portions: the third, <foreign lang="ar">Alr~aqiybu</foreign>, and had [three notches and] three portions: the fourth, <foreign lang="ar">AlHilosu</foreign>, and had [four notches and] four portions: the fifth, <foreign lang="ar">Aln~aAfisu</foreign>, and had [five notches and] five portions; or, as some say, this was the fourth: the sixth, <foreign lang="ar">Almusobilu</foreign>, and had [six notches and] six portions: the seventh, <foreign lang="ar">AlmuEal~aY</foreign>, which was the highest of them, having [seven notches and] seven portions: the eighth and ninth and tenth were called <foreign lang="ar">Als~afiyHu</foreign> and <foreign lang="ar">AlmaniyHu</foreign> and <foreign lang="ar">Alwagodu</foreign>; and these three had no portions: [the players to whom these three fell had to pay for the slaughtered camel: (see <foreign lang="ar">Almusobilu</foreign>:) whence it appears, that if the camel was divided into ten portions, (see <foreign lang="ar">rayomN</foreign>,) the game must have continued after all these were won, until it was seen whose were the eighth and ninth and tenth arrows; and it seems to be the general opinion that this was the case:] the camel being slaughtered, they collected together the ten arrows, and put them into the <foreign lang="ar">ribaAbap</foreign>, a thing resembling a quiver (<foreign lang="ar">kinaAnap</foreign>), and turned them round about or shuffled them (<foreign lang="ar">A^ajaAluwhaA</foreign>): [or they employed a person, whom they called <foreign lang="ar">HuroDap</foreign>, to do this:] then they put them into the hand of the judge (<foreign lang="ar">AlHakam</foreign>), who took them forth one after another in the name of one after another of the party; [or they commissioned the <foreign lang="ar">HuroDah</foreign> to do so;] and each took of the portions of the slaughtered camel according to his arrow; but those to whose lots fell the arrows without portions were obliged to pay the price of the slaughtered camel: with the flesh of which they afterwards fed the poor; and him who would not engage with them in the game they reproached, and called a <foreign lang="ar">baram</foreign>: (Sefeenet Er-Rághib, printed at Boolák; p. 637:) [see also <foreign lang="ar">raqiybN</foreign>, and <foreign lang="ar">DariybN</foreign>, and <foreign lang="ar">Ea$orN</foreign>:] or <hi>any game of hazard;</hi> or <hi>play for stakes, or wagers:</hi> (K:) so that even the game of children with walnuts is included under this name by Mujáhid in his explanation of verse 216 of chap. ii. of the Kur.: (TA:) or <hi>anything in which is risk, or hazard:</hi> (Kull, p. 321:) or the <hi>game of tricktrack, backgammon,</hi> or <hi>tables;</hi> syn. <foreign lang="ar">narodN</foreign>: (Sgh, K:) and <hi>chess</hi> was called by 'Alee the <foreign lang="ar">mayosir</foreign> of the Persians, or foreigners: (TA:) or the <hi>slaughtered camel for which they played:</hi> for when they desired to play, they bought on credit a camel for slaughter, and slaughtered it, and divided it into twentyeight portions, or ten portions; and when one [of the arrows] after another came forth [from the <foreign lang="ar">ribaAbap</foreign>] in the name of one man after another, the gain of him for whom came forth those to which belonged portions appeared, and the fine of him for whom came forth [any of the arrows called] the <foreign lang="ar">gufol</foreign>: (K:) so called as though it were a place of division: and so used by the poet Lebeed, who speaks of a fat <foreign lang="ar">mayosir</foreign>. (TA.)
-					</entryFree>
-					<entryFree id="n42475" key="mayosarapN" type="main">
+					</entry>
+					<entry type="main" id="n42475" key="mayosarapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayosarapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -953,22 +982,22 @@
 						＝
 						-A2-
 							See also <foreign lang="ar">yasaArN</foreign>, in four places.
-					</entryFree>
-					<entryFree id="n42476" key="mayosurapN" type="main">
+					</entry>
+					<entry type="main" id="n42476" key="mayosurapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayosurapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yusorN</foreign>.
-					</entryFree>
-					<entryFree id="n42477" key="mayosirapN" type="main">
+					</entry>
+					<entry type="main" id="n42477" key="mayosirapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayosirapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yusorN</foreign>.
-					</entryFree>
-					<entryFree id="n42478" key="muyas~arN" type="main">
+					</entry>
+					<entry type="main" id="n42478" key="muyas~arN">
 						<form>
 							<orth orig="" extent="full" lang="ar">muyas~arN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -979,16 +1008,16 @@
 							<hi>I. q.</hi> 
 								<foreign lang="ar">zumaAwarodN</foreign> [q. v.]; (Mgh, K;) app. a post-classical word; so called because easily taken; (Mgh;) in Persian, called <foreign lang="ar">nuwaAlaho</foreign> [or <foreign lang="ar">nawaAlaho</foreign>], (Mgh, K,) and in Egypt termed <foreign lang="ar">luqomapu</foreign> 
 								<foreign lang="ar">AlqaADiY</foreign>. (TA.)
-					</entryFree>
-					<entryFree id="n42479" key="muyas~irN" type="main">
+					</entry>
+					<entry type="main" id="n42479" key="muyas~irN">
 						<form>
 							<orth orig="" extent="full" lang="ar">muyas~irN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, applied to a man, (S, TA,) <hi>Having numerous offspring of sheep</hi> or <hi>goats</hi> [<hi>and</hi> therefore <hi>much milk</hi>]; (TA;) <hi>contr. of</hi> 
 								<foreign lang="ar">mujan~ibN</foreign>. (S, TA.)
-					</entryFree>
-					<entryFree id="n42480" key="mayosuwrN" type="main">
+					</entry>
+					<entry type="main" id="n42480" key="mayosuwrN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayosuwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -997,42 +1026,42 @@
 						＝
 						-A2-
 							and see also <foreign lang="ar">yusorN</foreign>.
-					</entryFree>
-					<entryFree id="n42481" key="mayaAsiru" type="main">
+					</entry>
+					<entry type="main" id="n42481" key="mayaAsiru">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayaAsiru</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								She-camels <hi>that bring forth easily.</hi> (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="y$b" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="y$b">
 					<head>
 								<foreign lang="ar">y$b</foreign>
 					</head>
-					<entryFree id="n42482" key="ya$obN" type="main">
+					<entry type="main" id="n42482" key="ya$obN">
 						<form>
 							<orth orig="" extent="full" lang="ar">ya$obN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A well known stone;</hi> [<hi>jasper;</hi> peenliarly <hi>a whitish kind thereof, found in Mount Imaus:</hi> (Golius, from Et-Teyfáshee:)] an arabicized word, from [the Persian] <foreign lang="ar">ya$om</foreign>, q. v. (K.)
-					</entryFree>
-				</div2>
-				<div2 n="yTb" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yTb">
 					<head>
 								<foreign lang="ar">yTb</foreign>
 					</head>
-					<entryFree id="n42483" key="maA A^ayoTabahu" type="main">
+					<entry type="main" id="n42483" key="maA A^ayoTabahu">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">maA A^ayoTabahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>i. q.</hi> 
 								<foreign lang="ar">maA A^aToyabahu</foreign>: (K:) a dial. form of the latter, or formed from it by transposition: (TA:) and in like manner <foreign lang="ar">A^ayoTibo bihi</foreign>, <hi>i. q.</hi> 
 								<foreign lang="ar">A^aToyibo bihi</foreign>: [both signifying <hi>How good, sweet, delicious,</hi> or <hi>pleasant, is he,</hi> or <hi>it</hi>]. (TA, art. <foreign lang="ar">Tyb</foreign>.)
-					</entryFree>
-					<entryFree id="n42484" key="A^ayoTabu" type="main">
+					</entry>
+					<entry type="main" id="n42484" key="A^ayoTabu">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^ayoTabu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1044,22 +1073,22 @@
 						-b2-
 								<foreign lang="ar">A^aqobalati Al$~aApu fiY</foreign> 
 								<foreign lang="ar">A^ayoTabatihaA</foreign>, and <foreign lang="ar">A^ayoTab~atihaA</foreign>, (the latter form from AZ, TA,) <hi>The sheep,</hi> or <hi>goat, came in the vehemence of her lust for the male.</hi> (K.) See also art. <foreign lang="ar">Tyb</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="yEr &amp;c." type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yEr &amp;c.">
 					<head>
 								<foreign lang="ar">yEr</foreign> &amp;c.
 					</head>
-					<entryFree>See Supplement
-					</entryFree>
-				</div2>
-				<div2 n="yfx" type="root">
+					<entry>See Supplement
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yfx">
 					<head>
 								<foreign lang="ar">yfx</foreign>
 					</head>
-					<entryFree id="n42485" key="yafaxahu" type="main">
+					<entry type="main" id="n42485" key="yafaxahu">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">yafaxahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1077,8 +1106,8 @@
 						</form>
 								, as though it were of the same class as <foreign lang="ar">waEada</foreign>, (TA,) [the last is probably the most correct form, as <foreign lang="ar">yaA^ofixuhu</foreign> is the aor. of <foreign lang="ar">A^afaxahu</foreign>, of which <foreign lang="ar">yafaxahu</foreign> is a dial. form,] <hi>He,</hi> or <hi>it, hit him,</hi> or <hi>hurt him, on the part of his head called the</hi> 
 								<foreign lang="ar">yaAfuwx</foreign>. (K.)
-					</entryFree>
-					<entryFree id="n42486" key="yaAfuwxN" type="main">
+					</entry>
+					<entry type="main" id="n42486" key="yaAfuwxN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaAfuwxN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1086,51 +1115,54 @@
 								[The <hi>top of the head;</hi>] the <hi>part where the anterior and posterior bones of the head meet:</hi> [see <foreign lang="ar">yaA^ofuwxN</foreign>, of which it is a dial. form:] pl. <foreign lang="ar">yawaAfiyxu</foreign>. (TA.) ISd regards this form of pl. as an indication that the <foreign lang="ar">Y</foreign> is a radical letter, and therefore mentions it in this art.; (TA;) [and F says the same in art. <foreign lang="ar">A^fx</foreign>: but see that art.].
 						―
 						-b2-
-								<foreign lang="ar">mas~a biyaAfuwxihi Als~imaAka</foreign> (assumed tropical:)  [<hi>He touched Spica Virginis,</hi> or <hi>Arcturus, with the top of his head</hi>]. (A.)
+								<foreign lang="ar">mas~a biyaAfuwxihi Als~imaAka</foreign> (assumed tropical:) 
+								[<hi>He touched Spica Virginis,</hi> or <hi>Arcturus, with the top of his head</hi>]. (A.)
 						―
 						-b3-
-								<foreign lang="ar">waTiy^a fulaAnN yawaAfiyxa Alquruwmi</foreign> (assumed tropical:)  <hi>Such a one had lordship and eminence given to him.</hi> (A.)
+								<foreign lang="ar">waTiy^a fulaAnN yawaAfiyxa Alquruwmi</foreign> (assumed tropical:) 
+								<hi>Such a one had lordship and eminence given to him.</hi> (A.)
 						―
 						-b4-
-								<foreign lang="ar">SadaEuwA yaAfuwxa All~ayoli</foreign> (tropical:)  <hi>i. q.</hi> 
+								<foreign lang="ar">SadaEuwA yaAfuwxa All~ayoli</foreign> (tropical:) 
+								<hi>i. q.</hi> 
 								<foreign lang="ar">A^adolajuwA</foreign> [<hi>They journeyed in the night; &amp;c.</hi>] (A.) [See also art. <foreign lang="ar">A^fx</foreign>.]
 						<pb n="2979"/>
-					</entryFree>
-					<entryFree id="n42487" key="mayofuwxN" type="main">
+					</entry>
+					<entry type="main" id="n42487" key="mayofuwxN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mayofuwxN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Hit,</hi> or <hi>hurt, on the part of his head called the</hi> 
 								<foreign lang="ar">yaAfuwx</foreign>. (K.)
-					</entryFree>
-				</div2>
-				<div2 n="yfE &amp;c." type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yfE &amp;c.">
 					<head>
 								<foreign lang="ar">yfE</foreign> &amp;c.
 					</head>
-					<entryFree>See Supplement
-					</entryFree>
-				</div2>
-				<div2 n="yqt" type="root">
+					<entry>See Supplement
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yqt">
 					<head>
 								<foreign lang="ar">yqt</foreign>
 					</head>
-					<entryFree id="n42488" key="yaAquwtN" type="main">
+					<entry type="main" id="n42488" key="yaAquwtN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaAquwtN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, [coll. gen. n., The <hi>sapphire,</hi> of whatever variety: the <hi>ruby, oriental ruby,</hi> or <hi>red sapphire,</hi> also called <foreign lang="ar">yAqwtN A^aHomaru</foreign>; of which there are several varieties, whereof one is the <hi>carbuncle;</hi> also called <foreign lang="ar">yAqwtN jamoriY~N</foreign>: the <hi>sapphire,</hi> commonly so called, or <hi>blue sapphire,</hi> also called <foreign lang="ar">yAqwtN A^azoraqu</foreign>: and the <hi>topaz, oriental topaz,</hi> or <hi>yellow sapphire,</hi> also called <foreign lang="ar">yAqwtN A^aSofaru</foreign>: the <hi>jacinth,</hi> or <hi>hyacinth,</hi> accord. to Golius, who observes, as on the authority of the Teyfáshee, that by this name are called <hi>various gems of the East;</hi> four species thereof being enumerated; the <hi>red,</hi> the <hi>yellow,</hi> or <hi>gold-coloured,</hi> the <hi>blue,</hi> or <hi>azure,</hi> and the <hi>white:</hi> that the <hi>sapphire</hi> and the <hi>chrysolite</hi> are also thus called: but that, by the word used absolutely, the <hi>red jacinth,</hi> or <hi>hyacinth,</hi> commonly called the <hi>ruby,</hi> is meant: which last remark is agreeable with modern usage:] <hi>a well known gem;</hi> (K;) of which there are many varieties, (TA,) the most excellent whereof is that called <foreign lang="ar">AlyAqwtu AlA^aHomaru Alr~um~aAniY~u</foreign>, (K,) also called <foreign lang="ar">AlbahoramaAniY~u</foreign>; [the <hi>finest kind of ruby</hi> or <hi>carbuncle;</hi>] said to be brought from Sarandeeb [or Ceylon]: it has the property of exhilarating, and of conjoining [separated friends]; (TA;) and is profitable for disturbance of the mind (occasioned by the black bile, TA) and palpitation, and weakness of the heart and stomach, if drunk; [being app. reduced to powder for that purpose, as is done with some other gems in the East;] and for congealment of the blood, if hung [upon the person]: (K:) it is a Persian word, (S,) arabicized: (S, K:) of the measure <foreign lang="ar">faAEuwlN</foreign>: n. un. with <foreign lang="ar">p</foreign>; and pl. <foreign lang="ar">yawAqiytu</foreign>. (S.)
-					</entryFree>
-				</div2>
-				<div2 n="yqZ" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yqZ">
 					<head>
 								<foreign lang="ar">yqZ</foreign>
 					</head>
-					<entryFree id="n42489" key="yaqiZa" type="main">
+					<entry type="main" id="n42489" key="yaqiZa">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">yaqiZa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1146,109 +1178,118 @@
 						―
 						-b2-
 							See also 5.
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth lang="ar">yaq~aZa</orth>
 						</form>
 								See 4, throughout.
-					</entryFree>
-					<entryFree id="n42490" key="AyqZhu" type="main">
+					</entry>
+					<entry type="main" id="n42490" key="AyqZhu">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AyqZhu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(S, &amp;c.) inf. n. <foreign lang="ar">A_iyqaAZN</foreign>, (TA,) <hi>He awakened him,</hi> (S, Mgh, Msb, K,) <foreign lang="ar">mino niwomihi</foreign> 
 								<hi>from his sleep;</hi> (S;) as also 
-							↓<orth type="arrow" lang="ar">yq~Zhu</orth>, inf. n. <foreign lang="ar">tayoqiyZN</foreign>; (K;) and 
-							↓<orth type="arrow" lang="ar">AstyqZhu</orth>. (TA.)
+							<anchor type="arrow"><foreign lang="ar">yq~Zhu↓</foreign></anchor>, inf. n. <foreign lang="ar">tayoqiyZN</foreign>; (K;) and 
+							<anchor type="arrow"><foreign lang="ar">AstyqZhu↓</foreign></anchor>. (TA.)
 						―
 						-b2-
-								(tropical:)  <hi>He roused his attention,</hi> 
+								(tropical:) 
+								<hi>He roused his attention,</hi> 
 								<foreign lang="ar">liloA^umuwri</foreign> 
 								<hi>to the things,</hi> or <hi>affairs;</hi> (Msb;) as also <foreign lang="ar">yq~Zhu</foreign>. (TA.)
 						―
 						-b3-
 								<foreign lang="ar">AyqZ</foreign> 
-								<foreign lang="ar">AlgubaAra</foreign> (tropical:)  <hi>He dispersed the dust:</hi> (Lth:) and (assumed tropical:)  <hi>he raised the dust;</hi> (Lth, S, Z;) as also 
-							↓<orth type="arrow" lang="ar">yq~Zhu</orth>: (Lth, S:) or, accord. to Az, this is a mistranscription, for <foreign lang="ar">baq~aTa Alt~uraAba</foreign>, inf. n. <foreign lang="ar">taboqiyTN</foreign>. (TA.)
-					</entryFree>
-					<entryFree id="n42491" key="tyq~Z" type="main">
+								<foreign lang="ar">AlgubaAra</foreign> (tropical:) 
+								<hi>He dispersed the dust:</hi> (Lth:) and (assumed tropical:) 
+								<hi>he raised the dust;</hi> (Lth, S, Z;) as also 
+							<anchor type="arrow"><foreign lang="ar">yq~Zhu↓</foreign></anchor>: (Lth, S:) or, accord. to Az, this is a mistranscription, for <foreign lang="ar">baq~aTa Alt~uraAba</foreign>, inf. n. <foreign lang="ar">taboqiyTN</foreign>. (TA.)
+					</entry>
+					<entry type="main" id="n42491" key="tyq~Z">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tyq~Z</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He became awakened;</hi> or <hi>he awaked,</hi> or <hi>awoke;</hi> (S, Msb, TA;) <foreign lang="ar">mino nawomihi</foreign> 
 								<hi>from his sleep;</hi> (TA;) as also 
-							↓<orth type="arrow" lang="ar">AstyqZ</orth>. (S, Mgh, Msb, K.)
+							<anchor type="arrow"><foreign lang="ar">AstyqZ↓</foreign></anchor>. (S, Mgh, Msb, K.)
 						―
 						-b2-
-								(tropical:)  <hi>His attention became roused,</hi> or <hi>he had his attention roused,</hi> 
+								(tropical:) 
+								<hi>His attention became roused,</hi> or <hi>he had his attention roused,</hi> 
 								<foreign lang="ar">liloA^amori</foreign> 
 								<hi>to the thing,</hi> or <hi>affair;</hi> (Msb, * TA;) as also 
-							↓<orth type="arrow" lang="ar">AstyqZ</orth>, and 
-							↓<orth type="arrow" lang="ar">yaqiZa</orth>: (Msb:) <hi>he became vigilant, wary,</hi> or <hi>cautious.</hi> (TA.) You say also, <foreign lang="ar">A_ilaY Sawotihi</foreign> 
-							↓<orth type="arrow" lang="ar">huwa yasotayoqiZu</orth> (tropical:)  [<hi>He has his attention roused at his voice,</hi> to listen thereto]. (TA.)
-					</entryFree>
-					<entryFree>
+							<anchor type="arrow"><foreign lang="ar">AstyqZ↓</foreign></anchor>, and 
+							<anchor type="arrow"><foreign lang="ar">yaqiZa↓</foreign></anchor>: (Msb:) <hi>he became vigilant, wary,</hi> or <hi>cautious.</hi> (TA.) You say also, <foreign lang="ar">A_ilaY Sawotihi</foreign> 
+							<anchor type="arrow"><foreign lang="ar">huwa yasotayoqiZu↓</foreign></anchor> (tropical:) 
+								[<hi>He has his attention roused at his voice,</hi> to listen thereto]. (TA.)
+					</entry>
+					<entry>
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth lang="ar">A_isotayoqaZa</orth>
 						</form>
 								<foreign lang="ar">AstyqZ</foreign>: see 5, in three places.
 						―
 						-b2-
-								(tropical:)  <hi>It</hi> (a woman's anklet or other ornament) <hi>made a sound</hi> or <hi>sounds:</hi> (K, TA:) like as one says [in the contr. case], <foreign lang="ar">naAma</foreign>, meaning “ its sound, or sounds, ceased, ” by reason of the fulness of the leg. (TA.)
+								(tropical:) 
+								<hi>It</hi> (a woman's anklet or other ornament) <hi>made a sound</hi> or <hi>sounds:</hi> (K, TA:) like as one says [in the contr. case], <foreign lang="ar">naAma</foreign>, meaning “ its sound, or sounds, ceased, ” by reason of the fulness of the leg. (TA.)
 						＝
 						-A2-
 								<foreign lang="ar">AstyqZhu</foreign>: see 4.
-					</entryFree>
-					<entryFree id="n42492" key="yaqoZN" type="main">
+					</entry>
+					<entry type="main" id="n42492" key="yaqoZN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaqoZN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see what next follows, in three places.
-					</entryFree>
-					<entryFree id="n42493" key="yaqiZN" type="main">
+					</entry>
+					<entry type="main" id="n42493" key="yaqiZN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaqiZN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and 
-							↓<orth type="arrow" lang="ar">yaqoZN</orth> and 
-							↓<orth type="arrow" lang="ar">yaqoZaAnN</orth> A man <hi>waking,</hi> or <hi>awake: not sleeping:</hi> (K:) or the last has this signification; (S, Msb;) and its fem. is <foreign lang="ar">yaqoZaY</foreign>: (O, Msb, K:) the pl. (K, &amp;c.) of the first (IB, Msb) and second, (IB,) or of the first only, for the second has no broken pl., because of the rareness of <foreign lang="ar">faEulN</foreign> as the measure of an epithet, (Sb, TA,) is <foreign lang="ar">A^ayoqaAZN</foreign>, (Sb, IB, Msb, K,) which is applied to women as well as to men; (O;) and the pl. of <foreign lang="ar">yqZAn</foreign> is <foreign lang="ar">yiqaAZN</foreign>; (IB;) and the pl. of <foreign lang="ar">yqZY</foreign> is <foreign lang="ar">yaqaAZaY</foreign>. (K.)
+							<anchor type="arrow"><foreign lang="ar">yaqoZN↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">yaqoZaAnN↓</foreign></anchor> A man <hi>waking,</hi> or <hi>awake: not sleeping:</hi> (K:) or the last has this signification; (S, Msb;) and its fem. is <foreign lang="ar">yaqoZaY</foreign>: (O, Msb, K:) the pl. (K, &amp;c.) of the first (IB, Msb) and second, (IB,) or of the first only, for the second has no broken pl., because of the rareness of <foreign lang="ar">faEulN</foreign> as the measure of an epithet, (Sb, TA,) is <foreign lang="ar">A^ayoqaAZN</foreign>, (Sb, IB, Msb, K,) which is applied to women as well as to men; (O;) and the pl. of <foreign lang="ar">yqZAn</foreign> is <foreign lang="ar">yiqaAZN</foreign>; (IB;) and the pl. of <foreign lang="ar">yqZY</foreign> is <foreign lang="ar">yaqaAZaY</foreign>. (K.)
 						―
 						-b2-
-							And the first (ISk, S, Msb) and ↓ second (ISk, S) (tropical:)  A man <hi>vigilant, wary, cautious,</hi> or <hi>in a state of preparation;</hi> (S, Msb;) <hi>having his attention roused:</hi> (S:) and <hi>intelligent:</hi> (Msb:) or a man <hi>having his attention much roused, very vigilant, and possessing knowledge and intelligence.</hi> (ISk.) [In the TA, each of these two epithets is said to be after the manner of the rel. n.; but they are both part. ns. from <foreign lang="ar">yaqiZa</foreign> as syn. with <foreign lang="ar">tyq~Z</foreign>.] You say also, <foreign lang="ar">Alfikori</foreign> 
-							↓<orth type="arrow" lang="ar">rajulN yaqoZaAnu</orth> and 
-							↓<orth type="arrow" lang="ar">mutayaq~iZuhu</orth> and <foreign lang="ar">yaqiZuhu</foreign> and 
-							↓<orth type="arrow" lang="ar">yaquZuhu</orth> (tropical:)  [<hi>A man vigilant in mind</hi>]. (TA.) And <foreign lang="ar">A_in~a fulaAnN layaqiZN</foreign> (assumed tropical:)  [<hi>Verily such a one is vigilant; not dull, heavy,</hi> or <hi>listless;</hi> lit.] <hi>light in head.</hi> (AA.)
-					</entryFree>
-					<entryFree id="n42494" key="yaqoZapN" type="main">
+							And the first (ISk, S, Msb) and <anchor type="arrow">↓second</anchor> (ISk, S) (tropical:) 
+								A man <hi>vigilant, wary, cautious,</hi> or <hi>in a state of preparation;</hi> (S, Msb;) <hi>having his attention roused:</hi> (S:) and <hi>intelligent:</hi> (Msb:) or a man <hi>having his attention much roused, very vigilant, and possessing knowledge and intelligence.</hi> (ISk.) [In the TA, each of these two epithets is said to be after the manner of the rel. n.; but they are both part. ns. from <foreign lang="ar">yaqiZa</foreign> as syn. with <foreign lang="ar">tyq~Z</foreign>.] You say also, <foreign lang="ar">Alfikori</foreign> 
+							<anchor type="arrow"><foreign lang="ar">rajulN yaqoZaAnu↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">mutayaq~iZuhu↓</foreign></anchor> and <foreign lang="ar">yaqiZuhu</foreign> and 
+							<anchor type="arrow"><foreign lang="ar">yaquZuhu↓</foreign></anchor> (tropical:) 
+								[<hi>A man vigilant in mind</hi>]. (TA.) And <foreign lang="ar">A_in~a fulaAnN layaqiZN</foreign> (assumed tropical:) 
+								[<hi>Verily such a one is vigilant; not dull, heavy,</hi> or <hi>listless;</hi> lit.] <hi>light in head.</hi> (AA.)
+					</entry>
+					<entry type="main" id="n42494" key="yaqoZapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaqoZapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see what next follows.
-					</entryFree>
-					<entryFree id="n42495" key="yaqaZapN" type="main">
+					</entry>
+					<entry type="main" id="n42495" key="yaqaZapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaqaZapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A state of waking,</hi> or <hi>being awake;</hi> (S, Mgh, K;) as also 
-							↓<orth type="arrow" lang="ar">yaqoZapN</orth>, occurring in the saying of the Et-Tihámee,
+							<anchor type="arrow"><foreign lang="ar">yaqoZapN↓</foreign></anchor>, occurring in the saying of the Et-Tihámee,
 							<quote>
 								<L><foreign lang="ar">AlEayo$u nawomN waAlomaniy~apu yaqoZapN</foreign></L>
 								<L><foreign lang="ar">waAlomaro'u bayonahumaA xayaAlN saAriY</foreign></L>
 							</quote>
 								[<hi>Life is a state of sleep, and death is a state of waking; and man between the two is a night journeying phantom</hi>]; but most hold it to be used only by poetic license. (TA.)
-					</entryFree>
-					<entryFree id="n42496" key="yaqoZaAnu" type="main">
+					</entry>
+					<entry type="main" id="n42496" key="yaqoZaAnu">
 						<form>
 							<orth orig="" extent="full" lang="ar">yaqoZaAnu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1258,34 +1299,35 @@
 						-b2-
 								<foreign lang="ar">A^abuw AlyaqoZaAni</foreign> 
 								<hi>The domestic cock.</hi> (K.)
-					</entryFree>
-					<entryFree id="n42497" key="maA raA^ayotu A^ayoqaZa minohu" type="main">
+					</entry>
+					<entry type="main" id="n42497" key="maA raA^ayotu A^ayoqaZa minohu">
 						<form>
 							<orth orig="" extent="full" lang="ar">maA raA^ayotu A^ayoqaZa minohu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								(tropical:)  [<hi>I have not seen any more vigilant, wary,</hi> or <hi>cautious, than he</hi>]. (TA.)
-					</entryFree>
-					<entryFree id="n42498" key="mutayaq~iZN" type="main">
+								(tropical:) 
+								[<hi>I have not seen any more vigilant, wary,</hi> or <hi>cautious, than he</hi>]. (TA.)
+					</entry>
+					<entry type="main" id="n42498" key="mutayaq~iZN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mutayaq~iZN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">yaqiZN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="yqn &amp;c." type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yqn &amp;c.">
 					<head>
 								<foreign lang="ar">yqn</foreign> &amp;c.
 					</head>
-					<entryFree>See Supplement
-					</entryFree>
-				</div2>
-				<div2 n="ylb" type="root">
+					<entry>See Supplement
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ylb">
 					<head>
 								<foreign lang="ar">ylb</foreign>
 					</head>
-					<entryFree id="n42499" key="yalabN" type="main">
+					<entry type="main" id="n42499" key="yalabN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yalabN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1324,86 +1366,86 @@
 						―
 						-b4-
 							Also, Anything <hi>great, big,</hi> or <hi>large in size.</hi> (K.)
-					</entryFree>
-				</div2>
-				<div2 n="ym &amp;c." type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ym &amp;c.">
 					<head>
 								<foreign lang="ar">ym</foreign> &amp;c.
 					</head>
-					<entryFree>See Supplement
-					</entryFree>
-				</div2>
-				<div2 n="ynbt" type="root">
+					<entry>See Supplement
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ynbt">
 					<head>
 								<foreign lang="ar">ynbt</foreign>
 					</head>
-					<entryFree id="n42500" key="yanobuwtN" type="main">
+					<entry type="main" id="n42500" key="yanobuwtN">
 						<form>
 							<orth orig="" extent="full" lang="ar">yanobuwtN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A certain thorny kind of tree, not of the kind called</hi> 
 								<foreign lang="ar">EiDaAh</foreign>. Mentioned here by IM. See art. <foreign lang="ar">nbt</foreign>. (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="ynbv" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ynbv">
 					<head>
 								<foreign lang="ar">ynbv</foreign>
 					</head>
-					<entryFree id="n42501" key="yanobiyv" type="main">
+					<entry type="main" id="n42501" key="yanobiyv">
 						<form>
 							<orth orig="" extent="full" lang="ar">yanobiyv</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A kind of sea-fish:</hi> (IAar, T:) different from the <foreign lang="ar">bayoniyv</foreign>: it is doubtful whether it be Arabic, or a foreign word introduced into the Arabic language. (T.) [See arts. <foreign lang="ar">bnv</foreign> and <foreign lang="ar">nbv</foreign>.]
-					</entryFree>
-				</div2>
-				<div2 n="yht" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yht">
 					<head>
 								<foreign lang="ar">yht</foreign>
 					</head>
-					<entryFree id="n42502" key="Ayht" type="main">
+					<entry type="main" id="n42502" key="Ayht">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">Ayht</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(as also <foreign lang="ar">Awht</foreign>, TA) <hi>It</hi> (flesh-meat, K, or a wound, TA) <hi>became stinking.</hi> (AZ, K.)
-					</entryFree>
-				</div2>
-				<div2 n="yhmt" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="yhmt">
 					<head>
 								<foreign lang="ar">yhmt</foreign>
 					</head>
-					<entryFree id="n42503" key="Alyahomuwtu" type="main">
+					<entry type="main" id="n42503" key="Alyahomuwtu">
 						<form>
 							<orth orig="" extent="full" lang="ar">Alyahomuwtu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A name of the fish upon which is the earth:</hi> erroneously written with <foreign lang="ar">b</foreign> [<foreign lang="ar">Albhmwt</foreign>]: so says Esh-Shiháb in the 'Imáyeh. (MF, TA.) [See my translation of the 1001 Nights, note to the Introduction.]
-					</entryFree>
-				</div2>
-				<div2 n="ywH" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ywH">
 					<head>
 								<foreign lang="ar">ywH</foreign>
 					</head>
-					<entryFree id="n42504" key="yuwHu" type="main">
+					<entry type="main" id="n42504" key="yuwHu">
 						<form>
 							<orth orig="" extent="full" lang="ar">yuwHu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, (so accord. to AHat, Mbr, AAF, Kr, Abu-l-'Ala El-Ma'arree, A,) [of the fem. gender, (see <foreign lang="ar">buwHu</foreign>,)] indecl., and without the art. <foreign lang="ar">Al</foreign> (ISd,) accord. to IAmb <foreign lang="ar">buwHu</foreign>, but this is a mistake originating from a corrupt transcription of the word, (IKh, IB, &amp;c.,) and <foreign lang="ar">yuwHi</foreign>, also indecl. like <foreign lang="ar">baraAHi</foreign>, (TA) and <foreign lang="ar">yuwHaY</foreign>, (IAth, K,) names of <hi>The sun.</hi> (S, art. <foreign lang="ar">bwH</foreign>, K, &amp;c.) [See <foreign lang="ar">buwHu</foreign>.]
-					</entryFree>
-				</div2>
-				<div2 n="ywm &amp;c." type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ywm &amp;c.">
 					<head>
 								<foreign lang="ar">ywm</foreign> &amp;c.
 					</head>
-					<entryFree>See Supplement
+					<entry>See Supplement
 						<pb n="2981"/> SUPPLEMENT TO PARTS VII. AND VIII.
-					</entryFree>
-				</div2>
+					</entry>
+				</superEntry>
 			</div1>
 		</body>
 	</text>
-</TEI.2>
+</TEI>
