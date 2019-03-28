@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI.2>
+<TEI>
 	<teiHeader type="text" status="new">
 		<fileDesc>
 			<titleStmt>
@@ -31,7 +31,6 @@
 			<sourceDesc>
 				<listBibl>
 					<biblStruct>
-						<analytic/>
 						<monogr>
 							<title>An Arabic-English Lexicon</title>
 							<imprint>
@@ -65,18 +64,17 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 n="k" type="alphabetical letter">
-					<head lang="ar">k
-					</head>
-				<div2 type="root" n="k">
-					<entryFree id="n42941" key="k" type="main">
+			<div1 type="alphabetical letter" n="k">
+				<head><foreign lang="ar">k</foreign></head>
+				<superEntry type="root" n="k">
+					<entry type="main" id="n42941" key="k">
 						<form>
-							<itype>alphabetical letter</itype>
+							<iType>alphabetical letter</iType>
 							<orth extent="full" lang="ar">k</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-					</entryFree>
-					<entryFree id="n42942" key="ka" type="main">
+					</entry>
+					<entry type="main" id="n42942" key="ka">
 						<form>
 							<orth orig="" extent="full" lang="ar">ka</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -113,15 +111,15 @@
 						―
 						-b9-
 								<foreign lang="ar">k</foreign> of allocution is varied like the pronominal affix of the sec. pers., accord. to the sex and number of the persons addressed: see exs. in the Kur, iii. 42 and xix. 21 (Flügel's ed., and Lees' Keshsháf), xii. 37, ii. 46, &amp;c., and xii. 32. But sometimes the same form is used in addressing a number of persons as in addressing one man: see, for ex., Kur, iv. 96.
-					</entryFree>
-				</div2>
-				<div2 n="kbn" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kbn">
 					<head>
 								<foreign lang="ar">kbn</foreign>
 					</head>
-					<entryFree id="n42943" key="kabana" type="main">
+					<entry type="main" id="n42943" key="kabana">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kabana</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -129,13 +127,13 @@
 						―
 						-b2-
 								<foreign lang="ar">kabana Alv~awoba</foreign>: see <foreign lang="ar">gabana</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kbA" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kbA">
 					<head>
 								<foreign lang="ar">kbA</foreign>
 					</head>
-					<entryFree id="n42944" key="kabaA" type="main">
+					<entry type="main" id="n42944" key="kabaA">
 						<form>
 							<orth orig="" extent="full" lang="ar">kabaA</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -148,33 +146,33 @@
 						-b3-
 								<foreign lang="ar">kabaA</foreign> 
 								<hi>He fell upon his face:</hi> (K, TA:) or so <foreign lang="ar">kabaA liwajohihi</foreign>: S, TA:) and <foreign lang="ar">kabAa</foreign> also signifies <foreign lang="ar">Eavara</foreign> [<hi>he stumbled,</hi> or <hi>tripped</hi>]. (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="kt" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kt">
 					<head>
 								<foreign lang="ar">kt</foreign>
 					</head>
-					<entryFree id="n42945" key="katokata" type="main">
+					<entry type="main" id="n42945" key="katokata">
 						<form type="R Q">
-							<itype>R. Q. 1</itype>
+							<iType>R. Q. 1</iType>
 							<orth orig="" extent="full" lang="ar">katokata</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">TaHoTaHa</foreign>.
-					</entryFree>
-					<entryFree id="n42946" key="kutokutN" type="main">
+					</entry>
+					<entry type="main" id="n42946" key="kutokutN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kutokutN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <hi>coarse part of silk, and of tow, &amp;c.</hi>
-					</entryFree>
-				</div2>
-				<div2 n="ktb" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ktb">
 					<head>
 								<foreign lang="ar">ktb</foreign>
 					</head>
-					<entryFree id="n42947" key="kitaAbN" type="main">
+					<entry type="main" id="n42947" key="kitaAbN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kitaAbN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -187,13 +185,13 @@
 						―
 						-b2-
 								<foreign lang="ar">A^aholu AlkitaAbi</foreign>: see <foreign lang="ar">A^aholN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="ktf" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ktf">
 					<head>
 								<foreign lang="ar">ktf</foreign>
 					</head>
-					<entryFree id="n42948" key="katifN" type="main">
+					<entry type="main" id="n42948" key="katifN">
 						<form>
 							<orth orig="" extent="full" lang="ar">katifN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -202,22 +200,22 @@
 						―
 						-b2-
 								[Hence, The <hi>shoulder</hi> itself.] See <foreign lang="ar">Tur~apN</foreign> and <foreign lang="ar">muw^ur~abN</foreign>.
-					</entryFree>
-					<entryFree id="n42949" key="kuitofAanN" type="main">
+					</entry>
+					<entry type="main" id="n42949" key="kuitofAanN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuitofAanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, as an epithet applied to the locust, see in TA, voce <foreign lang="ar">musay~aHN</foreign>. See also <foreign lang="ar">jaraAdN</foreign>.
-					</entryFree>
-					<entryFree id="n42950" key="kitaAfN" type="main">
+					</entry>
+					<entry type="main" id="n42950" key="kitaAfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kitaAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								of a <foreign lang="ar">zabiyl</foreign>: see <foreign lang="ar">HatiY~N</foreign>.
-					</entryFree>
-					<entryFree id="n42951" key="katiyfapN" type="main">
+					</entry>
+					<entry type="main" id="n42951" key="katiyfapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">katiyfapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -225,15 +223,15 @@
 								<hi>i. q.</hi> 
 								<foreign lang="ar">Dab~apN</foreign> 
 								<hi>A broad piece of iron.</hi> A poet speaks of a wooden vessel of which a fracture is mended with a <foreign lang="ar">ktyfp</foreign>. (S.)
-					</entryFree>
-				</div2>
-				<div2 n="ktl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ktl">
 					<head>
 								<foreign lang="ar">ktl</foreign>
 					</head>
-					<entryFree id="n42952" key="kat~alahu" type="main">
+					<entry type="main" id="n42952" key="kat~alahu">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">kat~alahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -241,31 +239,31 @@
 						―
 						-b2-
 							And <hi>He,</hi> or <hi>it, fattened him.</hi> (Kr, TA.)
-					</entryFree>
-					<entryFree id="n42953" key="takat~ala" type="main">
+					</entry>
+					<entry type="main" id="n42953" key="takat~ala">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takat~ala</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>It became compacted together in a mass; it became lumpy.</hi> See <foreign lang="ar">qiyda</foreign>, art. <foreign lang="ar">qwd</foreign>.
-					</entryFree>
-					<entryFree id="n42954" key="kutolapN" type="main">
+					</entry>
+					<entry type="main" id="n42954" key="kutolapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kutolapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A lump,</hi> or <hi>compact piece</hi> or <hi>portion,</hi> (S, M, * Msb, K,) of a thing, (Msb,) or of gum, &amp;c., (S,) or of dates, and of clay, &amp;c.: (M, K:) <hi>a piece,</hi> or <hi>portion,</hi> of dates packed together in a receptacle: (Mgh:) and <hi>a piece</hi> of flesh-meat. (K.)
-					</entryFree>
-					<entryFree id="n42955" key="ktlp" type="main">
+					</entry>
+					<entry type="main" id="n42955" key="ktlp">
 						<form>
 							<orth orig="" extent="full" lang="ar">ktlp</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>i. q.</hi> 
 								<foreign lang="ar">zabiylN</foreign>. (TA in art. <foreign lang="ar">HSn</foreign>.)
-					</entryFree>
-					<entryFree id="n42956" key="mikotalN" type="main">
+					</entry>
+					<entry type="main" id="n42956" key="mikotalN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mikotalN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -274,22 +272,22 @@
 								<foreign lang="ar">zinobiyl</foreign>, (Msb, K,) or <hi>thing like a</hi> 
 								<foreign lang="ar">zinobiyl</foreign>, [or <foreign lang="ar">zabiyl</foreign>,] (S,) <hi>holding fifteen measures of the quantity termed</hi> 
 								<foreign lang="ar">SaAE</foreign>; (S, K;) it is <hi>a thing</hi> [or <hi>basket</hi>] <hi>made of palm-leaves, in which dates, &amp;c., are carried.</hi> (Msb.)
-					</entryFree>
-					<entryFree id="n42957" key="mukat~alN" type="main">
+					</entry>
+					<entry type="main" id="n42957" key="mukat~alN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukat~alN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Round and compact;</hi> (K;) applied to a head: (TA:) <hi>short</hi> (S, K, TA) <hi>and strong:</hi> (TA:) a man <hi>thick in body,</hi> (K, TA,) <hi>compact therein, and inclining to shortness.</hi> (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="ktm" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ktm">
 					<head>
 								<foreign lang="ar">ktm</foreign>
 					</head>
-					<entryFree id="n42958" key="katama" type="main">
+					<entry type="main" id="n42958" key="katama">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">katama</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -301,31 +299,31 @@
 						―
 						-b2-
 								<foreign lang="ar">katama Alr~abowa</foreign>: see a verse cited in the last paragraph of art. <foreign lang="ar">Ewr</foreign>.
-					</entryFree>
-					<entryFree id="n42959" key="takat~ama" type="main">
+					</entry>
+					<entry type="main" id="n42959" key="takat~ama">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takat~ama</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(K, art. <foreign lang="ar">dls</foreign>) <hi>He</hi> (a man) <hi>concealed,</hi> or <hi>hid, himself.</hi> (T, K, same art.)
-					</entryFree>
-					<entryFree id="n42960" key="takaAtamuwA" type="main">
+					</entry>
+					<entry type="main" id="n42960" key="takaAtamuwA">
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">takaAtamuwA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>They practised concealment, one with another:</hi> see <foreign lang="ar">tadaAfanuwA</foreign>.
-					</entryFree>
-					<entryFree id="n42961" key="katuwmN" type="main">
+					</entry>
+					<entry type="main" id="n42961" key="katuwmN">
 						<form>
 							<orth orig="" extent="full" lang="ar">katuwmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A strict concealer of secrets.</hi>
-					</entryFree>
-					<entryFree id="n42962" key="kaAtimN" type="main">
+					</entry>
+					<entry type="main" id="n42962" key="kaAtimN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAtimN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -334,102 +332,104 @@
 						―
 						-b2-
 								<foreign lang="ar">fiY kaAtimi Als~ir~i</foreign>: see a verse cited in conj. 3 of art. <foreign lang="ar">ErD</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="ktn" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ktn">
 					<head>
 								<foreign lang="ar">ktn</foreign>
 					</head>
-					<entryFree id="n42963" key="katanN" type="main">
+					<entry type="main" id="n42963" key="katanN">
 						<form>
 							<orth orig="" extent="full" lang="ar">katanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								for <foreign lang="ar">kat~aAnN</foreign>: see an ex. in a verse cited voce <foreign lang="ar">$aAribN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kj" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kj">
 					<head>
 								<foreign lang="ar">kj</foreign>
 					</head>
-					<entryFree id="n42964" key="kuj~apN" type="main">
+					<entry type="main" id="n42964" key="kuj~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuj~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, see <foreign lang="ar">bukosapN</foreign> in the K and TA.
-					</entryFree>
-				</div2>
-				<div2 n="kHT" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kHT">
 					<head>
 								<foreign lang="ar">kHT</foreign>
 					</head>
-					<entryFree id="n42965" key="A^akoHaTa" type="main">
+					<entry type="main" id="n42965" key="A^akoHaTa">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^akoHaTa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">A^aqoHaTa</foreign>, in two places.
-					</entryFree>
-				</div2>
-				<div2 n="kHl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kHl">
 					<head>
 								<foreign lang="ar">kHl</foreign>
 					</head>
-					<entryFree id="n42966" key="kaHala" type="main">
+					<entry type="main" id="n42966" key="kaHala">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kaHala</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								(assumed tropical:)  <hi>He put out,</hi> or <hi>blinded,</hi> an eye with a heated nail, &amp;c.: see an ex. voce <foreign lang="ar">samara</foreign>.
-					</entryFree>
-					<entryFree id="n42967" key="8" type="main">
+								(assumed tropical:) 
+								<hi>He put out,</hi> or <hi>blinded,</hi> an eye with a heated nail, &amp;c.: see an ex. voce <foreign lang="ar">samara</foreign>.
+					</entry>
+					<entry type="main" id="n42967" key="8">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">maA A@kotaHalotu gamaADFA</orth>
 							<orth extent="full" lang="ar">*</orth> and
 							<orth orig="" extent="full" lang="ar">gimaADFA</orth>
 						</form>
 								&amp;c.: see <foreign lang="ar">A^agomaDa</foreign>. See also <foreign lang="ar">HavAavN</foreign>.
-					</entryFree>
-					<entryFree id="n42968" key="AisotakoHala Als~ahara" type="main">
+					</entry>
+					<entry type="main" id="n42968" key="AisotakoHala Als~ahara">
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">AisotakoHala Als~ahara</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								(assumed tropical:)  [<hi>He became sleepless;</hi> as though he took sleeplessness as a collyrium]. (TA in art. <foreign lang="ar">Hls</foreign>, from a trad.)
+								(assumed tropical:) 
+								[<hi>He became sleepless;</hi> as though he took sleeplessness as a collyrium]. (TA in art. <foreign lang="ar">Hls</foreign>, from a trad.)
 						<pb n="2999"/>
-					</entryFree>
-					<entryFree id="n42969" key="kaHolN" type="main">
+					</entry>
+					<entry type="main" id="n42969" key="kaHolN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaHolN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and <foreign lang="ar">kaHolu</foreign> (S, K) <hi>A year of drought, barrenness,</hi> or <hi>dearth;</hi> (S;) <hi>a hard year.</hi> (K.)
-					</entryFree>
-					<entryFree id="n42970" key="kuHayolN" type="main">
+					</entry>
+					<entry type="main" id="n42970" key="kuHayolN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuHayolN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								a proper name for <hi>A horse of high breed;</hi> as also 
-							↓<orth type="arrow" lang="ar">kuHayolAanN</orth>. (TA.)
+							<anchor type="arrow"><foreign lang="ar">kuHayolAanN↓</foreign></anchor>. (TA.)
 						―
 						-b2-
 								<foreign lang="ar">kuHayolN</foreign> 
 								<hi>Tar</hi> (<foreign lang="ar">qaTiraAn</foreign>) in the dial. of El-Hijáz. (TA, voce <foreign lang="ar">garobN</foreign>; from the T.) See <foreign lang="ar">nfoZN</foreign>.
-					</entryFree>
-					<entryFree id="n42971" key="kuHayolAanN" type="main">
+					</entry>
+					<entry type="main" id="n42971" key="kuHayolAanN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuHayolAanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">kuHayolN</foreign>.
-					</entryFree>
-					<entryFree id="n42972" key="EayonN kaHolaA='u" type="main">
+					</entry>
+					<entry type="main" id="n42972" key="EayonN kaHolaA='u">
 						<form>
 							<orth orig="" extent="full" lang="ar">EayonN kaHolaA='u</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -437,204 +437,204 @@
 								<hi>An eye that is black,</hi> [or <hi>black in the edges of the lids,</hi>] <hi>by nature, as though it had</hi> 
 								<foreign lang="ar">kuHol</foreign> 
 								<hi>applied to it.</hi> (Mgh.) Not in the TA. [It seems to have both of these meanings.]
-					</entryFree>
-					<entryFree id="n42973" key="kaHolaA='u" type="main">
+					</entry>
+					<entry type="main" id="n42973" key="kaHolaA='u">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaHolaA='u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A certain plant:</hi> see K, voce <foreign lang="ar">$inojaAr</foreign>: <hi>calendula arvensis:</hi> see Delile, Flor. Aeg., no. 864.
-					</entryFree>
-					<entryFree id="n42974" key="AlA^akoHalu" type="main">
+					</entry>
+					<entry type="main" id="n42974" key="AlA^akoHalu">
 						<form>
 							<orth orig="" extent="full" lang="ar">AlA^akoHalu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>The median vein.</hi> See <foreign lang="ar">wariydN</foreign> and <foreign lang="ar">A^abojalu</foreign> and <foreign lang="ar">A^aboharu</foreign> and <foreign lang="ar">AlS~aAfinu</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kdm" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kdm">
 					<head>
 								<foreign lang="ar">kdm</foreign>
 					</head>
-					<entryFree id="n42975" key="kadama" type="main">
+					<entry type="main" id="n42975" key="kadama">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kadama</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He bit with the fore part of the mouth.</hi> (S, Msb, K.)
-					</entryFree>
-					<entryFree id="n42976" key="takaAdumu AlHumuri" type="main">
+					</entry>
+					<entry type="main" id="n42976" key="takaAdumu AlHumuri">
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">takaAdumu AlHumuri</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>The</hi> wild <hi>asses' biting one another with the fore part of the mouth</hi>]. (TA in art. <foreign lang="ar">sHj</foreign>.) See also <foreign lang="ar">tasaAn~at</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="k*bn" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="k*bn">
 					<head>
 								<foreign lang="ar">k*bn</foreign>
 					</head>
-					<entryFree id="n42977" key="ka*obaAnuwnapN" type="main">
+					<entry type="main" id="n42977" key="ka*obaAnuwnapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">ka*obaAnuwnapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[Pers. <foreign lang="ar">kadobaAnw</foreign>] <hi>An intelligent housewife, who is a good manager.</hi> (K, art. <foreign lang="ar">hlj</foreign>; but omitted in some copies.)
-					</entryFree>
-				</div2>
-				<div2 n="k*nq" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="k*nq">
 					<head>
 								<foreign lang="ar">k*nq</foreign>
 					</head>
-					<entryFree id="n42978" key="ku*iynaqN" type="main">
+					<entry type="main" id="n42978" key="ku*iynaqN">
 						<form>
 							<orth orig="" extent="full" lang="ar">ku*iynaqN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">midaq~N</foreign>, in art. <foreign lang="ar">dq~</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="krz" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krz">
 					<head>
 								<foreign lang="ar">krz</foreign>
 					</head>
-					<entryFree id="n42979" key="flAn yukaArizu En AlHq AlY AlbATl" type="main">
+					<entry type="main" id="n42979" key="flAn yukaArizu En AlHq AlY AlbATl">
 						<form>
-							<itype>3</itype>
+							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">flAn yukaArizu En AlHq AlY AlbATl</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, inf. n. <foreign lang="ar">mukaArazapN</foreign>: <hi>i. q.</hi> 
 								<foreign lang="ar">yuEaAjizu</foreign>, expl. in art. <foreign lang="ar">Ejz</foreign>. (TA, art. <foreign lang="ar">Ejz</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="krs" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krs">
 					<head>
 								<foreign lang="ar">krs</foreign>
 					</head>
-					<entryFree id="n42980" key="Ainokarasa fiY Al$~aYo'i" type="main">
+					<entry type="main" id="n42980" key="Ainokarasa fiY Al$~aYo'i">
 						<form>
-							<itype>7</itype>
+							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">Ainokarasa fiY Al$~aYo'i</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He entered into the thing and concealed himself.</hi> (IKtt, in TA, art. <foreign lang="ar">nms</foreign>.)
-					</entryFree>
-					<entryFree id="n42981" key="kurosiY~u AlxaAtami" type="main">
+					</entry>
+					<entry type="main" id="n42981" key="kurosiY~u AlxaAtami">
 						<form>
 							<orth orig="" extent="full" lang="ar">kurosiY~u AlxaAtami</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(T, K, art. <foreign lang="ar">bZr</foreign>) <hi>The bezel of the ring.</hi> (TK.)
-					</entryFree>
-					<entryFree id="n42982" key="kirosan~apN" type="main">
+					</entry>
+					<entry type="main" id="n42982" key="kirosan~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kirosan~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, thus written: (TA:) [<hi>Bitter vetch:</hi>] see <foreign lang="ar">xaAniqN</foreign>.
-					</entryFree>
-					<entryFree id="n42983" key="kirosiniY~N" type="main">
+					</entry>
+					<entry type="main" id="n42983" key="kirosiniY~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kirosiniY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[or <foreign lang="ar">karosaniY~N</foreign>] <hi>A sort of</hi> 
 								<foreign lang="ar">Him~aS</foreign>. (The Minháj, in TA, art. <foreign lang="ar">HmS</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="kr$" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kr$">
 					<head>
 								<foreign lang="ar">kr$</foreign>
 					</head>
-					<entryFree id="n42984" key="kar$N" type="main">
+					<entry type="main" id="n42984" key="kar$N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kar$N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								or <foreign lang="ar">kiro$N</foreign> 
 								<hi>The plant so named:</hi> see <foreign lang="ar">raqamapN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="krS" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krS">
 					<head>
 								<foreign lang="ar">krS</foreign>
 					</head>
-					<entryFree id="n42985" key="kariySN" type="main">
+					<entry type="main" id="n42985" key="kariySN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kariySN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A kind of</hi> 
 								<foreign lang="ar">A^aqiT</foreign>: see <foreign lang="ar">kavo'N</foreign>.
-					</entryFree>
-					<entryFree id="n42986" key="mikoraSN" type="main">
+					</entry>
+					<entry type="main" id="n42986" key="mikoraSN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mikoraSN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: <hi>i. q.</hi> 
 								<foreign lang="ar">miDorab</foreign>, q. v.
-					</entryFree>
-				</div2>
-				<div2 n="krE" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krE">
 					<head>
 								<foreign lang="ar">krE</foreign>
 					</head>
-					<entryFree id="n42987" key="karaEa fiY AlmaA='i" type="main">
+					<entry type="main" id="n42987" key="karaEa fiY AlmaA='i">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">karaEa fiY AlmaA='i</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, and <foreign lang="ar">fiY AlA_inaA='i</foreign>, <hi>He put his mouth into the water,</hi> or <hi>into the vessel, and so drank.</hi> (See <foreign lang="ar">Eab~a</foreign>.)
-					</entryFree>
-					<entryFree id="n42988" key="karAaEN" type="main">
+					</entry>
+					<entry type="main" id="n42988" key="karAaEN">
 						<form>
 							<orth orig="" extent="full" lang="ar">karAaEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">Eid~N</foreign>.
-					</entryFree>
-					<entryFree id="n42989" key="kuraAEN" type="main">
+					</entry>
+					<entry type="main" id="n42989" key="kuraAEN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuraAEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">Har~apN</foreign>, <foreign lang="ar">rakaDa</foreign>, <foreign lang="ar">*iraAEN</foreign>, and <foreign lang="ar">badanN</foreign>.
-					</entryFree>
-					<entryFree id="n42990" key="kurosuwEN" type="main">
+					</entry>
+					<entry type="main" id="n42990" key="kurosuwEN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kurosuwEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>The prominent extremity of the ulna, next to the little finger, at the wrist.</hi> (S, * K.)
-					</entryFree>
-				</div2>
-				<div2 n="krk" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krk">
 					<head>
 								<foreign lang="ar">krk</foreign>
 					</head>
-					<entryFree id="n42991" key="kurokiY~N" type="main">
+					<entry type="main" id="n42991" key="kurokiY~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kurokiY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <hi>Numidian crane; ardea virgo:</hi> also called <foreign lang="ar">A_iwaz~N EirAaqiY~N</foreign>, and <foreign lang="ar">waz~N EiraAqiY~N</foreign>. See <foreign lang="ar">A^abuw</foreign> 
 								<foreign lang="ar">AlEayozaAri</foreign> and <foreign lang="ar">guronayoqN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="krm" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krm">
 					<head>
 								<foreign lang="ar">krm</foreign>
 					</head>
-					<entryFree id="n42992" key="karuma" type="main">
+					<entry type="main" id="n42992" key="karuma">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">karuma</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -647,10 +647,10 @@
 						―
 						-b3-
 								<foreign lang="ar">karumotu Ealayohi</foreign>, (S, K, art. <foreign lang="ar">Ez</foreign>,) <hi>I exceeded him in generosity,</hi> or <hi>nobleness.</hi> (TK, voce <foreign lang="ar">Eaz~N</foreign>.)
-					</entryFree>
-					<entryFree id="n42993" key="kar~amahu EalaY~a" type="main">
+					</entry>
+					<entry type="main" id="n42993" key="kar~amahu EalaY~a">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">kar~amahu EalaY~a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -665,10 +665,10 @@
 						―
 						-b4-
 							See <foreign lang="ar">takorimapN</foreign>.
-					</entryFree>
-					<entryFree id="n42994" key="A^akoramahu" type="main">
+					</entry>
+					<entry type="main" id="n42994" key="A^akoramahu">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^akoramahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -676,35 +676,35 @@
 						―
 						-b2-
 								<foreign lang="ar">A^akorama</foreign>, and 
-							↓<orth type="arrow" lang="ar">Aisotakorama</orth>, <hi>He found a generous horse</hi> (<foreign lang="ar">farasFA kariymFA</foreign>). (TA in art. <foreign lang="ar">rbT</foreign>.) See <foreign lang="ar">rabaTa</foreign>.
+							<anchor type="arrow"><foreign lang="ar">Aisotakorama↓</foreign></anchor>, <hi>He found a generous horse</hi> (<foreign lang="ar">farasFA kariymFA</foreign>). (TA in art. <foreign lang="ar">rbT</foreign>.) See <foreign lang="ar">rabaTa</foreign>.
 						―
 						-b3-
 								<foreign lang="ar">A^akoramotu Eanohu EiroDiY</foreign> 
 								<hi>I preserved myself from it.</hi> (S in art. <foreign lang="ar">ErD</foreign>. See also 2.)
-					</entryFree>
-					<entryFree id="n42995" key="takar~ama Eanohu" type="main">
+					</entry>
+					<entry type="main" id="n42995" key="takar~ama Eanohu">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takar~ama Eanohu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, and 
-							↓<orth type="arrow" lang="ar">takaArama</orth>, <hi>He shunned it; avoided it; kept,</hi> or <hi>removed, himself far from it;</hi> or <hi>preserved himself from it;</hi> (K;) for in stance, from foul speech. (TA in art. <foreign lang="ar">dqE</foreign>.)
+							<anchor type="arrow"><foreign lang="ar">takaArama↓</foreign></anchor>, <hi>He shunned it; avoided it; kept,</hi> or <hi>removed, himself far from it;</hi> or <hi>preserved himself from it;</hi> (K;) for in stance, from foul speech. (TA in art. <foreign lang="ar">dqE</foreign>.)
 						―
 						-b2-
 								<foreign lang="ar">takar~ama</foreign> 
 								<hi>He affected,</hi> or <hi>constrained himself, to be generous.</hi> (S.)
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth lang="ar">takaAorama</orth>
 						</form>
 								see 5.
-					</entryFree>
-					<entryFree id="n42996" key="Aisotakorama Al$~aYo'a" type="main">
+					</entry>
+					<entry type="main" id="n42996" key="Aisotakorama Al$~aYo'a">
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">Aisotakorama Al$~aYo'a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -712,37 +712,37 @@
 						―
 						-b2-
 							See also 4.
-					</entryFree>
-					<entryFree id="n42997" key="A_ibonu Alkaromi" type="main">
+					</entry>
+					<entry type="main" id="n42997" key="A_ibonu Alkaromi">
 						<form>
 							<orth orig="" extent="full" lang="ar">A_ibonu Alkaromi</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>The</hi> 
 								<foreign lang="ar">qiTof</foreign> [i. e. <hi>grape,</hi> or <hi>bunch of grapes</hi>]. (T in art. <foreign lang="ar">bnY</foreign>.)
-					</entryFree>
-					<entryFree id="n42998" key="karamN" type="main">
+					</entry>
+					<entry type="main" id="n42998" key="karamN">
 						<form>
 							<orth orig="" extent="full" lang="ar">karamN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								in a horse, &amp;c., <hi>generous quality.</hi> See <foreign lang="ar">HasabN</foreign>; and see <foreign lang="ar">kariymN</foreign>, and <foreign lang="ar">makorumapN</foreign>, and <foreign lang="ar">$ariyfN</foreign>.
-					</entryFree>
-					<entryFree id="n42999" key="*uw AljalaAli waAlA_ikoraAmi" type="main">
+					</entry>
+					<entry type="main" id="n42999" key="*uw AljalaAli waAlA_ikoraAmi">
 						<form>
 							<orth orig="" extent="full" lang="ar">*uw AljalaAli waAlA_ikoraAmi</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(Kur, lv. 27) <hi>Possessed of majesty,</hi> or <hi>greatness, and bounty:</hi> (Jel:) or, <hi>of absolute independence and universal bounty.</hi> (Bd.)
-					</entryFree>
-					<entryFree id="n43000" key="Alkurokumu AlS~agiyru" type="main">
+					</entry>
+					<entry type="main" id="n43000" key="Alkurokumu AlS~agiyru">
 						<form>
 							<orth orig="" extent="full" lang="ar">Alkurokumu AlS~agiyru</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">AlEuruwqu AlS~uforu</foreign>.
-					</entryFree>
-					<entryFree id="n43001" key="kariymN" type="main">
+					</entry>
+					<entry type="main" id="n43001" key="kariymN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kariymN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -769,8 +769,8 @@
 						―
 						-b7-
 								<foreign lang="ar">karAay^imu AlmaAli</foreign> (TA) or <foreign lang="ar">AlA^amowaAli</foreign> (Mgh, Msb) <hi>Such as are held in high estimation, precious,</hi> or <hi>excellent, of cattle</hi> or <hi>other possessions;</hi> (Mgh, Msb, TA;) the <hi>choice,</hi> or <hi>best, thereof.</hi> (Mgh, Msb.)
-					</entryFree>
-					<entryFree id="n43002" key="Hub~FA wakaraAmapN" type="main">
+					</entry>
+					<entry type="main" id="n43002" key="Hub~FA wakaraAmapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">Hub~FA wakaraAmapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -784,40 +784,40 @@
 						―
 						-b3-
 								<foreign lang="ar">karAamapN</foreign>, the kind of miracle so called: pl. <foreign lang="ar">karaAmaAtN</foreign>; like the term
-							<orth lang="gr">χαρίσματα</orth> as used by St. Paul in 1 Cor. xii. 9: it may be well rendered <hi>thaumaturgy:</hi> and <foreign lang="ar">SAaHibu karAamaAtK</foreign> 
+							<foreign lang="gr">χαρίσματα</foreign> as used by St. Paul in 1 Cor. xii. 9: it may be well rendered <hi>thaumaturgy:</hi> and <foreign lang="ar">SAaHibu karAamaAtK</foreign> 
 								<hi>a thaumaturgus,</hi> or <hi>thaumaturgist:</hi> see <foreign lang="ar">muEojizahN</foreign>, and <foreign lang="ar">qaraAsapN</foreign>.
-					</entryFree>
-					<entryFree id="n43003" key="A^akoramu" type="main">
+					</entry>
+					<entry type="main" id="n43003" key="A^akoramu">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^akoramu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								in the sense of <foreign lang="ar">kariymN</foreign>, as in <foreign lang="ar">A^akoramuhumo A^abFA</foreign>: see <foreign lang="ar">bayaADN</foreign>.
-					</entryFree>
-					<entryFree id="n43004" key="takorimapN" type="main">
+					</entry>
+					<entry type="main" id="n43004" key="takorimapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">takorimapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, <hi>syn. with</hi> 
 								<foreign lang="ar">takoriymN</foreign>; (Mgh;) subst. from <foreign lang="ar">kar~amotuhu</foreign>; as also 
-							↓<orth type="arrow" lang="ar">karaAmapN</orth>. (Msb.)
-					</entryFree>
-					<entryFree id="n43005" key="makoramapN" type="main">
+							<anchor type="arrow"><foreign lang="ar">karaAmapN↓</foreign></anchor>. (Msb.)
+					</entry>
+					<entry type="main" id="n43005" key="makoramapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makoramapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A means.</hi> or <hi>cause, of attaining honour.</hi> (Mgh, Msb.)
-					</entryFree>
-					<entryFree id="n43006" key="makorumN" type="main">
+					</entry>
+					<entry type="main" id="n43006" key="makorumN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makorumN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">A^aluwkN</foreign> and <foreign lang="ar">yusorN</foreign>.
-					</entryFree>
-					<entryFree id="n43007" key="makorumapN" type="main">
+					</entry>
+					<entry type="main" id="n43007" key="makorumapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makorumapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -829,24 +829,26 @@
 						―
 						-b3-
 								<foreign lang="ar">makaArimu</foreign> may often be rendered <hi>Excellencies.</hi>
-					</entryFree>
-					<entryFree id="n43008" key="A^aroDN makorumapN" type="main">
+					</entry>
+					<entry type="main" id="n43008" key="A^aroDN makorumapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^aroDN makorumapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and 
-							↓<orth type="arrow" lang="ar">karamN</orth> (tropical:)  <hi>Generous, good, land:</hi> (K, TA:) [<hi>good and fertile land:</hi>] or <hi>dunged and tilled land.</hi> (TA.) And <foreign lang="ar">A^aroDN makorumapN liln~abaAvi</foreign> (tropical:)  <hi>Land producing good herbage</hi> or <hi>plants.</hi> (S,
+							<anchor type="arrow"><foreign lang="ar">karamN↓</foreign></anchor> (tropical:) 
+								<hi>Generous, good, land:</hi> (K, TA:) [<hi>good and fertile land:</hi>] or <hi>dunged and tilled land.</hi> (TA.) And <foreign lang="ar">A^aroDN makorumapN liln~abaAvi</foreign> (tropical:) 
+								<hi>Land producing good herbage</hi> or <hi>plants.</hi> (S,
 						<pb n="3000"/> TA. [In some copies of the S, <hi>good for herbage</hi> or <hi>plants.</hi>])
-					</entryFree>
-				</div2>
-				<div2 n="krh" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krh">
 					<head>
 								<foreign lang="ar">krh</foreign>
 					</head>
-					<entryFree id="n43009" key="karihahu" type="main">
+					<entry type="main" id="n43009" key="karihahu">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">karihahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -858,32 +860,32 @@
 						―
 						-b3-
 								<foreign lang="ar">kariha</foreign> and 
-							↓<orth type="arrow" lang="ar">takar~aha</orth>: see <foreign lang="ar">saxiTa</foreign>.
-					</entryFree>
-					<entryFree id="n43010" key="kar~ahotu A_ilayohi Al$~aYo'a" type="main">
+							<anchor type="arrow"><foreign lang="ar">takar~aha↓</foreign></anchor>: see <foreign lang="ar">saxiTa</foreign>.
+					</entry>
+					<entry type="main" id="n43010" key="kar~ahotu A_ilayohi Al$~aYo'a">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">kar~ahotu A_ilayohi Al$~aYo'a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, inf. n. <foreign lang="ar">takoriyhu</foreign>, <hi>I made the thing to be an object of dislike, disapprobation,</hi> or <hi>hatred, to him.</hi> (S, K. *)
-					</entryFree>
-					<entryFree id="n43011" key="A^akorahotuhu EalaY kadaA" type="main">
+					</entry>
+					<entry type="main" id="n43011" key="A^akorahotuhu EalaY kadaA">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^akorahotuhu EalaY kadaA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>I made him to do such a thing against his will.</hi> (S.)
-					</entryFree>
-					<entryFree id="n43012" key="takar~ahahu" type="main">
+					</entry>
+					<entry type="main" id="n43012" key="takar~ahahu">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takar~ahahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He showed,</hi> or <hi>expressed, dislike, disapprobation,</hi> or <hi>hatred, of it;</hi> see <foreign lang="ar">taAaj~amahu</foreign> and <foreign lang="ar">tasax~aTahu</foreign>: and <foreign lang="ar">Ealyohi</foreign> 
-							↓<orth type="arrow" lang="ar">takaAraha</orth> signifies the same; see <foreign lang="ar">qanaHa</foreign>.
+							<anchor type="arrow"><foreign lang="ar">takaAraha↓</foreign></anchor> signifies the same; see <foreign lang="ar">qanaHa</foreign>.
 						―
 						-b2-
 								<foreign lang="ar">takar~aha</foreign> 
@@ -893,45 +895,45 @@
 								<foreign lang="ar">takar~ahahu</foreign> 
 								<hi>i. q.</hi> 
 								<foreign lang="ar">karihahu</foreign>, q. v. (K, * TA.) See also <foreign lang="ar">taA^aj~amahu</foreign>.
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth lang="ar">takaAoraha</orth>
 						</form>
 								see 5.
-					</entryFree>
-					<entryFree id="n43013" key="kariyhN" type="main">
+					</entry>
+					<entry type="main" id="n43013" key="kariyhN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kariyhN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Disliked, disapproved of, blamed,</hi> or <hi>hated; hateful, blameable, displeasing,</hi> or <hi>odious;</hi> as also 
-							↓<orth type="arrow" lang="ar">makoruwhN</orth>.
-					</entryFree>
-					<entryFree id="n43014" key="AlkarAahiyapu ll$~aYo'i" type="main">
+							<anchor type="arrow"><foreign lang="ar">makoruwhN↓</foreign></anchor>.
+					</entry>
+					<entry type="main" id="n43014" key="AlkarAahiyapu ll$~aYo'i">
 						<form>
 							<orth orig="" extent="full" lang="ar">AlkarAahiyapu ll$~aYo'i</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								signifies <foreign lang="ar">AlbugoDu lahu</foreign> and <foreign lang="ar">Eadama</foreign> 
 								<foreign lang="ar">mulaA'amatihi</foreign>. (MF in art. <foreign lang="ar">AbY</foreign>.)
-					</entryFree>
-					<entryFree id="n43015" key="kaArihN" type="main">
+					</entry>
+					<entry type="main" id="n43015" key="kaArihN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaArihN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Unwilling:</hi> see an ex. voce <foreign lang="ar">A^asaA='a</foreign>.
-					</entryFree>
-					<entryFree id="n43016" key="makorahN" type="main">
+					</entry>
+					<entry type="main" id="n43016" key="makorahN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makorahN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A thing that one dislikes, disapproves,</hi> or <hi>hates,</hi> or <hi>that one dislikes to do:</hi> opposed to <foreign lang="ar">mano$aTN</foreign>: (TA in art. <foreign lang="ar">n$T</foreign>:) [<hi>a thing,</hi> or <hi>an event, that is an object of dislike</hi> or <hi>hatred</hi>].
-					</entryFree>
-					<entryFree id="n43017" key="makoruwhN" type="main">
+					</entry>
+					<entry type="main" id="n43017" key="makoruwhN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makoruwhN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -945,69 +947,69 @@
 						-b3-
 								<foreign lang="ar">makaArihu Ald~ahori</foreign> 
 								<hi>The afflictions,</hi> or <hi>calamities, of fortune;</hi> syn. <foreign lang="ar">nawaAziluhu</foreign> and <foreign lang="ar">$adaAy^iduhu</foreign>. (TA.) See also <foreign lang="ar">makorahN</foreign>.
-					</entryFree>
-					<entryFree id="n43018" key="musotakorahN" type="main">
+					</entry>
+					<entry type="main" id="n43018" key="musotakorahN">
 						<form>
 							<orth orig="" extent="full" lang="ar">musotakorahN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see an ex. voce <foreign lang="ar">EaraDN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="krY" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="krY">
 					<head>
 								<foreign lang="ar">krY</foreign>
 					</head>
-					<entryFree id="n43019" key="kaAraY EalaY daAb~api" type="main">
+					<entry type="main" id="n43019" key="kaAraY EalaY daAb~api">
 						<form>
-							<itype>3</itype>
+							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">kaAraY EalaY daAb~api</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He employed a beast of carriage to carry for hire.</hi> (IbrD.)
-					</entryFree>
-					<entryFree id="n43020" key="A^akorAaniY daArahu" type="main">
+					</entry>
+					<entry type="main" id="n43020" key="A^akorAaniY daArahu">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^akorAaniY daArahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, and <foreign lang="ar">daAb~atahu</foreign>, <hi>He let me his house, and his beast of carriage, on hire.</hi> (Mgh.)
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth lang="ar">takaAoraYa</orth>
 						</form>
 								see 8.
-					</entryFree>
-					<entryFree id="n43021" key="AikotaraY" type="main">
+					</entry>
+					<entry type="main" id="n43021" key="AikotaraY">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AikotaraY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and 
-							↓<orth type="arrow" lang="ar">AisotakoraY</orth> and 
-							↓<orth type="arrow" lang="ar">takaAraY</orth> 
+							<anchor type="arrow"><foreign lang="ar">AisotakoraY↓</foreign></anchor> and 
+							<anchor type="arrow"><foreign lang="ar">takaAraY↓</foreign></anchor> 
 								<hi>He hired,</hi> or <hi>took on hire</hi> a house, and a beast. (Mgh.)
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth lang="ar">A_isotakoraYa</orth>
 						</form>
 								see 8.
-					</entryFree>
-					<entryFree id="n43022" key="karFY" type="main">
+					</entry>
+					<entry type="main" id="n43022" key="karFY">
 						<form>
 							<orth orig="" extent="full" lang="ar">karFY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								or <foreign lang="ar">karFA</foreign> 
 								<hi>Drowsiness.</hi> (S, Msb, K.)
-					</entryFree>
-					<entryFree id="n43023" key="kariY~N" type="main">
+					</entry>
+					<entry type="main" id="n43023" key="kariY~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kariY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1017,124 +1019,124 @@
 						-b2-
 							And <hi>One who is hired.</hi> (Mgh, &amp;c.) In one copy of the Mgh, <foreign lang="ar">AlmktriY</foreign> is put by mistake for <foreign lang="ar">AlmukotaraY</foreign>: <hi>i. q.</hi> 
 								<foreign lang="ar">mukorK</foreign>: and <foreign lang="ar">mukotarFY</foreign>. (TA in art. <foreign lang="ar">Hrm</foreign>.)
-					</entryFree>
-					<entryFree id="n43024" key="kuriY~N" type="main">
+					</entry>
+					<entry type="main" id="n43024" key="kuriY~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuriY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Spherical:</hi> see Ksh in ii. 20.
-					</entryFree>
-					<entryFree id="n43025" key="kuriy~apN" type="main">
+					</entry>
+					<entry type="main" id="n43025" key="kuriy~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuriy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Sphericalness:</hi> see Bd in ii. 20.
-					</entryFree>
-					<entryFree id="n43026" key="karawoyA" type="main">
+					</entry>
+					<entry type="main" id="n43026" key="karawoyA">
 						<form>
 							<orth orig="" extent="full" lang="ar">karawoyA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>Caraway-seed</hi>] is of the measure <foreign lang="ar">faEawolalN</foreign> [and if so must be written <foreign lang="ar">karawoyFA</foreign>]: (K:) or it may be <foreign lang="ar">faEawolFY</foreign>: [but see what follows:] AHn says that, if with medd, it is fem. [and therefore <foreign lang="ar">karawoyaA='u</foreign>]: but it is not Arabic [and therefore, without medd, it is probably <foreign lang="ar">karawoyaA</foreign>]. (TA.)
-					</entryFree>
-					<entryFree id="n43027" key="karawaAnN" type="main">
+					</entry>
+					<entry type="main" id="n43027" key="karawaAnN">
 						<form>
 							<orth orig="" extent="full" lang="ar">karawaAnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">DuwaEN</foreign> and <foreign lang="ar">qabojN</foreign>.
-					</entryFree>
-					<entryFree id="n43028" key="mukaArK" type="main">
+					</entry>
+					<entry type="main" id="n43028" key="mukaArK">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukaArK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>One who lets beasts of carriage, &amp;c., on hire;</hi> like <foreign lang="ar">kariY~N</foreign>, q. v.; <hi>an owner, and letter on hire, of asses</hi> [<hi>&amp;c.</hi>]. (KL.) See <foreign lang="ar">fal~aAHN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="ksf" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ksf">
 					<head>
 								<foreign lang="ar">ksf</foreign>
 					</head>
-					<entryFree id="n43029" key="kaAsifu AlbaAli" type="main">
+					<entry type="main" id="n43029" key="kaAsifu AlbaAli">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAsifu AlbaAli</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">baAlN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="ksq" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ksq">
 					<head>
 								<foreign lang="ar">ksq</foreign>
 					</head>
-					<entryFree id="n43030" key="kawosaqN" type="main">
+					<entry type="main" id="n43030" key="kawosaqN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kawosaqN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>i. q.</hi> 
 								<foreign lang="ar">kawosajN</foreign>. (M.)
-					</entryFree>
-				</div2>
-				<div2 n="ksl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ksl">
 					<head>
 								<foreign lang="ar">ksl</foreign>
 					</head>
-					<entryFree id="n43031" key="kas~alahu" type="main">
+					<entry type="main" id="n43031" key="kas~alahu">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">kas~alahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, inf. n. <foreign lang="ar">takosiylN</foreign>, said of satiety, <hi>It rendered him heavy, sluggish, lazy, indolent,</hi> or <hi>torpid.</hi> (TA.)
-					</entryFree>
-					<entryFree id="n43032" key="A^akosala EanohaA" type="main">
+					</entry>
+					<entry type="main" id="n43032" key="A^akosala EanohaA">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^akosala EanohaA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								signifies <foreign lang="ar">A^awolaja walamo yunozilo</foreign>; [<hi>Inivit sed non emisit;</hi>] (IAar, in TA, art. <foreign lang="ar">fhr</foreign>;) [i. e., <foreign lang="ar">A^awolaja vum~a tarakahaA walamo yunozilo</foreign>].
-					</entryFree>
-					<entryFree id="n43033" key="kasolaAnN" type="main">
+					</entry>
+					<entry type="main" id="n43033" key="kasolaAnN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kasolaAnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Heavy, sluggish, lazy, indolent, torpid.</hi> (K.)
-					</entryFree>
-					<entryFree id="n43034" key="makosalapN" type="main">
+					</entry>
+					<entry type="main" id="n43034" key="makosalapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makosalapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see an ex. voce <foreign lang="ar">kiT~apN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="ksw" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="ksw">
 					<head>
 								<foreign lang="ar">ksw</foreign>
 					</head>
-					<entryFree id="n43035" key="kasawotuhu sayofFA" type="main">
+					<entry type="main" id="n43035" key="kasawotuhu sayofFA">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kasawotuhu sayofFA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>I invested him with a sword</hi>]. (TA in art. <foreign lang="ar">g$w</foreign>.)
-					</entryFree>
-					<entryFree id="n43036" key="tksY" type="main">
+					</entry>
+					<entry type="main" id="n43036" key="tksY">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tksY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">tqY</foreign>.
-					</entryFree>
-					<entryFree id="n43037" key="kisaA='N" type="main">
+					</entry>
+					<entry type="main" id="n43037" key="kisaA='N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kisaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1142,34 +1144,35 @@
 								[<hi>A garment</hi>]. See <foreign lang="ar">EabaA='N</foreign>, and <foreign lang="ar">HilosN</foreign> and <foreign lang="ar">musay~aHN</foreign>.
 						―
 						-b2-
-								<foreign lang="ar">*uw kisaA='K</foreign>, as opposed to <foreign lang="ar">*uwburodK</foreign>, (assumed tropical:)  <hi>A poor man.</hi> (S, art. <foreign lang="ar">Ej</foreign>.) [The <foreign lang="ar">ksA'</foreign> was evidently a simple oblong piece of cloth; for <foreign lang="ar">AlkisaAy^iY</foreign> is said to have been thus named because he wore a <foreign lang="ar">ksA'</foreign> while in the state of <foreign lang="ar">A_iHoraAm</foreign>; as is mentioned in the TA, art. <foreign lang="ar">ksw</foreign>; but it seems to have been sometimes sewed in the manner of the <foreign lang="ar">EabaA='</foreign>, which see; and see also <foreign lang="ar">musay~aHN</foreign>, and <foreign lang="ar">burodN</foreign>.] It is [properly] not one of the garments which are cut and sewed [but is a single piece]: (Mgh, art. <foreign lang="ar">qTE</foreign>:) [<hi>a wrapper,</hi> or <hi>wrapping garment, of a single piece</hi>].
+								<foreign lang="ar">*uw kisaA='K</foreign>, as opposed to <foreign lang="ar">*uwburodK</foreign>, (assumed tropical:) 
+								<hi>A poor man.</hi> (S, art. <foreign lang="ar">Ej</foreign>.) [The <foreign lang="ar">ksA'</foreign> was evidently a simple oblong piece of cloth; for <foreign lang="ar">AlkisaAy^iY</foreign> is said to have been thus named because he wore a <foreign lang="ar">ksA'</foreign> while in the state of <foreign lang="ar">A_iHoraAm</foreign>; as is mentioned in the TA, art. <foreign lang="ar">ksw</foreign>; but it seems to have been sometimes sewed in the manner of the <foreign lang="ar">EabaA='</foreign>, which see; and see also <foreign lang="ar">musay~aHN</foreign>, and <foreign lang="ar">burodN</foreign>.] It is [properly] not one of the garments which are cut and sewed [but is a single piece]: (Mgh, art. <foreign lang="ar">qTE</foreign>:) [<hi>a wrapper,</hi> or <hi>wrapping garment, of a single piece</hi>].
 						―
 						-b3-
 								<foreign lang="ar">rakiba kisaA='ahu</foreign> 
 								<hi>He fell upon the back of his neck.</hi> (IAar, in TA, art. <foreign lang="ar">rdE</foreign>.)
-					</entryFree>
-					<entryFree id="n43038" key="kaAsK" type="main">
+					</entry>
+					<entry type="main" id="n43038" key="kaAsK">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAsK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Having clothing:</hi> see an ex. voce <foreign lang="ar">rub~a</foreign>.
-					</entryFree>
-					<entryFree id="n43039" key="A^akosaY" type="main">
+					</entry>
+					<entry type="main" id="n43039" key="A^akosaY">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^akosaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">baSalN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="k$f" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="k$f">
 					<head>
 								<foreign lang="ar">k$f</foreign>
 					</head>
-					<entryFree id="n43040" key="1" type="main">
+					<entry type="main" id="n43040" key="1">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ka$afahu</orth>
 							<orth extent="full" lang="ar">*</orth> and
 							<orth orig="" extent="full" lang="ar">ka$afa Eanohu</orth>
@@ -1194,10 +1197,10 @@
 						―
 						-b6-
 							See 7.
-					</entryFree>
-					<entryFree id="n43041" key="kaA$afahu" type="main">
+					</entry>
+					<entry type="main" id="n43041" key="kaA$afahu">
 						<form>
-							<itype>3</itype>
+							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">kaA$afahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1217,26 +1220,26 @@
 						―
 						-b5-
 								<foreign lang="ar">kaA$afahu AlHaroba</foreign> [<hi>He made war with him openly</hi>]. (Msb, art. <foreign lang="ar">nb*</foreign>.)
-					</entryFree>
-					<entryFree id="n43042" key="taka$~afa" type="main">
+					</entry>
+					<entry type="main" id="n43042" key="taka$~afa">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">taka$~afa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He uncovered,</hi> or <hi>exposed, himself</hi> in sitting. (TA, voce <foreign lang="ar">A^aEofatu</foreign>.)
-					</entryFree>
-					<entryFree id="n43043" key="takaA$afuwA" type="main">
+					</entry>
+					<entry type="main" id="n43043" key="takaA$afuwA">
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">takaA$afuwA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>They revealed</hi> their faults, or secrets, <hi>one to another:</hi> see <foreign lang="ar">tadaAfanuwA</foreign>.
-					</entryFree>
-					<entryFree id="n43044" key="Ainoka$afa Eanohu" type="main">
+					</entry>
+					<entry type="main" id="n43044" key="Ainoka$afa Eanohu">
 						<form>
-							<itype>7</itype>
+							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">Ainoka$afa Eanohu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1249,50 +1252,50 @@
 								<foreign lang="ar">Ainoka$afuwA</foreign> [<hi>They were</hi>
 						<pb n="3001"/> 
 								<hi>routed, defeated,</hi> or <hi>put to flight;</hi> like 
-							↓<orth type="arrow" lang="ar">ka$ifuwA</orth>: the former is quasi-pass. of <foreign lang="ar">ka$afa</foreign>, “ he routed, ” &amp;c.]. (K, voce <foreign lang="ar">jAl</foreign> in art. <foreign lang="ar">jwl</foreign>.) See also <foreign lang="ar">tiforijapN</foreign>, in art. <foreign lang="ar">frj</foreign>.
-					</entryFree>
-					<entryFree id="n43045" key="ka$~aAfN" type="main">
+							<anchor type="arrow"><foreign lang="ar">ka$ifuwA↓</foreign></anchor>: the former is quasi-pass. of <foreign lang="ar">ka$afa</foreign>, “ he routed, ” &amp;c.]. (K, voce <foreign lang="ar">jAl</foreign> in art. <foreign lang="ar">jwl</foreign>.) See also <foreign lang="ar">tiforijapN</foreign>, in art. <foreign lang="ar">frj</foreign>.
+					</entry>
+					<entry type="main" id="n43045" key="ka$~aAfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">ka$~aAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see Ham, p. 49, 1. 2.
-					</entryFree>
-					<entryFree id="n43046" key="mako$uwfN" type="main">
+					</entry>
+					<entry type="main" id="n43046" key="mako$uwfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mako$uwfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Uncovered,</hi> &amp;c.; <hi>overt.</hi>
-					</entryFree>
-					<entryFree id="n43047" key="mukaA$ifN" type="main">
+					</entry>
+					<entry type="main" id="n43047" key="mukaA$ifN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukaA$ifN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>A discoverer,</hi> or <hi>revealer:</hi> thus I have rendered it voce <foreign lang="ar">EayonN</foreign>.]
-					</entryFree>
-				</div2>
-				<div2 n="k$k" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="k$k">
 					<head>
 								<foreign lang="ar">k$k</foreign>
 					</head>
-					<entryFree id="n43048" key="ka$okN" type="main">
+					<entry type="main" id="n43048" key="ka$okN">
 						<form>
 							<orth orig="" extent="full" lang="ar">ka$okN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Barley-water:</hi> (K:) or <hi>pounded wheat</hi> or <hi>barley:</hi> a Persian word, arabicized. (Mgh.) Hence, <foreign lang="ar">ka$okiy~apN</foreign> 
 								<hi>A kind of broth.</hi> (Mgh.)
-					</entryFree>
-				</div2>
-				<div2 n="kZm" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kZm">
 					<head>
 								<foreign lang="ar">kZm</foreign>
 					</head>
-					<entryFree id="n43049" key="kaZama gayoZahu" type="main">
+					<entry type="main" id="n43049" key="kaZama gayoZahu">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kaZama gayoZahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1313,99 +1316,99 @@
 								<foreign lang="ar">kaZama EalaY gayoZihi</foreign> 
 								<hi>i. q.</hi> 
 								<foreign lang="ar">kaZama gayoZahu</foreign>. (TA.)
-					</entryFree>
-					<entryFree id="n43050" key="kaZaAy^imu" type="main">
+					</entry>
+					<entry type="main" id="n43050" key="kaZaAy^imu">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaZaAy^imu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[pl. of <foreign lang="ar">kiZaAmapN</foreign>] <hi>Subterranean conduits for water.</hi> (TA in art. <foreign lang="ar">qnw</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="kEbr" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kEbr">
 					<head>
 								<foreign lang="ar">kEbr</foreign>
 					</head>
-					<entryFree id="n43051" key="kuEoburapN" type="main">
+					<entry type="main" id="n43051" key="kuEoburapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuEoburapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and 
-							↓<orth type="arrow" lang="ar">kuEobuwrapN</orth> 
+							<anchor type="arrow"><foreign lang="ar">kuEobuwrapN↓</foreign></anchor> 
 								<hi>Anything compact</hi> (K, TA) <hi>and round:</hi> (TA:) and the latter, <hi>i. q.</hi> 
 								<foreign lang="ar">EuqodapN</foreign> [meaning <hi>a knot,</hi> or <hi>a knob</hi>]: (TA:) [pl. of the latter <foreign lang="ar">kaEaAbiyru</foreign>: see <foreign lang="ar">xirowN</foreign>: see also <foreign lang="ar">A^axoramu</foreign>].
 						―
 						-b2-
 							Also The <hi>seed-vessel</hi> [i. e. <hi>siliqua,</hi> or <hi>pod,</hi>] of the radish and some other plants. (IAar, TA voce <foreign lang="ar">A_isoHaAr~N</foreign>.)
-					</entryFree>
-					<entryFree id="n43052" key="kuEobuworapN" type="main">
+					</entry>
+					<entry type="main" id="n43052" key="kuEobuworapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuEobuworapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">kuEoburapN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kEk" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kEk">
 					<head>
 								<foreign lang="ar">kEk</foreign>
 					</head>
-					<entryFree id="n43053" key="kaEokN" type="main">
+					<entry type="main" id="n43053" key="kaEokN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaEokN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A well-known bread;</hi> (K;) <hi>biscuit;</hi> (MA;) or [<hi>a kind of</hi>] <hi>dry bread:</hi> (MA, TA:) now applied to <hi>a sort of bread made in the form of a ring, hollow,</hi> [<hi>and generally containing some</hi> 
 								<foreign lang="ar">dbs</foreign> or <hi>the like,</hi>] <hi>the best of which is brought from Syria, and given as a present.</hi> (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="kEl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kEl">
 					<head>
 								<foreign lang="ar">kEl</foreign>
 					</head>
-					<entryFree id="n43054" key="kuEalN" type="main">
+					<entry type="main" id="n43054" key="kuEalN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuEalN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">vuEalN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kEm" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kEm">
 					<head>
 								<foreign lang="ar">kEm</foreign>
 					</head>
-					<entryFree id="n43055" key="kaEama AlbaEiyra" type="main">
+					<entry type="main" id="n43055" key="kaEama AlbaEiyra">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kaEama AlbaEiyra</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">Eakama</foreign>.
-					</entryFree>
-					<entryFree id="n43056" key="kiEaAmN" type="main">
+					</entry>
+					<entry type="main" id="n43056" key="kiEaAmN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kiEaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A muzzle for a camel.</hi> (PS.)
-					</entryFree>
-					<entryFree id="n43057" key="kiEaAmapN" type="main">
+					</entry>
+					<entry type="main" id="n43057" key="kiEaAmapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kiEaAmapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <hi>iron thing that embraces,</hi> or <hi>clasps,</hi> (<foreign lang="ar">talotaqimu</foreign>,) <hi>the muzzle of the horse.</hi> (IDrd in his book on the Saddle and Bridle, p. 8.)
-					</entryFree>
-				</div2>
-				<div2 n="kf" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kf">
 					<head>
 								<foreign lang="ar">kf</foreign>
 					</head>
-					<entryFree id="n43058" key="kaf~a Alt~awoba" type="main">
+					<entry type="main" id="n43058" key="kaf~a Alt~awoba">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kaf~a Alt~awoba</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1421,7 +1424,7 @@
 							<orth orig="Bu" lang="ar">kafu3a</orth>
 						</form>
 								, <hi>He refrained, or forbore, from it, as forbidden; abstained, or desisted, from it; left, relinquished,</hi> or <hi>forsook it:</hi> (Msb:) [as also 
-							↓<orth type="arrow" lang="ar">Ankf~</orth>].
+							<anchor type="arrow"><foreign lang="ar">Ankf~↓</foreign></anchor>].
 						―
 						-b4-
 								<foreign lang="ar">kaf~a Eanohu</foreign> 
@@ -1439,10 +1442,10 @@
 						-b7-
 								<foreign lang="ar">kaf~a</foreign> 
 								<foreign lang="ar">mina Al$~aEari</foreign> (M, K, art. <foreign lang="ar">qSr</foreign>) <hi>He shortened the hair.</hi> (M, ibid.)
-					</entryFree>
-					<entryFree id="n43059" key="kaAf~uwA Eaduw~ahumo" type="main">
+					</entry>
+					<entry type="main" id="n43059" key="kaAf~uwA Eaduw~ahumo">
 						<form>
-							<itype>3</itype>
+							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">kaAf~uwA Eaduw~ahumo</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1452,15 +1455,15 @@
 						-b2-
 								<foreign lang="ar">mukaAf~apN</foreign> signifies <hi>i. q.</hi> 
 								<foreign lang="ar">muHaAjazapN</foreign>, because it is a preventing, or an abstaining, from fighting. (Mgh.)
-					</entryFree>
-					<entryFree>
+					</entry>
+					<entry>
 						<form>
-							<itype>7</itype>
+							<iType>7</iType>
 							<orth lang="ar">A_inokafa3a</orth>
 						</form>
 								see 1.
-					</entryFree>
-					<entryFree id="n43060" key="kaf~N" type="main">
+					</entry>
+					<entry type="main" id="n43060" key="kaf~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaf~N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1484,21 +1487,21 @@
 						-b6-
 								<foreign lang="ar">Alkaf~u Alja*omaA='u</foreign> 
 								<hi>The star
-							<orth lang="gr">α</orth> of Cetus.</hi>
+							<foreign lang="gr">α</foreign> of Cetus.</hi>
 						―
 						-b7-
 								<foreign lang="ar">Alkaf~u AlxaDiybu</foreign> 
 								<hi>The
-							<orth lang="gr">β</orth> of Cassiopeia.</hi>
-					</entryFree>
-					<entryFree id="n43061" key="kaf~apN" type="main">
+							<foreign lang="gr">β</foreign> of Cassiopeia.</hi>
+					</entry>
+					<entry type="main" id="n43061" key="kaf~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaf~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">kif~apN</foreign>.
-					</entryFree>
-					<entryFree id="n43062" key="kuf~apN" type="main">
+					</entry>
+					<entry type="main" id="n43062" key="kuf~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuf~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1506,8 +1509,8 @@
 								The <hi>selvage,</hi> i. e. <hi>border,</hi> or <hi>side,</hi> of a garment or piece of cloth, (S, Msb,) that has no <foreign lang="ar">hudob</foreign> [or <hi>end of unwoven threads</hi>]: (S, voce <foreign lang="ar">Tur~apN</foreign>:) or <hi>what surrounds the skirt of a shirt:</hi> or <hi>whatever is oblong; as the</hi> 
 								<foreign lang="ar">HaA$iyap</foreign> 
 								<hi>of a garment or piece of cloth, and of sand:</hi> and the <hi>edge</hi> of a thing. (K.)
-					</entryFree>
-					<entryFree id="n43063" key="kif~apN" type="main">
+					</entry>
+					<entry type="main" id="n43063" key="kif~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kif~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1520,9 +1523,9 @@
 						-b3-
 								<foreign lang="ar">kif~apN</foreign> 
 								<hi>A scale</hi> of a balance: (MA:) vulg. 
-							↓<orth type="arrow" lang="ar">kaf~apN</orth>. (K.)
-					</entryFree>
-					<entryFree id="n43064" key="kafaAfN" type="main">
+							<anchor type="arrow"><foreign lang="ar">kaf~apN↓</foreign></anchor>. (K.)
+					</entry>
+					<entry type="main" id="n43064" key="kafaAfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kafaAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1531,23 +1534,23 @@
 						―
 						-b2-
 							<hi>Food,</hi> or <hi>sustenance, that renders one independent of others:</hi> (S, K:) or <hi>sufficient for one's want, not exceeding nor falling short.</hi> (Msb.)
-					</entryFree>
-					<entryFree id="n43065" key="kifaAfN" type="main">
+					</entry>
+					<entry type="main" id="n43065" key="kifaAfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kifaAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <hi>circuit, rim,</hi> or <hi>surrounding edge,</hi> of a thing. (S, K.)
-					</entryFree>
-					<entryFree id="n43066" key="kifaAfapN" type="main">
+					</entry>
+					<entry type="main" id="n43066" key="kifaAfapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kifaAfapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[app. a subst., not an inf. n.,] The <hi>act,</hi> or <hi>art, of sewing in the manner termed</hi> 
 								<foreign lang="ar">kaf~N</foreign>; (TA;) contr. of <foreign lang="ar">$ilaA$apN</foreign>. (TA in art. <foreign lang="ar">$l</foreign>.)
-					</entryFree>
-					<entryFree id="n43067" key="naAqapN kaAf~apN" type="main">
+					</entry>
+					<entry type="main" id="n43067" key="naAqapN kaAf~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">naAqapN kaAf~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1561,22 +1564,22 @@
 						-b3-
 								<foreign lang="ar">kaAf~apF</foreign> 
 								<hi>Wholly.</hi> (Bd and Jel in ii. 204.)
-					</entryFree>
-					<entryFree id="n43068" key="Harofu mukaAfaA^apK" type="main">
+					</entry>
+					<entry type="main" id="n43068" key="Harofu mukaAfaA^apK">
 						<form>
 							<orth orig="" extent="full" lang="ar">Harofu mukaAfaA^apK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A particle denoting compensation,</hi> or <hi>the complement of a condition;</hi> like <foreign lang="ar">Harofu jazaA='K</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kfl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kfl">
 					<head>
 								<foreign lang="ar">kfl</foreign>
 					</head>
-					<entryFree id="n43069" key="kafala baAlmaAli" type="main">
+					<entry type="main" id="n43069" key="kafala baAlmaAli">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kafala baAlmaAli</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1585,52 +1588,52 @@
 						-b2-
 								<foreign lang="ar">kafala baAln~afosi</foreign> 
 								<hi>He was,</hi> or <hi>became, responsible, answerable, amenable,</hi> or <hi>surety, for another person,</hi> (Msb,) i. e., <hi>for the latter's appearance,</hi> or <hi>presence, to answer a suit.</hi> (IbrD.)
-					</entryFree>
-					<entryFree id="n43070" key="kafalN" type="main">
+					</entry>
+					<entry type="main" id="n43070" key="kafalN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kafalN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <foreign lang="ar">Eajuz</foreign> [or <hi>hinder part, posteriors, buttocks,</hi> or <hi>rump</hi>]: (Msb, K:) or the <foreign lang="ar">ridof</foreign> [or <hi>hindermost part</hi>] <hi>thereof:</hi> or the [<hi>part called</hi>] <foreign lang="ar">qaTan</foreign>. (K.)
-					</entryFree>
-					<entryFree id="n43071" key="kafiylN" type="main">
+					</entry>
+					<entry type="main" id="n43071" key="kafiylN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kafiylN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								One who is <hi>responsible, answerable, amenable,</hi> or <hi>a sponsor</hi> or <hi>surety.</hi> (S, K, &amp;c.)
-					</entryFree>
-					<entryFree id="n43072" key="kafaAlapN" type="main">
+					</entry>
+					<entry type="main" id="n43072" key="kafaAlapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kafaAlapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Responsibility; answerableness; amenability;</hi> or <hi>suretiship;</hi> (S, Mgh, Msb, K;) the <hi>conjoining of one responsibility</hi> (<foreign lang="ar">*im~ap</foreign>) <hi>to another,</hi> [i. e., the <hi>conjoining one's own responsibility to that of another person,</hi>] <hi>with respect to the right of suit,</hi> [<hi>so that one person becomes liable to be sued for that which another owes</hi>]; (Mgh;) <hi>i. q.</hi> 
 								<foreign lang="ar">DamaAnN</foreign>. (S, &amp;c.)
-					</entryFree>
-					<entryFree id="n43073" key="mikofaAlN" type="main">
+					</entry>
+					<entry type="main" id="n43073" key="mikofaAlN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mikofaAlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								A woman <hi>large in the</hi> 
 								<foreign lang="ar">kafal</foreign> [or <hi>hinder part,</hi> or <hi>posteriors</hi>]. (TA in art. <foreign lang="ar">vql</foreign>.)
-					</entryFree>
-					<entryFree id="n43074" key="makofuwlN" type="main">
+					</entry>
+					<entry type="main" id="n43074" key="makofuwlN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makofuwlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								app. signifies <hi>Guaranteed,</hi> or <hi>pledged:</hi> for, accord. to IKtt, as is said in the Msb, you say <foreign lang="ar">kafalotu AlmaAla</foreign> as well as <foreign lang="ar">kafalotu biAlmaAli</foreign>; meaning <hi>I took upon myself the property; became responsible,</hi> or <hi>answerable, for it;</hi> [or <hi>I guaranteed it:</hi>] or <foreign lang="ar">makofuwlN</foreign> is better rendered <hi>ensured by an acknowledgment of responsibility for it:</hi> see an ex. voce <foreign lang="ar">marohuwnN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kfn" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kfn">
 					<head>
 								<foreign lang="ar">kfn</foreign>
 					</head>
-					<entryFree id="n43075" key="takaf~anuwA bA^anoTaAEK" type="main">
+					<entry type="main" id="n43075" key="takaf~anuwA bA^anoTaAEK">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takaf~anuwA bA^anoTaAEK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1638,28 +1641,28 @@
 								<foreign lang="ar">AnTAE</foreign> 
 								<hi>for grave-clothing</hi>]. (TA, art. <foreign lang="ar">HnT</foreign>.)
 						<pb n="3002"/>
-					</entryFree>
-				</div2>
-				<div2 n="kfhr" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kfhr">
 					<head>
 								<foreign lang="ar">kfhr</foreign>
 					</head>
-					<entryFree id="n43076" key="Aikofahara" type="main">
+					<entry type="main" id="n43076" key="Aikofahara">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">Aikofahara</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, said of clouds: see a verse cited <foreign lang="ar">EazolaA='u</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kfY" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kfY">
 					<head>
 								<foreign lang="ar">kfY</foreign>
 					</head>
-					<entryFree id="n43077" key="kafaY" type="main">
+					<entry type="main" id="n43077" key="kafaY">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kafaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1673,16 +1676,16 @@
 						-b3-
 								<foreign lang="ar">kafaY</foreign>, aor. <foreign lang="ar">yakofiY</foreign>, inf. n. <foreign lang="ar">kifaAyapN</foreign>, also signifies <foreign lang="ar">dafaEa</foreign> and <foreign lang="ar">manaEa</foreign> followed by <foreign lang="ar">mino</foreign>. (Har, p. 43, q. v.) [You say, <foreign lang="ar">kafaAhu Al$~ar~a</foreign> 
 								<hi>He repelled from him evil;</hi> and hence, <hi>he defended him therefrom;</hi> and <hi>he freed him therefrom:</hi> said of God, and of a man, &amp;c.]
-					</entryFree>
-					<entryFree id="n43078" key="AikotafaY biAl$~aYo'i" type="main">
+					</entry>
+					<entry type="main" id="n43078" key="AikotafaY biAl$~aYo'i">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AikotafaY biAl$~aYo'i</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He was,</hi> or <hi>became, sufficed</hi> by the thing, <hi>so as to need nothing more;</hi> or <hi>content with it.</hi> (Msb.)
-					</entryFree>
-					<entryFree id="n43079" key="kifaAyapN" type="main">
+					</entry>
+					<entry type="main" id="n43079" key="kifaAyapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kifaAyapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1692,34 +1695,34 @@
 						-b2-
 								<foreign lang="ar">qaAma bikifaAyatihi</foreign> 
 								<hi>He undertook his maintenance; he maintained him;</hi> syn. <foreign lang="ar">maAnahu</foreign>. (S, K, art. <foreign lang="ar">mwn</foreign>.)
-					</entryFree>
-					<entryFree id="n43080" key="A^akofaY" type="main">
+					</entry>
+					<entry type="main" id="n43080" key="A^akofaY">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^akofaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>More,</hi> and <hi>most, satisfying</hi>]. (Mgh, in art. <foreign lang="ar">jzA^</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="kknj" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kknj">
 					<head>
 								<foreign lang="ar">kknj</foreign>
 					</head>
-					<entryFree id="n43081" key="kaAkanajN" type="main">
+					<entry type="main" id="n43081" key="kaAkanajN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAkanajN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								or <foreign lang="ar">kaAkanojN</foreign> [Pers. <foreign lang="ar">kaAkonajo</foreign>]: see <foreign lang="ar">EubabN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kl">
 					<head>
 								<foreign lang="ar">kl</foreign>
 					</head>
-					<entryFree id="n43082" key="kal~a" type="main">
+					<entry type="main" id="n43082" key="kal~a">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kal~a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1742,31 +1745,31 @@
 						―
 						-b6-
 								<foreign lang="ar">kul~atuhun~a</foreign> for <foreign lang="ar">kul~uhun~a</foreign>: see Bd xxxi., last verse.
-					</entryFree>
-					<entryFree id="n43083" key="kal~ala" type="main">
+					</entry>
+					<entry type="main" id="n43083" key="kal~ala">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">kal~ala</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He adorned</hi> a thing with gems or jewels.
-					</entryFree>
-					<entryFree id="n43084" key="A^akal~a A^asonaAnahu" type="main">
+					</entry>
+					<entry type="main" id="n43084" key="A^akal~a A^asonaAnahu">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^akal~a A^asonaAnahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>It set his teeth on edge</hi>]; said of acid, or sour, food or drink. (Ibn-'Abbád, in TA, art. <foreign lang="ar">Drs</foreign>.) See 1.
-					</entryFree>
-					<entryFree id="n43085" key="kal~N" type="main">
+					</entry>
+					<entry type="main" id="n43085" key="kal~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kal~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A burden;</hi> syn. <foreign lang="ar">viqolN</foreign>: (S, Mgh, Msb, K:) <hi>a person,</hi> or <hi>persons, whom one has to support:</hi> syn. <foreign lang="ar">Eay~alN</foreign>, (K,) and <foreign lang="ar">EiyaAlN</foreign>: (S, Mgh, Msb, K:) applied to one and to more. (Msb.) See an ex. voce <foreign lang="ar">*im~apN</foreign> (last sentence but two).
-					</entryFree>
-					<entryFree id="n43086" key="kul~N" type="main">
+					</entry>
+					<entry type="main" id="n43086" key="kul~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kul~N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1791,15 +1794,15 @@
 						-b6-
 								<foreign lang="ar">kul~amano</foreign> 
 								<hi>Whoever.</hi>
-					</entryFree>
-					<entryFree id="n43087" key="kil~apN" type="main">
+					</entry>
+					<entry type="main" id="n43087" key="kil~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kil~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>musquito-curtain</hi>]: see <foreign lang="ar">A^abuw divaArK</foreign> and <foreign lang="ar">baEaDa</foreign>.
-					</entryFree>
-					<entryFree id="n43088" key="kul~iY~N" type="main">
+					</entry>
+					<entry type="main" id="n43088" key="kul~iY~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kul~iY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1824,8 +1827,8 @@
 								<foreign lang="ar">AlxalS~apu</foreign> 
 								<hi>Property,</hi> and <foreign lang="ar">AlEaraDu</foreign> 
 								<hi>Accident.</hi>
-					</entryFree>
-					<entryFree id="n43089" key="kaliylN" type="main">
+					</entry>
+					<entry type="main" id="n43089" key="kaliylN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaliylN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1839,15 +1842,15 @@
 						-b3-
 								<foreign lang="ar">lisaAnN kaliylN</foreign> 
 								<hi>A dull tongue; lacking sharpness.</hi> (S. *)
-					</entryFree>
-					<entryFree id="n43090" key="wariva rajulFA kalaAlapF" type="main">
+					</entry>
+					<entry type="main" id="n43090" key="wariva rajulFA kalaAlapF">
 						<form>
 							<orth orig="" extent="full" lang="ar">wariva rajulFA kalaAlapF</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, and <foreign lang="ar">Eano kalaAlapK</foreign>, <hi>He was heir of a man who left neither parent nor offspring</hi> (IbrD.)
-					</entryFree>
-					<entryFree id="n43091" key="AlA_ikoliylu" type="main">
+					</entry>
+					<entry type="main" id="n43091" key="AlA_ikoliylu">
 						<form>
 							<orth orig="" extent="full" lang="ar">AlA_ikoliylu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1860,22 +1863,22 @@
 						―
 						-b3-
 							<hi>The border of flesh round the nail:</hi> (K:) in the TA, art. <foreign lang="ar">$Zf</foreign>, <foreign lang="ar">A_ikoliylu AlZ~ufuri</foreign>.
-					</entryFree>
-					<entryFree id="n43092" key="mukal~alN" type="main">
+					</entry>
+					<entry type="main" id="n43092" key="mukal~alN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukal~alN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Adorned</hi> with gems or jewels. (L, art. <foreign lang="ar">njd</foreign>; a common meaning.)
-					</entryFree>
-				</div2>
-				<div2 n="klf" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="klf">
 					<head>
 								<foreign lang="ar">klf</foreign>
 					</head>
-					<entryFree id="n43093" key="kalifa bihi" type="main">
+					<entry type="main" id="n43093" key="kalifa bihi">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kalifa bihi</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1883,15 +1886,15 @@
 						―
 						-b2-
 								<foreign lang="ar">kalafN</foreign>, inf. n. of <foreign lang="ar">kalifa</foreign>: [<hi>violent</hi> or <hi>intense love:</hi>] see <foreign lang="ar">Hub~N</foreign>; and see a verse cited in the first paragraph of that art.
-					</entryFree>
-					<entryFree id="n43094" key="kal~afa nafosahu $ayoy^FA" type="main">
+					</entry>
+					<entry type="main" id="n43094" key="kal~afa nafosahu $ayoy^FA">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">kal~afa nafosahu $ayoy^FA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He tasked himself with a thing,</hi> as also 
-							↓<orth type="arrow" lang="ar">takal~afa $ayy^FA</orth>.
+							<anchor type="arrow"><foreign lang="ar">takal~afa $ayy^FA↓</foreign></anchor>.
 						―
 						-b2-
 								<foreign lang="ar">kal~afahu A^amorFA</foreign> 
@@ -1911,7 +1914,7 @@
 						-b6-
 								<foreign lang="ar">kal~afa nafosahu</foreign> 
 								<hi>He put himself to trouble</hi> or <hi>inconvenience;</hi> like 
-							↓<orth type="arrow" lang="ar">takal~afa</orth> alone.
+							<anchor type="arrow"><foreign lang="ar">takal~afa↓</foreign></anchor> alone.
 						―
 						-b7-
 								<foreign lang="ar">kal~afahu ka*aA</foreign> 
@@ -1924,10 +1927,10 @@
 						-b9-
 								<foreign lang="ar">takoliyfN</foreign> 
 								<hi>An imposition; a requisition: con straint, &amp;c.</hi>
-					</entryFree>
-					<entryFree id="n43095" key="takal~afa A^amorFA" type="main">
+					</entry>
+					<entry type="main" id="n43095" key="takal~afa A^amorFA">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takal~afa A^amorFA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1975,15 +1978,15 @@
 						-b11-
 								<foreign lang="ar">takal~afa AlqaYo'a</foreign> 
 								<hi>He vomited intentionally.</hi> (TA, art. <foreign lang="ar">qY'</foreign>.)
-					</entryFree>
-					<entryFree id="n43096" key="kalafN" type="main">
+					</entry>
+					<entry type="main" id="n43096" key="kalafN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kalafN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>A discolouration of the face, by</hi>] <hi>a thing that comes upon the face resembling sesame;</hi> [by <hi>freckles,</hi> accord. to present usage:] and <hi>a dingy redness that comes upon the face.</hi> (S, K.)
-					</entryFree>
-					<entryFree id="n43097" key="kulofapN" type="main">
+					</entry>
+					<entry type="main" id="n43097" key="kulofapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kulofapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1992,45 +1995,45 @@
 						―
 						-b2-
 								[<hi>Constraint,</hi>] <hi>trouble, pain,</hi> or <hi>inconvenience.</hi> (MA.)
-					</entryFree>
-				</div2>
-				<div2 n="klm" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="klm">
 					<head>
 								<foreign lang="ar">klm</foreign>
 					</head>
-					<entryFree id="n43098" key="kaAlamahu" type="main">
+					<entry type="main" id="n43098" key="kaAlamahu">
 						<form>
-							<itype>3</itype>
+							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">kaAlamahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>i. q.</hi> 
 								<foreign lang="ar">naATaqahu</foreign>. (TA in art. <foreign lang="ar">nTq</foreign>.)
-					</entryFree>
-					<entryFree id="n43099" key="takal~ama ganohu" type="main">
+					</entry>
+					<entry type="main" id="n43099" key="takal~ama ganohu">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takal~ama ganohu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He spoke for him;</hi> syn. <foreign lang="ar">Eab~ara</foreign>. (S, Msb, art. <foreign lang="ar">Ebr</foreign>.)
-					</entryFree>
-					<entryFree id="n43100" key="takaAlamaA" type="main">
+					</entry>
+					<entry type="main" id="n43100" key="takaAlamaA">
 						<form>
-							<itype>6</itype>
+							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">takaAlamaA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>They spoke, talked,</hi> or <hi>discoursed, each with the other.</hi> (S, * M.)
-					</entryFree>
-					<entryFree id="n43101" key="kalimapN" type="main">
+					</entry>
+					<entry type="main" id="n43101" key="kalimapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kalimapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A word:</hi> (Kull, 301:) <hi>an expression:</hi> (K:) <hi>a proposition: a sentence:</hi> [<hi>a saying:</hi>] <hi>an argument.</hi> (Kull.) <hi>An assertion: an expression of opinion.</hi>
-					</entryFree>
-					<entryFree id="n43102" key="kalaAmN" type="main">
+					</entry>
+					<entry type="main" id="n43102" key="kalaAmN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kalaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2052,16 +2055,16 @@
 						―
 						-b4-
 								<foreign lang="ar">Eilomu AlkalaAmi</foreign> [<hi>The theology of the Muslims;</hi>] <hi>a science in which one investigates the being and attributes of God, and the conditions of possible things with respect to creation and restitution, according to the rule of El-Islám;</hi> which last restriction is for the exclusion of the theology of the philosophers. (KT.)
-					</entryFree>
-					<entryFree id="n43103" key="rajulN kil~iymN" type="main">
+					</entry>
+					<entry type="main" id="n43103" key="rajulN kil~iymN">
 						<form>
 							<orth orig="" extent="full" lang="ar">rajulN kil~iymN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, like <foreign lang="ar">sik~iyt~</foreign> [and <foreign lang="ar">Hid~iyvN</foreign>] <hi>i. q.</hi> 
 								<foreign lang="ar">minoTiyqN</foreign>. (Ibn-'Abbád, Z, TA.)
-					</entryFree>
-					<entryFree id="n43104" key="kuloyapN" type="main">
+					</entry>
+					<entry type="main" id="n43104" key="kuloyapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuloyapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2070,47 +2073,47 @@
 						―
 						-b2-
 							of a <foreign lang="ar">mazaAdap</foreign>: see <foreign lang="ar">xurobapN</foreign>.
-					</entryFree>
-					<entryFree id="n43105" key="mutakal~imN" type="main">
+					</entry>
+					<entry type="main" id="n43105" key="mutakal~imN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mutakal~imN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A Muslim theologian.</hi> See <foreign lang="ar">Eilomu AlkalaAmi</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="klw" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="klw">
 					<head>
 								<foreign lang="ar">klw</foreign>
 					</head>
-					<entryFree id="n43106" key="kalaA" type="main">
+					<entry type="main" id="n43106" key="kalaA">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kalaA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, first pers. <foreign lang="ar">kalaAtu</foreign>, aor. <foreign lang="ar">yakoluw</foreign>; and <foreign lang="ar">kalaA</foreign>, first pers. <foreign lang="ar">kalayotu</foreign>, aor. <foreign lang="ar">yakolaA</foreign>; inf. n., <foreign lang="ar">kilaAyapN</foreign>; see <foreign lang="ar">kalaA^a</foreign>.
-					</entryFree>
-					<entryFree id="n43107" key="AlkulaY" type="main">
+					</entry>
+					<entry type="main" id="n43107" key="AlkulaY">
 						<form>
 							<orth orig="" extent="full" lang="ar">AlkulaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: <hi>the feathers</hi> so called: see <foreign lang="ar">manaAkibu</foreign> and <foreign lang="ar">A^aboharu</foreign>.
-					</entryFree>
-					<entryFree id="n43108" key="AlkuloyataAni" type="main">
+					</entry>
+					<entry type="main" id="n43108" key="AlkuloyataAni">
 						<form>
 							<orth orig="" extent="full" lang="ar">AlkuloyataAni</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A name of two stars on the ear of Taurus.</hi> (See <foreign lang="ar">AlkalobaAni</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="km" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="km">
 					<head>
 								<foreign lang="ar">km</foreign>
 					</head>
-					<entryFree id="n43109" key="kamo" type="main">
+					<entry type="main" id="n43109" key="kamo">
 						<form>
 							<orth orig="" extent="full" lang="ar">kamo</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2119,15 +2122,15 @@
 						―
 						-b2-
 							As an interrogative with the specification suppressed, <hi>What number? How many?</hi> and, as in an ex. voce <foreign lang="ar">siqoYN</foreign>, virtually meaning <hi>How much?</hi> and so in an ex. voce <foreign lang="ar">masaAfapN</foreign> and voce <foreign lang="ar">$aborN</foreign>. Also <hi>How long?</hi> as in the Kur, ii. 161, &amp;c.; a noun signifying a period of time being understood: see also an ex. voce <foreign lang="ar">Easafa</foreign>, and voce <foreign lang="ar">fara$a</foreign>.
-					</entryFree>
-					<entryFree id="n43110" key="kam~N" type="main">
+					</entry>
+					<entry type="main" id="n43110" key="kam~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kam~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and <foreign lang="ar">kamN</foreign> are both app. right: see <foreign lang="ar">qado</foreign>.
-					</entryFree>
-					<entryFree id="n43111" key="kim~N" type="main">
+					</entry>
+					<entry type="main" id="n43111" key="kim~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kim~N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2137,9 +2140,9 @@
 						-b2-
 								<foreign lang="ar">kim~N</foreign> The <hi>envelope</hi> [or <hi>spathe</hi>] <hi>of the</hi> 
 								<foreign lang="ar">TaloE</foreign> [or <hi>spadix of a palm-tree</hi>]: and the <hi>covering</hi> [or <hi>calyx</hi>] <hi>of flowers</hi> or <hi>blossoms;</hi> as also 
-							↓<orth type="arrow" lang="ar">kimaAmapN</orth>. (S, Msb, K.)
-					</entryFree>
-					<entryFree id="n43112" key="kum~apN" type="main">
+							<anchor type="arrow"><foreign lang="ar">kimaAmapN↓</foreign></anchor>. (S, Msb, K.)
+					</entry>
+					<entry type="main" id="n43112" key="kum~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kum~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2147,152 +2150,152 @@
 								<hi>A</hi> 
 								<foreign lang="ar">qalanosuwap</foreign>: (TA in art. <foreign lang="ar">bTH</foreign>:) or <hi>a round</hi> 
 								<foreign lang="ar">qlnswp</foreign>: (S, K:) pl. <foreign lang="ar">kimaAmN</foreign>. (K, * TA in art. <foreign lang="ar">bTH</foreign>.)
-					</entryFree>
-					<entryFree id="n43113" key="kimaAmapN" type="main">
+					</entry>
+					<entry type="main" id="n43113" key="kimaAmapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kimaAmapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">kim~N</foreign>.
-					</entryFree>
-					<entryFree id="n43114" key="kam~iy~apN" type="main">
+					</entry>
+					<entry type="main" id="n43114" key="kam~iy~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kam~iy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Quantum,</hi> or <hi>quantity,</hi> as answering to “ how many. ”
-					</entryFree>
-					<entryFree id="n43115" key="mukam~amN" type="main">
+					</entry>
+					<entry type="main" id="n43115" key="mukam~amN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukam~amN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Covered over,</hi> or <hi>concealed</hi> (<foreign lang="ar">masotuwr</foreign>). (S, art. <foreign lang="ar">xSb</foreign>.) See <foreign lang="ar">buroA^ap</foreign>.
-					</entryFree>
-					<entryFree id="n43116" key="kamokaAmN" type="main">
+					</entry>
+					<entry type="main" id="n43116" key="kamokaAmN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kamokaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <hi>cancamum-tree:</hi> see <foreign lang="ar">buTomN</foreign> and <foreign lang="ar">DirowN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kmfT$" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kmfT$">
 					<head>
 								<foreign lang="ar">qmfT$</foreign>
 					</head>
-					<entryFree id="n43117" key="kamaA fiyoTuws" type="main">
+					<entry type="main" id="n43117" key="kamaA fiyoTuws">
 						<form>
 							<orth orig="" extent="full" lang="ar">kamaA fiyoTuws</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[
-							<orth lang="gr">χαμαίπιτυς</orth>, <hi>the ground-pine</hi>]: see <foreign lang="ar">EaroSafN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kmr" type="root">
+							<foreign lang="gr">χαμαίπιτυς</foreign>, <hi>the ground-pine</hi>]: see <foreign lang="ar">EaroSafN</foreign>.
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kmr">
 					<head>
 								<foreign lang="ar">kmr</foreign>
 					</head>
-					<entryFree id="n43118" key="kamarN" type="main">
+					<entry type="main" id="n43118" key="kamarN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kamarN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A kind of belt with a receptacle for money.</hi>
-					</entryFree>
-				</div2>
-				<div2 n="kml" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kml">
 					<head>
 								<foreign lang="ar">kml</foreign>
 					</head>
-					<entryFree id="n43119" key="kamala" type="main">
+					<entry type="main" id="n43119" key="kamala">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kamala</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He,</hi> or <hi>it, was,</hi> or <hi>became, perfect;</hi> and sometimes, <hi>it was,</hi> or <hi>became, complete, entire, whole,</hi> or <hi>full;</hi> which latter signification is more properly expressed by <foreign lang="ar">tam~a</foreign>, which see.
-					</entryFree>
-					<entryFree id="n43120" key="kaAmlN" type="main">
+					</entry>
+					<entry type="main" id="n43120" key="kaAmlN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAmlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Complete</hi> with respect to bodily vigour, having attained the usual term thereof. See <foreign lang="ar">layovu Eifir~iyna</foreign>, art. <foreign lang="ar">Efr</foreign>. Also <hi>Consummate, perfect.</hi>
-					</entryFree>
-					<entryFree id="n43121" key="Eayonu AlkamaAli" type="main">
+					</entry>
+					<entry type="main" id="n43121" key="Eayonu AlkamaAli">
 						<form>
 							<orth orig="" extent="full" lang="ar">Eayonu AlkamaAli</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">faqaA^a</foreign>.
-					</entryFree>
-					<entryFree id="n43122" key="mukam~ilaAtu" type="main">
+					</entry>
+					<entry type="main" id="n43122" key="mukam~ilaAtu">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukam~ilaAtu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Supererogatory acts of religious service.</hi>
-					</entryFree>
-				</div2>
-				<div2 n="kmn" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kmn">
 					<head>
 								<foreign lang="ar">kmn</foreign>
 					</head>
-					<entryFree id="n43123" key="AlkaAmaAnu Almu*aAbu" type="main">
+					<entry type="main" id="n43123" key="AlkaAmaAnu Almu*aAbu">
 						<form>
 							<orth orig="" extent="full" lang="ar">AlkaAmaAnu Almu*aAbu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, mentioned in the TA, in art. <foreign lang="ar">nbT</foreign>, <hi>i. q.</hi> 
 								<foreign lang="ar">Eiloku AlA^anobaAT</foreign>, which is applied as a <foreign lang="ar">lzwq</foreign> to a wound.
-					</entryFree>
-					<entryFree id="n43124" key="kaAminN" type="main">
+					</entry>
+					<entry type="main" id="n43124" key="kaAminN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAminN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Latent.</hi>
-					</entryFree>
-					<entryFree id="n43125" key="makomanN" type="main">
+					</entry>
+					<entry type="main" id="n43125" key="makomanN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makomanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A place of concealment, a lurking-place:</hi> (Mgh, Msb:) pl. <foreign lang="ar">makaAminu</foreign>. (Msb.)
-					</entryFree>
-				</div2>
-				<div2 n="kmh" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kmh">
 					<head>
 								<foreign lang="ar">kmh</foreign>
 					</head>
-					<entryFree id="n43126" key="A^aroDN kamohaA='N" type="main">
+					<entry type="main" id="n43126" key="A^aroDN kamohaA='N">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^aroDN kamohaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>i. q.</hi> 
 								<foreign lang="ar">mugim~apN</foreign> and <foreign lang="ar">migam~apN</foreign>. (TA in art. <foreign lang="ar">gm</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="kmY" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kmY">
 					<head>
 								<foreign lang="ar">kmY</foreign>
 					</head>
-					<entryFree id="n43127" key="kamiY~N" type="main">
+					<entry type="main" id="n43127" key="kamiY~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kamiY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								A <hi>courageous</hi> man: or one <hi>wearing arms</hi> or <hi>armour:</hi> (K:) or a <hi>courageous</hi> man <hi>covered,</hi> or <hi>protected, by arms</hi> or <hi>armour;</hi> (S;) a <hi>courageous armed</hi> man.
-					</entryFree>
-				</div2>
-				<div2 n="kn" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kn">
 					<head>
 								<foreign lang="ar">kn</foreign>
 					</head>
-					<entryFree id="n43128" key="kin~N" type="main">
+					<entry type="main" id="n43128" key="kin~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kin~N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2304,75 +2307,75 @@
 						―
 						-b3-
 							<hi>A thing that serves for veiling, covering,</hi> or <hi>protecting.</hi> (S, * Msb, * K.) See <foreign lang="ar">Zil~N</foreign>, where I have thus rendered it.
-					</entryFree>
-					<entryFree id="n43129" key="kun~apN" type="main">
+					</entry>
+					<entry type="main" id="n43129" key="kun~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kun~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">TanafN</foreign>.
-					</entryFree>
-					<entryFree id="n43130" key="kinaAnapN" type="main">
+					</entry>
+					<entry type="main" id="n43130" key="kinaAnapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kinaAnapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">jaEobapN</foreign>.
 						<pb n="3004"/>
-					</entryFree>
-					<entryFree id="n43131" key="kaAnuwnN" type="main">
+					</entry>
+					<entry type="main" id="n43131" key="kaAnuwnN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAnuwnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A fire-place; a place in which fire is lighted.</hi> (S, K.)
-					</entryFree>
-					<entryFree id="n43132" key="makonuwnu AlfaAy^ili" type="main">
+					</entry>
+					<entry type="main" id="n43132" key="makonuwnu AlfaAy^ili">
 						<form>
 							<orth orig="" extent="full" lang="ar">makonuwnu AlfaAy^ili</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see a verse of El-Aashà in art. <foreign lang="ar">fyl</foreign>.
-					</entryFree>
-					<entryFree id="n43133" key="fAEl musotakin~N" type="main">
+					</entry>
+					<entry type="main" id="n43133" key="fAEl musotakin~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">fAEl musotakin~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">musotaqinN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="knxb" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="knxb">
 					<head>
 								<foreign lang="ar">knxb</foreign>
 					</head>
-					<entryFree id="n43134" key="kanoxabapN" type="main">
+					<entry type="main" id="n43134" key="kanoxabapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kanoxabapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Confusion of speech, or discourse, by reason of errors, or mistakes.</hi> (Yoo, K.) [App. an inf. n. of which the verb is <foreign lang="ar">kanoxaba</foreign>.]
-					</entryFree>
-				</div2>
-				<div2 n="kns" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kns">
 					<head>
 								<foreign lang="ar">kns</foreign>
 					</head>
-					<entryFree id="n43135" key="kaniysN" type="main">
+					<entry type="main" id="n43135" key="kaniysN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaniysN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>a kind of roast flesh-meat</hi>]: see <foreign lang="ar">maromuwDN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="knf" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="knf">
 					<head>
 								<foreign lang="ar">knf</foreign>
 					</head>
-					<entryFree id="n43136" key="Aikotanafahu Alqawomu" type="main">
+					<entry type="main" id="n43136" key="Aikotanafahu Alqawomu">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">Aikotanafahu Alqawomu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2381,8 +2384,8 @@
 						-b2-
 								<foreign lang="ar">Aikotanafahu</foreign> 
 								<hi>It bordered it on either side.</hi>
-					</entryFree>
-					<entryFree id="n43137" key="kanafN" type="main">
+					</entry>
+					<entry type="main" id="n43137" key="kanafN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kanafN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2392,22 +2395,22 @@
 						-b2-
 								<foreign lang="ar">kanafaA AlA_inosaAni</foreign> 
 								<hi>The man's two sides, right and left.</hi> (TA.)
-					</entryFree>
-					<entryFree id="n43138" key="kanuwfN" type="main">
+					</entry>
+					<entry type="main" id="n43138" key="kanuwfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kanuwfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">qa*uwrN</foreign>, in two places.
-					</entryFree>
-					<entryFree id="n43139" key="kaniyfN" type="main">
+					</entry>
+					<entry type="main" id="n43139" key="kaniyfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaniyfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">zirobN</foreign>.
-					</entryFree>
-					<entryFree id="n43140" key="kunaAfapN" type="main">
+					</entry>
+					<entry type="main" id="n43140" key="kunaAfapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kunaAfapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2417,35 +2420,35 @@
 						-b2-
 								<foreign lang="ar">kunaAfapN</foreign> 
 								<hi>i. q.</hi> Pers. <foreign lang="ar">ri$otaho qaTaAy^ifo</foreign> [<hi>Thread katáïf</hi>]. (KL.) See <foreign lang="ar">A_iToriyapN</foreign>.
-					</entryFree>
-					<entryFree id="n43141" key="kanafaAniY~N" type="main">
+					</entry>
+					<entry type="main" id="n43141" key="kanafaAniY~N">
 						<form>
 							<orth orig="" extent="full" lang="ar">kanafaAniY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								A maker or seller of <foreign lang="ar">kunaAfap</foreign>.
-					</entryFree>
-					<entryFree id="n43142" key="mukaAnifN" type="main">
+					</entry>
+					<entry type="main" id="n43142" key="mukaAnifN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukaAnifN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								A she-camel <hi>that lies down behind the other camels.</hi> (Az, cited in L, art. <foreign lang="ar">rwH</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="knh" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="knh">
 					<head>
 								<foreign lang="ar">knh</foreign>
 					</head>
-					<entryFree id="n43143" key="A^akonaha" type="main">
+					<entry type="main" id="n43143" key="A^akonaha">
 						<form>
-							<itype>4</itype>
+							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^akonaha</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see an ex. in a verse cited voce <foreign lang="ar">maEas~N</foreign>.
-					</entryFree>
-					<entryFree id="n43144" key="kunohN" type="main">
+					</entry>
+					<entry type="main" id="n43144" key="kunohN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kunohN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2454,15 +2457,15 @@
 						―
 						-b2-
 								<foreign lang="ar">kunohN</foreign> may often be rendered <hi>Entity.</hi>
-					</entryFree>
-				</div2>
-				<div2 n="knY" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="knY">
 					<head>
 								<foreign lang="ar">knY</foreign>
 					</head>
-					<entryFree id="n43145" key="kanaY" type="main">
+					<entry type="main" id="n43145" key="kanaY">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kanaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2471,15 +2474,15 @@
 						―
 						-b2-
 								<foreign lang="ar">kanaYa bihi Eano kadam</foreign>, <hi>He used it metonymically for such a word</hi> or <hi>phrase; he alluded thereby to such a thing.</hi>
-					</entryFree>
-					<entryFree id="n43146" key="kunoyapN" type="main">
+					</entry>
+					<entry type="main" id="n43146" key="kunoyapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kunoyapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A surname of relationship.</hi>
-					</entryFree>
-					<entryFree id="n43147" key="kinaAyapN" type="main">
+					</entry>
+					<entry type="main" id="n43147" key="kinaAyapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kinaAyapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2491,163 +2494,163 @@
 						―
 						-b3-
 							Also, and 
-							↓<orth type="arrow" lang="ar">mukan~FY</orth>, accord. to De Sacy, in his Ar. Gr. i. 455, or 
-							↓<orth type="arrow" lang="ar">mukan~K</orth>, for I find its plural written in a copy of the S <foreign lang="ar">mukan~iyaAt</foreign>, <hi>A pronoun;</hi> see <foreign lang="ar">kanaY</foreign>.
-					</entryFree>
-					<entryFree id="n43148" key="mukan~K" type="main">
+							<anchor type="arrow"><foreign lang="ar">mukan~FY↓</foreign></anchor>, accord. to De Sacy, in his Ar. Gr. i. 455, or 
+							<anchor type="arrow"><foreign lang="ar">mukan~K↓</foreign></anchor>, for I find its plural written in a copy of the S <foreign lang="ar">mukan~iyaAt</foreign>, <hi>A pronoun;</hi> see <foreign lang="ar">kanaY</foreign>.
+					</entry>
+					<entry type="main" id="n43148" key="mukan~K">
 						<form>
 							<orth orig="" extent="full" lang="ar">mukan~K</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and <foreign lang="ar">mukan~aY</foreign>:see <foreign lang="ar">kinaAyapN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="khb" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="khb">
 					<head>
 								<foreign lang="ar">khb</foreign>
 					</head>
-					<entryFree id="n43149" key="kuhobapN" type="main">
+					<entry type="main" id="n43149" key="kuhobapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuhobapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, accord. to Ibn El-Aarábee, <hi>Yellowness inclining to redness.</hi> (TA. voce <foreign lang="ar">Husobap</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="khl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="khl">
 					<head>
 								<foreign lang="ar">khl</foreign>
 					</head>
-					<entryFree id="n43150" key="Aikotahala" type="main">
+					<entry type="main" id="n43150" key="Aikotahala">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">Aikotahala</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, said of a plant, <hi>It became tall and full-grown:</hi> (TA:) <hi>or it became of its full height, and blossomed:</hi> (S:) see <foreign lang="ar">zaAxirN</foreign>.
-					</entryFree>
-					<entryFree id="n43151" key="kaholN" type="main">
+					</entry>
+					<entry type="main" id="n43151" key="kaholN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaholN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Of middle age;</hi> or <hi>between that age and the period when his hair has become intermixed with heaviness.</hi> See <foreign lang="ar">$abaAbN</foreign>; and <foreign lang="ar">$ayoxN</foreign> and <foreign lang="ar">gulaAmN</foreign>.
-					</entryFree>
-					<entryFree id="n43152" key="kuhuwlapN" type="main">
+					</entry>
+					<entry type="main" id="n43152" key="kuhuwlapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuhuwlapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">$abaAbN</foreign>.
-					</entryFree>
-					<entryFree id="n43153" key="kaAhilN" type="main">
+					</entry>
+					<entry type="main" id="n43153" key="kaAhilN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAhilN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[The <hi>withers</hi> of a horse, &amp;c.] <hi>i. q.</hi> 
 								<foreign lang="ar">HaArikN</foreign>: or <hi>the anterior portion of the upper part of the back, next the neck,</hi> which is the <hi>upper third part, containing six vertebra:</hi> or the <hi>part between the two shoulder-blades:</hi> or the <hi>part where the neck is joined to the back how:</hi> [the <hi>base of the neck:</hi> see <foreign lang="ar">vabajN</foreign>]. (K.)
-					</entryFree>
-					<entryFree id="n43154" key="kihaAnapN" type="main">
+					</entry>
+					<entry type="main" id="n43154" key="kihaAnapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kihaAnapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Divination: soothsaying.</hi> (K, &amp;c.)
-					</entryFree>
-					<entryFree id="n43155" key="kaAhinN" type="main">
+					</entry>
+					<entry type="main" id="n43155" key="kaAhinN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAhinN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">Ear~aAfN</foreign> and <foreign lang="ar">EaAy^ifN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kw" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kw">
 					<head>
 								<foreign lang="ar">kw</foreign>
 					</head>
-					<entryFree id="n43156" key="kuw~apN" type="main">
+					<entry type="main" id="n43156" key="kuw~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuw~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								and <foreign lang="ar">kaw~apN</foreign> (S, Msb, K) and <foreign lang="ar">kaw~N</foreign> (K) <hi>A hole, or perforation. or an aperture,</hi> (S, Mgh, Msb, K,) <hi>in a wall</hi> (Msb, K) or <hi>chamber;</hi> (S, Mgh;] [<hi>a mural aperture;</hi>] or the first and second, <hi>a small one;</hi> and the third, <hi>a large one</hi> (K.) See also <foreign lang="ar">mi$okaApN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kwr" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kwr">
 					<head>
 								<foreign lang="ar">kwr</foreign>
 					</head>
-					<entryFree id="n43157" key="kArY" type="main">
+					<entry type="main" id="n43157" key="kArY">
 						<form>
 							<orth orig="" extent="full" lang="ar">kArY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<foreign lang="ar">kaAriY~N</foreign>?] <hi>i. q.</hi> 
 								<foreign lang="ar">gariybN</foreign>, applied to a man. (AA, in TA, voce <foreign lang="ar">gariybN</foreign>.)
-					</entryFree>
-				</div2>
-				<div2 n="kwE" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kwE">
 					<head>
 								<foreign lang="ar">kwE</foreign>
 					</head>
-					<entryFree id="n43158" key="kuwEN" type="main">
+					<entry type="main" id="n43158" key="kuwEN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuwEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								The <hi>extremity of the radius,</hi> or <hi>bone of the fore-arm, next the thumb:</hi> (S, Msb, K:) or the <hi>protuberance formed thereby.</hi>
-					</entryFree>
-				</div2>
-				<div2 n="kwf" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kwf">
 					<head>
 								<foreign lang="ar">kwf</foreign>
 					</head>
-					<entryFree id="n43159" key="takaw~afa" type="main">
+					<entry type="main" id="n43159" key="takaw~afa">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takaw~afa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">ta$aA^~ama</foreign>.
-					</entryFree>
-					<entryFree id="n43160" key="kaAfN" type="main">
+					</entry>
+					<entry type="main" id="n43160" key="kaAfN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kaAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Same as</hi> 
 								<foreign lang="ar">kus~N</foreign> (<hi>because it is the name of the incipient letter of this word:</hi> 1001 Nights ii. 304).
-					</entryFree>
-					<entryFree id="n43161" key="kuwfiy~apN" type="main">
+					</entry>
+					<entry type="main" id="n43161" key="kuwfiy~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kuwfiy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A thing that is worn upon the head; so</hi> called because of its roundness, or its bring round. (TA.)
-					</entryFree>
-				</div2>
-				<div2 n="kwm" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kwm">
 					<head>
 								<foreign lang="ar">kwm</foreign>
 					</head>
-					<entryFree id="n43162" key="AikotaAma" type="main">
+					<entry type="main" id="n43162" key="AikotaAma">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AikotaAma</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He walked upon the extremities of his toes, by choice.</hi> (TA, voce <foreign lang="ar">HaAriqapN</foreign>, q. v.)
-					</entryFree>
-				</div2>
-				<div2 n="kwn" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kwn">
 					<head>
 								<foreign lang="ar">kwn</foreign>
 					</head>
-					<entryFree id="n43163" key="kaAna" type="main">
+					<entry type="main" id="n43163" key="kaAna">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kaAna</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2662,38 +2665,38 @@
 						―
 						-b4-
 								<foreign lang="ar">kaAna</foreign> as a complete, i. e., an attributive, verb, see <foreign lang="ar">HaSala</foreign>. in three places.
-					</entryFree>
-					<entryFree id="n43164" key="takaw~ana" type="main">
+					</entry>
+					<entry type="main" id="n43164" key="takaw~ana">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takaw~ana</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He,</hi> or <hi>it, received,</hi> or <hi>took, his, or its, being,</hi> or <hi>existence; came into existence; originated.</hi>
-					</entryFree>
-					<entryFree id="n43165" key="AisotakaAna" type="main">
+					</entry>
+					<entry type="main" id="n43165" key="AisotakaAna">
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">AisotakaAna</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He was,</hi> or <hi>became lowly, humble, submissive,</hi> or <hi>in a state of abasement.</hi> (Har, p. 4, q. v.) See <foreign lang="ar">Aisotakana</foreign> in art. <foreign lang="ar">skn</foreign>: and see art. <foreign lang="ar">kyn</foreign>.
-					</entryFree>
-					<entryFree id="n43166" key="naEuw*u biAll~`hi mn AlHawori baEoda Alkawoni" type="main">
+					</entry>
+					<entry type="main" id="n43166" key="naEuw*u biAll~`hi mn AlHawori baEoda Alkawoni">
 						<form>
 							<orth orig="" extent="full" lang="ar">naEuw*u biAll~`hi mn AlHawori baEoda Alkawoni</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">HaworN</foreign> and <foreign lang="ar">kaworN</foreign>.
-					</entryFree>
-					<entryFree id="n43167" key="kayonuwnapN" type="main">
+					</entry>
+					<entry type="main" id="n43167" key="kayonuwnapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kayonuwnapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">$aAxa</foreign>.
-					</entryFree>
-					<entryFree id="n43168" key="makaAnapN" type="main">
+					</entry>
+					<entry type="main" id="n43168" key="makaAnapN">
 						<form>
 							<orth orig="" extent="full" lang="ar">makaAnapN</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2719,158 +2722,158 @@
 						-b6-
 								<foreign lang="ar">A^aSobaHa makaAna ka*aA</foreign> 
 								<hi>It became as,</hi> or <hi>like, such a thing.</hi> See a verse cited voce <foreign lang="ar">ratomN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kwY" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kwY">
 					<head>
 								<foreign lang="ar">kwY</foreign>
 					</head>
-					<entryFree id="n43169" key="kawaAhu" type="main">
+					<entry type="main" id="n43169" key="kawaAhu">
 						<form>
-							<itype>1</itype>
+							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">kawaAhu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>He</hi> (a veterinary, and any other, TA) <hi>cauterized him;</hi> i. e. <hi>burned his skin; with an iron,</hi> and <hi>the like:</hi> (K:) or <hi>he burned him</hi> with fire. (Mgh.)
 						<pb n="3005"/>
-					</entryFree>
-				</div2>
-				<div2 n="kys" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kys">
 					<head>
 								<foreign lang="ar">kys</foreign>
 					</head>
-					<entryFree id="n43170" key="kay~aisN" type="main">
+					<entry type="main" id="n43170" key="kay~aisN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kay~aisN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Intelligent; ingenious, clever.</hi> (S, Msb, K.) [Plur. <foreign lang="ar">kuwsaY</foreign>:] also <foreign lang="ar">A^akoyaAsN</foreign>. (Msb.)
-					</entryFree>
-					<entryFree id="n43171" key="A^um~u kayosaAna" type="main">
+					</entry>
+					<entry type="main" id="n43171" key="A^um~u kayosaAna">
 						<form>
 							<orth orig="" extent="full" lang="ar">A^um~u kayosaAna</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								a metonymical name of <hi>The knee,</hi> in the dial. of El-Azd. (TA, art. <foreign lang="ar">rkb</foreign>)
-					</entryFree>
-				</div2>
-				<div2 n="kyS" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kyS">
 					<head>
 								<foreign lang="ar">kyS</foreign>
 					</head>
-					<entryFree id="n43172" key="kiySN" type="main">
+					<entry type="main" id="n43172" key="kiySN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kiySN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">daniyqN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kyf" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kyf">
 					<head>
 								<foreign lang="ar">kyf</foreign>
 					</head>
-					<entryFree id="n43173" key="kay~afotuhu fatakay~afa" type="main">
+					<entry type="main" id="n43173" key="kay~afotuhu fatakay~afa">
 						<form>
-							<itype>2</itype>
+							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">kay~afotuhu fatakay~afa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								, used by the Muslim theologians, (K, TA,) verbs derived from <foreign lang="ar">kayofa</foreign>, (TA,) [signifying <hi>I specified by the ascription of its quality</hi> and <hi>it became so specified,</hi>] are formed in accordance with analogy, not heard from the Arabs. (K, * TA.)
-					</entryFree>
-					<entryFree id="n43174" key="takay~afa" type="main">
+					</entry>
+					<entry type="main" id="n43174" key="takay~afa">
 						<form>
-							<itype>5</itype>
+							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">takay~afa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see what next precedes.
-					</entryFree>
-					<entryFree id="n43175" key="kayofiy~apN" type="main">
+					</entry>
+					<entry type="main" id="n43175" key="kayofiy~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kayofiy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>Quality as answering to</hi> “ <hi>how?</hi> ”; <hi>mode,</hi> or <hi>manner, of being.</hi>
-					</entryFree>
-					<entryFree id="n43176" key="kayofuwfiy~apN" type="main">
+					</entry>
+					<entry type="main" id="n43176" key="kayofuwfiy~apN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kayofuwfiy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								for <foreign lang="ar">kayofiy~apN</foreign>: see <foreign lang="ar">tayosiy~apN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kyl" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kyl">
 					<head>
 								<foreign lang="ar">kyl</foreign>
 					</head>
-					<entryFree id="n43177" key="8" type="main">
+					<entry type="main" id="n43177" key="8">
 						<form>
-							<itype>8</itype>
+							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AikotaAla Ealayohi</orth>
 							<orth extent="full" lang="ar">*</orth> and
 							<orth orig="" extent="full" lang="ar">minohu</orth>
 						</form>
 								: see <foreign lang="ar">EalaY</foreign> in the sense of <foreign lang="ar">mino</foreign>.
-					</entryFree>
-					<entryFree id="n43178" key="kayolN" type="main">
+					</entry>
+					<entry type="main" id="n43178" key="kayolN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kayolN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">mikoyaAlN</foreign>.
-					</entryFree>
-					<entryFree id="n43179" key="kay~aAlN" type="main">
+					</entry>
+					<entry type="main" id="n43179" key="kay~aAlN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kay~aAlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								[<hi>A measurer</hi> of corn and the like]. (A, art. <foreign lang="ar">bxs</foreign>.)
-					</entryFree>
-					<entryFree id="n43180" key="mikoyaAlN" type="main">
+					</entry>
+					<entry type="main" id="n43180" key="mikoyaAlN">
 						<form>
 							<orth orig="" extent="full" lang="ar">mikoyaAlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<hi>A measure with which corn is measured;</hi> (S, Msb, K;) as also 
-							↓<orth type="arrow" lang="ar">kayolN</orth>; (Msb;) <hi>a measure of capacity.</hi>
-					</entryFree>
-				</div2>
-				<div2 n="kyn" type="root">
+							<anchor type="arrow"><foreign lang="ar">kayolN↓</foreign></anchor>; (Msb;) <hi>a measure of capacity.</hi>
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kyn">
 					<head>
 								<foreign lang="ar">kyn</foreign>
 					</head>
-					<entryFree id="n43181" key="AisotakaAna" type="main">
+					<entry type="main" id="n43181" key="AisotakaAna">
 						<form>
-							<itype>10</itype>
+							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">AisotakaAna</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								: see <foreign lang="ar">Aisotakana</foreign> in art. <foreign lang="ar">skn</foreign>: and see art. <foreign lang="ar">kwn</foreign>.
-					</entryFree>
-					<entryFree id="n43182" key="kayonN" type="main">
+					</entry>
+					<entry type="main" id="n43182" key="kayonN">
 						<form>
 							<orth orig="" extent="full" lang="ar">kayonN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								(also written <foreign lang="ar">kayonapN</foreign>, K, voce <foreign lang="ar">zaronabN</foreign>): see <foreign lang="ar">baZorN</foreign>.
-					</entryFree>
-				</div2>
-				<div2 n="kyh" type="root">
+					</entry>
+				</superEntry>
+				<superEntry type="root" n="kyh">
 					<head>
 								<foreign lang="ar">kyh</foreign>
 					</head>
-					<entryFree id="n43183" key="kayohFA" type="main">
+					<entry type="main" id="n43183" key="kayohFA">
 						<form>
 							<orth orig="" extent="full" lang="ar">kayohFA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								A <hi>large,</hi> or <hi>bulky,</hi> she-camel: see the last sentence in art. <foreign lang="ar">g*w</foreign>.
 						<pb n="3006"/>
-					</entryFree>
-				</div2>
+					</entry>
+				</superEntry>
 			</div1>
 		</body>
 	</text>
-</TEI.2>
+</TEI>
