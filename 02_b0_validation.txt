@@ -4,7 +4,7 @@
 #The following shows the html-tag count of 02_b0.xml:
 </L>	=> 178
 </TEI>	=> 1
-</anchor>	=> 1839
+</anchor>	=> 1840
 </author>	=> 1
 </authority>	=> 1
 </availability>	=> 1
@@ -19,7 +19,7 @@
 </form>	=> 2525
 </funder>	=> 2
 </head>	=> 240
-</hi>	=> 18097
+</hi>	=> 18206
 </iType>	=> 683
 </imprint>	=> 1
 </item>	=> 3
@@ -47,7 +47,7 @@
 <?xml>	=> 1
 <L>	=> 178
 <TEI>	=> 1
-<anchor>	=> 1839
+<anchor>	=> 1840
 <author>	=> 1
 <authority>	=> 1
 <availability>	=> 1
@@ -62,7 +62,7 @@
 <form>	=> 2525
 <funder>	=> 2
 <head>	=> 240
-<hi>	=> 18097
+<hi>	=> 18206
 <iType>	=> 683
 <imprint>	=> 1
 <item>	=> 3
@@ -92,11 +92,11 @@
 #<=
 #===============================================================================
 #The following shows the character count of 02_b0.xml:
-Character	HT	=> 220430
-Character	NL	=> 33389
-Character	SP	=> 265321
+Character	HT	=> 220437
+Character	NL	=> 33390
+Character	SP	=> 265320
 Character	!	=> 99
-Character	"	=> 81138
+Character	"	=> 81140
 Character	$	=> 1109
 Character	&	=> 632
 Character	'	=> 1776
@@ -106,7 +106,7 @@ Character	*	=> 1977
 Character	,	=> 39334
 Character	-	=> 6015
 Character	.	=> 20633
-Character	/	=> 49098
+Character	/	=> 49208
 Character	0	=> 795
 Character	1	=> 1849
 Character	2	=> 3159
@@ -118,10 +118,10 @@ Character	7	=> 839
 Character	8	=> 846
 Character	9	=> 770
 Character	:	=> 9915
-Character	;	=> 8027
-Character	<	=> 98040
-Character	=	=> 41544
-Character	>	=> 98040
+Character	;	=> 8026
+Character	<	=> 98260
+Character	=	=> 41545
+Character	>	=> 98260
 Character	?	=> 72
 Character	@	=> 292
 Character	A	=> 27729
@@ -155,31 +155,31 @@ Character	]	=> 5230
 Character	^	=> 3477
 Character	_	=> 560
 Character	`	=> 250
-Character	a	=> 151819
+Character	a	=> 151821
 Character	b	=> 37306
-Character	c	=> 23866
-Character	d	=> 36761
-Character	e	=> 146323
+Character	c	=> 23868
+Character	d	=> 36760
+Character	e	=> 146324
 Character	f	=> 64145
 Character	g	=> 72791
-Character	h	=> 99755
-Character	i	=> 142733
+Character	h	=> 99975
+Character	i	=> 142951
 Character	j	=> 2339
 Character	k	=> 7936
 Character	l	=> 71366
 Character	m	=> 30307
-Character	n	=> 134708
-Character	o	=> 129101
-Character	p	=> 25658
+Character	n	=> 134710
+Character	o	=> 129104
+Character	p	=> 25659
 Character	q	=> 4270
-Character	r	=> 143301
+Character	r	=> 143303
 Character	s	=> 53596
-Character	t	=> 101780
+Character	t	=> 101781
 Character	u	=> 34081
 Character	v	=> 6230
-Character	w	=> 17439
+Character	w	=> 17440
 Character	x	=> 9706
-Character	y	=> 29131
+Character	y	=> 29132
 Character	z	=> 1476
 Character	{	=> 58
 Character	|	=> 84
@@ -254,7 +254,7 @@ Character	‘	=> 5
 Character	’	=> 4
 Character	“	=> 269
 Character	”	=> 262
-Character	↓	=> 1839
+Character	↓	=> 1840
 Character	＝	=> 460
-Total:	2711389
+Total:	2712402
 

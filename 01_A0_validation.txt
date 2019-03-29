@@ -19,7 +19,7 @@
 </form>	=> 2011
 </funder>	=> 2
 </head>	=> 182
-</hi>	=> 14160
+</hi>	=> 14273
 </iType>	=> 450
 </imprint>	=> 1
 </item>	=> 3
@@ -62,7 +62,7 @@
 <form>	=> 2011
 <funder>	=> 2
 <head>	=> 182
-<hi>	=> 14160
+<hi>	=> 14273
 <iType>	=> 450
 <imprint>	=> 1
 <item>	=> 3
@@ -93,9 +93,9 @@
 #<=
 #===============================================================================
 #The following shows the character count of 01_A0.xml:
-Character	HT	=> 170019
-Character	NL	=> 25958
-Character	SP	=> 246744
+Character	HT	=> 170011
+Character	NL	=> 25957
+Character	SP	=> 246743
 Character	!	=> 112
 Character	"	=> 67731
 Character	$	=> 822
@@ -107,7 +107,7 @@ Character	*	=> 3206
 Character	,	=> 36352
 Character	-	=> 4865
 Character	.	=> 18004
-Character	/	=> 41216
+Character	/	=> 41329
 Character	0	=> 603
 Character	1	=> 2017
 Character	2	=> 1822
@@ -120,9 +120,9 @@ Character	8	=> 640
 Character	9	=> 582
 Character	:	=> 7844
 Character	;	=> 7414
-Character	<	=> 82287
+Character	<	=> 82513
 Character	=	=> 36281
-Character	>	=> 82287
+Character	>	=> 82513
 Character	?	=> 239
 Character	@	=> 356
 Character	A	=> 34930
@@ -163,8 +163,8 @@ Character	d	=> 32490
 Character	e	=> 134103
 Character	f	=> 60728
 Character	g	=> 67350
-Character	h	=> 84201
-Character	i	=> 131866
+Character	h	=> 84427
+Character	i	=> 132092
 Character	j	=> 2177
 Character	k	=> 7768
 Character	l	=> 60735
@@ -246,5 +246,5 @@ Character	“	=> 200
 Character	”	=> 186
 Character	↓	=> 1521
 Character	＝	=> 407
-Total:	2398370
+Total:	2399377
 

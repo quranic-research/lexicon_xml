@@ -4,7 +4,7 @@
 #The following shows the html-tag count of 18_E0.xml:
 </L>	=> 420
 </TEI>	=> 1
-</anchor>	=> 3662
+</anchor>	=> 3663
 </author>	=> 1
 </authority>	=> 1
 </availability>	=> 1
@@ -47,7 +47,7 @@
 <?xml>	=> 1
 <L>	=> 420
 <TEI>	=> 1
-<anchor>	=> 3662
+<anchor>	=> 3663
 <author>	=> 1
 <authority>	=> 1
 <availability>	=> 1
@@ -92,11 +92,11 @@
 #<=
 #===============================================================================
 #The following shows the character count of 18_E0.xml:
-Character	HT	=> 390609
-Character	NL	=> 59264
+Character	HT	=> 390616
+Character	NL	=> 59265
 Character	SP	=> 493260
 Character	!	=> 41
-Character	"	=> 131982
+Character	"	=> 131984
 Character	$	=> 2458
 Character	&	=> 808
 Character	'	=> 2480
@@ -106,7 +106,7 @@ Character	*	=> 6778
 Character	,	=> 74300
 Character	-	=> 14109
 Character	.	=> 40727
-Character	/	=> 87182
+Character	/	=> 87183
 Character	0	=> 2546
 Character	1	=> 3024
 Character	2	=> 6781
@@ -118,10 +118,10 @@ Character	7	=> 1695
 Character	8	=> 2589
 Character	9	=> 2433
 Character	:	=> 16815
-Character	;	=> 11967
-Character	<	=> 174072
-Character	=	=> 67136
-Character	>	=> 174072
+Character	;	=> 11966
+Character	<	=> 174074
+Character	=	=> 67137
+Character	>	=> 174074
 Character	?	=> 121
 Character	@	=> 403
 Character	A	=> 52015
@@ -155,31 +155,31 @@ Character	]	=> 11070
 Character	^	=> 4205
 Character	_	=> 882
 Character	`	=> 382
-Character	a	=> 278247
+Character	a	=> 278249
 Character	b	=> 36874
-Character	c	=> 44235
-Character	d	=> 67869
-Character	e	=> 264701
+Character	c	=> 44237
+Character	d	=> 67868
+Character	e	=> 264702
 Character	f	=> 119548
 Character	g	=> 132984
-Character	h	=> 176387
+Character	h	=> 176389
 Character	i	=> 269323
 Character	j	=> 4756
 Character	k	=> 14602
 Character	l	=> 117700
 Character	m	=> 58449
-Character	n	=> 246554
-Character	o	=> 230797
-Character	p	=> 45632
+Character	n	=> 246556
+Character	o	=> 230800
+Character	p	=> 45633
 Character	q	=> 8812
-Character	r	=> 248891
+Character	r	=> 248893
 Character	s	=> 100383
-Character	t	=> 167858
+Character	t	=> 167859
 Character	u	=> 56902
 Character	v	=> 10887
-Character	w	=> 32496
+Character	w	=> 32497
 Character	x	=> 11327
-Character	y	=> 49233
+Character	y	=> 49234
 Character	z	=> 2909
 Character	}	=> 1
 Character	~	=> 9165
@@ -247,7 +247,7 @@ Character	—	=> 2
 Character	―	=> 4082
 Character	“	=> 411
 Character	”	=> 410
-Character	↓	=> 3662
+Character	↓	=> 3663
 Character	＝	=> 1351
-Total:	4867551
+Total:	4867584
 

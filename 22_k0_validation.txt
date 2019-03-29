@@ -19,7 +19,7 @@
 </form>	=> 1204
 </funder>	=> 2
 </head>	=> 195
-</hi>	=> 6372
+</hi>	=> 6373
 </iType>	=> 341
 </imprint>	=> 1
 </item>	=> 3
@@ -62,7 +62,7 @@
 <form>	=> 1204
 <funder>	=> 2
 <head>	=> 195
-<hi>	=> 6372
+<hi>	=> 6373
 <iType>	=> 341
 <imprint>	=> 1
 <item>	=> 3
@@ -106,7 +106,7 @@ Character	*	=> 1476
 Character	,	=> 11741
 Character	-	=> 2830
 Character	.	=> 8256
-Character	/	=> 18203
+Character	/	=> 18204
 Character	0	=> 349
 Character	1	=> 693
 Character	2	=> 1064
@@ -119,9 +119,9 @@ Character	8	=> 372
 Character	9	=> 340
 Character	:	=> 3395
 Character	;	=> 2120
-Character	<	=> 36337
+Character	<	=> 36339
 Character	=	=> 15269
-Character	>	=> 36337
+Character	>	=> 36339
 Character	?	=> 18
 Character	@	=> 54
 Character	A	=> 8985
@@ -163,8 +163,8 @@ Character	d	=> 13208
 Character	e	=> 50999
 Character	f	=> 23785
 Character	g	=> 25634
-Character	h	=> 33109
-Character	i	=> 49852
+Character	h	=> 33111
+Character	i	=> 49854
 Character	j	=> 584
 Character	k	=> 9821
 Character	l	=> 23295
@@ -245,5 +245,5 @@ Character	“	=> 61
 Character	”	=> 61
 Character	↓	=> 598
 Character	＝	=> 290
-Total:	972888
+Total:	972897
 
