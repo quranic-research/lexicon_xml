@@ -64,11 +64,11 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="alphabetical letter" n="Z">
+			<div1 type="letter" xml:id="Z">
 				<head><foreign lang="ar">Z</foreign></head>
-				<superEntry type="root" n="Z">
+				<superEntry type="main" xml:id="Z">
 					<entry type="main" id="n27492" key="Z">
-						<form>
+						<form type="entry">
 							<iType>alphabetical letter</iType>
 							<orth extent="full" lang="ar">Z</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -80,10 +80,11 @@
 								[As a numeral, it denotes <hi>Nine hundred.</hi>]
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZA^">
-					<head>
-								<foreign lang="ar">ZA^</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZA^">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZA^</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27493" key="ZaA^oZaA^a">
 						<form type="R Q">
 							<iType>R. Q. 1</iType>
@@ -96,20 +97,21 @@
 							And <foreign lang="ar">ZA^ZA^</foreign>, (M, K,) inf. n. <foreign lang="ar">ZaA^oZaA^apN</foreign>, (M,) <hi>He</hi> (a person whose upper lip was slit, M, K, and one whose fore teeth were broken at the roots, K, * TA) <hi>spoke unintelligible speech, and with a nasal sound.</hi> (M, K.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZA^r">
-					<head>
-								<foreign lang="ar">ZA^r</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZA^r">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZA^r</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27494" key="ZaA^arahaA">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ZaA^arahaA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">ZaA^arahaA</foreign>, (S, Mgh, K,) or <foreign lang="ar">ZaA^arahaA EalaY waladi gayorihaA</foreign>, (M,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">ZaAa^a</orth>
-						</form>
+						</choice>
 								, (M, K,) inf. n. <foreign lang="ar">ZaA^orN</foreign> (S, M, K) and <foreign lang="ar">Ziy^oArN</foreign>, (M, K,) <hi>He made her</hi> (a camel, S, Mgh) <hi>to incline to,</hi> or <hi>to affect, a young one not her own,</hi> (S, M, Mgh, K,) <hi>and to suckle it;</hi> (M, K;) as also 
 							<anchor type="arrow"><foreign lang="ar">A^aZoA^arahaA↓</foreign></anchor>, and 
 							<anchor type="arrow"><foreign lang="ar">ZaA='arahaA↓</foreign></anchor>: (K:) and [it is also said that] <foreign lang="ar">Ziy^aArN</foreign> signifies the <hi>making a she-camel to incline to,</hi> or <hi>to affect, and suckle, the young one of another, by the application of a</hi> 
@@ -145,15 +147,15 @@
 						＝
 						-A3-
 							And <foreign lang="ar">ZaA^ara</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">ZaAa^a</orth>
-						</form>
+						</choice>
 								; (Msb;) or 
 							<anchor type="arrow"><foreign lang="ar">ZaA='ara↓</foreign></anchor>, inf. n. <foreign lang="ar">muZaA='arapN</foreign>. (AZ, S;) <hi>He took to himself a</hi> 
 								<foreign lang="ar">Ziy^or</foreign> [or <hi>nurse</hi>]. (AZ, S, Msb.) [See also 8.]
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth lang="ar">ZaA~a^a</orth>
 						</form>
@@ -172,14 +174,14 @@
 								<foreign lang="ar">ZaAwiro</foreign> occurs in a trad. for <foreign lang="ar">ZaAy^iro</foreign>. (TA.) [But in what sense is not explained.]
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth lang="ar">A^aZoAa^a</orth>
 						</form>
 								4: see 1, in three places.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth lang="ar">A_iZotaAa^a</orth>
 						</form>
@@ -189,7 +191,7 @@
 								<foreign lang="ar">AiZ~aA^ara liwaladihi Ziy^orFA</foreign>, (S, and so in some copies of the K,) or <foreign lang="ar">AiZoTaA^ara</foreign>, (M, and so in some copies of the K,) the former being similar to <foreign lang="ar">AiZ~alama</foreign>, (S,) means <hi>He took a nurse for his child.</hi> (S, M, K.)
 					</entry>
 					<entry type="main" id="n27495" key="AstZA^rt">
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">AstZA^rt</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -197,14 +199,14 @@
 								10. <foreign lang="ar">AstZA^rt</foreign> <hi>She</hi> (a bitch) <hi>desired the male:</hi> (K:) mentioned by AM; but he says, “ I hesitate respecting it. ” (TA.) [I think it is probably a mistake for <foreign lang="ar">AstTArt</foreign>, mentioned in art. <foreign lang="ar">Tyr</foreign>. See also <foreign lang="ar">Zuw^oraY</foreign>.]
 					</entry>
 					<entry type="main" id="n27496" key="ZaA^orN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaA^orN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaA^orN</foreign> Anything <hi>accompanied by the like thereof:</hi> thus applied to a run (<foreign lang="ar">EadowN</foreign>): (As, T, TA:) in the K, and in the Tekmileh, <foreign lang="ar">Eaduw~N</foreign> is erroneously put for <foreign lang="ar">EadowN</foreign>: (TA:) and <foreign lang="ar">EadowN ZaA^orN</foreign> is used by the poet El-Arkat, in describing [wild] asses, as meaning <hi>a run not unsparingly performed.</hi> (T, TA.)
 					</entry>
 					<entry type="main" id="n27497" key="Ziy^orN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Ziy^orN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -235,35 +237,35 @@
 							<anchor type="arrow"><foreign lang="ar">Ziy^orapN↓</foreign></anchor>. (TA.)
 					</entry>
 					<entry type="main" id="n27498" key="Zuw^orapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zuw^orapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zuw^orapN</foreign>: see the next preceding paragraph.
 					</entry>
 					<entry type="main" id="n27499" key="Ziy^irapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Ziy^irapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Ziy^irapN</foreign>: see the next preceding paragraph.
 					</entry>
 					<entry type="main" id="n27500" key="Zuw^oraY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zuw^oraY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zuw^oraY</foreign> A cow <hi>desiring the male:</hi> (K:) mentioned by Az, on the authority of AHát; and said to have no verb. (TA. [But see 10, above.])
 					</entry>
 					<entry type="main" id="n27501" key="Zuw^aArN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zuw^aArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zuw^aArN</foreign>: see <foreign lang="ar">Ziy^orN</foreign>, in four places.
 					</entry>
 					<entry type="main" id="n27502" key="Ziy^aArN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Ziy^aArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -271,14 +273,14 @@
 								<foreign lang="ar">gimaAmap</foreign> [q. v.] <hi>that is put into the nose of a she-camel to make her to incline to,</hi> or <hi>affect, the young one of another, in order that she may not perceive the smell of her young one.</hi> (A.) [See also 1.]
 					</entry>
 					<entry type="main" id="n27503" key="Zaw^uwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zaw^uwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zaw^uwrN</foreign>: see <foreign lang="ar">Ziy^orN</foreign>, in two places.
 					</entry>
 					<entry type="main" id="n27504" key="Zuw^uwrapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zuw^uwrapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -292,26 +294,27 @@
 							See also <foreign lang="ar">Ziy^orN</foreign>, latter half.
 					</entry>
 					<entry type="main" id="n27505" key="maZow^uwrapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZow^uwrapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">maZow^uwrapN</foreign>: see <foreign lang="ar">Ziy^orN</foreign>, latter half.
 					</entry>
 					<entry type="main" id="n27506" key="huwa muZaAy^irN lahaA">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huwa muZaAy^irN lahaA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">huwa muZaAy^irN lahaA</foreign> <hi>He is the father of the child which she is nursing.</hi> (T, TA. *)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zbw">
-					<head>
-								<foreign lang="ar">Zbw</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zbw">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zbw</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27507" key="ZubapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZubapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -336,12 +339,13 @@
 							And <hi>A place of bending,</hi> or <hi>turning, of a valley;</hi> like <foreign lang="ar">ZaboyapN</foreign> [which belongs to art. <foreign lang="ar">ZbY</foreign>]: pl. of the former <foreign lang="ar">ZubaA='N</foreign>, a pl. of a rare form. (M in art. <foreign lang="ar">ZbY</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZbY">
-					<head>
-								<foreign lang="ar">ZbY</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZbY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZbY</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27508" key="tZb~Y">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tZb~Y</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -350,7 +354,7 @@
 								<foreign lang="ar">ZaboY</foreign>, or <hi>gazelle;</hi> being similar to <foreign lang="ar">ta*aA^~aba</foreign> and <foreign lang="ar">tanam~ara</foreign> &amp;c.: its part. n. is mentioned in the first paragraph of art. <foreign lang="ar">rbD</foreign>.]
 					</entry>
 					<entry type="main" id="n27509" key="ZaboYN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaboYN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -370,7 +374,7 @@
 							And <foreign lang="ar">AlZ~aboYu</foreign> is the name of <hi>A brand,</hi> or <hi>mark made with a hot iron, peculiar to some of the Arabs.</hi> (T, K.)
 					</entry>
 					<entry type="main" id="n27510" key="ZaboyapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaboyapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -412,21 +416,21 @@
 								<foreign lang="ar">Zaboyapu</foreign> is one of the names of <hi>The well Zemzem.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27511" key="ZubaY~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZubaY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZubaY~N</foreign>: see <foreign lang="ar">ZaboYN</foreign> [of which it is the dim.].
 					</entry>
 					<entry type="main" id="n27512" key="Zubay~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zubay~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zubay~apN</foreign> dim. of <foreign lang="ar">ZaboyapN</foreign>, q. v.
 					</entry>
 					<entry type="main" id="n27513" key="A^aroDN maZobaApN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aroDN maZobaApN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -434,12 +438,13 @@
 								<foreign lang="ar">ZibaA='</foreign> [or <hi>gazelles</hi>]. (M.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zr">
-					<head>
-								<foreign lang="ar">Zr</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27514" key="Zar~a">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zar~a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -450,7 +455,7 @@
 							And <hi>He slaughtered</hi> a she-camel, (K, TA,) or, as in the “ Tekmileh, ” an animal, <hi>with the</hi> [<hi>stone called</hi>] <foreign lang="ar">Zurar</foreign>. (TA.)
 					</entry>
 					<entry type="main" id="n27515" key="A^aZir~iY faA_in~aki naAEilapu">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^aZir~iY faA_in~aki naAEilapu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -459,14 +464,14 @@
 								<foreign lang="ar">Zurar</foreign> [<hi>for thou art furnished with leathern shoes</hi> or <hi>sandals</hi>]: (M:) but the phrase commonly known is with the unpointed <foreign lang="ar">T</foreign> [i. e. <foreign lang="ar">A^aTir~iY</foreign>: see 4 in art. <foreign lang="ar">Tr</foreign>]. (M, K.)
 					</entry>
 					<entry type="main" id="n27516" key="Zir~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zir~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zir~N</foreign>: see the next paragraph.
 					</entry>
 					<entry type="main" id="n27517" key="ZurarN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZurarN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -480,21 +485,21 @@
 							<anchor type="arrow"><foreign lang="ar">muZoruwrN↓</foreign></anchor>, of which last the pl. is <foreign lang="ar">maZaAriyru</foreign>, (Sgh, K, TA,) and all of which are with damm, thus in the handwriting of Sgh, (TA,) signify the same [as <foreign lang="ar">ZurarN</foreign> &amp;c.]. (Sgh, K, TA.)
 					</entry>
 					<entry type="main" id="n27518" key="ZurarapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZurarapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZurarapN</foreign>: see the next preceding paragraph, in two places.
 					</entry>
 					<entry type="main" id="n27519" key="ZiraArN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZiraArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZiraArN</foreign>: see <foreign lang="ar">ZurarN</foreign>: and see also <foreign lang="ar">miZar~apN</foreign>.
 					</entry>
 					<entry type="main" id="n27520" key="ZariyrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZariyrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -505,28 +510,28 @@
 								<foreign lang="ar">Amr~p</foreign> [thus in a copy of the T, a mistranscription for <foreign lang="ar">A^amarap</foreign>]; <hi>some of which are extended and hard, and millstones are made from them.</hi> (T.)
 					</entry>
 					<entry type="main" id="n27521" key="ZiraArapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZiraArapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZiraArapN</foreign>: see <foreign lang="ar">miZar~apN</foreign>.
 					</entry>
 					<entry type="main" id="n27522" key="ZuroZuwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuroZuwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZuroZuwrN</foreign>: see <foreign lang="ar">ZurarN</foreign>.
 					</entry>
 					<entry type="main" id="n27523" key="A^uZoruwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^uZoruwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">A^uZoruwrN</foreign>: see <foreign lang="ar">ZurarN</foreign>.
 					</entry>
 					<entry type="main" id="n27524" key="A^aroDN maZar~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aroDN maZar~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -538,7 +543,7 @@
 							See also the next paragraph.
 					</entry>
 					<entry type="main" id="n27525" key="miZar~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZar~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -552,31 +557,32 @@
 							<anchor type="arrow"><foreign lang="ar">ZiraArapN↓</foreign></anchor>. (TA.)
 					</entry>
 					<entry type="main" id="n27526" key="muZoruwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZoruwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">muZoruwrN</foreign>: see <foreign lang="ar">ZurarN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zrb">
-					<head>
-								<foreign lang="ar">Zrb</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zrb">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zrb</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27527" key="Zariba bihi">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zariba bihi</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">Zariba bihi</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zaraba</orth>
-						</form>
+						</choice>
 								, <hi>He,</hi> or <hi>it, stuck, adhered,</hi> or <hi>clave, to him,</hi> or <hi>it.</hi> (K.)
 					</entry>
 					<entry type="main" id="n27528" key="Zur~ibati AlHawaAfiru">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">Zur~ibati AlHawaAfiru</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -584,35 +590,35 @@
 								2. <foreign lang="ar">Zur~ibati AlHawaAfiru</foreign>, inf. n. <foreign lang="ar">taZoriybN</foreign>, <hi>The solid hoofs became hard and strong.</hi> (T, K.)
 					</entry>
 					<entry type="main" id="n27529" key="ZaribN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaribN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaribN</foreign> <hi>A stone projecting</hi> (Lth, T, M, Msb, K) <hi>from a mountain</hi> or <hi>from rugged ground</hi> (Lth, T) <hi>and having a sharp point:</hi> (Lth, T, M, K:) or <hi>an expanded mountain,</hi> (M, K, TA,) accord. to some, <hi>that is not high:</hi> (TA:) or <hi>a small mountain:</hi> (M, K:) or <hi>a small hill:</hi> (T, S, Msb:) pl. <foreign lang="ar">ZiraAbN</foreign> (T, S, M, Msb, K) and <foreign lang="ar">A^aZorubN</foreign>, (Nh, TA,) [the latter a pl. of pauc.,] the former pl. of a rare kind, for by rule it should be <foreign lang="ar">A^aZoraAbN</foreign>, and it seems as though they had imagined the sing. to be <foreign lang="ar">ZarobN</foreign>, and so made the pl. like <foreign lang="ar">sihaAmN</foreign>, pl. of <foreign lang="ar">sahomN</foreign>: (Msb, TA:) or, accord. to En-Nadr, <foreign lang="ar">ZaribN</foreign> signifies the <hi>smallest of</hi> [<hi>hills such as are termed</hi>] <foreign lang="ar">A=kaAm</foreign>, <hi>and the sharpest in stones, all its stones being sharp like knives, the white thereof and the black and of every colour:</hi> and the pl. is <foreign lang="ar">A^aZoraAbN</foreign>. (T.) [See also this pl. below.]
 					</entry>
 					<entry type="main" id="n27530" key="Zurub~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zurub~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zurub~N</foreign> <hi>Short, and thick,</hi> (M, K, TA,) <hi>and fleshy:</hi> (Lh, TA:) or a <hi>short and fleshy</hi> man. (S.)
 					</entry>
 					<entry type="main" id="n27531" key="ZarobaY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZarobaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZarobaY</foreign> and <foreign lang="ar">ZirobaY</foreign>: see <foreign lang="ar">ZaribaAnN</foreign>, in three places.
 					</entry>
 					<entry type="main" id="n27532" key="ZirobaA='">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZirobaA='</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZirobaA='</foreign> and <foreign lang="ar">ZiaribaA='</foreign>: see the next paragraph, in four places.
 					</entry>
 					<entry type="main" id="n27533" key="ZaribaAnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaribaAnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -644,7 +650,7 @@
 								<hi>they revile each other.</hi> (IAar, T, TA.)
 					</entry>
 					<entry type="main" id="n27534" key="AlA^aZoraAbu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlA^aZoraAbu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -659,7 +665,7 @@
 								<foreign lang="ar">AlA^aZoraAbi</foreign>,) as though meaning <hi>And breaking in pieces the rings</hi> of the girth <hi>of the saddle, running with the fore legs well stretched forth, his grinders appearing from the sockets</hi>]: but IB says, [following the reading in the M and TA,] the verse is by Lebeed; and the poet is describing a horse that breaks in pieces the rings of the saddle by his springing forward, and whose grinders (<foreign lang="ar">nawaAji*uhu</foreign>) appear when he treads upon the [stones, or hills, called] <foreign lang="ar">ZiraAb</foreign>: [see <foreign lang="ar">ZaribN</foreign>, of which both <foreign lang="ar">ZiraAbN</foreign> and <foreign lang="ar">A^aZoraAbN</foreign> are said to be pls.:] also that the right reading is <foreign lang="ar">wamuqaT~iEN</foreign> [and <foreign lang="ar">saAbiHN</foreign>]: and by the <foreign lang="ar">nwAj*</foreign> are meant the <foreign lang="ar">DawaAHik</foreign> [or teeth next behind the canine teeth], accord. to Hr. (TA.)
 					</entry>
 					<entry type="main" id="n27535" key="HawaAfiru muZar~abapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">HawaAfiru muZar~abapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -669,12 +675,13 @@
 								<hi>have altered,</hi> or, perhaps, <hi>heated,</hi> in its treading upon them]. (TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zrf">
-					<head>
-								<foreign lang="ar">Zrf</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zrf">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zrf</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27536" key="Zarufa">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zarufa</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -686,7 +693,7 @@
 							See also what here follows.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth lang="ar">ZaAorafa</orth>
 						</form>
@@ -696,7 +703,7 @@
 							<anchor type="arrow"><foreign lang="ar">A^aZorafa↓</foreign></anchor>) <hi>than he.</hi> (IKtt, TA.)
 					</entry>
 					<entry type="main" id="n27537" key="AZrf">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZrf</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -720,7 +727,7 @@
 								<foreign lang="ar">Zarof</foreign> [or <hi>receptacle</hi>] <hi>for the goods.</hi> (O, TA.)
 					</entry>
 					<entry type="main" id="n27538" key="tZr~f">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tZr~f</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -734,14 +741,14 @@
 								<foreign lang="ar">Zariyf</foreign>]. (TA.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth lang="ar">taZaAorafa</orth>
 						</form>
 								6: see the next preceding paragraph.
 					</entry>
 					<entry type="main" id="n27539" key="AstZrfhu">
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">AstZrfhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -750,7 +757,7 @@
 								<foreign lang="ar">Zariyf</foreign>. (O, * TA.)
 					</entry>
 					<entry type="main" id="n27540" key="ZarofN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZarofN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -772,37 +779,37 @@
 							<anchor type="arrow"><foreign lang="ar">ZurofN↓</foreign></anchor>, with damm, to distinguish it from <foreign lang="ar">ZarofN</foreign> meaning “ a receptacle; ” but this is a sheer mistake. (MF, TA.)
 					</entry>
 					<entry type="main" id="n27541" key="ZurofN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZurofN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZurofN</foreign>: see what immediately precedes.
 					</entry>
-					<entry type="main" id="n27542" key="Zarofiy~apN">[
-						<form>
+					<entry type="main" id="n27542" key="Zarofiy~apN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zarofiy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">Zarofiy~apN</foreign>, a term of grammar, The <hi>quality of denoting place,</hi> or <hi>time, adverbially, by a noun implying the meaning of the preposition</hi> 
+								[<foreign lang="ar">Zarofiy~apN</foreign>, a term of grammar, The <hi>quality of denoting place,</hi> or <hi>time, adverbially, by a noun implying the meaning of the preposition</hi> 
 								<foreign lang="ar">fiY</foreign>; and also, accord. to some, <hi>by a noun together with that preposition.</hi> One says <foreign lang="ar">manoSuwbN EalaY AlZ~arofiy~api</foreign>, meaning <hi>Put in the accusative case as denoting place,</hi> or <hi>time, adverbially.</hi>]
 					</entry>
 					<entry type="main" id="n27543" key="ZuraAfN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuraAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZuraAfN</foreign>: see <foreign lang="ar">ZariyfN</foreign>, near the beginning and near the end.
 					</entry>
-					<entry type="main" id="n27544" key="ZaruwfN">[
-						<form>
+					<entry type="main" id="n27544" key="ZaruwfN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaruwfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">ZaruwfN</foreign> perhaps signifies <hi>Possessing the quality,</hi> or <hi>qualities, termed</hi> 
+								[<foreign lang="ar">ZaruwfN</foreign> perhaps signifies <hi>Possessing the quality,</hi> or <hi>qualities, termed</hi> 
 								<foreign lang="ar">Zarof</foreign>, <hi>in a great,</hi> or <hi>an extraordinary degree:</hi> used alike as masc. and fem.: for I find it stated that] one says <foreign lang="ar">qayonapN ZaruwfN</foreign> [<hi>A female slave,</hi> or <hi>slave-songstress, that is very intelligent</hi> or <hi>skilful</hi> or <hi>elegant</hi> &amp;c.]. (TA. [But I think it most probable that this is a mistranscripfor <foreign lang="ar">qitoyapN ZuruwfN</foreign>, a phrase which I find in the T, and there expl. as meaning <foreign lang="ar">ZurafaA='u</foreign>.])
 					</entry>
 					<entry type="main" id="n27545" key="ZariyfN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZariyfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -813,23 +820,23 @@
 							<anchor type="arrow"><foreign lang="ar">ZuraAfN↓</foreign></anchor> is <foreign lang="ar">ZurafaA='u</foreign>: (Lh, M, K:) and the pl. of 
 							<anchor type="arrow"><foreign lang="ar">Zur~aAfN↓</foreign></anchor> is <foreign lang="ar">Zur~aAfuwna</foreign>: (M, K:) the fem. of <foreign lang="ar">ZariyfN</foreign> is <foreign lang="ar">ZariyfapN</foreign>; and the pl. of this is <foreign lang="ar">ZiraAfN</foreign>, (Sb, T, M, Msb, TA,) like a pl. of the masc., (Sb, M, TA,) and <foreign lang="ar">ZaraAy^ifu</foreign>. (T, M, TA.) It is said in a trad. of 'Omar, mentioned by IAar, (Mgh, O, TA,) and by As, (TA,) <foreign lang="ar">A_i*aA kaAna All~iS~u ZariyfFA laA yuqoTaEu</foreign>, (Mgh,) or <foreign lang="ar">lamo yuqoTaEo</foreign>, (O, TA,) meaning <hi>When the thief is eloquent</hi> (Mgh, O, TA) <hi>and intelligent,</hi> (Mgh,) he averts from himself the prescribed punishment by his pleading [so that <hi>he will not be,</hi> or <hi>is not, mutilated</hi> by amputation of the hand]. (Mgh, O, TA.)
 					</entry>
-					<entry type="main" id="n27546" key="ZariyfapN">[
-						<form>
+					<entry type="main" id="n27546" key="ZariyfapN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZariyfapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">ZariyfapN</foreign>, as a subst., <hi>A thing,</hi> and <hi>a saying, that is</hi> 
+								[<foreign lang="ar">ZariyfapN</foreign>, as a subst., <hi>A thing,</hi> and <hi>a saying, that is</hi> 
 								<foreign lang="ar">Zariyf</foreign>, meaning <hi>elegant,</hi> &amp;c.: pl. <foreign lang="ar">ZaraAy^ifu</foreign>.]
 					</entry>
 					<entry type="main" id="n27547" key="Zur~aAfN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zur~aAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zur~aAfN</foreign>: see <foreign lang="ar">ZariyfN</foreign>, near the beginning and near the end.
 					</entry>
 					<entry type="main" id="n27548" key="ZaArifN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaArifN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -839,7 +846,7 @@
 								<foreign lang="ar">Zarof</foreign>]. (M.)
 					</entry>
 					<entry type="main" id="n27549" key="A^aZorafu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZorafu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -847,7 +854,7 @@
 								<foreign lang="ar">Zarof</foreign> (or <hi>elegance,</hi> &amp;c.), <hi>of Zeyd? is his tongue the more so,</hi> or <hi>his face?</hi>]. (TA.)
 					</entry>
 					<entry type="main" id="n27550" key="yaA maZorafaAnu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yaA maZorafaAnu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -856,20 +863,21 @@
 								<hi>in a great,</hi> or <hi>an extraordinary degree</hi>]. (A, TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZEn">
-					<head>
-								<foreign lang="ar">ZEn</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZEn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZEn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27551" key="ZaEana">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ZaEana</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">ZaEana</foreign>, (S, Msb, K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">ZaEana</orth>
-						</form>
+						</choice>
 								, (Msb, K,) inf. n. <foreign lang="ar">ZaEonN</foreign> (S, Msb, K) and 
 							<anchor type="arrow"><foreign lang="ar">ZaEanN↓</foreign></anchor>, (S, K,) or the latter is a simple subst., (Msb,) and <foreign lang="ar">ZuEuwnN</foreign> (TA) [and <foreign lang="ar">maZoEanN</foreign>, occurring in a verse of Zuheyr cited in art. <foreign lang="ar">blw</foreign>, conj. 3], <hi>He journeyed, went away, departed,</hi> (S, * Msb, K, * TA,) or <hi>removed;</hi> (Msb;) <hi>he journeyed to seek after herbage,</hi> or <hi>to water;</hi> or <hi>he removed from water to water,</hi> or <hi>from one country,</hi> or <hi>tract of land, to another.</hi> (TA. [See also the part. n., <foreign lang="ar">ZaAEinN</foreign>.])
 						―
@@ -877,7 +885,7 @@
 								<foreign lang="ar">ZaEana bihi</foreign>: see what next follows.
 					</entry>
 					<entry type="main" id="n27552" key="AZEnhu">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZEnhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -886,7 +894,7 @@
 							<anchor type="arrow"><foreign lang="ar">ZaEana↓</foreign></anchor> signifies the same [or <hi>he journeyed,</hi> &amp;c., <hi>with him</hi>]. (Msb.)
 					</entry>
 					<entry type="main" id="n27553" key="AiZ~aEanatohu">
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AiZ~aEanatohu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -895,7 +903,7 @@
 								<hi>This is a camel that the woman rides</hi> (S, TA) <hi>in her journeying,</hi> and <hi>in the day of her departure.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27554" key="ZaEanN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaEanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -905,21 +913,21 @@
 							and see also <foreign lang="ar">ZaAEinN</foreign>.
 					</entry>
 					<entry type="main" id="n27555" key="ZuEonapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuEonapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZuEonapN</foreign> <hi>A short journey.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27556" key="ZiEonapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZiEonapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZiEonapN</foreign> <hi>A state</hi> or <hi>condition,</hi> or <hi>a mode</hi> or <hi>manner, of journeying</hi> or <hi>departing.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27557" key="ZiEaAnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZiEaAnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -928,7 +936,7 @@
 							<anchor type="arrow"><foreign lang="ar">ZaEuwnN↓</foreign></anchor> signifies the same. (TA.)
 					</entry>
 					<entry type="main" id="n27558" key="ZaEuwnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaEuwnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -938,7 +946,7 @@
 							See also <foreign lang="ar">ZiEaAnN</foreign>.
 					</entry>
 					<entry type="main" id="n27559" key="ZaEiynapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaEiynapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -969,7 +977,7 @@
 								<foreign lang="ar">hawaAdij</foreign>, <hi>whether there be in them women</hi> or <hi>not.</hi> (S.)
 					</entry>
 					<entry type="main" id="n27560" key="ZaAEinN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAEinN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -980,26 +988,27 @@
 							<anchor type="arrow"><foreign lang="ar">ZaEanN↓</foreign></anchor> is a quasipl. n. syn. with <foreign lang="ar">ZaAEinuwna</foreign>. (TA.)
 					</entry>
 					<entry type="main" id="n27561" key="miZoEaAnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZoEaAnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">miZoEaAnN</foreign>, applied to a horse or mare, and to a she-camel, <hi>Easy in pace.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27562" key="maZoEuwnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZoEuwnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">maZoEuwnN</foreign> <hi>Made to journey, go away, depart,</hi> or <hi>remove;</hi> originally <foreign lang="ar">maZoEuwnN bihi</foreign>; the complement being suppressed because of frequency of usage. (Msb.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zfr">
-					<head>
-								<foreign lang="ar">Zfr</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zfr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zfr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27563" key="Zafarahu">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zafarahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1012,9 +1021,9 @@
 						-b2-
 							] <foreign lang="ar">Zafirato</foreign> 
 								<foreign lang="ar">Eayonuhu</foreign>, (T, S, O, K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zafara</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">ZafarN</foreign> (S, O) and <foreign lang="ar">ZafaArapN</foreign>; (O;) and, as some say, <foreign lang="ar">Zufirat</foreign>; (T;) <hi>His eye had what is termed a</hi> 
 								<foreign lang="ar">Zafarap</foreign> or <foreign lang="ar">Zufor</foreign>. (T, S, O, K.)
 						―
@@ -1025,9 +1034,9 @@
 						＝
 						-A3-
 								<foreign lang="ar">Zafira</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zafara</orth>
-						</form>
+						</choice>
 								, (Msb,) inf. n. <foreign lang="ar">ZafarN</foreign>, <hi>He attained, got, got possession of,</hi> or <hi>acquired, what he desired,</hi> or <hi>sough:</hi> (Lth, * S, * M, * A, * Msb, K: *) he <hi>succeeded,</hi> or <hi>was successful:</hi> (Msb:) <hi>he won, was victorious,</hi> or <hi>gained the victory:</hi> (Lth, T:) and 
 							<anchor type="arrow"><foreign lang="ar">AiZ~afara↓</foreign></anchor> [originally <foreign lang="ar">AiZotafara</foreign>] signifies the same as <foreign lang="ar">Zafira</foreign>. (S.) You say, <foreign lang="ar">Zafira bihi</foreign> and <foreign lang="ar">Ealayohi</foreign>, and <foreign lang="ar">Zafirahu</foreign>, <hi>He attained it, got it, got possession of it,</hi> or <hi>acquired it;</hi> (M, K;) and in like manner 
 							<anchor type="arrow"><foreign lang="ar">AiZ~afara↓</foreign></anchor>, of the measure <foreign lang="ar">AifotaEala</foreign>. (K.) And <foreign lang="ar">Zafirotu biAlD~aAl~api</foreign> 
@@ -1042,7 +1051,7 @@
 								[<foreign lang="ar">Zafara</foreign> in the dial. of Himyer is said by Freytag, on the authority of the Kitáb el-Addád, to signify <hi>He sat.</hi>]
 					</entry>
 					<entry type="main" id="n27564" key="Zf~r fiyhi">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">Zf~r fiyhi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1054,9 +1063,9 @@
 								<hi>He stuck his dog-tooth and his nail into his flesh, and wounded it.</hi> (A.) And <foreign lang="ar">Zf~r fulaAnN fiY ka*aA wanay~aba</foreign> (tropical:) 
 								<hi>Such a one clung to, caught to,</hi> or <hi>took fast hold upon, such a thing.</hi> (A in art. <foreign lang="ar">nyb</foreign>.) Also <foreign lang="ar">Zf~rhu</foreign>; and 
 							<anchor type="arrow"><foreign lang="ar">Zafarahu↓</foreign></anchor>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">Zafira</orth>
-						</form>
+						</choice>
 								; (M, K;) and 
 							<anchor type="arrow"><foreign lang="ar">AiZ~afarahu↓</foreign></anchor>, in the K erroneously written <foreign lang="ar">A^aZofarahu</foreign>; (TA;) <hi>He stuck his nail into his face;</hi> (M, K;) and so <foreign lang="ar">AiT~afarahu</foreign>, with <foreign lang="ar">T</foreign>. (TA.) And <foreign lang="ar">Zf~rhu</foreign> [<hi>He clawed it;</hi>] <hi>he stuck his nail into it,</hi> (namely, anything,) <hi>and broke it,</hi> or <hi>made a mark</hi> [or <hi>scratch</hi>] <hi>upon it.</hi> (M.) And 
 							<anchor type="arrow"><foreign lang="ar">AiZ~afara↓</foreign></anchor> 
@@ -1104,14 +1113,14 @@
 							And <foreign lang="ar">Zf~rhu</foreign>, (M, K,) inf. n. as above, (K,) <hi>He prayed for him that he might attain what he desired,</hi> or <hi>sought;</hi> or <hi>that he might be successful,</hi> or <hi>victorious.</hi> (M, K.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth lang="ar">A^aZofara</orth>
 						</form>
 								4: see the next preceding paragraph, latter part, in two places.
 					</entry>
 					<entry type="main" id="n27565" key="6">
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">tZAfrwA Ealayohi</orth>
 							<orth extent="full" lang="ar">*</orth> and
@@ -1120,7 +1129,7 @@
 								6. <foreign lang="ar">tZAfrwA Ealayohi</foreign> <foreign lang="ar">tDAfrwA</foreign> and <foreign lang="ar">tZAhrwA</foreign> all signify the same; so says Ibn-Buzurj; (T, TA;) explaining the meaning to be, <hi>They leagued together, and aided one another, against him;</hi> i. e. <foreign lang="ar">EalaY fulaAnK</foreign> [<hi>against such a one</hi>]: (TA in art. <foreign lang="ar">Dfr</foreign>:) the first of these has been said to be incorrect; but it is mentioned also by Sgh, as syn. with the third; and by Ibn-Málik, among words that are with <foreign lang="ar">D</foreign> and with <foreign lang="ar">Z</foreign>. (TA in the present art.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth lang="ar">A_iZotafara</orth>
 						</form>
@@ -1130,14 +1139,14 @@
 							and see also 1, in two places.
 					</entry>
 					<entry type="main" id="n27566" key="ZaforN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaforN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaforN</foreign>: see the next paragraph.
 					</entry>
 					<entry type="main" id="n27567" key="ZuforN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuforN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1218,14 +1227,14 @@
 							See also <foreign lang="ar">ZafarapN</foreign>.
 					</entry>
 					<entry type="main" id="n27568" key="ZiforN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZiforN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZiforN</foreign>: see the next preceding paragraph.
 					</entry>
 					<entry type="main" id="n27569" key="ZafarN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZafarN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1238,7 +1247,7 @@
 							Also <hi>Low,</hi> or <hi>depressed, ground,</hi> (S, O, K,) <hi>that produces plants,</hi> or <hi>herbage.</hi> (S, O.)
 					</entry>
 					<entry type="main" id="n27570" key="ZafirN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZafirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1265,14 +1274,14 @@
 								one <hi>who does not endeavour after a thing without attaining it.</hi> (M, A, K.)
 					</entry>
 					<entry type="main" id="n27571" key="ZufurN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZufurN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZufurN</foreign> and <foreign lang="ar">ZifirN</foreign>: see <foreign lang="ar">ZuforN</foreign>.
 					</entry>
 					<entry type="main" id="n27572" key="ZuforapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuforapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1287,7 +1296,7 @@
 							See also the next paragraph.
 					</entry>
 					<entry type="main" id="n27573" key="ZafarapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZafarapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1299,7 +1308,7 @@
 							<anchor type="arrow"><foreign lang="ar">ZafaArapN↓</foreign></anchor>. (So in the O.)
 					</entry>
 					<entry type="main" id="n27574" key="ZafaArN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZafaArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1310,7 +1319,7 @@
 								<foreign lang="ar">*At maEaz~ap</foreign>: but the latter of these two words has been altered by an erasure over the second letter, and is perhaps incorrect: if not, it may mean, agreeably with the analogy of many words of the measure <foreign lang="ar">mafoEalapN</foreign>, as <foreign lang="ar">maqodarapN</foreign> and <foreign lang="ar">mafolaHapN</foreign> and <foreign lang="ar">manojaApN</foreign> &amp;c., <hi>such as possesses means of overcoming,</hi> or <hi>withstanding, invaders:</hi> and it may be that hence <foreign lang="ar">ZafaAri</foreign> is in two instances the name of a fortress.]
 					</entry>
 					<entry type="main" id="n27575" key="ZafuwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZafuwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1318,21 +1327,21 @@
 						<pb n="1914"/>
 					</entry>
 					<entry type="main" id="n27576" key="ZafiyrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZafiyrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZafiyrN</foreign>: see <foreign lang="ar">ZafirN</foreign>.
 					</entry>
 					<entry type="main" id="n27577" key="ZafaArapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZafaArapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZafaArapN</foreign> or <foreign lang="ar">ZifaArapN</foreign>: see <foreign lang="ar">ZafarapN</foreign>.
 					</entry>
 					<entry type="main" id="n27578" key="jazoEN ZafaAriY~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">jazoEN ZafaAriY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1340,28 +1349,28 @@
 								<hi>with which one fumigates:</hi> (S:) or <foreign lang="ar">qusoT</foreign>, (O, K, TA,) which means the same, (TA, [but see this word,]) is called [<foreign lang="ar">qusoTu ZafaAri</foreign> and <foreign lang="ar">qusoTN ZafaAriY~N</foreign>] in relation to <foreign lang="ar">ZafaAri</foreign>, another city of El-Yemen, near <foreign lang="ar">mirobaAT</foreign>, (O, K, TA,) described by Yákoot as in the furthest part of El-Yemen, on the shore of the Sea of India, near <foreign lang="ar">Al$~aHor</foreign>; (TA;) because it is brought thither from India. (O, K, TA.)
 					</entry>
 					<entry type="main" id="n27579" key="Zif~iyrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zif~iyrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zif~iyrN</foreign>: see <foreign lang="ar">ZafirN</foreign>.
 					</entry>
 					<entry type="main" id="n27580" key="ZaAfirN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAfirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaAfirN</foreign>: see <foreign lang="ar">ZafirN</foreign>.
 					</entry>
 					<entry type="main" id="n27581" key="A^aZofaru">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZofaru</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">A^aZofaru</foreign> A man <hi>having long nails:</hi> (ISk, S, A:) or <hi>having long and broad nails:</hi> (M, K:) and in like manner applied to a <foreign lang="ar">manosim</foreign> [or foot of a camel]: <foreign lang="ar">ZaforaA='u</foreign> [the reg. fem.] has not been heard. (M.)
 					</entry>
 					<entry type="main" id="n27582" key="A^uZofuwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^uZofuwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1372,14 +1381,14 @@
 								The <hi>slender thing</hi> [or <hi>tendril</hi>] <hi>that twines upon the branch of a grape-vine.</hi> (K.)
 					</entry>
 					<entry type="main" id="n27583" key="A^aZofaArapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZofaArapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">A^aZofaArapN</foreign>: see <foreign lang="ar">ZuforN</foreign>, latter half.
 					</entry>
 					<entry type="main" id="n27584" key="muZaf~arN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZaf~arN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1390,7 +1399,7 @@
 								<hi>A bow having somewhat cut off from each of its two ends</hi> [which are called its <foreign lang="ar">ZuforaAni</foreign>]. (O, K, TA. [In the CK, <foreign lang="ar">farasN</foreign> is erroneously put for <foreign lang="ar">qawosN</foreign>.])
 					</entry>
 					<entry type="main" id="n27585" key="miZofaArN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZofaArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1400,7 +1409,7 @@
 							Also The [<hi>instrument called</hi>] <foreign lang="ar">minoqaA$</foreign> [q. v.]. (Fr, O, K.)
 					</entry>
 					<entry type="main" id="n27586" key="maZofuwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZofuwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1411,12 +1420,13 @@
 								<hi>Overcome,</hi> or <hi>conquered;</hi> [as also <foreign lang="ar">maZofuwrN Ealayohi</foreign>, and <foreign lang="ar">maZofuwrN</foreign> alone; (see 1;)] applied to a man. (TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zl">
-					<head>
-								<foreign lang="ar">Zl</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27587" key="Zal~a">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zal~a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1443,7 +1453,7 @@
 							It is also a complete [i. e. an attributive] verb as meaning <hi>He,</hi> or <hi>it, continued;</hi> as is said in the Expos. of the “ Shifè, ” and by Ibn-Málik; and, as Ibn-Málik likewise says, <hi>it was,</hi> or <hi>became, long.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27588" key="Zll~`hu Ealayohi">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">Zll~`hu Ealayohi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1462,7 +1472,7 @@
 							One says also <foreign lang="ar">Zl~l biAls~awoTi</foreign>, meaning <hi>He made a sign with the whip for the purpose of frightening.</hi> (Ibn-'Abbád, O, K.)
 					</entry>
 					<entry type="main" id="n27589" key="AZl~">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZl~</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1490,14 +1500,14 @@
 								<hi>He,</hi> or <hi>it, became within sight,</hi> or <hi>view</hi>]. (Msb.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth lang="ar">taZal~a3a</orth>
 						</form>
 								5: see the next paragraph. It is also pronounced <foreign lang="ar">taZal~aY</foreign>: (IAar, T:) and signifies <hi>He kept to shady places, and to ease,</hi> or <hi>repose:</hi> (IAar, T and K in art. <foreign lang="ar">ZlY</foreign>:) it is like <foreign lang="ar">taZan~ayotu</foreign> from <foreign lang="ar">AlZ~an~u</foreign>. (T in that art.)
 					</entry>
 					<entry type="main" id="n27590" key="AstZl~">
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">AstZl~</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1521,7 +1531,7 @@
 								<hi>The grape-vine became luxuriant,</hi> or <hi>abundant and dense, in its branches whereon were the bunches.</hi> (M, K.)
 					</entry>
 					<entry type="main" id="n27591" key="Zil~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zil~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1616,7 +1626,7 @@
 							And accord. to Ibn- 'Abbád, (O,) it signifies also The <hi>nap,</hi> or <hi>villous substance, upon the surface of a garment,</hi> or <hi>piece of cloth;</hi> syn. <foreign lang="ar">ziy^obirN</foreign>. (O, K.)
 					</entry>
 					<entry type="main" id="n27592" key="Zal~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zal~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1629,7 +1639,7 @@
 							<anchor type="arrow"><foreign lang="ar">Zul~ap↓</foreign></anchor>,] that of <foreign lang="ar">SayoHapN</foreign> [q. v.]. (TA.)
 					</entry>
 					<entry type="main" id="n27593" key="Zul~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zul~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1649,7 +1659,7 @@
 							See also <foreign lang="ar">Zal~apN</foreign>.
 					</entry>
 					<entry type="main" id="n27594" key="Zil~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zil~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1657,14 +1667,14 @@
 								<foreign lang="ar">ZilaAlN</foreign>; (T, K, TA;) app. a pl. of <foreign lang="ar">ZaliylN</foreign>, like as <foreign lang="ar">Til~apN</foreign> is of <foreign lang="ar">TaliylN</foreign>. (TA.)
 					</entry>
 					<entry type="main" id="n27595" key="ZalalN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalalN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZalalN</foreign> <hi>Water that is beneath a tree,</hi> (O,) or <hi>beneath trees,</hi> (K,) <hi>upon which the sun does not come.</hi> (O, K.) [See also <foreign lang="ar">DalalN</foreign>.]
 					</entry>
 					<entry type="main" id="n27596" key="ZalaAlN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalaAlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1672,7 +1682,7 @@
 							<anchor type="arrow"><foreign lang="ar">ZilaAl↓</foreign></anchor>,] <hi>A thing that shades one,</hi> (IAar, S, O, K, TA,) <hi>such as a cloud,</hi> (IAar, S, TA,) and <hi>the like.</hi> (IAar, TA.) [See also <foreign lang="ar">Zul~apN</foreign>.]
 					</entry>
 					<entry type="main" id="n27597" key="ZilaAlN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZilaAlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1691,7 +1701,7 @@
 							See also <foreign lang="ar">ZalaAlN</foreign>.
 					</entry>
 					<entry type="main" id="n27598" key="makaAnN ZaliylN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">makaAnN ZaliylN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1706,7 +1716,7 @@
 								<foreign lang="ar">Haq~a AlZ~aliyli</foreign>; [so that the verse should be rendered <hi>They are the shade in the heat,</hi> the shady thing, <hi>the extremely shady, and the most goodly, the most beautiful, thing at which one looks;</hi> (see the phrase <foreign lang="ar">h`*aA AlEaAlimu Haq~a AlEaAlimi</foreign>, voce <foreign lang="ar">Haq~N</foreign>;)] the inf. n. being put in the place of the subst. (M.) <foreign lang="ar">laA ZaliylK</foreign> in the Kur [lxxvii. 31] means <hi>Not profitable as the shade in protecting from the heat.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27599" key="ZalaAlapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalaAlapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1717,7 +1727,7 @@
 								<foreign lang="ar">$axoSN</foreign> [expl. above, see <foreign lang="ar">Zil~N</foreign>, last quarter]: (O, K:) and so <foreign lang="ar">TalaAlapN</foreign>, with <foreign lang="ar">T</foreign>. (O.)
 					</entry>
 					<entry type="main" id="n27600" key="ZilaAlapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZilaAlapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1731,14 +1741,14 @@
 								<foreign lang="ar">mina AlT~ayori</foreign> i. e. <foreign lang="ar">gayaAbapF</foreign> [app. meaning <hi>I saw a covert,</hi> or <hi>place of concealment, of birds</hi>]. (TA.)
 					</entry>
 					<entry type="main" id="n27601" key="ZaliylapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaliylapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaliylapN</foreign> <hi>A place in which a little water collects and stagnates in a water-course</hi> and <hi>the like:</hi> (Lth, T:) or <hi>a place in which water collects and stagnates in the lower part of the torrent of a valley:</hi> (M, K:) or the <hi>like of an excavated hollow in the interior of a water-course, such that the water stops, and remains therein:</hi> (AA, O:) pl. <foreign lang="ar">ZalaAy^ilu</foreign>. (Lth, AA, T, O.) And <hi>A meadow</hi> (<foreign lang="ar">rawoDap</foreign>) <hi>abounding with collections of trees,</hi> or <hi>of dense and tangled trees:</hi> (AA, T, O, K:) pl. as above. (K.)
 					</entry>
 					<entry type="main" id="n27602" key="Zul~ayolapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zul~ayolapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1747,7 +1757,7 @@
 								<hi>of trees,</hi> or <hi>of a garment,</hi> or <hi>piece of cloth, by which to protect himself from the heat of the sun:</hi> a vulgar word. (TA.)
 					</entry>
 					<entry type="main" id="n27603" key="ZuloZulN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuloZulN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1759,7 +1769,7 @@
 								<foreign lang="ar">sufunN</foreign>, which is evidently a mistranscription.])
 					</entry>
 					<entry type="main" id="n27604" key="A^aZal~u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZal~u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1774,14 +1784,14 @@
 								<foreign lang="ar">AlA^aSaAbiEi</foreign>, <hi>next to the fore part</hi> [<hi>of the bottom</hi>] <hi>of the foot.</hi> (Ibn-'Abbád, O.) Hence the prov., <foreign lang="ar">A_ino yadoma A^aZal~uka faqado naqiba xuf~iY</foreign> [<hi>If the fore part of the sole of thy foot be bleeding, the sole of my foot has become worn through, in holes:</hi> see <foreign lang="ar">naqiba</foreign>]: said to the complainer to him who is in a worse condition than he. (AHei, TA.)
 					</entry>
 					<entry type="main" id="n27605" key="mZl~">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mZl~</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mZl~</foreign> [app. <foreign lang="ar">maZil~N</foreign>, being from <foreign lang="ar">Zal~a</foreign> of which the aor. is <foreign lang="ar">yaZil~u</foreign>; <hi>A place of shade,</hi> or <hi>of continual shade</hi>]. One says, <foreign lang="ar">h`*aA munaAxiY wamaHal~iY wabayotiY wamZl~iY</foreign> [<hi>This is my nightly resting-place for the camels, and my place of abode, and my tent, and my place of shade,</hi> or <hi>of continual shade</hi>]. (TA.)
 					</entry>
 					<entry type="main" id="n27606" key="muZil~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZil~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1789,7 +1799,7 @@
 							<anchor type="arrow"><foreign lang="ar">muZal~ilN↓</foreign></anchor>. (Msb.) And [A <hi>cloudy</hi> day;] a day <hi>having clouds:</hi> or <hi>having continual shade.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27607" key="miZal~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZal~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1809,21 +1819,21 @@
 							And The <hi>thing</hi> [i. e. <hi>umbrella</hi>] <hi>by means of which kings are shaded on the occasion of their riding;</hi> called in Pers. <foreign lang="ar">Jator</foreign>. (TA.)
 					</entry>
 					<entry type="main" id="n27608" key="Earo$N muZal~alN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Earo$N muZal~alN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Earo$N muZal~alN</foreign> [<hi>A booth,</hi> or <hi>shed, shaded over</hi>] is from <foreign lang="ar">AlZ~il~u</foreign>. (S.)
 					</entry>
 					<entry type="main" id="n27609" key="muZal~ilN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZal~ilN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">muZal~ilN</foreign>: see <foreign lang="ar">muZil~N</foreign>.
 					</entry>
 					<entry type="main" id="n27610" key="musotaZil~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">musotaZil~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1834,20 +1844,21 @@
 							And [Az says,] I heard a man of the tribe of Teiyi apply the term <foreign lang="ar">AlmusotaZil~aAtu</foreign> [so accord. to a copy of the T, but in the TA <foreign lang="ar">AlmusotaZil~u</foreign>,] to <hi>Certain thin flesh, adhering to the interior of the two fetlock-joints of the camel, than which there is in the flesh of the camel none thinner, nor any softer, but there is in it no grease.</hi> (T.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZlE">
-					<head>
-								<foreign lang="ar">ZlE</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZlE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZlE</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27611" key="ZalaEa">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ZalaEa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">ZalaEa</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">ZalaEa</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">ZaloEN</foreign>, (S, Mgh, O, Msb, K,) said of a camel, (S, O, Msb, K,) and of a man also, (Msb, TA,) and, by Aboo-Dhu-eyb, of a horse, (S, TA,) [and likewise said of a dog, (see <foreign lang="ar">ZaAliEN</foreign>,)] <hi>He limped,</hi> or <hi>halted,</hi> syn. <foreign lang="ar">gamaza fiY</foreign> 
 								<foreign lang="ar">ma$oyihi</foreign>, (S, O, Msb, K, TA,) and <foreign lang="ar">Earija</foreign>; (TA;) or <hi>was slightly lame:</hi> (Mgh:) what it signifies resembles <foreign lang="ar">EarajN</foreign> [or natural lameness], and therefore it is said to be a slight <foreign lang="ar">Earaj</foreign>. (Msb.) One says, <foreign lang="ar">Airoqa EalaY ZaloEika</foreign>, (S, O, L, K,) a prov., (O, L,) meaning <hi>Ascend thou</hi> the mountain <hi>with knowledge</hi> [or <hi>because</hi>] <hi>of thy limping,</hi> or <hi>slight lameness, not jading thyself:</hi> (L:) or <hi>deal gently with thyself, and burden not thyself with more than thou art able to do:</hi> (S:) or <hi>impose upon thyself, of what is difficult,</hi> [<hi>only</hi>] <hi>what thou art able to do;</hi> for he who ascends a ladder or stair, or a mountain, when he is one who limps, or has a slight lameness, deals gently with himself; i. e. <hi>exceed not thy proper limit in thy threatening, but see thy deficiency, and thine impotence to execute it:</hi> (O, K: *) and some say <foreign lang="ar">AiroqaA^o</foreign>, with, meaning <hi>rectify thine affair first;</hi> (O, K;) or as meaning <hi>abstain, and restrain thyself;</hi> (O;) or, accord. to AZ, <hi>abstain thou, for I know thy vices,</hi> or <hi>faults:</hi> (TA:) or the meaning of both is, <hi>be silent, because,</hi> or <hi>in consideration, of the fault that is in thee.</hi> (Ks, O, K. *) One says also, <foreign lang="ar">Airoqi EalaY ZaloEika</foreign>, with kesr to the <foreign lang="ar">q</foreign>, [meaning <hi>Charm thou thy slight lameness, to cure it,</hi>] from <foreign lang="ar">Alr~uqoyapu</foreign>: and it is said in another prov.,
 							<quote>
@@ -1875,7 +1886,7 @@
 								<hi>She</hi> (a woman) <hi>contracted and inclined her eye.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27612" key="AZlE">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZlE</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1883,7 +1894,7 @@
 								4. <foreign lang="ar">AZlE</foreign> <hi>He made</hi> his camel, or beast, that he rode, <hi>to limp,</hi> or <hi>become lame.</hi> (A, TA.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth lang="ar">taZal~aEa</orth>
 						</form>
@@ -1895,21 +1906,21 @@
 							ISd thinks the meaning to be, [<hi>And that was not a crime,</hi> or <hi>an offence, that I committed against them, nor envy on my part</hi>] <hi>arising in their minds, and occurring hastily to their understandings.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27613" key="ZalaEN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalaEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZalaEN</foreign>, thus with fet-h to the <foreign lang="ar">l</foreign>, <hi>A declining from the truth,</hi> or <hi>from that which is right;</hi> and <hi>a sin, crime, fault,</hi> or <hi>misdeed.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27614" key="ZulaAEN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZulaAEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZulaAEN</foreign> <hi>A disease in the legs of a beast, not from journeying nor from fatigue,</hi> (Lth, K, TA, [in the O inadvertently written <foreign lang="ar">DulaAE</foreign>,]) <hi>in consequence of which it limps.</hi> (Lth, TA.)
 					</entry>
 					<entry type="main" id="n27615" key="ZaAliEN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAliEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1939,7 +1950,7 @@
 								[<hi>And if ye</hi> women <hi>vie with the contracted and inclined eyes</hi>], he means <foreign lang="ar">AlmaZoluwEapa</foreign>, [see 1, last sentence,] using the word in the manner of a possessive noun. (TA.)
 					</entry>
 					<entry type="main" id="n27616" key="muZoliEN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZoliEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1947,40 +1958,41 @@
 								<foreign lang="ar">muDoliEN</foreign> [i. e. <hi>Heavily burdening,</hi> or <hi>overburdening,</hi> &amp;c.; or <hi>causing to limp</hi>]. (TA.)
 					</entry>
 					<entry type="main" id="n27617" key="miZolaAEN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZolaAEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">miZolaAEN</foreign> an epithet applied to a horse [and the like, as meaning <hi>That limps,</hi> or <hi>halts, much</hi>]. (TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zlf">
-					<head>
-								<foreign lang="ar">Zlf</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zlf">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zlf</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27618" key="Zalafa AlS~ayoda">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zalafa AlS~ayoda</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">Zalafa AlS~ayoda</foreign>, (S, M, O,) or <foreign lang="ar">Al$~aApa</foreign>, (K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">Zalifa</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">ZalofN</foreign>, (M,) <hi>He hit in his</hi> 
 								<foreign lang="ar">Zilof</foreign> [or <hi>cloven hoof</hi>] (S, M, O, K) <hi>the animal of the chase</hi> (S, M, O) at which he had shot or cast, (S, O,) or <hi>the</hi> 
 								<foreign lang="ar">$Ap</foreign> [a term including the <hi>antelope</hi> and <hi>the like</hi>]. (K.)
 						＝
 						-A2-
 								<foreign lang="ar">Zalafa A^avarahu</foreign>, (S, M, O, K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">Zalifa</orth>
-						</form>
+						</choice>
 								and
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bu" lang="ar">Zalufa</orth>
-						</form>
+						</choice>
 								, (M, K,) inf. n. <foreign lang="ar">ZalofN</foreign>, (M, TA,) <hi>He made his foot-marks to be unapparent, in order that he might not be tracked:</hi> (K:) or <hi>he went,</hi> or <hi>walked, upon hard and rugged ground, in order that his foot-marks might not be visible</hi> (S, M, O, K) <hi>upon it;</hi> (S, O;) as also 
 							<anchor type="arrow"><foreign lang="ar">AZlfhu↓</foreign></anchor>; (S, M, L, TA;) in the K, erroneously 
 							<anchor type="arrow"><foreign lang="ar">ZAlfh↓</foreign></anchor>. (TA.)
@@ -1992,41 +2004,41 @@
 						―
 						-b3-
 							And <foreign lang="ar">Zalafahumo</foreign>, (M, K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bu" lang="ar">Zalufa</orth>
-						</form>
+						</choice>
 								, (M,) or
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">Zalifa</orth>
-						</form>
+						</choice>
 								, (TA,) inf. n. <foreign lang="ar">ZalofN</foreign>, (M, TA,) <hi>He followed their foot-marks.</hi> (M, K.)
 						＝
 						-A3-
 								<foreign lang="ar">Zalafa nafosahu Eanohu</foreign>, (T, S, M, O, K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">Zalifa</orth>
-						</form>
+						</choice>
 								, (S, O, K,) inf. n. <foreign lang="ar">ZalofN</foreign>, (S, O,) <hi>He withheld himself from doing it,</hi> or <hi>coming to it;</hi> (S, O, K;) namely, a thing: (S, O:) or <hi>he restrained himself from it;</hi> (T, K;) namely, a thing that would disgrace him: (T:) or <hi>he withheld himself from the love,</hi> or <hi>blamable love, of it;</hi> namely, a thing. (M.) And <foreign lang="ar">Zalafahu</foreign> 
 								<foreign lang="ar">Eanohu</foreign>, (T, M,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">Zalifa</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">ZalofN</foreign>, <hi>He withheld him from it;</hi> namely, an affair: (M:) or <hi>he made him to be,</hi> or <hi>become, far,</hi> or <hi>aloof, from it;</hi> or <hi>to avoid it;</hi> namely, a thing; as also 
 							<anchor type="arrow"><foreign lang="ar">AZlfhu↓</foreign></anchor>. (T, TA.) And <foreign lang="ar">Zalafahu</foreign> [alone] <hi>He withheld him from that in which was no good.</hi> (M.)
 						＝
 						-A4-
 								<foreign lang="ar">Zalifati AlA^aroDu</foreign>, (M, K,) [aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zalafa</orth>
-						</form>
+						</choice>
 								,] inf. n. <foreign lang="ar">ZalafN</foreign>, (S, * M, TA,) <hi>The ground was rugged, not showing a foot-mark.</hi> (S, * M, K.) And <foreign lang="ar">Zalifato maEiy$atuhu</foreign>, inf. n. <foreign lang="ar">ZalafN</foreign>, <hi>His means of subsistence became hard, strait,</hi> or <hi>difficult.</hi> (TK.)
 						＝
 						-A5-
 								<foreign lang="ar">Zalifato nafosiY</foreign> 
 								<foreign lang="ar">Eano ka*aA</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zalafa</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">ZalafN</foreign>, <hi>My mind,</hi> or <hi>soul, abstained,</hi> or <hi>refrained, from such a thing.</hi> (S.)
 						＝
 						-A6-
@@ -2036,7 +2048,7 @@
 							and the <hi>being concealed</hi>].
 					</entry>
 					<entry type="main" id="n27619" key="Zl~f Ealayohi">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">Zl~f Ealayohi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2044,7 +2056,7 @@
 								2. <foreign lang="ar">Zl~f Ealayohi</foreign>, (IAar, T, O, K,) inf. n. <foreign lang="ar">taZoliyfN</foreign>, (O,) <hi>He exceeded it;</hi> (IAar, T, O, K;) i. e. [a certain number of years in age, as, for instance,] <foreign lang="ar">Als~itiyna</foreign> [<hi>sixty</hi>], (T,) or <foreign lang="ar">Alxamosiyna</foreign> [<hi>fifty</hi>]: (O:) and so <foreign lang="ar">Tal~afa</foreign> and <foreign lang="ar">Tal~ava</foreign> and <foreign lang="ar">*ar~afa</foreign> &amp;c. (T, TA.)
 					</entry>
 					<entry type="main" id="n27620" key="ZAlfhu">
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">ZAlfhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2052,7 +2064,7 @@
 								3. <foreign lang="ar">ZAlfhu</foreign>: see 1, former half: it is a mistake, in the K, for <foreign lang="ar">AZlfhu</foreign>. (TA.)
 					</entry>
 					<entry type="main" id="n27621" key="AZlf">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZlf</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2064,7 +2076,7 @@
 								<foreign lang="ar">AZlfhu</foreign>: see 1, in two places.
 					</entry>
 					<entry type="main" id="n27622" key="ZalofN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalofN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2092,15 +2104,15 @@
 							<anchor type="arrow"><foreign lang="ar">TalafFA↓</foreign></anchor>, (AA, T, S, M, O, K,) and 
 							<anchor type="arrow"><foreign lang="ar">ZaliyfFA↓</foreign></anchor>, (M,) as also <foreign lang="ar">TalofFA</foreign> and <foreign lang="ar">TalafFA</foreign> (AA, O) [and <foreign lang="ar">TaliyfFA</foreign>], <hi>His blood went for nothing; as a thing of no account; ineffectually;</hi> or <hi>in vain; unretaliated,</hi> or <hi>uncompensated by a mulct.</hi> (AA, T, S, M, O, K.)
 					</entry>
-					<entry type="main" id="n27623" key="AlZ~ulofu">[
-						<form>
+					<entry type="main" id="n27623" key="AlZ~ulofu">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlZ~ulofu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">AlZ~ulofu</foreign> in Har p. 312, there said to be used as meaning <hi>Continence,</hi> and <hi>disdain of base actions,</hi> is app. a mistake for <foreign lang="ar">AlZ~alofu</foreign>, inf. n. of 1 in the phrase <foreign lang="ar">Zalafa nafosahu</foreign>.]
+								[<foreign lang="ar">AlZ~ulofu</foreign> in Har p. 312, there said to be used as meaning <hi>Continence,</hi> and <hi>disdain of base actions,</hi> is app. a mistake for <foreign lang="ar">AlZ~alofu</foreign>, inf. n. of 1 in the phrase <foreign lang="ar">Zalafa nafosahu</foreign>.]
 					</entry>
 					<entry type="main" id="n27624" key="ZilofN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZilofN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2140,7 +2152,7 @@
 								[In some copies of the K, <foreign lang="ar">AlZ~ilofu</foreign> is erroneously put for <foreign lang="ar">AlZ~alafu</foreign> as relating to the means of subsistence. And in the CK <foreign lang="ar">ZilofuhaA</foreign> is erroneously put for <foreign lang="ar">ZalifuhaA</foreign> as meaning <foreign lang="ar">Zalifu Aln~afosi</foreign>.]
 					</entry>
 					<entry type="main" id="n27625" key="ZalafN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalafN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2165,7 +2177,7 @@
 							And see <foreign lang="ar">Zaliyfap</foreign>.
 					</entry>
 					<entry type="main" id="n27626" key="ZalifN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalifN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2180,15 +2192,15 @@
 						-A3-
 							See also <foreign lang="ar">ZalifapN</foreign>.
 					</entry>
-					<entry type="main" id="n27627" key="AlZ~ulafu">[
-						<form>
+					<entry type="main" id="n27627" key="AlZ~ulafu">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlZ~ulafu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">AlZ~ulafu</foreign> in Har p. 623, there said to mean <hi>The restraining the soul from its desire,</hi> or <hi>blamable inclination,</hi> is app. a mistranscription for <foreign lang="ar">AlZ~alafu</foreign>, inf. n. of <foreign lang="ar">Zalifati Aln~afosu</foreign>.]
+								[<foreign lang="ar">AlZ~ulafu</foreign> in Har p. 623, there said to mean <hi>The restraining the soul from its desire,</hi> or <hi>blamable inclination,</hi> is app. a mistranscription for <foreign lang="ar">AlZ~alafu</foreign>, inf. n. of <foreign lang="ar">Zalifati Aln~afosu</foreign>.]
 					</entry>
 					<entry type="main" id="n27628" key="ZalofapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalofapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2199,7 +2211,7 @@
 							<anchor type="arrow"><foreign lang="ar">ZalifapN↓</foreign></anchor>. (O, K.)
 					</entry>
 					<entry type="main" id="n27629" key="ZalafapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalafapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2210,7 +2222,7 @@
 							<anchor type="arrow"><foreign lang="ar">AlZ~alifaAti↓</foreign></anchor>,]) meaning [<hi>God made him to keep to</hi>] <hi>a state of hardship and straitness.</hi> (T, TA.)
 					</entry>
 					<entry type="main" id="n27630" key="ZalifapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalifapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2248,14 +2260,14 @@
 							See also <foreign lang="ar">Zaliyfap</foreign>.
 					</entry>
 					<entry type="main" id="n27631" key="ZalofaA='u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalofaA='u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZalofaA='u</foreign> <hi>A smooth stone</hi> or <hi>rock,</hi> or <hi>a hard, smooth, large stone,</hi> (<foreign lang="ar">SafaApN</foreign>,) <hi>even with the ground,</hi> (T, O, K,) <hi>round</hi> (<foreign lang="ar">mdwrp</foreign>), (so in a copy of the T, [i. e. <foreign lang="ar">mudaw~arap</foreign>,]) or <hi>extended</hi> (<foreign lang="ar">mamoduwdap</foreign>). (O, K.)
 					</entry>
 					<entry type="main" id="n27632" key="Zul~afN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zul~afN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2263,7 +2275,7 @@
 								<foreign lang="ar">Zuluwf</foreign> [or <hi>divided hoofs</hi>]: (S, O, K:) the latter word being a corroborative. (S, O.)
 					</entry>
 					<entry type="main" id="n27633" key="ZaliyfN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaliyfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2298,7 +2310,7 @@
 							See also what here follows.
 					</entry>
 					<entry type="main" id="n27634" key="A^axa*ahu biZaliyfatihi">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^axa*ahu biZaliyfatihi</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2308,14 +2320,14 @@
 							<anchor type="arrow"><foreign lang="ar">biZalifatihi↓</foreign></anchor>, (T, M, L,) <hi>He took it altogether,</hi> or <hi>wholly,</hi> (T, * S, O, K,) or <hi>with its root,</hi> or <hi>base, and wholly,</hi> (M, L,) <hi>not leaving of it anything:</hi> (T, S, M, O, L, K:) so says AZ. (S.)
 					</entry>
 					<entry type="main" id="n27635" key="A^uZoluwfapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^uZoluwfapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">A^uZoluwfapN</foreign> <hi>A piece of rugged,</hi> or <hi>rough, ground:</hi> (T:) or <hi>ground,</hi> (S, O, K,) or <hi>hard ground,</hi> (TA,) <hi>in which are sharp stones, as though its composition were that of a mountain:</hi> (S, O, K, TA:) pl. <foreign lang="ar">A^aZaAliyfu</foreign>. (T, S, &amp;c.)
 					</entry>
 					<entry type="main" id="n27636" key="maZoluwfN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZoluwfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2324,20 +2336,21 @@
 								<foreign lang="ar">Zilof</foreign> [or <hi>cloven hoof</hi>]. (Yaakoob, S.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zlm">
-					<head>
-								<foreign lang="ar">Zlm</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zlm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zlm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27637" key="Zalama">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zalama</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">Zalama</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">Zalima</orth>
-						</form>
+						</choice>
 								, has for its inf. n. <foreign lang="ar">ZalomN</foreign>, (M, Msb, K, and so in some copies of the S,) or 
 							<anchor type="arrow"><foreign lang="ar">ZulomN↓</foreign></anchor>, (so in other copies of the S,) or both, (T,) or the latter is a simple subst., (T, M, Msb, TA,) which is put in the place of the inf. n., (TA, [and the same is indicated in the T and K by the saying that the proper inf. n. is with fet-h,]) and 
 							<anchor type="arrow"><foreign lang="ar">maZolimapN↓</foreign></anchor>, (S, TA,) or this is likewise a simple subst., (Msb,) and 
@@ -2419,7 +2432,7 @@
 								<foreign lang="ar">Zalima</foreign>, said of the night: see 4.
 					</entry>
 					<entry type="main" id="n27638" key="Zl~mhu">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">Zl~mhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2432,14 +2445,14 @@
 							And <hi>He</hi> (a judge) <hi>exacted justice for him from his wronger, and aided him against him.</hi> (T.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth lang="ar">ZaAolama</orth>
 						</form>
 								3: see 1, in the middle of the paragraph.
 					</entry>
 					<entry type="main" id="n27639" key="AZlm">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZlm</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2469,7 +2482,7 @@
 								<foreign lang="ar">A^aYo A^aSaAba Dawo'FA waA^aZolama A^aSaAba ZalomFA</foreign>: (T:) [and ISd cites the verse above with the substitution of <foreign lang="ar">biEaynihi</foreign> for <foreign lang="ar">biTarofihi</foreign> and of <foreign lang="ar">A^anaAra</foreign> for <foreign lang="ar">A^aDaA='a</foreign> immediately after saying that] <foreign lang="ar">A^aZolama</foreign> signifies <hi>he looked at the teeth and saw lustre</hi> (<foreign lang="ar">AlZ~aloma</foreign>). (M.) [In the K, next after the explanation of <foreign lang="ar">AZlm Alv~agoru</foreign> given above, it is added that <foreign lang="ar">AZlm</foreign> said of a man signifies <foreign lang="ar">A^aSaAba ZalomFA</foreign>: thus, with fet-h, to the <foreign lang="ar">Z</foreign>, accord. to the TA: in my MS. copy of the K and in the CK, <foreign lang="ar">ZulomFA</foreign>, which is doubtless a mistranscription.]
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth lang="ar">taZal~ama</orth>
 						</form>
@@ -2488,7 +2501,7 @@
 							See also 1, former half, in two places.
 					</entry>
 					<entry type="main" id="n27640" key="tZAlm Alqawomu">
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">tZAlm Alqawomu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2502,14 +2515,14 @@
 								<hi>We found a land whereof the goats smote one another with their horns</hi> by reason of satiety and liveliness. (T, TA.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth lang="ar">A_inoZalama</orth>
 						</form>
 								7: see the next paragraph.
 					</entry>
 					<entry type="main" id="n27641" key="AiZ~alama">
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AiZ~alama</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2520,7 +2533,7 @@
 								<foreign lang="ar">AlZ~ulom</foreign>. (S, M, K.)
 					</entry>
 					<entry type="main" id="n27642" key="ZalomN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalomN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2536,7 +2549,7 @@
 								<foreign lang="ar">Zalom</foreign>, as is indicated in the T and S, or] <hi>with the water of snow.</hi> (Lth, T.)
 					</entry>
 					<entry type="main" id="n27643" key="ZulomN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZulomN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2551,7 +2564,7 @@
 							And <foreign lang="ar">AlZulomu</foreign> in one place in the CK, as syn. with <foreign lang="ar">AlZ~alomaA='u</foreign>, is a mistake for <foreign lang="ar">AlZ~ulomapu</foreign>.]
 					</entry>
 					<entry type="main" id="n27644" key="laqiytuhu A^adonaY ZalamK">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">laqiytuhu A^adonaY ZalamK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2564,7 +2577,7 @@
 								<foreign lang="ar">ZalamN</foreign> signifies also <hi>A mountain:</hi> and the pl. is <foreign lang="ar">ZuluwmN</foreign>. (M, K.)
 					</entry>
 					<entry type="main" id="n27645" key="ZulamN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZulamN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2576,14 +2589,14 @@
 								<foreign lang="ar">duroEapN</foreign>, agreeably with rule; and this is the correct assertion. (T. [See more in art. <foreign lang="ar">drE</foreign>, voce <foreign lang="ar">A^adoraEu</foreign>.])
 					</entry>
 					<entry type="main" id="n27646" key="ZilamN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZilamN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZilamN</foreign>: see <foreign lang="ar">Zil~aAmN</foreign>.
 					</entry>
 					<entry type="main" id="n27647" key="ZulomapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZulomapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2616,42 +2629,42 @@
 							and see the paragraph next preceding it.
 					</entry>
 					<entry type="main" id="n27648" key="ZilomapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZilomapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZilomapN</foreign> sing. of <foreign lang="ar">ZilamN</foreign>: see <foreign lang="ar">Zil~aAmN</foreign>.
 					</entry>
 					<entry type="main" id="n27649" key="ZulumapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZulumapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZulumapN</foreign>: see <foreign lang="ar">ZulomapN</foreign>.
 					</entry>
 					<entry type="main" id="n27650" key="ZalomaA='u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalomaA='u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZalomaA='u</foreign>: see <foreign lang="ar">ZulomapN</foreign>, in four places: and see also <foreign lang="ar">ZulamN</foreign>.
 					</entry>
 					<entry type="main" id="n27651" key="ZalaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZalaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZalaAmN</foreign>: see <foreign lang="ar">ZulomapN</foreign>, in two places.
 					</entry>
 					<entry type="main" id="n27652" key="ZulaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZulaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZulaAmN</foreign>: see 1, in the first quarter of the paragraph.
 					</entry>
 					<entry type="main" id="n27653" key="ZilaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZilaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2668,7 +2681,7 @@
 								<foreign lang="ar">ZilaAmFA</foreign>, meaning <foreign lang="ar">$azorFA</foreign> [i. e. <hi>He looked at me from the outer angle of the eye, with anger,</hi> or <hi>aversion</hi>]. (K.)
 					</entry>
 					<entry type="main" id="n27654" key="ZaluwmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaluwmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2680,7 +2693,7 @@
 								[<hi>A woman wont to give to drink the milk of the skin before its attaining to maturity and the extracting of its butter:</hi> see <foreign lang="ar">Zalama AlwaToba</foreign>, and what follows it, in the first paragraph]. (M.)
 					</entry>
 					<entry type="main" id="n27655" key="ZaliymN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaliymN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2715,14 +2728,14 @@
 								<foreign lang="ar">AlHuwt</foreign> [i. e. <hi>Piscis Australis</hi>] (Kzw in his descr. of Eridanus.) [It seems to be implied in the K that <foreign lang="ar">AlZ~aliymu</foreign> is the name of two stars; or it may be there meant that each of two stars is thus called. Freytag represents the sing. as “ a name of stars, ” and the dual also as “ a name of stars; ” referring, in relation to the former, to Ideler's “ Untersuch, ” pp. 201, 228, and 233; and in relation to the latter, to the same work, pp. 106 and 184.]
 					</entry>
 					<entry type="main" id="n27656" key="ZulaAmapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZulaAmapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZulaAmapN</foreign>: see <foreign lang="ar">maZolimapN</foreign>.
 					</entry>
 					<entry type="main" id="n27657" key="ZaliymapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaliymapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2732,7 +2745,7 @@
 							and see also <foreign lang="ar">ZaliymN</foreign>.
 					</entry>
 					<entry type="main" id="n27658" key="Zal~aAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zal~aAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2749,7 +2762,7 @@
 							See also what next follows.
 					</entry>
 					<entry type="main" id="n27659" key="Zil~aAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zil~aAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2762,14 +2775,14 @@
 								<foreign lang="ar">A^aSol</foreign> [i. e. either <hi>root</hi> or <hi>stem</hi>] <hi>thereof;</hi> for which reason the tree is called <foreign lang="ar">Zal~aAm</foreign>. (T, TA.)
 					</entry>
 					<entry type="main" id="n27660" key="Zil~iymN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zil~iymN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zil~iymN</foreign>: see <foreign lang="ar">Zal~aAmN</foreign>.
 					</entry>
 					<entry type="main" id="n27661" key="ZaAlimN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAlimN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2780,7 +2793,7 @@
 							See also <foreign lang="ar">Zil~aAmN</foreign>.
 					</entry>
 					<entry type="main" id="n27662" key="A^aZolamu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZolamu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2793,7 +2806,7 @@
 								<foreign lang="ar">Dab~</foreign>; because it eats its young ones. (TA.)
 					</entry>
 					<entry type="main" id="n27663" key="muZolimN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZolimN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2810,7 +2823,7 @@
 								<hi>a day such that one knows not how to enter upon it.</hi> (M.)
 					</entry>
 					<entry type="main" id="n27664" key="maZolimapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZolimapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2827,7 +2840,7 @@
 								<hi>The examination into wrongful exactions,</hi> see De Sacy's Chrest. Ar., see. ed., i. 132.]
 					</entry>
 					<entry type="main" id="n27665" key="muZal~amN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZal~amN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2843,14 +2856,14 @@
 								The <foreign lang="ar">raxam</foreign> [or <hi>vultur percnopterus</hi>], and <hi>crows,</hi> or <hi>ravens.</hi> (IAar, M, K. *)
 					</entry>
 					<entry type="main" id="n27666" key="miZolaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZolaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">miZolaAmN</foreign>: see <foreign lang="ar">muZolimN</foreign>, in two places.
 					</entry>
 					<entry type="main" id="n27667" key="maZoluwmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZoluwmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2864,18 +2877,20 @@
 								<hi>A country upon which rain has not fallen, and wherein is no pasturage for the camels upon which people journey.</hi> (T.)
 					</entry>
 					<entry type="main" id="n27668" key="mutaZal~imN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mutaZal~imN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mutaZal~imN</foreign>: see <foreign lang="ar">ZaAlimN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Quasi ZlY">
-					<head>Quasi <foreign lang="ar">ZlY</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZlY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZlY</foreign></title>
+						<label>Quasi <foreign lang="ar">ZlY</foreign></label>
+					</dictScrap>
 					<entry type="main" id="n27669" key="tZl~Y">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tZl~Y</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2883,20 +2898,21 @@
 								5. <foreign lang="ar">tZl~Y</foreign>: see 5 in art. <foreign lang="ar">Zl</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZmA^">
-					<head>
-								<foreign lang="ar">ZmA^</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZmA^">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZmA^</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27670" key="Zamiy^a">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zamiy^a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">Zamiy^a</foreign>, (T, S, M, &amp;c.,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">ZamaAa</orth>
-						</form>
+						</choice>
 								, (Msb, K,) inf. n. <foreign lang="ar">ZamaA^N</foreign> (T, S, M, Msb, K) and <foreign lang="ar">Zamo'N</foreign> (TA) and <foreign lang="ar">ZamaA='N</foreign> (T, M, K) and <foreign lang="ar">ZamaA='apN</foreign>, (M, K, TA,) in one copy of the K <foreign lang="ar">ZamoA^ap</foreign>, (TA,) <hi>He thirsted,</hi> or <hi>was thirsty:</hi> (S, M, Msb, K:) or as some say, <hi>he thirsted in the slightest degree.</hi> (M, TA.)
 						―
 						-b2-
@@ -2904,14 +2920,14 @@
 								<hi>He desired,</hi> or <hi>longed,</hi> [or, as we often say, <hi>thirsted,</hi>] <hi>to meet with him.</hi> (S, M, K, * TA.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth lang="ar">Zam~aAa</orth>
 						</form>
 								2: see the next paragraph.
 					</entry>
 					<entry type="main" id="n27671" key="AZmA^hu">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZmA^hu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2924,7 +2940,7 @@
 								<hi>He made him lean,</hi> or <hi>lank,</hi> namely, a horse, (T, * K, TA,) <hi>by sweating him.</hi> (TA.) [See also 4 in art. <foreign lang="ar">ZmY</foreign>.]
 					</entry>
 					<entry type="main" id="n27672" key="tZm~A^">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tZm~A^</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2932,7 +2948,7 @@
 								5. <foreign lang="ar">tZm~A^</foreign> <hi>He constrained himself to endure with patience a state of thirst.</hi> (A, TA.)
 					</entry>
 					<entry type="main" id="n27673" key="Zimo'N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zimo'N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2954,14 +2970,14 @@
 								<foreign lang="ar">ZimowN</foreign> is a dial. var. of <foreign lang="ar">Zimo'N</foreign>. (T and M in art. <foreign lang="ar">Zmw</foreign>.)
 					</entry>
 					<entry type="main" id="n27674" key="Zamiy^N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zamiy^N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zamiy^N</foreign>: see the next paragraph.
 					</entry>
 					<entry type="main" id="n27675" key="ZamoA=nu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZamoA=nu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2990,14 +3006,14 @@
 								<hi>A wind that is hot,</hi> (As, T, K,) <hi>thirsty, not gentle,</hi> (K,) <hi>and without moisture.</hi> (As, T.)
 					</entry>
 					<entry type="main" id="n27676" key="ZamiYo'N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZamiYo'N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZamiYo'N</foreign>: see <foreign lang="ar">ZamoA=nu</foreign>, first sentence.
 					</entry>
 					<entry type="main" id="n27677" key="ZamaA='apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZamaA='apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3005,14 +3021,14 @@
 								<hi>Evilness of nature,</hi> of a man, <hi>and meanness of disposition, and deficiency of equity to associates:</hi> (En-Nadr, T, K:) originating from the fact that he who is given to drink, if of an evil nature, does not act equitably to his associates. (T.)
 					</entry>
 					<entry type="main" id="n27678" key="ZaAmiy^N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAmiy^N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaAmiy^N</foreign>: see <foreign lang="ar">ZamoA=nu</foreign>, first sentence.
 					</entry>
 					<entry type="main" id="n27679" key="A^aZomaA^u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZomaA^u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3023,21 +3039,21 @@
 						<pb n="1924"/> applied to an antelope and to a camel: pl. <foreign lang="ar">Zumo'N</foreign>. (A, TA.)
 					</entry>
 					<entry type="main" id="n27680" key="maZomaA^N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZomaA^N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">maZomaA^N</foreign> <hi>A thirsty place of the earth</hi> or <hi>ground.</hi> (M, K.)
 					</entry>
 					<entry type="main" id="n27681" key="miZomaA='N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZomaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">miZomaA='N</foreign> A <hi>very thirsty</hi> man. (K.)
 					</entry>
 					<entry type="main" id="n27682" key="miZomay^iY~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">miZomay^iY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3045,12 +3061,13 @@
 								<foreign lang="ar">masoqawiY~N</foreign>: (K:) and so <foreign lang="ar">maZomiY~N</foreign>: applied to seedproduce. (S and K in art. <foreign lang="ar">ZmY</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zmx">
-					<head>
-								<foreign lang="ar">Zmx</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zmx">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zmx</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27683" key="ZimaxN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZimaxN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3061,45 +3078,47 @@
 								<foreign lang="ar">sum~aAq</foreign>: (TA, and so in one of my copies of the S, in which it is written <foreign lang="ar">Zimax</foreign>:) it is also called <foreign lang="ar">Znx</foreign> and <foreign lang="ar">zmx</foreign> and <foreign lang="ar">Tmx</foreign>. (TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zmw">
-					<head>
-								<foreign lang="ar">Zmw</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zmw">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zmw</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27684" key="ZimowN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZimowN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZimowN</foreign>, relating to the <foreign lang="ar">A^aZomaA='</foreign> of camels, is a dial. var. of <foreign lang="ar">Zimo'N</foreign>, (M,) signifying The <hi>interval between two drinkings in the coming of camels to water.</hi> (T.) [See art. <foreign lang="ar">ZmA^</foreign>.]
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZmY">
-					<head>
-								<foreign lang="ar">ZmY</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZmY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZmY</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27685" key="ZamiYa">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ZamiYa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">ZamiYa</foreign>, [and <foreign lang="ar">Zamiyato</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">ZamaYa</orth>
-						</form>
+						</choice>
 								,] inf. n. <foreign lang="ar">ZamFY</foreign>, <hi>He,</hi> or <hi>it,</hi> [and <hi>she,</hi> or <hi>it,</hi>] <hi>had any of the qualities denoted by the epithet</hi> 
 								<foreign lang="ar">A^aZomaY</foreign> [<hi>and its fem.</hi> 
 								<foreign lang="ar">ZamoyaA='u</foreign>]. (M, TA. [See <foreign lang="ar">A^aZomaY</foreign>, and see also <foreign lang="ar">ZamFY</foreign> expl. below.])
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth lang="ar">Zam~aYa</orth>
 						</form>
 								2: see the next paragraph.
 					</entry>
 					<entry type="main" id="n27686" key="A^uZomiYa">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^uZomiYa</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3108,7 +3127,7 @@
 							<anchor type="arrow"><foreign lang="ar">Zum~iYa↓</foreign></anchor>, inf. n. <foreign lang="ar">taZomiyapN</foreign>. (T, TA. [See also 4 in art. <foreign lang="ar">ZmA^</foreign>.])
 					</entry>
 					<entry type="main" id="n27687" key="ZamFY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZamFY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3122,28 +3141,28 @@
 							And <hi>Tawniness</hi> of a spearshaft. (T.)
 					</entry>
 					<entry type="main" id="n27688" key="ZamK">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZamK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZamK</foreign>: see <foreign lang="ar">A^aZomaY</foreign>.
 					</entry>
 					<entry type="main" id="n27689" key="ZimaA='N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZimaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZimaA='N</foreign>: see <foreign lang="ar">ZamoA=nu</foreign>, in art. <foreign lang="ar">ZmA^</foreign>.
 					</entry>
 					<entry type="main" id="n27690" key="ZaAmK">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAmK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaAmK</foreign>: see <foreign lang="ar">ZamoA=nu</foreign>, in art. <foreign lang="ar">ZmA^</foreign>.
 					</entry>
 					<entry type="main" id="n27691" key="A^aZomaY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZomaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3180,30 +3199,31 @@
 							And <foreign lang="ar">A^aZomaY</foreign> signifies also <hi>Black:</hi> (T:) thus as applied to shade: (S:) and so the fem. applied to a she-camel: (K:) or the latter applied to a she-camel, and [the pl.] <foreign lang="ar">ZumoYN</foreign> applied to camels, <hi>in the colour of which is a blackness.</hi> (T.) [See also <foreign lang="ar">A^aZomaA^u</foreign>, in art. <foreign lang="ar">ZmA^</foreign>.]
 					</entry>
 					<entry type="main" id="n27692" key="maZomiY~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZomiY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">maZomiY~N</foreign> Land, (M,) or [rather] seed-produce (<foreign lang="ar">zaroE</foreign>), (S, K,) <hi>watered only by the rain:</hi> (S, M, K:) and so <foreign lang="ar">maZomiy^iY~N</foreign>: (K in art. <foreign lang="ar">ZmA^</foreign>:) such as is irrigated by running water is termed <foreign lang="ar">masoqawiY~N</foreign>. (S.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zn">
-					<head>
-								<foreign lang="ar">Zn</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27693" key="Zan~a">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zan~a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">Zan~a</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bu" lang="ar">Zanu3a</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">Zan~N</foreign>, (Msb,) [<hi>He thought, opined, supposed,</hi> or <hi>conjectured:</hi> and <hi>he doubted:</hi> and <hi>he knew,</hi> but <hi>not by ocular perception:</hi> see <foreign lang="ar">Zan~N</foreign> below:] you say, <foreign lang="ar">Zananotu Al$~aYo'a</foreign>, aor. <foreign lang="ar">A^aZun~uhu</foreign>, inf. n. <foreign lang="ar">Zan~N</foreign>; and 
 							<anchor type="arrow"><foreign lang="ar">AiZ~ananotuhu↓</foreign></anchor> and <foreign lang="ar">AiZoTananotuhu</foreign>; and 
-							<anchor type="arrow"><foreign lang="ar">taZan~anotuhu↓</foreign></anchor> and <foreign lang="ar">taZan~ayotuhu</foreign>, this last formed by changing the last <foreign lang="ar">n</foreign> into <foreign lang="ar">Y</foreign>: [i. e. <hi>I thought the thing,</hi> &amp;c:] and Lh mentions, as heard from the Benoo-Suleym, <foreign lang="ar">Zanotu *aAka</foreign> i. e. <foreign lang="ar">Zananotu *Ak</foreign> [<hi>I thought that,</hi> &amp;c.] like <foreign lang="ar">Zalotu</foreign> and other instances of the dial. of Suleym. (M.) [In the first of the senses expl. above, it governs two objective complements, which are originally an inchoative and an enunciative:] you say, <foreign lang="ar">Zananotuka zayodFA</foreign> [<hi>I thought thee Zeyd,</hi> originally <hi>I thought thou wast Zeyd</hi>], and <foreign lang="ar">Zananotu zayodFA A_iy~aAka</foreign> [<hi>I thought Zeyd thee,</hi> originally <hi>I thought Zeyd was thou</hi>], denoting by a pronoun what is originally an inchoative [in the former phrase] and what is originally an enunciative [in the latter phrase]. (S, TA.) It is also used [in this sense] in the same manner as a verb signifying an oath, the Arabs giving it the same kind of complement, saying, <foreign lang="ar">Zananotu laEabodu</foreign> 
+							<anchor type="arrow"><foreign lang="ar">taZan~anotuhu↓</foreign></anchor> and <foreign lang="ar">taZan~ayotuhu</foreign>, this last formed by changing the last <foreign lang="ar">n</foreign> into <foreign lang="ar">Y</foreign>: [i. e. <hi>I thought the thing,</hi> &amp;c.:] and Lh mentions, as heard from the Benoo-Suleym, <foreign lang="ar">Zanotu *aAka</foreign> i. e. <foreign lang="ar">Zananotu *Ak</foreign> [<hi>I thought that,</hi> &amp;c.] like <foreign lang="ar">Zalotu</foreign> and other instances of the dial. of Suleym. (M.) [In the first of the senses expl. above, it governs two objective complements, which are originally an inchoative and an enunciative:] you say, <foreign lang="ar">Zananotuka zayodFA</foreign> [<hi>I thought thee Zeyd,</hi> originally <hi>I thought thou wast Zeyd</hi>], and <foreign lang="ar">Zananotu zayodFA A_iy~aAka</foreign> [<hi>I thought Zeyd thee,</hi> originally <hi>I thought Zeyd was thou</hi>], denoting by a pronoun what is originally an inchoative [in the former phrase] and what is originally an enunciative [in the latter phrase]. (S, TA.) It is also used [in this sense] in the same manner as a verb signifying an oath, the Arabs giving it the same kind of complement, saying, <foreign lang="ar">Zananotu laEabodu</foreign> 
 								<foreign lang="ar">A@ll~`hi xayorN minoka</foreign> [<hi>I thought surely 'Abd-Allah was better than thou</hi>]. (S in art. <foreign lang="ar">drd</foreign>.) [<foreign lang="ar">Zan~a bihi ka*aA</foreign> means <hi>I thought of him,</hi> or <hi>it, such a thing:</hi> and <hi>I thought such a thing to be in him,</hi> or <hi>it:</hi> and is used in relation to good and to evil.] It is said in the Kur [xxxiii. 10], <foreign lang="ar">wataTun~uwna biA@ll~`hi A@lZ~unuwnaA</foreign> [<hi>And ye were thinking, of God,</hi> various <hi>thoughts</hi>]. (M.) Accord. to Sb, <foreign lang="ar">Zananotu bihi</foreign> means <hi>I made him,</hi> or <hi>it, the place</hi> [i. e. <hi>object</hi>] <hi>of my</hi> 
 								<foreign lang="ar">Zan~</foreign> [or <hi>thought,</hi> &amp;c.]. (M.) [In all these exs. the verb denotes a state of mind between doubt and certainty, but the latter is predominant: and hence <foreign lang="ar">Zan~a</foreign> sometimes means <hi>He doubted:</hi> and sometimes, <hi>he knew, by considering with endeavour to understand, not by ocular perception;</hi> being more frequently used in this sense than as meaning “ he doubted, ” though not so frequently as it is in the sense of “ he thought, ” whence the meaning “ he knew ” is held by some to be tropical.] <foreign lang="ar">A_in~aY</foreign>, <foreign lang="ar">Zananotu A^an~iY mulaAqK HisaAbiyaho</foreign>, in the Kur [lxix. 20], means <hi>Verily I knew</hi> [<hi>that I should meet with my reckoning</hi>]. (T.) And <foreign lang="ar">A@l~a*iyna yaZun~uwna A^an~ahumo mulaAquw</foreign> 
 								<foreign lang="ar">rab~ihimo</foreign>, in the same [ii. 43], means <hi>Who know</hi> [<hi>that they shall meet their Lord,</hi> lit., <hi>be meeters of their Lord</hi>]. (Msb.) And <foreign lang="ar">Zananotu maA qaAla</foreign>, occurring in a trad., means <hi>I knew</hi> [<hi>what he meant to say</hi> by his making a sign with his hand]. (TA.)
@@ -3219,7 +3239,7 @@
 						<pb n="1925"/> this sense the verb has a single objective complement. (TA.)
 					</entry>
 					<entry type="main" id="n27694" key="A^aZonanotuhu Al$~aYo'a">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^aZonanotuhu Al$~aYo'a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3233,7 +3253,7 @@
 							See also 1, last quarter.
 					</entry>
 					<entry type="main" id="n27695" key="Alt~aZan~iY">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">Alt~aZan~iY</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3245,7 +3265,7 @@
 							See also 1, first sentence.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth lang="ar">A_iZotana3a</orth>
 						</form>
@@ -3255,7 +3275,7 @@
 							and again, in the last quarter, in three places.
 					</entry>
 					<entry type="main" id="n27696" key="Zan~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zan~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3267,7 +3287,7 @@
 								<foreign lang="ar">biAl$~aYo'i ZunuwnN</foreign> [<hi>His knowledge is</hi> but <hi>opinions</hi>]; meaning that no confidence is to be placed in him. (TA.)
 					</entry>
 					<entry type="main" id="n27697" key="Zin~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zin~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3280,14 +3300,14 @@
 								<hi>A little</hi> [like the French “ soupçon ”] of a thing. (TA.)
 					</entry>
 					<entry type="main" id="n27698" key="ZunanN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZunanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZunanN</foreign>: see <foreign lang="ar">Zan~aAnN</foreign>.
 					</entry>
 					<entry type="main" id="n27699" key="ZanuwnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZanuwnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3312,7 +3332,7 @@
 							And A man <hi>having little artifice, cunning, ingenuity,</hi> or <hi>skill.</hi> (K.)
 					</entry>
 					<entry type="main" id="n27700" key="ZaniynN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaniynN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3327,21 +3347,21 @@
 							See also <foreign lang="ar">ZanuwnN</foreign>, in two places.
 					</entry>
 					<entry type="main" id="n27701" key="ZanaAnapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZanaAnapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZanaAnapN</foreign> or <foreign lang="ar">ZinaAnapN</foreign>: see <foreign lang="ar">Zin~apN</foreign>.
 					</entry>
 					<entry type="main" id="n27702" key="Zan~aA='u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zan~aA='u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Zan~aA='u</foreign>: see <foreign lang="ar">ZaniynN</foreign>.
 					</entry>
 					<entry type="main" id="n27703" key="Zan~aAnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Zan~aAnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3349,7 +3369,7 @@
 							<anchor type="arrow"><foreign lang="ar">ZunanN↓</foreign></anchor>. (TA.)
 					</entry>
 					<entry type="main" id="n27704" key="A^aZan~u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^aZan~u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3357,14 +3377,14 @@
 								<hi>I looked towards him who was the most fit of them that I should think of him to do that.</hi> (M, TA.)
 					</entry>
 					<entry type="main" id="n27705" key="A^uZonuwnapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^uZonuwnapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">A^uZonuwnapN</foreign>: see <foreign lang="ar">Zan~N</foreign>, near the end.
 					</entry>
 					<entry type="main" id="n27706" key="maZin~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZin~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3382,7 +3402,7 @@
 								<foreign lang="ar">yafoEala *`lika</foreign> i. e. <hi>Verily he is apt, meet, fitted,</hi> or <hi>suited, for one to think of his doing that:</hi> and in like manner one says of two, and of a pl. number, and of a female. (Lh, M.)
 					</entry>
 					<entry type="main" id="n27707" key="maZonuwnN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZonuwnN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3390,26 +3410,27 @@
 								<foreign lang="ar">A=HaAdN</foreign> [q. v.]. (Mz 3rd <foreign lang="ar">nwE</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Znb">
-					<head>
-								<foreign lang="ar">Znb</foreign>
-					</head>
+				<superEntry type="main" xml:id="Znb">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Znb</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27708" key="ZinobN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZinobN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZinobN</foreign> The <hi>root,</hi> or <hi>lower part,</hi> or <hi>stem,</hi> (<foreign lang="ar">A^aSol</foreign>,) of a tree. (IAar, T, K.)
 					</entry>
 					<entry type="main" id="n27709" key="ZunobapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZunobapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZunobapN</foreign> <hi>A sinew</hi> (<foreign lang="ar">Eaqabap</foreign>) <hi>that is wound over the extremities of the feathers of an arrow, next the notch.</hi> (AHn, M, K.)
 					</entry>
 					<entry type="main" id="n27710" key="ZunobuwbN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZunobuwbN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3437,11 +3458,13 @@
 								<hi>of a spear-head,</hi> [i. e., <hi>in the part into which the shaft enters,</hi>] (M, K,) <hi>where it is fixed upon the upper extremity of the shaft:</hi> and <foreign lang="ar">ZanaAbiyb</foreign> has been said to be the pl. of the word in this sense in the verse of Selámeh cited above. (M, TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Quasi ZnY">
-					<head>Quasi <foreign lang="ar">ZnY</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZnY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZnY</foreign></title>
+						<label>Quasi <foreign lang="ar">ZnY</foreign></label>
+					</dictScrap>
 					<entry type="main" id="n27711" key="tZn~Y">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tZn~Y</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3449,20 +3472,21 @@
 								5. <foreign lang="ar">tZn~Y</foreign>; originally <foreign lang="ar">taZan~ana</foreign>: see the latter, in art. <foreign lang="ar">Zn</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zhr">
-					<head>
-								<foreign lang="ar">Zhr</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zhr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zhr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27712" key="Zahara">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">Zahara</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">Zahara</foreign>, (S, Msb, K, &amp;c.,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zahara</orth>
-						</form>
+						</choice>
 								, (Msb,) inf. n. <foreign lang="ar">ZuhuwrN</foreign>, (S, Mgh, Msb, K, &amp;c.,) [<hi>It was,</hi> or <hi>became, outward, exterior, external, extrinsic,</hi> or <hi>exoteric:</hi> and hence,] <hi>it appeared; became apparent, overt, open, perceptible</hi> or <hi>perceived, manifest, plain,</hi> or <hi>evident;</hi> (S, Mgh, Msb, K, TA;) <hi>after having been concealed,</hi> or <hi>latent:</hi> (Msb, TA:) and 
 							<anchor type="arrow"><foreign lang="ar">tZAhr↓</foreign></anchor> signifies the same. (Har p. 85.) Hence the phrase <foreign lang="ar">Zahara liY raA^oYN</foreign> (assumed tropical:) 
 								[<hi>An idea,</hi> or <hi>opinion, occurred to me</hi>], said when one knows what he did not know before. (Msb.) [And <foreign lang="ar">h`*aA maA yaZoharu liY</foreign> (assumed tropical:) 
@@ -3512,9 +3536,9 @@
 							<anchor type="arrow"><foreign lang="ar">AstZhrhu↓</foreign></anchor>, (S, A, O, K,) (tropical:) 
 								<hi>He knew it,</hi> or <hi>learned it, by heart;</hi> namely, the Kur-án; (A, O, TA;) and <hi>he recited it by heart:</hi> (A, * TA; and so in the S and O in explanation of the latter:) or [simply] <hi>he recited it by heart;</hi> namely, the Kur-án; as also 
 							<anchor type="arrow"><foreign lang="ar">AZhrhu↓</foreign></anchor>: (O, K, TA:) in the copies of the K we find <foreign lang="ar">A^aZoharotu EalaY AlquroA=ni</foreign> and <foreign lang="ar">A^aZoharotuhu</foreign>; but the former is a mistake for <foreign lang="ar">Zaharotu</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zahara</orth>
-						</form>
+						</choice>
 								. (TA.)
 						＝
 						-A3-
@@ -3523,9 +3547,9 @@
 						-A4-
 								<foreign lang="ar">Zahara biHaAjatiY</foreign>, (S, A, K,)
 						<pb n="1927"/> aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zahara</orth>
-						</form>
+						</choice>
 								, (TA,) inf. n. <foreign lang="ar">ZahorN</foreign>; (TK;) and 
 							<anchor type="arrow"><foreign lang="ar">Zh~rhA↓</foreign></anchor>, (K, TA,) in some copies of the K <foreign lang="ar">ZaharahaA</foreign>; (TA;) and 
 							<anchor type="arrow"><foreign lang="ar">AZhrhA↓</foreign></anchor>, (K,) inf. n. <foreign lang="ar">A_iZohaArN</foreign>; (TA;) and 
@@ -3538,23 +3562,23 @@
 						＝
 						-A5-
 								<foreign lang="ar">Zaharahu</foreign>, (O, K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zahara</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">ZahorN</foreign>, (K,) <hi>He struck,</hi> or <hi>smote,</hi> (TA,) or <hi>hit,</hi> or <hi>hurt,</hi> (O, K,) <hi>his back.</hi> (O, K, TA.)
 						＝
 						-A6-
 								<foreign lang="ar">Zahira</foreign>, (S, O, K,) aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">Zahara</orth>
-						</form>
+						</choice>
 								, (K,) inf. n. <foreign lang="ar">ZaharN</foreign>, (O, K,) <hi>He</hi> (a man, S, O) <hi>had a complaint of his back.</hi> (S, O, K.)
 						＝
 						-A7-
 								<foreign lang="ar">Zahura</foreign>, (JK, O, L,) or <foreign lang="ar">Zahara</foreign>, (K, [but this is app. a mistranscription,]) inf. n. <foreign lang="ar">ZahaArapN</foreign>, (S, O, L, K,) said of a camel, (JK, S, O,) <hi>He was,</hi> or <hi>became, strong</hi> (JK, S, O, L, K) <hi>in the back.</hi> (L, K.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth lang="ar">Zah~ara</orth>
 						</form>
@@ -3575,7 +3599,7 @@
 							See also 4, last sentence.
 					</entry>
 					<entry type="main" id="n27713" key="ZAhrhu">
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">ZAhrhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3606,7 +3630,7 @@
 							<anchor type="arrow"><foreign lang="ar">yaZ~aAharuwna↓</foreign></anchor>; and 'Ásim read <foreign lang="ar">yuZaAhiruwna</foreign>. (Bd.) The verb is made trans. by means of <foreign lang="ar">min</foreign> because the man who uttered this sentence estranged himself from his wife. (IAth.)
 					</entry>
 					<entry type="main" id="n27714" key="AZhrhu">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">AZhrhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3645,7 +3669,7 @@
 								<foreign lang="ar">Zuhor</foreign>. (S, O.)
 					</entry>
 					<entry type="main" id="n27715" key="5">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tZh~r</orth>
 							<orth extent="full" lang="ar">*</orth> and
@@ -3654,7 +3678,7 @@
 								5. <foreign lang="ar">tZh~r</foreign> <foreign lang="ar">AiZ~ah~ara</foreign>: see 3, latter half, in three places.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth lang="ar">taZaAohara</orth>
 						</form>
@@ -3675,7 +3699,7 @@
 								<foreign lang="ar">tZAhr mini A@moraA^atihi</foreign> and <foreign lang="ar">AiZ~aAhara</foreign>: see 3, latter half, in three places.
 					</entry>
 					<entry type="main" id="n27716" key="AiZ~ahara">
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AiZ~ahara</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3683,7 +3707,7 @@
 								8. <foreign lang="ar">AiZ~ahara</foreign>: see 1, last quarter.
 					</entry>
 					<entry type="main" id="n27717" key="AstZhr bihi">
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">AstZhr bihi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -3714,7 +3738,7 @@
 							See also 1, in the middle of the latter half.
 					</entry>
 					<entry type="main" id="n27718" key="ZahorN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZahorN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3903,7 +3927,7 @@
 								<hi>An old cooking-pot:</hi> (O, K: *) pl. <foreign lang="ar">quduwru ZuhuwrK</foreign>: (O:) as though, because of its oldness, it were thrown behind the back. (TA.)
 					</entry>
 					<entry type="main" id="n27719" key="ZuhorN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuhorN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3914,7 +3938,7 @@
 								<foreign lang="ar">waAdiyhimo ZuhorFA</foreign>: see <foreign lang="ar">ZahorN</foreign>, last quarter.
 					</entry>
 					<entry type="main" id="n27720" key="ZahirN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZahirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3923,7 +3947,7 @@
 							<anchor type="arrow"><foreign lang="ar">maZohuwrN↓</foreign></anchor>. (O, TA.)
 					</entry>
 					<entry type="main" id="n27721" key="ZuhorapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuhorapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3933,14 +3957,14 @@
 							Also The <hi>tortoise.</hi> (O, K.)
 					</entry>
 					<entry type="main" id="n27722" key="ZihorapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZihorapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZihorapN</foreign>: see <foreign lang="ar">ZahiyrN</foreign>, in six places.
 					</entry>
 					<entry type="main" id="n27723" key="ZaharapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaharapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3953,7 +3977,7 @@
 							See also <foreign lang="ar">ZahiyrN</foreign>.
 					</entry>
 					<entry type="main" id="n27724" key="ZihoriY~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZihoriY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3963,7 +3987,7 @@
 							See <foreign lang="ar">ZahorN</foreign>, first quarter, in five places, for examples of <foreign lang="ar">ZihoriY~N</foreign> and <foreign lang="ar">Zihoriy~apN</foreign> used tropically.
 					</entry>
 					<entry type="main" id="n27725" key="ZuhoraAn">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuhoraAn</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3973,21 +3997,21 @@
 								[See also <foreign lang="ar">ZahorN</foreign>.]
 					</entry>
 					<entry type="main" id="n27726" key="bayona ZahoraAnayohimo">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">bayona ZahoraAnayohimo</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">bayona ZahoraAnayohimo</foreign>, and <foreign lang="ar">ZahoraAnayohi</foreign>, and <foreign lang="ar">AlZ~ahoraAnayoni</foreign>, &amp;c.: see <foreign lang="ar">ZahorN</foreign>, former half, in five places.
 					</entry>
 					<entry type="main" id="n27727" key="ZahaArN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZahaArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZahaArN</foreign> The <hi>exterior</hi> (K, TA) <hi>and elevated</hi> (TA) <hi>part of a</hi> [<hi>stony tract such as is called</hi>] <foreign lang="ar">Har~ap</foreign>. (K, TA.)
 					</entry>
 					<entry type="main" id="n27728" key="ZuhaArN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuhaArN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -3997,7 +4021,7 @@
 							See also <foreign lang="ar">ZahorN</foreign>, third quarter, in two places.
 					</entry>
 					<entry type="main" id="n27729" key="ZahiyrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZahiyrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4035,7 +4059,7 @@
 							See also <foreign lang="ar">ZahirN</foreign>.
 					</entry>
 					<entry type="main" id="n27730" key="ZihaArapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZihaArapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4044,7 +4068,7 @@
 								<foreign lang="ar">biTaAnapN</foreign>: (S, O, Msb, K:) pl. <foreign lang="ar">ZahaAy^iru</foreign>. (TA.)
 					</entry>
 					<entry type="main" id="n27731" key="ZahiyrapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZahiyrapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4057,7 +4081,7 @@
 								<hi>Stay thou until the middayheat shall have become assuaged, and the air be cool.</hi> (L in art. <foreign lang="ar">fyH</foreign>.) And hence, in a trad. of 'Omar, when a man came to him complaining of gout in the feet, he said, <foreign lang="ar">ka*abatoka AlZ~ahaAy^iru</foreign>, meaning <hi>Take thou to walking during the heat of the middays in summer.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27732" key="ZuhaAriy~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZuhaAriy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4074,7 +4098,7 @@
 								<hi>He bound his hands behind his back.</hi> (Ibn-Buzurj, O, K, TA.)
 					</entry>
 					<entry type="main" id="n27733" key="ZaAhirN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAhirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4131,7 +4155,7 @@
 								<hi>Sheep,</hi> or <hi>goats, that come to the water every day at noon.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n27734" key="ZaAhirapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAhirapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4149,26 +4173,26 @@
 								<hi>The horse drank every day, at noon.</hi> (TA.) <foreign lang="ar">ZaAhirapu Algib~i</foreign> [<hi>The coming to the water at noon on alternate days</hi>] is for sheep or goats; scarcely ever, or never, for camels; and is a little shorter [in the interval] than what is called [simply] <foreign lang="ar">Algib~u</foreign>. (O, TA.)
 					</entry>
 					<entry type="main" id="n27735" key="maZoharN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maZoharN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">maZoharN</foreign> <hi>i. q.</hi> 
 								<foreign lang="ar">maSoEadN</foreign> [i. e. <hi>A place of ascent,</hi> or <hi>a place to which one ascends</hi>]; (O, K; in some copies of the latter of which, both words are erroneously written with damm to the <foreign lang="ar">m</foreign>; TA;) and <foreign lang="ar">darajapN</foreign> [as meaning <hi>a degree, grade, rank, condition,</hi> or <hi>station,</hi> or <hi>an exalted,</hi> or <hi>a high, grade,</hi> &amp;c.]: (O:) used by En-Nábighah ElJaadee as meaning <hi>Paradise.</hi> (O, TA.)
 					</entry>
-					<entry type="main" id="n27736" key="muZoharN">[
-						<form>
+					<entry type="main" id="n27736" key="muZoharN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZoharN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">muZoharN</foreign> <hi>Made apparent,</hi> &amp;c.
+								[<foreign lang="ar">muZoharN</foreign> <hi>Made apparent,</hi> &amp;c.
 						―
 						-b2-
 							And hence, as also 
 							<anchor type="arrow"><foreign lang="ar">ZaAhirN↓</foreign></anchor>, but the former more commonly, applied to a noun, <hi>Explicit;</hi> and, elliptically, <hi>an explicit noun;</hi> opposed to <foreign lang="ar">muDomarN</foreign> and <foreign lang="ar">DamiyrN</foreign> (a concealed noun, i. e. a pronoun); and to <foreign lang="ar">mubohamN</foreign> (a noun of vague signification).]
 					</entry>
 					<entry type="main" id="n27737" key="muZohirN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZohirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4182,21 +4206,21 @@
 								<foreign lang="ar">Zuhor</foreign>. (O.)
 					</entry>
 					<entry type="main" id="n27738" key="muZah~arN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZah~arN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">muZah~arN</foreign>: see <foreign lang="ar">ZahiyrN</foreign>, near the end of the paragraph.
 					</entry>
 					<entry type="main" id="n27739" key="muZah~irN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZah~irN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">muZah~irN</foreign>: see <foreign lang="ar">muZohirN</foreign>.
 					</entry>
 					<entry type="main" id="n27740" key="muZohuwrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muZohuwrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4206,11 +4230,13 @@
 							See also <foreign lang="ar">ZahirN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Quasi Zwr">
-					<head>Quasi <foreign lang="ar">Zwr</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zwr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zwr</foreign></title>
+						<label>Quasi <foreign lang="ar">Zwr</foreign></label>
+					</dictScrap>
 					<entry type="main" id="n27741" key="ZaAwiro">
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">ZaAwiro</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -4218,12 +4244,13 @@
 								3. <foreign lang="ar">ZaAwiro</foreign>, occurring in a trad. for <foreign lang="ar">ZaAy^iro</foreign>: see 3 in art. <foreign lang="ar">ZA^r</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Zwf">
-					<head>
-								<foreign lang="ar">Zwf</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zwf">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zwf</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27742" key="jaA='a yaZuwfuhu">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">jaA='a yaZuwfuhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -4231,14 +4258,14 @@
 								1. <foreign lang="ar">jaA='a yaZuwfuhu</foreign> <hi>He came driving him away;</hi> as also <foreign lang="ar">yaZoA^afuhu</foreign>. (Ibn-'Abbád, O, K.)
 					</entry>
 					<entry type="main" id="n27743" key="ZaAfN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaAfN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ZaAfN</foreign>: see what follows, in three places.
 					</entry>
 					<entry type="main" id="n27744" key="A^axa*ahu biZuwfi raqabatihi">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^axa*ahu biZuwfi raqabatihi</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4250,12 +4277,13 @@
 								<hi>He hardly escaped.</hi> (Freytag from the Deewán of the Hudhalees.)]
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ZY">
-					<head>
-								<foreign lang="ar">ZY</foreign>
-					</head>
+				<superEntry type="main" xml:id="ZY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ZY</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n27745" key="Zay~ayotu ZaA='F HasanapF">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">Zay~ayotu ZaA='F HasanapF</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -4264,7 +4292,7 @@
 								<foreign lang="ar">Z</foreign>. (M, * TA.)
 					</entry>
 					<entry type="main" id="n27746" key="ZaA='N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -4272,11 +4300,13 @@
 								<foreign lang="ar">Z</foreign>]: (Kh, T, TA, &amp;c.:) masc. and fem.: as masc., its pl. is <foreign lang="ar">A^aZowaA='N</foreign>; and as fem., <foreign lang="ar">ZaAA=tN</foreign>. (TA. [See art. <foreign lang="ar">Z</foreign>.])
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="Quasi Zyr">
-					<head>Quasi <foreign lang="ar">Zyr</foreign>
-					</head>
+				<superEntry type="main" xml:id="Zyr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">Zyr</foreign></title>
+						<label>Quasi <foreign lang="ar">Zyr</foreign></label>
+					</dictScrap>
 					<entry type="main" id="n27747" key="ZiyrN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ZiyrN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>

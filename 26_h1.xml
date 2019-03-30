@@ -64,11 +64,11 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="alphabetical letter" n="h">
+			<div1 type="letter" xml:id="h">
 				<head><foreign lang="ar">h</foreign></head>
-				<superEntry type="root" n="h">
+				<superEntry type="main" xml:id="h">
 					<entry type="main" id="n44220" key="h">
-						<form>
+						<form type="entry">
 							<iType>alphabetical letter</iType>
 							<orth extent="full" lang="ar">h</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -88,17 +88,18 @@
 								<foreign lang="ar">bihaA</foreign>, in <foreign lang="ar">HaTaA^a bihaA</foreign>, and many phrases syn. therewith, is app. for <foreign lang="ar">biA@sotihi</foreign>. See <foreign lang="ar">HaTaA^a</foreign>.
 					</entry>
 					<entry type="main" id="n44221" key="haA='a">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haA='a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haA='a</foreign> and <foreign lang="ar">haA='i</foreign>: see art. <foreign lang="ar">hwA^</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hbx">
-					<head>
-								<foreign lang="ar">hbx</foreign>
-					</head>
+				<superEntry type="main" xml:id="hbx">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hbx</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44222" key="Aihobay~axa">
 						<form type="Q Q">
 							<iType>Q. Q. 3</iType>
@@ -108,7 +109,7 @@
 								Q. Q. 3. <foreign lang="ar">Aihobay~axa</foreign>; (K;) and <foreign lang="ar">Aihobay~axato</foreign>, aor. <foreign lang="ar">tahobay~ixu</foreign>; inf. n. <foreign lang="ar">A_ihobiy~aAxN</foreign>; (TA;) <hi>He,</hi> (K,) and <hi>she,</hi> (TA,) <hi>walked with an elegant and a proud and self-conceited gait, with an affected inclining of the body from side to side.</hi> (K, TA.)
 					</entry>
 					<entry type="main" id="n44223" key="habay~axN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">habay~axN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -139,24 +140,26 @@
 							And <hi>A large river.</hi> (K.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hbE">
-					<head>
-								<foreign lang="ar">hbE</foreign>
-					</head>
+				<superEntry type="main" xml:id="hbE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hbE</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44224" key="hubaEN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hubaEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hubaEN</foreign>, applied to a young camel: <hi>a young camel brought forth in the end of the breedingtime.</hi> (K, voce <foreign lang="ar">rubaEN</foreign>, q. v.) See <foreign lang="ar">bulaEN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hbl">
-					<head>
-								<foreign lang="ar">hbl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hbl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hbl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44225" key="habilato">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">habilato</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -164,7 +167,7 @@
 								1. <foreign lang="ar">habilato</foreign>, inf. n. <foreign lang="ar">habalN</foreign>: see <foreign lang="ar">Eamila</foreign>.
 					</entry>
 					<entry type="main" id="n44226" key="Aihotabala">
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">Aihotabala</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -176,26 +179,27 @@
 								<foreign lang="ar">taHay~ana</foreign>. (TA.)
 					</entry>
 					<entry type="main" id="n44227" key="hayobaliY~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayobaliY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hayobaliY~N</foreign> <hi>A Christian monk:</hi> see <foreign lang="ar">A^abiylN</foreign>.
 					</entry>
 					<entry type="main" id="n44228" key="mahobilN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahobilN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mahobilN</foreign> <hi>The place of gestation:</hi> see a verse cited voce <foreign lang="ar">maHobalN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hbw">
-					<head>
-								<foreign lang="ar">hbw</foreign>
-					</head>
+				<superEntry type="main" xml:id="hbw">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hbw</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44229" key="habAa Alr~amaAdu">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">habAa Alr~amaAdu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -203,33 +207,34 @@
 								1. <foreign lang="ar">habAa Alr~amaAdu</foreign>, (JK, TA,) aor. <foreign lang="ar">yahobuw</foreign>, (TA,) <hi>The ashes became mixed with dust,</hi> and extinguished: (JK, TA:) and <foreign lang="ar">habAa Aljamoru</foreign>. (M, art. <foreign lang="ar">rmd</foreign>.)
 					</entry>
 					<entry type="main" id="n44230" key="hubapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hubapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hubapN</foreign>: see <foreign lang="ar">A^ahobapN</foreign>.
 					</entry>
 					<entry type="main" id="n44231" key="habowapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">habowapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">habowapN</foreign> <hi>Dust rising,</hi> or <hi>spreading, in the sky like smoke.</hi> (JK.)
 					</entry>
 					<entry type="main" id="n44232" key="habaA='N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">habaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">habaA='N</foreign> <hi>The motes that are seen in the rays of the sun:</hi> (TA:) see an ex. voce <foreign lang="ar">guvaA='N</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="htk">
-					<head>
-								<foreign lang="ar">htk</foreign>
-					</head>
+				<superEntry type="main" xml:id="htk">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">htk</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44233" key="htk">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">htk</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -241,31 +246,33 @@
 								<hi>God dishonour him:</hi> see <foreign lang="ar">sitorN</foreign>.
 					</entry>
 					<entry type="main" id="n44234" key="hat~aAkN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hat~aAkN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hat~aAkN</foreign> One <hi>who rends frequently</hi> tents and the like: see <foreign lang="ar">baAbN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hvr">
-					<head>
-								<foreign lang="ar">hvr</foreign>
-					</head>
+				<superEntry type="main" xml:id="hvr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hvr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44235" key="havaArahu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">havaArahu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">havaArahu</foreign>, for <foreign lang="ar">A^anaArahu</foreign>: see <foreign lang="ar">vwr</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hjE">
-					<head>
-								<foreign lang="ar">hjE</foreign>
-					</head>
+				<superEntry type="main" xml:id="hjE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hjE</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44236" key="tahaj~aEa">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tahaj~aEa</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -273,7 +280,7 @@
 								5. <foreign lang="ar">tahaj~aEa</foreign> <hi>He slept.</hi> (1001 Nights, ii. 321.)
 					</entry>
 					<entry type="main" id="n44237" key="hajoEapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hajoEapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -284,12 +291,13 @@
 							<hi>A light sleep in the first part of the night.</hi> (S.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hjl">
-					<head>
-								<foreign lang="ar">hjl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hjl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hjl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44238" key="hawojalN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hawojalN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -299,19 +307,20 @@
 							See De Sacy, Chrest. Arab., ii. 359.
 					</entry>
 					<entry type="main" id="n44239" key="hajuwlN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hajuwlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hajuwlN</foreign> <hi>A fornicatress,</hi> or <hi>an adulteress:</hi> pl. <foreign lang="ar">hajaAy^ilu</foreign>. (JK.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hjm">
-					<head>
-								<foreign lang="ar">hjm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hjm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hjm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44240" key="hajamu Ealayohi">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hajamu Ealayohi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -319,7 +328,7 @@
 								1. <foreign lang="ar">hajamu Ealayohi</foreign> <hi>He came upon him suddenly,</hi> or <hi>at unawares,</hi> (Mgh, Msb, K,) or <hi>came in to him without permission,</hi> (K,) or <hi>without asking permission:</hi> (Mgh:) <hi>he invaded, assaulted, assailed, attacked, attempted, or ventured upon, him or it: he pounced upon him or it.</hi>
 					</entry>
 					<entry type="main" id="n44241" key="hajomapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hajomapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -329,12 +338,13 @@
 							As applied to camels, see <foreign lang="ar">EaAy^iDN</foreign> and <foreign lang="ar">ziyAadapN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hjn">
-					<head>
-								<foreign lang="ar">hjn</foreign>
-					</head>
+				<superEntry type="main" xml:id="hjn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hjn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44242" key="nakaHa fiY baniY fulAanK wahaj~ana A^awolaAdahumo">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">nakaHa fiY baniY fulAanK wahaj~ana A^awolaAdahumo</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -342,14 +352,14 @@
 								1. <foreign lang="ar">nakaHa fiY baniY fulAanK wahaj~ana A^awolaAdahumo</foreign> [<hi>He married among the sons of such a one, and made their children to be base-born,</hi> or <hi>ignoble</hi>]. (TA in art. <foreign lang="ar">bgl</foreign>.)
 					</entry>
 					<entry type="main" id="n44243" key="hujonapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hujonapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hujonapN</foreign> [<hi>Meanness of race,</hi> in a horse]. (K, voce <foreign lang="ar">A_iEorAabN</foreign>.)
 					</entry>
 					<entry type="main" id="n44244" key="hajiynN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hajiynN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -361,19 +371,20 @@
 								<hi>by an Arabian stallion out of a mare not of Arabian birth:</hi> (Msb:) or <hi>not of generous birth; a jade.</hi> (K.)
 					</entry>
 					<entry type="main" id="n44245" key="haAjinN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAjinN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haAjinN</foreign> A girl <hi>not arrived at puberty,</hi> or a beast <hi>not yet fit to be covered:</hi> see an ex. voce <foreign lang="ar">jal~a</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hjw">
-					<head>
-								<foreign lang="ar">hjw</foreign>
-					</head>
+				<superEntry type="main" xml:id="hjw">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hjw</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44246" key="hajaAhu">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hajaAhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -384,7 +395,7 @@
 								<foreign lang="ar">maA hajawotu minohu $ayoy^FA</foreign>: see 1 in art. <foreign lang="ar">Hjw</foreign>.
 					</entry>
 					<entry type="main" id="n44247" key="haAjaAhu">
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">haAjaAhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -392,7 +403,7 @@
 								3. <foreign lang="ar">haAjaAhu</foreign>, inf. n. <foreign lang="ar">muhaAjaApN</foreign>, <hi>He contended with him in satirizing.</hi> See 4 in art. <foreign lang="ar">fHm</foreign>.
 					</entry>
 					<entry type="main" id="n44248" key="A^umojuw~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^umojuw~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -400,12 +411,13 @@
 								<foreign lang="ar">A^umoduwHapN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hdf">
-					<head>
-								<foreign lang="ar">hdf</foreign>
-					</head>
+				<superEntry type="main" xml:id="hdf">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hdf</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44249" key="Aisotahodafa">
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">Aisotahodafa</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -414,19 +426,20 @@
 								<foreign lang="ar">hadaf</foreign>, or <hi>butt.</hi> (Har, p. 65.) See <foreign lang="ar">ratiymapN</foreign>.
 					</entry>
 					<entry type="main" id="n44250" key="hadafN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hadafN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hadafN</foreign> <hi>A high</hi> or <hi>lofty building:</hi> see <foreign lang="ar">SadafN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hdl">
-					<head>
-								<foreign lang="ar">hdl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hdl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hdl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44251" key="hadala">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hadala</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -434,7 +447,7 @@
 								1. <foreign lang="ar">hadala</foreign> <hi>He uttered a cry:</hi> see <foreign lang="ar">hadara</foreign>, in two places.
 					</entry>
 					<entry type="main" id="n44252" key="tahad~ala">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tahad~ala</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -442,19 +455,20 @@
 								5. <foreign lang="ar">tahad~ala</foreign> <hi>It hung down;</hi> [<hi>it dangled;</hi>] said of a branch of a tree, (S, TA,) and of fruit; <hi>it hung loosely;</hi> said of the former. (TA.)
 					</entry>
 					<entry type="main" id="n44253" key="mi$ofarN A^ahodalu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mi$ofarN A^ahodalu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mi$ofarN A^ahodalu</foreign> [<hi>A camel's lip</hi>] <hi>flaccid,</hi> or <hi>pendulous.</hi> (K, TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hdm">
-					<head>
-								<foreign lang="ar">hdm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hdm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hdm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44254" key="hadama">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hadama</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -462,7 +476,7 @@
 								1. <foreign lang="ar">hadama</foreign> <hi>He threw down,</hi> or <hi>pulled down,</hi> a building; (Msb;) <hi>pulled</hi> it <hi>to pieces; demolished</hi> it; <hi>destroyed</hi> it: (K:) [the last two explanations are the most correct, as is shown by the phrase] <foreign lang="ar">naqaDa AlbinaA='a mino Eayori hadomi</foreign> [<hi>He took to pieces the building without demolishing,</hi> or <hi>destroying</hi>]: (S, A, Msb, K, * in art. <foreign lang="ar">qwD</foreign>:) <hi>he ruined</hi> [a building, &amp;c.]; <hi>reduced</hi> [it] <hi>to ruin.</hi> (Ham, p. 31.)
 					</entry>
 					<entry type="main" id="n44255" key="tahaAdamati AlHiyTaAnu">
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">tahaAdamati AlHiyTaAnu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -470,7 +484,7 @@
 								6. <foreign lang="ar">tahaAdamati AlHiyTaAnu</foreign> [<hi>The walls fell to ruin by degrees</hi>]. (S, in art. <foreign lang="ar">dEw</foreign>.)
 					</entry>
 					<entry type="main" id="n44256" key="Ainohadama">
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">Ainohadama</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -481,50 +495,53 @@
 								<foreign lang="ar">Ainohadama AlHaAy^iTu mino makaAnihi mino gayori hadomN</foreign> [<hi>The wall fell in ruins,</hi> or <hi>to pieces, from its place, without being pulled to pieces</hi>]. (Lth, in TA, art. <foreign lang="ar">qyD</foreign>.)
 					</entry>
 					<entry type="main" id="n44257" key="Ald~amu Ald~amu waAlhadoamu Alhadoamu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Ald~amu Ald~amu waAlhadoamu Alhadoamu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Ald~amu Ald~amu waAlhadoamu Alhadoamu</foreign>: see <foreign lang="ar">damo</foreign>.
 					</entry>
 					<entry type="main" id="n44258" key="hadamN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hadamN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hadamN</foreign> <hi>Earth that is dug from a pit</hi> or <hi>well:</hi> see <foreign lang="ar">HafarN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hdml">
-					<head>
-								<foreign lang="ar">hdml</foreign>
-					</head>
+				<superEntry type="main" xml:id="hdml">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hdml</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44259" key="hidamolapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hidamolapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hidamolapN</foreign> <hi>Food and drink:</hi> see <foreign lang="ar">fiToHalN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hdn">
-					<head>
-								<foreign lang="ar">hdn</foreign>
-					</head>
+				<superEntry type="main" xml:id="hdn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hdn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44260" key="hudonapN EalaY daxonK">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hudonapN EalaY daxonK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hudonapN EalaY daxonK</foreign> <hi>An illusory truce:</hi> see <foreign lang="ar">duxaAnN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hdY">
-					<head>
-								<foreign lang="ar">hdY</foreign>
-					</head>
+				<superEntry type="main" xml:id="hdY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hdY</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44261" key="hadaAhu">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hadaAhu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -541,14 +558,14 @@
 								<foreign lang="ar">yahodiY</foreign> meaning <foreign lang="ar">yuw^ad~iY</foreign>: see an ex. in a verse cited voce <foreign lang="ar">TabaEN</foreign>.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth lang="ar">A^ahodaYa</orth>
 						</form>
 								4: see 1.
 					</entry>
 					<entry type="main" id="n44262" key="tahaAdanaA">
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">tahaAdanaA</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -556,7 +573,7 @@
 								6. <foreign lang="ar">tahaAdanaA</foreign> <hi>They</hi> (two parties who had been at war) <hi>made a truce, each with the other.</hi> (T, art. <foreign lang="ar">nb*</foreign>.)
 					</entry>
 					<entry type="main" id="n44263" key="AihotadaY">
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AihotadaY</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -593,7 +610,7 @@
 								<foreign lang="ar">Aihad~aY</foreign> and <foreign lang="ar">Aihid~iY</foreign>, for <foreign lang="ar">AihotadaY</foreign>; like <foreign lang="ar">AiEa*~ara</foreign> and <foreign lang="ar">AiEi*~ira</foreign>, for <foreign lang="ar">AiEota*ara</foreign>.
 					</entry>
 					<entry type="main" id="n44264" key="hadoYN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hadoYN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -608,7 +625,7 @@
 							See <foreign lang="ar">hadiY~N</foreign>.
 					</entry>
 					<entry type="main" id="n44265" key="huwa EalaY hudFY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huwa EalaY hudFY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -619,14 +636,14 @@
 								<hi>The Kur-án.</hi> (Bd, Jel in lxxii. 13, &amp;c.)
 					</entry>
 					<entry type="main" id="n44266" key="hidoyapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hidoyapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hidoyapN</foreign> and <foreign lang="ar">hadoyapN</foreign>: see <foreign lang="ar">hadoyN</foreign>.
 					</entry>
 					<entry type="main" id="n44267" key="hadiy~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hadiy~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -642,7 +659,7 @@
 								<foreign lang="ar">hadiY~N</foreign> also <hi>One who is entitled to respect,</hi> or <hi>honour,</hi> or <hi>protection:</hi> so in a verse cited voce <foreign lang="ar">AisotabaA='a</foreign>. (ISk in T in art. <foreign lang="ar">bwA^</foreign>.)
 					</entry>
 					<entry type="main" id="n44268" key="haAdK">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAdK</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -655,26 +672,27 @@
 								<foreign lang="ar">A^axa*a haAdiYa Alr~aHaY fajaEala yudiyruhaA</foreign> [<hi>He took the handle of the mill, and begun to turn it</hi>]. (K, art. <foreign lang="ar">xbz</foreign>.)
 					</entry>
 					<entry type="main" id="n44269" key="A^ahodaY mino duEayomiySi Alr~amoli">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^ahodaY mino duEayomiySi Alr~amoli</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">A^ahodaY mino duEayomiySi Alr~amoli</foreign> <hi>More expert,</hi> &amp;c: see art. <foreign lang="ar">dEmS</foreign>.
+								<foreign lang="ar">A^ahodaY mino duEayomiySi Alr~amoli</foreign> <hi>More expert,</hi> &amp;c.: see art. <foreign lang="ar">dEmS</foreign>.
 					</entry>
 					<entry type="main" id="n44270" key="AlmahodiY~u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlmahodiY~u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">AlmahodiY~u</foreign>, meaning <hi>The directed</hi> by God to the truth, is a proper name, and the name of him of whose coming at the end of time the happy tidings have been announced. (TA.) [It is always so pronounced by the Arabs in the present day: not <foreign lang="ar">AlmuhodiY</foreign>.]
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="h*">
-					<head>
-								<foreign lang="ar">h*</foreign>
-					</head>
+				<superEntry type="main" xml:id="h*">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">h*</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44271" key="ha*~a bisaloHihi">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ha*~a bisaloHihi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -682,12 +700,13 @@
 								1. <foreign lang="ar">ha*~a bisaloHihi</foreign> <hi>He ejected his excrement.</hi> (TA, art. <foreign lang="ar">tr</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="h*Y">
-					<head>
-								<foreign lang="ar">h*Y</foreign>
-					</head>
+				<superEntry type="main" xml:id="h*Y">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">h*Y</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44272" key="ha*aY">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ha*aY</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -702,7 +721,7 @@
 							And <hi>He mentioned him,</hi> or <hi>it, in his irrational,</hi> &amp;c., <hi>talk.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n44273" key="gaEada yuhaA*iYA^aSoHaAbahu">
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">gaEada yuhaA*iYA^aSoHaAbahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -713,7 +732,7 @@
 								<foreign lang="ar">samiEotuhumo yatahaA*uwna</foreign> [<hi>I heard them talking together irrationally,</hi> &amp;c.] (TA.)
 					</entry>
 					<entry type="main" id="n44274" key="$araAbN haA*K">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">$araAbN haA*K</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -721,12 +740,13 @@
 								[<hi>Beverage causing delirious,</hi> or <hi>irrational, talk.</hi>] (TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hr">
-					<head>
-								<foreign lang="ar">hr</foreign>
-					</head>
+				<superEntry type="main" xml:id="hr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44275" key="har~a">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">har~a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -735,36 +755,39 @@
 						<pb n="3043"/> (IAar, in S, K, voce <foreign lang="ar">bir</foreign>:) or <hi>he called</hi> them. (Yoo, in TA, ibid.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrjl">
-					<head>
-								<foreign lang="ar">hrjl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrjl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrjl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44276" key="hirojaAlN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hirojaAlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hirojaAlN</foreign>, pl. <foreign lang="ar">haraAjyl</foreign>, <hi>A tall, long-bodied,</hi> or <hi>bulky, she-camel:</hi> (TA:) see <foreign lang="ar">hirojaAb</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrH">
-					<head>
-								<foreign lang="ar">hrH</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrH">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrH</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44277" key="haraAHa">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haraAHa</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haraAHa</foreign>: see <foreign lang="ar">A^araAHa</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrs">
-					<head>
-								<foreign lang="ar">hrs</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrs">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrs</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44278" key="harAasN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">harAasN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -773,12 +796,13 @@
 								<foreign lang="ar">nabiq</foreign>: n. un. with <foreign lang="ar">p</foreign>. (K, TA.) See <foreign lang="ar">quTobN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hr$f">
-					<head>
-								<foreign lang="ar">hr$f</foreign>
-					</head>
+				<superEntry type="main" xml:id="hr$f">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hr$f</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44279" key="hiro$af~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hiro$af~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -788,24 +812,26 @@
 							See <foreign lang="ar">hiro$ab~apN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrTl">
-					<head>
-								<foreign lang="ar">hrTl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrTl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrTl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44280" key="hiroTaAlN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hiroTaAlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hiroTaAlN</foreign> <hi>A large long-bodied</hi> man. (Az, in TA, voce <foreign lang="ar">hirodab~apN</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrq">
-					<head>
-								<foreign lang="ar">hrq</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrq">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrq</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44281" key="hariqo EalaY xamorika">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hariqo EalaY xamorika</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -816,7 +842,7 @@
 								<foreign lang="ar">hariqo Ean~aA mino ruwbapi All~ayoli</foreign>: see <foreign lang="ar">ruwbapN</foreign>.
 					</entry>
 					<entry type="main" id="n44282" key="A^ahoriqo Eanoka mina AlZ~ahiyrapi">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^ahoriqo Eanoka mina AlZ~ahiyrapi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -827,16 +853,16 @@
 						-b2-
 								<foreign lang="ar">haraAqahu</foreign> and <foreign lang="ar">A^ahorAaqahu</foreign> and 
 							<anchor type="arrow"><foreign lang="ar">haraqahu↓</foreign></anchor>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">haraqa</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">haroqN</foreign>, <hi>He poured it out,</hi> or <hi>forth:</hi> see 4 in art. <foreign lang="ar">rwq</foreign>.
 						―
 						-b3-
 								<foreign lang="ar">hariyquwA Eanokumo A^aw~ala All~ayoli</foreign>, (in the K, erroneously, <foreign lang="ar">Ealayokumo</foreign>,) <hi>Alight ye in the first of the night:</hi> (TA:) or <hi>disburden yourselves</hi> (<foreign lang="ar">A^anoziluwA Enkm</foreign>): or <hi>relieve,</hi> or <hi>rest, yourselves;</hi> which seems to be generally meant by <foreign lang="ar">hryqwA Enkm</foreign>.
 					</entry>
 					<entry type="main" id="n44283" key="hiraAqapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hiraAqapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -844,10 +870,11 @@
 								<hi>The seminal fluid</hi> of a man: see <foreign lang="ar">A_iraAqapN</foreign>, in art. <foreign lang="ar">rwq</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrl">
-					<head>
-								<foreign lang="ar">hrl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44284" key="harowala">
 						<form type="Q Q">
 							<iType>Q. Q. 1</iType>
@@ -862,12 +889,13 @@
 								<foreign lang="ar">EanaqN</foreign>: or <hi>a quick walk.</hi> (K.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrm">
-					<head>
-								<foreign lang="ar">hrm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44285" key="harima">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">harima</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -875,93 +903,106 @@
 								1. <foreign lang="ar">harima</foreign> <hi>He became extremely aged;</hi> (K;) <hi>old and infirm;</hi> (Msb;) <hi>decrepit;</hi> or <hi>a weak old man.</hi>
 					</entry>
 					<entry type="main" id="n44286" key="harimN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">harimN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">harimN</foreign> <hi>The mind:</hi> see 6 in art. <foreign lang="ar">rq</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrn">
-					<head>
-								<foreign lang="ar">hrn</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44287" key="Alkur~u AlhaAruwniY~u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Alkur~u AlhaAruwniY~u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Alkur~u AlhaAruwniY~u</foreign>: see <foreign lang="ar">kur~N</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrnSn">
-					<head>
-								<foreign lang="ar">hrnSn</foreign>
-					</head> The <foreign lang="ar">hrnSAnp</foreign>, (K,) i. e. <foreign lang="ar">hironiSaAnap</foreign>, (TA,) or <foreign lang="ar">hirinoSaAnap</foreign>, (so in the CK, and in my MS. copy of the K,) with kesr, (K,) and the <foreign lang="ar">r</foreign> quiescent, and with kesr to the <foreign lang="ar">n</foreign>, (TA,) is <hi>A certain worm,</hi> (K,) accord. to IAar; said by others to be (TA) what is <hi>called the</hi> 
+				<superEntry type="main" xml:id="hrnSn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrnSn</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" id="" key="hrnSAnp">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">hrnSAnp</orth>
+							<orth extent="full" lang="ar">*</orth>
+						</form>
+							The <foreign lang="ar">hrnSAnp</foreign>, (K,) i. e. <foreign lang="ar">hironiSaAnap</foreign>, (TA,) or <foreign lang="ar">hirinoSaAnap</foreign>, (so in the CK, and in my MS. copy of the K,) with kesr, (K,) and the <foreign lang="ar">r</foreign> quiescent, and with kesr to the <foreign lang="ar">n</foreign>, (TA,) is <hi>A certain worm,</hi> (K,) accord. to IAar; said by others to be (TA) what is <hi>called the</hi> 
 								<foreign lang="ar">surofap</foreign> [which is very variously described]. (K, TA.) See <foreign lang="ar">duxolulN</foreign>.
+					</entry>
 				</superEntry>
-				<superEntry type="root" n="hrY">
-					<head>
-								<foreign lang="ar">hrY</foreign>
-					</head>
+				<superEntry type="main" xml:id="hrY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hrY</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44288" key="huroYN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huroYN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">huroYN</foreign> <hi>A granary:</hi> see <foreign lang="ar">niborN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hzr">
-					<head>
-								<foreign lang="ar">hzr</foreign>
-					</head>
+				<superEntry type="main" xml:id="hzr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hzr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44289" key="hazaw~arN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hazaw~arN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hazaw~arN</foreign> A <hi>strong</hi> boy or young man: and a <hi>weak</hi> old man: as also <foreign lang="ar">Hazaw~arN</foreign>: pl. <foreign lang="ar">hazAawirapN</foreign>. (Abu-t-Teiyib, in TA, art. <foreign lang="ar">Hzr</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hzE">
-					<head>
-								<foreign lang="ar">hzE</foreign>
-					</head>
+				<superEntry type="main" xml:id="hzE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hzE</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44290" key="haziyEN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haziyEN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haziyEN</foreign>: see <foreign lang="ar">hajomapN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hzl">
-					<head>
-								<foreign lang="ar">hzl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hzl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hzl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44291" key="hazolN">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hazolN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">hazolN</foreign> is <hi>contr. of</hi> 
 								<foreign lang="ar">jid~N</foreign>. (S, Mgh, K.) You say, <foreign lang="ar">hazala</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bi" lang="ar">hazila</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">hazolN</foreign>; (S, Msb, K;) and <foreign lang="ar">hazila</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Ba" lang="ar">hazala</orth>
-						</form>
+						</choice>
 								, (K,) inf. n. as above; (TA;) and 
 							<anchor type="arrow"><foreign lang="ar">haAzala↓</foreign></anchor>; (K;) <hi>He jested,</hi> or <hi>joked;</hi> (Msb;) or <hi>was not serious,</hi> or <hi>in earnest;</hi> (TA;) <foreign lang="ar">fiY kalAamihi</foreign> 
 								<hi>in his speech;</hi> (Msb, TA;) and <foreign lang="ar">fiY AlA^amori</foreign> 
 								<hi>in the affair.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n44292" key="haAzala">
-						<form>
+						<form type="entry">
 							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">haAzala</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -969,14 +1010,14 @@
 								3. <foreign lang="ar">haAzala</foreign> <hi>He jested,</hi> or <hi>joked.</hi> (K.) See 1.
 					</entry>
 					<entry type="main" id="n44293" key="huzAalN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huzAalN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">huzAalN</foreign> <hi>Leanness, meagreness, emaciation: contr. of fatness.</hi> (S, K.)
 					</entry>
 					<entry type="main" id="n44294" key="hazolaY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hazolaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -984,19 +1025,20 @@
 								<hi>Lean, meagre, emaciated.</hi> (K, voce <foreign lang="ar">xa$abN</foreign>.)
 					</entry>
 					<entry type="main" id="n44295" key="mahozuwlN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahozuwlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mahozuwlN</foreign>: see two exs. in a verse cited voce <foreign lang="ar">EiroDN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hzm">
-					<head>
-								<foreign lang="ar">hzm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hzm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hzm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44296" key="Ainohazama">
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">Ainohazama</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1004,7 +1046,7 @@
 								7. <foreign lang="ar">Ainohazama</foreign> <hi>It</hi> (an army) <hi>was routed, discomfited, defeated,</hi> or <hi>put to flight.</hi> (K, &amp;c.) See <foreign lang="ar">HaASa</foreign>, in art. <foreign lang="ar">HyS</foreign>; and <foreign lang="ar">AinoHaAza</foreign>, in art. <foreign lang="ar">Hwz</foreign>; from both of which it is distinguished.
 					</entry>
 					<entry type="main" id="n44297" key="hazomapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hazomapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1017,19 +1059,20 @@
 								[The <hi>pit</hi> above a horse's eye.] (K, voce <foreign lang="ar">waqobN</foreign>.) See also <foreign lang="ar">xunoEubapN</foreign>, and <foreign lang="ar">qalotapN</foreign>: and see <foreign lang="ar">EuqomN</foreign>, where it seems to mean <hi>a stricture:</hi> it generally and properly signifies <hi>a depression,</hi> or <hi>dint:</hi> or <hi>a pit,</hi> or <hi>small hollow, resembling a dint:</hi> see also <foreign lang="ar">gayobN</foreign>.
 					</entry>
 					<entry type="main" id="n44298" key="mahozuwmu AlS~adori">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahozuwmu AlS~adori</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mahozuwmu AlS~adori</foreign> <hi>Depressed of breast,</hi> i. e., apparently, <hi>illiberal, niggardly:</hi> see <foreign lang="ar">HawoDN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="h$m">
-					<head>
-								<foreign lang="ar">h$m</foreign>
-					</head>
+				<superEntry type="main" xml:id="h$m">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">h$m</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44299" key="ha$amahu">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ha$amahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1037,7 +1080,7 @@
 								1. <foreign lang="ar">ha$amahu</foreign> <hi>He crushed it.</hi>
 					</entry>
 					<entry type="main" id="n44300" key="ha$~amahu">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">ha$~amahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1045,7 +1088,7 @@
 								2. <foreign lang="ar">ha$~amahu</foreign>, inf. n. <foreign lang="ar">taho$iymN</foreign>, <hi>He broke it</hi> [<hi>much,</hi> or <hi>so crushed it</hi>]; (TA;) namely, a dry thing, and anything hollow, such as the head, and the like. (TA in art. <foreign lang="ar">$dx</foreign>.)
 					</entry>
 					<entry type="main" id="n44301" key="taha$~ama">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">taha$~ama</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1054,33 +1097,34 @@
 								<foreign lang="ar">ha$iym</foreign>, i. e. <hi>dry, and broken in pieces.</hi>
 					</entry>
 					<entry type="main" id="n44302" key="ha$iymN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ha$iymN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ha$iymN</foreign> A plant <hi>that is dry, and breaks,</hi> or <hi>is broken, in pieces.</hi> (S, Msb, K.)
 					</entry>
 					<entry type="main" id="n44303" key="haA$imapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haA$imapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haA$imapN</foreign> <hi>A wound in the head which breaks the bone:</hi> see <foreign lang="ar">$aj~apN</foreign>.
 					</entry>
 					<entry type="main" id="n44304" key="Alkur~u AlhaA$imiY~u">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Alkur~u AlhaA$imiY~u</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Alkur~u AlhaA$imiY~u</foreign>: see <foreign lang="ar">kur~N</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hDm">
-					<head>
-								<foreign lang="ar">hDm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hDm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hDm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44305" key="1">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hDamahu</orth>
 							<orth extent="full" lang="ar">*</orth> and
@@ -1093,14 +1137,14 @@
 								<foreign lang="ar">mino maAlihi</foreign>: see <foreign lang="ar">xaDama</foreign>.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth lang="ar">tahaD~ama</orth>
 						</form>
 								5: see 7.
 					</entry>
 					<entry type="main" id="n44306" key="AinohaDama">
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">AinohaDama</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1118,7 +1162,7 @@
 								<foreign lang="ar">AinohDaAmN</foreign> of the <foreign lang="ar">zawor</foreign> [app. <hi>Depression</hi>]. (K in art. <foreign lang="ar">jnf</foreign>. [There coupled with <foreign lang="ar">duxuwlN</foreign>.]) See also <foreign lang="ar">SaqalN</foreign>.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth lang="ar">A_ihotaDama</orth>
 						</form>
@@ -1129,21 +1173,21 @@
 						<pb n="3044"/>
 					</entry>
 					<entry type="main" id="n44307" key="haDamN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haDamN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haDamN</foreign> <hi>Contraction of the sides,</hi> (S, K,) <hi>and lankness of the belly, and smallness of the flank:</hi> (K:) in a horse it is a fault. (S.)
 					</entry>
 					<entry type="main" id="n44308" key="haDuwmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haDuwmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haDuwmN</foreign>: see <foreign lang="ar">haADuwmN</foreign>.
 					</entry>
 					<entry type="main" id="n44309" key="haADuwmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haADuwmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1152,12 +1196,13 @@
 								<foreign lang="ar">jawaAri$N</foreign>. (S.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hTl">
-					<head>
-								<foreign lang="ar">hTl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hTl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hTl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44310" key="haTala">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">haTala</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1165,24 +1210,26 @@
 								1. <foreign lang="ar">haTala</foreign> <hi>It</hi> (water) <hi>poured:</hi> see its inf. n. voce <foreign lang="ar">sakobN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hf">
-					<head>
-								<foreign lang="ar">hf</foreign>
-					</head>
+				<superEntry type="main" xml:id="hf">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hf</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44311" key="hif~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hif~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hif~N</foreign> <hi>Certain small fish,</hi> which are dried: see <foreign lang="ar">sumayokaA='u</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hfw">
-					<head>
-								<foreign lang="ar">hfw</foreign>
-					</head>
+				<superEntry type="main" xml:id="hfw">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hfw</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44312" key="hfA">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hfA</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1190,43 +1237,46 @@
 								1. <foreign lang="ar">hfA</foreign>, said of the heart, <hi>It fluttered,</hi> or <hi>palpitated;</hi> and, as Z says, <hi>was flurried</hi> by reason of grief, or of beating. (TA.) See 1, in art. <foreign lang="ar">fhw</foreign>.
 					</entry>
 					<entry type="main" id="n44313" key="hafowapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hafowapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hafowapN</foreign> A <hi>slip, lapse, fault,</hi> or <hi>fall into wrongdoing;</hi> pl. <foreign lang="ar">hafawaAtN</foreign>. (TA.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hq">
-					<head>
-								<foreign lang="ar">hq</foreign>
-					</head>
+				<superEntry type="main" xml:id="hq">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hq</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44314" key="qarabN haqohaAqN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">qarabN haqohaAqN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">qarabN haqohaAqN</foreign>: see <foreign lang="ar">HaqoHaAqN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hqr">
-					<head>
-								<foreign lang="ar">hqr</foreign>
-					</head>
+				<superEntry type="main" xml:id="hqr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hqr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44315" key="hiqowar~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hiqowar~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hiqowar~N</foreign> A <hi>large, long-bodied</hi> man. (Az, in TA, voce <foreign lang="ar">hirodab~apN</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hqE">
-					<head>
-								<foreign lang="ar">hqE</foreign>
-					</head>
+				<superEntry type="main" xml:id="hqE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hqE</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44316" key="AlhaqoEapu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlhaqoEapu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1238,12 +1288,13 @@
 								<hi>The 5th Mansion of the Moon.</hi> (El-Kazweenee.) [This is accord. to those who make <foreign lang="ar">nawo'N</foreign> to signify the “ auroral setting: ” accord. to those who make it to signify the “ auroral rising, ” these stars compose <foreign lang="ar">AlhanoEapu</foreign>, q. v.; and <foreign lang="ar">AlhafoEapu</foreign> seems to consist of o 1 and o 2 <hi>of Orion.</hi>]
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hk">
-					<head>
-								<foreign lang="ar">hk</foreign>
-					</head>
+				<superEntry type="main" xml:id="hk">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hk</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44317" key="hak~a">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hak~a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1251,26 +1302,27 @@
 								1. <foreign lang="ar">hak~a</foreign>: see <foreign lang="ar">sak~a</foreign>.
 					</entry>
 					<entry type="main" id="n44318" key="haAk~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAk~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haAk~N</foreign>: see <foreign lang="ar">faAk~N</foreign>.
 					</entry>
 					<entry type="main" id="n44319" key="hak~aAkN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hak~aAkN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hak~aAkN</foreign>: see <foreign lang="ar">fak~aAkN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hl">
-					<head>
-								<foreign lang="ar">hl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44320" key="A^aholalonaA hilaAla $ahori ka*aA">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^aholalonaA hilaAla $ahori ka*aA</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1278,7 +1330,7 @@
 								4. <foreign lang="ar">A^aholalonaA hilaAla $ahori ka*aA</foreign>: see <foreign lang="ar">salaxa</foreign>.
 					</entry>
 					<entry type="main" id="n44321" key="Aisotahal~a">
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">Aisotahal~a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1292,7 +1344,7 @@
 							See <foreign lang="ar">musotahal~N</foreign>.
 					</entry>
 					<entry type="main" id="n44322" key="halo">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">halo</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1308,14 +1360,14 @@
 								<foreign lang="ar">hal~aA</foreign>: see <foreign lang="ar">HaD~apN</foreign> and <foreign lang="ar">Eano</foreign>, latter part, and <foreign lang="ar">lawolaA</foreign>, and <foreign lang="ar">A^al~aA</foreign>.
 					</entry>
 					<entry type="main" id="n44323" key="hal~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hal~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hal~apN</foreign>: see <foreign lang="ar">bal~apN</foreign>.
 					</entry>
 					<entry type="main" id="n44324" key="AlhilAalu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlhilAalu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1326,31 +1378,33 @@
 							See <foreign lang="ar">samaA</foreign>.
 					</entry>
 					<entry type="main" id="n44325" key="musotahal~u Al$~ahori">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">musotahal~u Al$~ahori</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">musotahal~u Al$~ahori</foreign> <hi>The first night of the lunar month.</hi> (Msb.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hnf">
-					<head>
-								<foreign lang="ar">hnf</foreign>
-					</head>
+				<superEntry type="main" xml:id="hnf">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hnf</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44326" key="yawomN hil~awofN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yawomN hil~awofN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">yawomN hil~awofN</foreign>: see <foreign lang="ar">A^aHaS~u</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hlk">
-					<head>
-								<foreign lang="ar">hlk</foreign>
-					</head>
+				<superEntry type="main" xml:id="hlk">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hlk</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44327" key="halaka">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">halaka</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1362,7 +1416,7 @@
 								<hi>His land had its herbage dried up by drought:</hi> see <foreign lang="ar">jariba</foreign>.
 					</entry>
 					<entry type="main" id="n44328" key="waAdiY tuhul~ika">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">waAdiY tuhul~ika</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1371,7 +1425,7 @@
 								<foreign lang="ar">tuDul~il</foreign>
 					</entry>
 					<entry type="main" id="n44329" key="A^aholakahu">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^aholakahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1379,7 +1433,7 @@
 								4. <foreign lang="ar">A^aholakahu</foreign> <hi>He destroyed, made an end of,</hi> or <hi>caused to perish</hi> or <hi>come to an end, made away, did away with,</hi> or <hi>brought to nought, him,</hi> or <hi>it; took away his life.</hi>
 					</entry>
 					<entry type="main" id="n44330" key="tahaAlaka gam~FA">
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">tahaAlaka gam~FA</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1401,14 +1455,14 @@
 								<foreign lang="ar">Ea$iqato</foreign> [<hi>She vehemently desired the stallion</hi>]. (AA, TA in art. <foreign lang="ar">E$q</foreign>.)
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth lang="ar">A_ihotalaka</orth>
 						</form>
 								8: see 6.
 					</entry>
 					<entry type="main" id="n44331" key="Aisotaholaka">
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth orig="" extent="full" lang="ar">Aisotaholaka</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1420,14 +1474,14 @@
 								<hi>He</hi> (a man) <hi>distressed, troubled,</hi> or <hi>fatigued, himself in,</hi> or <hi>respecting, such a thing.</hi> (TA.) See also 6.
 					</entry>
 					<entry type="main" id="n44332" key="halakapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">halakapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">halakapN</foreign> <hi>The drying up of the plants,</hi> or <hi>herbage.</hi> (AHn, TA.) See <foreign lang="ar">halAakN</foreign>.
 					</entry>
 					<entry type="main" id="n44333" key="halAakN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">halAakN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1442,7 +1496,7 @@
 								<hi>He stuck fast in cases of perdition:</hi> see art. <foreign lang="ar">rbk</foreign>.
 					</entry>
 					<entry type="main" id="n44334" key="haAlikN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAlikN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1452,21 +1506,21 @@
 								<foreign lang="ar">haAlikN</foreign> sometimes means <hi>Subject to perish;</hi> as in the Kur, xxviii. last verse.
 					</entry>
 					<entry type="main" id="n44335" key="maholukN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maholukN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">maholukN</foreign>: see <foreign lang="ar">A^aluwkN</foreign>.
 					</entry>
 					<entry type="main" id="n44336" key="maholikN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maholikN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">maholikN</foreign> <hi>Death:</hi> see a verse cited voce <foreign lang="ar">sahuwN</foreign>.
 					</entry>
 					<entry type="main" id="n44337" key="maholaikapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">maholaikapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1477,7 +1531,7 @@
 								<hi>A place of perdition</hi> or <hi>death:</hi> and <hi>a desert:</hi> (KL:) or <hi>a</hi> [<hi>desert,</hi> or <hi>such as is termed</hi>] <foreign lang="ar">mafaAzap</foreign>; (S, K, TA;) because persons perish therein; (Z, TA;) or because it urges [or leads] to perdition. (TA.) See <foreign lang="ar">jaAd~apN</foreign>.
 					</entry>
 					<entry type="main" id="n44338" key="huwa musotaholikN A_ilaY ka*aA">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huwa musotaholikN A_ilaY ka*aA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1488,12 +1542,13 @@
 								<foreign lang="ar">musotaholiku Alwirodi</foreign> A road <hi>that destroys him who seeks water, by reason of its far extent.</hi> (O.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hlm">
-					<head>
-								<foreign lang="ar">hlm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hlm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hlm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44339" key="halum~a">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">halum~a</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1512,12 +1567,13 @@
 								<hi>At thine ease:</hi> see 1 in art. <foreign lang="ar">jr</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hm">
-					<head>
-								<foreign lang="ar">hm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44340" key="ham~a">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">ham~a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1536,9 +1592,9 @@
 						―
 						-b5-
 								<foreign lang="ar">ham~a bihi fiY nafosihi</foreign> [aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bu" lang="ar">hamu3a</orth>
-						</form>
+						</choice>
 								] <hi>He intended it, meant it, desired it.</hi> or <hi>determined upon it, in his mind.</hi> (TA.) See also a verse cited voce <foreign lang="ar">rutamN</foreign>.
 						―
 						-b6-
@@ -1558,7 +1614,7 @@
 								<foreign lang="ar">laA yuhim~uhu A_il~aA baTonuhu</foreign> [<hi>Nothing causes him care,</hi> or <hi>anxiety, but his belly</hi>]. (S in art. <foreign lang="ar">bTn</foreign>.)
 					</entry>
 					<entry type="main" id="n44341" key="A^aham~atu">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^aham~atu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1566,7 +1622,7 @@
 								4. <foreign lang="ar">A^aham~atu</foreign> <hi>It rendered him anxious;</hi> (MA;) <hi>disquieted him,</hi> and <hi>grieved him.</hi> (Mgh.) See <foreign lang="ar">EanaAhu</foreign>.
 					</entry>
 					<entry type="main" id="n44342" key="Ainhm~a">
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">Ainhm~a</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1574,7 +1630,7 @@
 								7. <foreign lang="ar">Ainhm~a</foreign>: see a verse cited in art. <foreign lang="ar">b</foreign>, p. 144.
 					</entry>
 					<entry type="main" id="n44343" key="Aihotam~a biAlA^amori">
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">Aihotam~a biAlA^amori</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1596,14 +1652,14 @@
 								<foreign lang="ar">AiEotas~ahu</foreign>. (TA in art. <foreign lang="ar">Es</foreign>.)
 					</entry>
 					<entry type="main" id="n44344" key="hama">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hama</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hama</foreign> for <foreign lang="ar">hamaA</foreign> for <foreign lang="ar">A^amaA</foreign> before an oath: see the last.
 					</entry>
 					<entry type="main" id="n44345" key="ham~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ham~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1629,21 +1685,21 @@
 								<foreign lang="ar">ham~aka maA ham~aka</foreign> means <foreign lang="ar">ham~aka maA EanaAka</foreign>: and <foreign lang="ar">ham~aka</foreign> also signifies <foreign lang="ar">A*Abk</foreign>. (JK.) See also Freytag's Arab. Prov. ii. 880.
 					</entry>
 					<entry type="main" id="n44346" key="him~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">him~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">him~N</foreign> A <hi>decrepit, old, and weak,</hi> or <hi>extremely aged.</hi> man. (S, Msb, K.)
 					</entry>
 					<entry type="main" id="n44347" key="ham~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ham~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ham~apN</foreign>: see <foreign lang="ar">him~apN</foreign>.
 					</entry>
 					<entry type="main" id="n44348" key="him~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">him~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1661,21 +1717,21 @@
 								<hi>High purpose; ambition.</hi>
 					</entry>
 					<entry type="main" id="n44349" key="humaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">humaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">humaAmN</foreign> <hi>An aspiring king:</hi> (S, K:) <hi>a magnanimous,</hi> i. e. <hi>courageous and liberal, chief.</hi> (K.)
 					</entry>
 					<entry type="main" id="n44350" key="hamohaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hamohaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hamohaAmN</foreign> <hi>A wild bird of the crow kind:</hi> see <foreign lang="ar">SuradN</foreign>.
 					</entry>
 					<entry type="main" id="n44351" key="haAmapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAmapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1683,50 +1739,53 @@
 								<hi>a louse;</hi> (Mgh:) <hi>what has deadly venom; as the scorpion:</hi> (Az, Msb:) and sometimes, <hi>what is noxious:</hi> (Msb:) <hi>any reptile or the like, from the louse to the serpent;</hi> (AHát, Msb:) but its application to the louse is tropical: (Msb:) <hi>any venomous or noxious reptile or the like; such as the scorpion, and the serpent:</hi> the <hi>like of serpents and scorpions;</hi> because they creep (<foreign lang="ar">tahim~u</foreign>, i. e. <foreign lang="ar">tadib~</foreign>). (JK.)
 					</entry>
 					<entry type="main" id="n44352" key="muhim~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muhim~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">muhim~N</foreign> <hi>A difficult, an arduous, a distressing, or an afflictive affair,</hi> or <hi>business:</hi> syn. <foreign lang="ar">A^amorN $adiydN</foreign>: (S:) and <foreign lang="ar">muhim~aAtN</foreign> signifies <foreign lang="ar">A^umuwru $idaAdN</foreign>, (JK,) <hi>affairs of difficulty:</hi> and, <hi>of importance.</hi>
 					</entry>
 					<entry type="main" id="n44353" key="baradN munoham~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">baradN munoham~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">baradN munoham~N</foreign> [app. <hi>Dissolving hail-stones</hi>]. (Mughnee and K, in explanations of <foreign lang="ar">ka</foreign>.) See a verse in explanation of <foreign lang="ar">bi</foreign> used redundantly, p. 144.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hmd">
-					<head>
-								<foreign lang="ar">hmd</foreign>
-					</head>
+				<superEntry type="main" xml:id="hmd">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hmd</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44354" key="hamodapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hamodapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hamodapN</foreign> <hi>A trance:</hi> so rendered voce <foreign lang="ar">raqodapN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hmrjl">
-					<head>
-								<foreign lang="ar">hmrjl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hmrjl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hmrjl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44355" key="hamarojalN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hamarojalN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hamarojalN</foreign> A <hi>bulky</hi> she-camel. (IAar, TA, voce <foreign lang="ar">$amarodalN</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hm$">
-					<head>
-								<foreign lang="ar">hm$</foreign>
-					</head>
+				<superEntry type="main" xml:id="hm$">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hm$</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44356" key="AihotimaA$N">
-						<form>
+						<form type="entry">
 							<iType>8</iType>
 							<orth orig="" extent="full" lang="ar">AihotimaA$N</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1737,20 +1796,21 @@
 							And the <hi>proceeding slowly.</hi> (KL.) See <foreign lang="ar">qarotana</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hml">
-					<head>
-								<foreign lang="ar">hml</foreign>
-					</head>
+				<superEntry type="main" xml:id="hml">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hml</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44357" key="hamala">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hamala</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								1. <foreign lang="ar">hamala</foreign>, aor.
-						<form n="infl">
+						<choice type="infl">
 							<orth orig="Bu" lang="ar">hamula</orth>
-						</form>
+						</choice>
 								, inf. n. <foreign lang="ar">hamalAanN</foreign>; and 
 							<anchor type="arrow"><foreign lang="ar">Ainohamala↓</foreign></anchor>; <hi>It</hi> (water) <hi>overflowed, and poured forth.</hi> (Mgh.)
 						―
@@ -1758,7 +1818,7 @@
 								<foreign lang="ar">tuhomalu EalaY ruw^uwsihaA waZahuwrihaA</foreign>; so in a copy of the K, voce <foreign lang="ar">wasuwTN</foreign>: in other copies of the K, <foreign lang="ar">tuHomalu</foreign> or <foreign lang="ar">yuHomalu</foreign>: if the first be correct, the meaning is probably Camels <hi>left without rein and without burden;</hi> and this is agreeable with the context.
 					</entry>
 					<entry type="main" id="n44358" key="A^ahomala AlmaA$iyapa">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^ahomala AlmaA$iyapa</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1773,7 +1833,7 @@
 								<foreign lang="ar">A^ahomala Eabodahu</foreign> (S, K, in art. <foreign lang="ar">sbE</foreign>) <hi>He left his slave without work,</hi> or <hi>occupation:</hi> (PS:) <hi>he left him to himself, uncontrolled.</hi>
 					</entry>
 					<entry type="main" id="n44359" key="Ainohamalaka fiY AlA^amori">
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">Ainohamalaka fiY AlA^amori</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1785,14 +1845,14 @@
 								<hi>He obstinately persevered in vain or false affairs.</hi>
 					</entry>
 					<entry type="main" id="n44360" key="ham~aAlapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ham~aAlapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ham~aAlapN</foreign> Applied to the eye or eyes, <hi>Flowing abundantly with tears:</hi> see a verse cited voce <foreign lang="ar">Ealafa</foreign>.
 					</entry>
 					<entry type="main" id="n44361" key="muHomalN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muHomalN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1804,12 +1864,13 @@
 								<foreign lang="ar">EaAmilN</foreign>. (IbrD.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hn">
-					<head>
-								<foreign lang="ar">hn</foreign>
-					</head>
+				<superEntry type="main" xml:id="hn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44362" key="hanN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1819,31 +1880,33 @@
 							<anchor type="arrow"><foreign lang="ar">hanapN↓</foreign></anchor> may be rendered <hi>something, somewhat:</hi>] it denotes anything. (TA.)
 					</entry>
 					<entry type="main" id="n44363" key="hanapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hanapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hanapN</foreign>: see <foreign lang="ar">hanN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hnbr">
-					<head>
-								<foreign lang="ar">hnbr</foreign>
-					</head>
+				<superEntry type="main" xml:id="hnbr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hnbr</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44364" key="hinobirN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hinobirN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hinobirN</foreign> A <hi>light,</hi> or an <hi>active,</hi> ass. (IAar, in TA, voce <foreign lang="ar">yaEofuwrN</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hnE">
-					<head>
-								<foreign lang="ar">hnE</foreign>
-					</head>
+				<superEntry type="main" xml:id="hnE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hnE</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44365" key="AlhanoEapu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlhanoEapu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1859,10 +1922,11 @@
 						<pb n="3046"/>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hnm">
-					<head>
-								<foreign lang="ar">hnm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hnm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hnm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44366" key="hayonama">
 						<form type="Q Q">
 							<iType>Q. Q. 1</iType>
@@ -1872,43 +1936,46 @@
 								Q. Q. 1. <foreign lang="ar">hayonama</foreign> <hi>He concealed,</hi> or <hi>kept secret,</hi> a story; syn. <foreign lang="ar">A^asar~a</foreign>. (A, art. <foreign lang="ar">jhr</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hwE">
-					<head>
-								<foreign lang="ar">hwE</foreign>
-					</head>
+				<superEntry type="main" xml:id="hwE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hwE</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44367" key="hayoEuwEapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayoEuwEapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hayoEuwEapN</foreign>, originally <foreign lang="ar">hayowaEuwEapN</foreign>: see <foreign lang="ar">$aAxa</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hwl">
-					<head>
-								<foreign lang="ar">hwl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hwl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hwl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44368" key="mahuwlN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahuwlN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mahuwlN</foreign> <hi>Terrible.</hi> (TA.)
 					</entry>
 					<entry type="main" id="n44369" key="naiAru Almuhaw~ali">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">naiAru Almuhaw~ali</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">naiAru Almuhaw~ali</foreign>: see <foreign lang="ar">naArN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hwm">
-					<head>
-								<foreign lang="ar">hwm</foreign>
-					</head>
+				<superEntry type="main" xml:id="hwm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hwm</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44370" key="haw~ama">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">haw~ama</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1916,7 +1983,7 @@
 								2. <foreign lang="ar">haw~ama</foreign> <hi>He slept.</hi> (TA, voce <foreign lang="ar">naAma</foreign>.)
 					</entry>
 					<entry type="main" id="n44371" key="haAmahN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAmahN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -1950,12 +2017,13 @@
 								<foreign lang="ar">buwmapN</foreign>: (TA:) pl. [or coll. gen. n.] <foreign lang="ar">haAmN</foreign>. (S.) See <foreign lang="ar">buwmN</foreign>; and see also <foreign lang="ar">A^aHar~a</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hwn">
-					<head>
-								<foreign lang="ar">hwn</foreign>
-					</head>
+				<superEntry type="main" xml:id="hwn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hwn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44372" key="haAna">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">haAna</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1969,7 +2037,7 @@
 								<foreign lang="ar">haAna</foreign> also, <hi>He,</hi> or <hi>it, was,</hi> or <hi>became, gentle,</hi> and <hi>easy.</hi> (Msb.)
 					</entry>
 					<entry type="main" id="n44373" key="haw~anahu Ealayohi">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">haw~anahu Ealayohi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1980,7 +2048,7 @@
 								<foreign lang="ar">haw~iniY AlA^amora walAa taHozaniyY lahu</foreign> [<hi>Make thou the case,</hi> or <hi>affair, light,</hi> or <hi>easy;</hi> i. e., <hi>regard it lightly; and do not grieve for it</hi>]. (TA, art. <foreign lang="ar">xfD</foreign>.)
 					</entry>
 					<entry type="main" id="n44374" key="A^ahaAhahu">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^ahaAhahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -1994,21 +2062,21 @@
 								<hi>He lowered,</hi> or <hi>abased, him; debased him; rendered him abject, vile, mean, paltry, contemptible, despicable, or ignominious.</hi>
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>6</iType>
 							<orth lang="ar">tahaAowana</orth>
 						</form>
 								6: see 4.
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>10</iType>
 							<orth lang="ar">A_isotahowana</orth>
 						</form>
 								10: see 4.
 					</entry>
 					<entry type="main" id="n44375" key="hayonN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayonN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2017,40 +2085,41 @@
 								<hi>Easy:</hi> (S, Msb, K:) and the latter <hi>of light estimation, paltry, despicable.</hi> (K, * TA.)
 					</entry>
 					<entry type="main" id="n44376" key="ElY hiyonataki">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">ElY hiyonataki</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">ElY hiyonataki</foreign> <hi>at their ease.</hi>
 					</entry>
 					<entry type="main" id="n44377" key="hay~inN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hay~inN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hay~inN</foreign>: see <foreign lang="ar">hayonN</foreign>.
 					</entry>
 					<entry type="main" id="n44378" key="A^ahowanu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">A^ahowanu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">A^ahowanu</foreign> in the sense of <foreign lang="ar">hay~inN</foreign>: see <foreign lang="ar">A^akobaru</foreign>. See also an ex. voce <foreign lang="ar">baSiyrapN</foreign>; and another voce <foreign lang="ar">baEorN</foreign>.
 					</entry>
 					<entry type="main" id="n44379" key="baEiyrN muhaAnN EalaY A^aholihi">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">baEiyrN muhaAnN EalaY A^aholihi</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">baEiyrN muhaAnN EalaY A^aholihi</foreign> [<hi>A camel held in mean estimation by his owner</hi>]. (TA, art. <foreign lang="ar">dfE</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hwY">
-					<head>
-								<foreign lang="ar">hwY</foreign>
-					</head>
+				<superEntry type="main" xml:id="hwY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hwY</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44380" key="hawaY bihi">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">hawaY bihi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2068,7 +2137,7 @@
 								<foreign lang="ar">hawato A^um~uhu</foreign> is used to express wonder; like as when one says, <foreign lang="ar">qaAtalahu A@ll~`hu maA A^asomaEahu</foreign>. (IB, in TA, art. <foreign lang="ar">Am</foreign>.)
 					</entry>
 					<entry type="main" id="n44381" key="A^ahowaY A_ilaY Al$~aYo'i biyadihi">
-						<form>
+						<form type="entry">
 							<iType>4</iType>
 							<orth orig="" extent="full" lang="ar">A^ahowaY A_ilaY Al$~aYo'i biyadihi</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2079,7 +2148,7 @@
 								<hi>He reached his sword; took it with his hand,</hi> or <hi>with his extended hand;</hi> or <hi>took hold of it.</hi> (Msb.) And <foreign lang="ar">A^ahowayotu biAl$~aYo'i</foreign> [in my copy of the Msb, erroneously, <foreign lang="ar">A_ilaY Al$~aYo'i</foreign>] <hi>I made a sign with the thing.</hi> (As, S.)
 					</entry>
 					<entry type="main" id="n44382" key="tahaw~aha">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tahaw~aha</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2087,7 +2156,7 @@
 								5. <foreign lang="ar">tahaw~aha</foreign>: see <foreign lang="ar">A=hapN</foreign>, in art. <foreign lang="ar">Awh</foreign>.
 					</entry>
 					<entry type="main" id="n44383" key="AinohawaY">
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">AinohawaY</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2095,14 +2164,14 @@
 								7. <foreign lang="ar">AinohawaY</foreign>: see <foreign lang="ar">AinogawaY</foreign>, in art. <foreign lang="ar">gw</foreign>.
 					</entry>
 					<entry type="main" id="n44384" key="haAho">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAho</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haAho</foreign> and <foreign lang="ar">haAhu</foreign>: see <foreign lang="ar">A=hi</foreign>, in art. <foreign lang="ar">Awh</foreign>.
 					</entry>
 					<entry type="main" id="n44385" key="AlhawaY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">AlhawaY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2120,7 +2189,7 @@
 								[Its pl.] <foreign lang="ar">A^ahowaA='N</foreign> also signifies <hi>Opinions declining,</hi> or <hi>swerving, from the right way,</hi> or <hi>from the truth.</hi> (Bd, ii. 114.) [Hence,] <foreign lang="ar">A^aholu AlA^ahowaA='i</foreign> [<hi>The people of erroneous opinions</hi>]. (T, in art. <foreign lang="ar">smE</foreign>; &amp;c.)
 					</entry>
 					<entry type="main" id="n44386" key="huw~apN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huw~apN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2132,7 +2201,7 @@
 								<hi>Make thou the affair,</hi> or <hi>case,</hi> [<hi>uniform,</hi> or] <hi>one uniform thing.</hi> (Fr in TA, in art. <foreign lang="ar">bA^j</foreign>.)
 					</entry>
 					<entry type="main" id="n44387" key="hawaA='N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hawaA='N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2142,28 +2211,28 @@
 							<hi>A vacant,</hi> or <hi>an empty, thing.</hi> (Msb.)
 					</entry>
 					<entry type="main" id="n44388" key="hawiY~N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hawiY~N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hawiY~N</foreign> and <foreign lang="ar">huwiY~N</foreign>: see 4, (last sentence), in art. <foreign lang="ar">slm</foreign>.
 					</entry>
 					<entry type="main" id="n44389" key="haAwanN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAwanN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haAwanN</foreign>, said to be thus, with fet-h to the <foreign lang="ar">w</foreign>, originally <foreign lang="ar">haAwuwnN</foreign>, [<hi>A mortar;</hi>] the <hi>thing in which one pounds,</hi> or <hi>bruises:</hi> pl. <foreign lang="ar">hawaAwiynu</foreign>. (Msb.)
 					</entry>
 					<entry type="main" id="n44390" key="haAwiyapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">haAwiyapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">haAwiyapN</foreign> <hi>An abyss; a depth,</hi> or <hi>deep place, of which the bottom cannot be reached.</hi> (JK, TA.)
 					</entry>
 					<entry type="main" id="n44391" key="mahowaY Alr~akiy~api">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahowaY Alr~akiy~api</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2173,7 +2242,7 @@
 							See <foreign lang="ar">mahowaApN</foreign>.
 					</entry>
 					<entry type="main" id="n44392" key="mahowaApN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahowaApN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2184,7 +2253,7 @@
 							<anchor type="arrow"><foreign lang="ar">mahowFY↓</foreign></anchor>: (S:) <hi>a pit,</hi> or <hi>hollow, dug,</hi> or <hi>excavated.</hi> (Msb.)
 					</entry>
 					<entry type="main" id="n44393" key="muhay~aA^N">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muhay~aA^N</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2192,12 +2261,13 @@
 								<foreign lang="ar">zuamaAwarodN</foreign>. (MF, art. <foreign lang="ar">wrd</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hyf">
-					<head>
-								<foreign lang="ar">hyf</foreign>
-					</head>
+				<superEntry type="main" xml:id="hyf">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hyf</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44394" key="tahay~afa">
-						<form>
+						<form type="entry">
 							<iType>5</iType>
 							<orth orig="" extent="full" lang="ar">tahay~afa</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2205,14 +2275,14 @@
 								5. <foreign lang="ar">tahay~afa</foreign>, (S, K,) said of a man, (S,) is from <foreign lang="ar">Alhayofu</foreign> [the hot south-west wind], like <foreign lang="ar">tasat~aY</foreign> from <foreign lang="ar">Al$it~aA='u</foreign>. (S, K.) See an ex. voce <foreign lang="ar">maSoquwlN</foreign>.
 					</entry>
 					<entry type="main" id="n44395" key="Alhayofu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Alhayofu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">Alhayofu</foreign>: respecting the wind thus called, see <foreign lang="ar">nakobaA'u</foreign>.
 					</entry>
 					<entry type="main" id="n44396" key="riyHN mihoyAafN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">riyHN mihoyAafN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2220,24 +2290,26 @@
 						<pb n="3047"/>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hyq">
-					<head>
-								<foreign lang="ar">hyq</foreign>
-					</head>
+				<superEntry type="main" xml:id="hyq">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hyq</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44397" key="hayoqapN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayoqapN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hayoqapN</foreign> <hi>A female ostrich.</hi> (A, art. <foreign lang="ar">zmr</foreign>.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hyl">
-					<head>
-								<foreign lang="ar">hyl</foreign>
-					</head>
+				<superEntry type="main" xml:id="hyl">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hyl</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44398" key="AinohaAla">
-						<form>
+						<form type="entry">
 							<iType>7</iType>
 							<orth orig="" extent="full" lang="ar">AinohaAla</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2248,7 +2320,7 @@
 								<foreign lang="ar">Ainohadama AljidaAru waA=nohaAla</foreign> [<hi>The wall fell in ruins,</hi> or <hi>to pieces,</hi> or <hi>became a ruin, and broke,</hi> or <hi>crumbled down</hi>]. (K in art. <foreign lang="ar">qyD</foreign>.) So rendered voce <foreign lang="ar">AinoqaADa</foreign>, art. <foreign lang="ar">fyD</foreign>.
 					</entry>
 					<entry type="main" id="n44399" key="hayolN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayolN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2259,26 +2331,27 @@
 							<anchor type="arrow"><foreign lang="ar">haAy^ilN↓</foreign></anchor> Sand <hi>that will not remain steady in its place, but falls down.</hi> (JK.)
 					</entry>
 					<entry type="main" id="n44400" key="hayuwluY">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayuwluY</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hayuwluY</foreign> and <foreign lang="ar">hay~uwlaY</foreign>: wrongly mentioned in art. <foreign lang="ar">hwl</foreign>. See <foreign lang="ar">maAd~apN</foreign>.
 					</entry>
 					<entry type="main" id="n44401" key="mahiylN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahiylN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mahiylN</foreign>: see <foreign lang="ar">kaviybN</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hym">
-					<head>
-								<foreign lang="ar">hym</foreign>
-					</head>
+				<superEntry type="main" xml:id="hym">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hym</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44402" key="hay~amahu">
-						<form>
+						<form type="entry">
 							<iType>2</iType>
 							<orth orig="" extent="full" lang="ar">hay~amahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2286,21 +2359,21 @@
 								2. <foreign lang="ar">hay~amahu</foreign>: see <foreign lang="ar">huyuwmN</foreign>.
 					</entry>
 					<entry type="main" id="n44403" key="hayaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hayaAmN</foreign>: see an ex. in a verse of Lebeed, voce <foreign lang="ar">A^aSolN</foreign>.
 					</entry>
 					<entry type="main" id="n44404" key="huyaAmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huyaAmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">huyaAmN</foreign>: see <foreign lang="ar">hub~N</foreign>.
 					</entry>
 					<entry type="main" id="n44405" key="huyuwmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">huyuwmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2311,7 +2384,7 @@
 							<hi>An affection like insanity arising from amorous desire:</hi> (JK:) <hi>bewilderment,</hi> or <hi>distraction, by amorous desire.</hi> (KL.)
 					</entry>
 					<entry type="main" id="n44406" key="hayomaAnu">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayomaAnu</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2322,19 +2395,20 @@
 								<hi>A thirsty</hi> camel: fem. <foreign lang="ar">hayomaY</foreign>: pl. <foreign lang="ar">hiymN</foreign>. (Jel, lvi. 55.)
 					</entry>
 					<entry type="main" id="n44407" key="mahoyuwmN">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mahoyuwmN</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">mahoyuwmN</foreign>: see voce <foreign lang="ar">qat~a</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hyn">
-					<head>
-								<foreign lang="ar">hyn</foreign>
-					</head>
+				<superEntry type="main" xml:id="hyn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hyn</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44408" key="haAna lahu">
-						<form>
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">haAna lahu</orth>
 							<orth extent="full" lang="ar">*</orth>
@@ -2342,19 +2416,20 @@
 								1. <foreign lang="ar">haAna lahu</foreign>, aor. <foreign lang="ar">yahiynu</foreign>, <hi>He treated him with gentleness,</hi> or <hi>blandishment;</hi> syn. <foreign lang="ar">daAraAhu</foreign>. (Aboo-Is-hák, in TA, art. <foreign lang="ar">En</foreign>; but only the imp., <foreign lang="ar">hino lahu</foreign>, is there mentioned, said to be with kesr.) See <foreign lang="ar">Eaz~a</foreign>, near the end, p. 2031, and the distinction there made between <foreign lang="ar">hino</foreign> and <foreign lang="ar">huno</foreign>.
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hyh">
-					<head>
-								<foreign lang="ar">hyh</foreign>
-					</head>
+				<superEntry type="main" xml:id="hyh">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hyh</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44409" key="hiyha">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hiyha</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
 								<foreign lang="ar">hiyha</foreign> and <foreign lang="ar">hiyhi</foreign> and <foreign lang="ar">hiyhK</foreign>: see <foreign lang="ar">A_iyha</foreign> and <foreign lang="ar">Ayhi</foreign> and <foreign lang="ar">A_iyhK</foreign>
 					</entry>
 					<entry type="main" id="n44410" key="hayohaAta ka*aA">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">hayohaAta ka*aA</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
@@ -2367,12 +2442,13 @@
 								<foreign lang="ar">hayohaAt</foreign> denotes one's deeming a thing remote, or improbable, and despairing of it; and means <foreign lang="ar">baEuda jid~FA</foreign> [<hi>Very far,</hi> &amp;c.], or <foreign lang="ar">mA A^aboEada</foreign> [<hi>How far,</hi> &amp;c.]; implying more than <foreign lang="ar">baEuda</foreign> though we render it by this word. (Kull, p. 382.)
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="hY">
-					<head>
-								<foreign lang="ar">hY</foreign>
-					</head>
+				<superEntry type="main" xml:id="hY">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">hY</foreign></title>
+						<label></label>
+					</dictScrap>
 					<entry type="main" id="n44411" key="Aibonu haY~K">
-						<form>
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Aibonu haY~K</orth>
 							<orth extent="full" lang="ar">*</orth>
 						</form>
