@@ -78,7 +78,7 @@
 <!-- sourceDesc -->
 <!ELEMENT sourceDesc (listBibl)>
 <!ELEMENT listBibl (biblStruct)>
-<!ELEMENT biblStruct (analytic?,monogr)>
+<!ELEMENT biblStruct (analytic*,monogr)>
 <!ELEMENT analytic EMPTY>
 <!ELEMENT monogr (title+,imprint)>
 <!ELEMENT imprint (publisher,pubPlace,date)>
@@ -119,15 +119,17 @@
 <!-- langUsage -->
 <!ELEMENT langUsage (language)+>
 <!ATTLIST langUsage
-  default NMTOKEN #REQUIRED>
+  default NMTOKEN #REQUIRED
+>
 <!ELEMENT language (#PCDATA)>
 <!ATTLIST language
-  id NMTOKEN #REQUIRED>
+  id NMTOKEN #REQUIRED
+>
 
 <!-- SUB-elements of revisionDesc -->
 <!-- list -->
 <!ELEMENT list (item)+>
-<!ELEMENT item (#PCDATA|quote)*>
+<!ELEMENT item (#PCDATA|s|quote)*>
 <!-- listChange -->
 <!ELEMENT listChange (change)>
 <!ELEMENT change (#PCDATA)>
@@ -149,25 +151,26 @@
 <!ATTLIST superEntry
   n NMTOKEN #IMPLIED
   type (main|xref|supplemental) #REQUIRED
-  xml:id ID #IMPLIED
- >
+  xml:id ID #REQUIRED
+>
 
 <!-- SUB-elements of superEntry -->
 <!-- dictScrap -->
 <!ELEMENT dictScrap (title|label|note|pb)*>
 <!ATTLIST dictScrap
-  type (front|back) #IMPLIED
+  type (front|back|entry) #REQUIRED
 >
 <!-- form -->
 <!ELEMENT form (iType?,orth+)>
+<!ATTLIST form
+  type CDATA #REQUIRED>
 <!-- entry -->
-<!ELEMENT entry (dictScrap|form|hom|sense|span|pb)*>
+<!ELEMENT entry (dictScrap|form|hom|span|pb)*>
 <!ATTLIST entry
-  xmlns CDATA #FIXED ''
-  class NMTOKEN #IMPLIED
-  n NMTOKEN #REQUIRED
+  n NMTOKEN #IMPLIED
   type (main|xref) #REQUIRED
-  xml:id ID #REQUIRED>
+  xml:id ID #REQUIRED
+>
 
 <!-- SUB-elements of dictScrap -->
 <!-- title (see above) -->
@@ -177,12 +180,14 @@
   
 <!-- SUB-elements of form -->
 <!ELEMENT iType (#PCDATA)>
-<!ATTLIST iType
-  xmlns CDATA #FIXED ''>
+<!ATTLIST orth
+>
 <!ELEMENT orth (#PCDATA)>
 <!ATTLIST orth
-  xmlns CDATA #FIXED ''
-  lang NMTOKEN #REQUIRED>
+  orig CDATA #IMPLIED
+  extent CDATA #IMPLIED
+  lang NMTOKEN #REQUIRED
+>
 
 <!-- SUB-elements of entry -->
 <!-- dictScrap (see above) -->
@@ -191,14 +196,14 @@
 <!ELEMENT hom (sense|span|pb)*>
 <!ATTLIST hom
   n NMTOKEN #REQUIRED
-  type (supplemental) #IMPLIED
+  type (main|xref|supplemental) #IMPLIED
   xml:id ID #REQUIRED
 >
 <!-- sense -->
-<!ELEMENT sense (#PCDATA|pb|list|quote|table|span|%inline;)*>
+<!ELEMENT sense (s|pb|list|quote|table|span|%inline;)*>
 <!ATTLIST sense
   n CDATA #REQUIRED
-  type (supplemental) #IMPLIED
+  type (main|xref|supplemental) #IMPLIED
   xml:id ID #REQUIRED
 >
 <!-- span -->
@@ -214,6 +219,9 @@
 >
 
 <!-- SUB-elements of sense -->
+<!ELEMENT s (#PCDATA|pb|%inline;)*>
+<!ATTLIST s
+>
 <!-- pb (see above) -->
 <!-- list (see above) -->
 <!-- quote -->
