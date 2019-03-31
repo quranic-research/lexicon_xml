@@ -1,18 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
-	<teiHeader type="text" status="new">
+<!DOCTYPE TEI SYSTEM "LanesLexicon.dtd">
+<TEI version="3.5.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>An Arabic-English Lexicon</title>
-				<title><foreign lang="ar">ز</foreign></title>
-				<author>Edward William Lane</author>
+				<title type="main">An Arabic-English Lexicon</title>
+				<title type="sub">Book I. - Part 3.</title>
+				<title type="desc">Arabic Letter <foreign lang="ar">ز</foreign></title>
+				<author xml:id="EWL">Edward William Lane</author>
+				<principal ref="http://www.perseus.tufts.edu">Perseus Digital Library</principal>
+				<sponsor ref="http://www.tufts.edu">Tufts University</sponsor>
 				<funder n="org:USDeptEd">The U.S. Department of Education</funder>
 				<funder n="org:MaxPlanck">The Max Planck Society</funder>
+				<respStmt xml:id="WHL">
+					<resp>XML encoding, hyperlinking and textual cleanup</resp>
+					<persName>Winfried H. Leclaire</persName>
+				</respStmt>
+				<respStmt xml:id="NUI">
+					<resp>Proofreading</resp>
+					<persName>Naveed Ul Islam</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Trustees of Tufts University</publisher>
-				<pubPlace>Medford, MA</pubPlace>
+				<pubPlace>Medford, MA, USA</pubPlace>
+				<date>2011</date>
 				<authority>Perseus Project</authority>
+				<ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Download Arabic collection texts</ref>
 				<availability status="free">
 					<p>This text may be freely distributed, subject to the following restrictions:</p>
 					<list>
@@ -25,17 +39,19 @@
 				</availability>
 			</publicationStmt>
 			<notesStmt>
-				<note anchored="yes" place="unspecified">Additional XML cleanup by Alpheios Technical Services, LLC.
-				</note>
+				<note anchored="yes" place="unspecified">Initial XML cleanup by Alpheios Technical Services, LLC.</note>
+				<note anchored="yes" place="unspecified">Major XML restructuring and text-correction by Winfried H. Leclaire (quranic-research.net)</note>
+				<note anchored="yes" place="unspecified">Additional proofreading by Naveed Ul Islam (lanelexicon.com)</note>
 			</notesStmt>
 			<sourceDesc>
 				<listBibl>
 					<biblStruct>
 						<monogr>
-							<title>An Arabic-English Lexicon</title>
+							<title type="main">An Arabic-English Lexicon</title>
+							<title type="sub">Book I. - Part 3.</title>
 							<imprint>
-								<pubPlace>London</pubPlace>
 								<publisher>Williams and Norgate</publisher>
+								<pubPlace>London</pubPlace>
 								<date>1863</date>
 							</imprint>
 						</monogr>
@@ -51,6 +67,13 @@
 				<state n="chunk" unit="root"/>
 				<state unit="entry"/>
 			</refsDecl>
+			<tagsDecl partial="true">
+				<rendition scheme="css" selector="hi">font-style: italic;</rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi="div1" occurs="1" withId="1">Contains all 'Arabic Roots' for the 'Arabic Letter'.</tagUsage>
+				</namespace>
+			</tagsDecl>
+			&encoding;
 		</encodingDesc>
 		<profileDesc>
 			<langUsage default="NO">
@@ -61,6 +84,11 @@
 				<language id="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+		<revisionDesc>
+			<list>
+				<item>First issue published by Perseus Digital Library on 07th April 2011</item>
+			</list>
+		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>

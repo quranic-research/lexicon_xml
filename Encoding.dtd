@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Import DTD with the definitions for 'Inline Elements' -->
+<!ENTITY % base SYSTEM "Inline.dtd">
+    %base;
+
+<!-- Elements for list of characters (listNym) -->
+<!ELEMENT charDecl (desc*,char*)>
+<!ATTLIST charDecl
+  type (arabic|greek|hebrew|syriac) #REQUIRED
+>
+<!ELEMENT desc (#PCDATA|ref)*>
+<!ELEMENT char (charName,desc*,note*,mapping+)>
+<!ATTLIST char
+  xml:id ID #REQUIRED
+>
+<!ELEMENT charName (#PCDATA)*>
+<!ELEMENT mapping (#PCDATA|ref)*>
+<!ATTLIST mapping
+  type (standard|internal|buckw|buckw2) #REQUIRED
+>
+
+<!-- Elements for list of canonical names (listNym) -->
+<!ELEMENT listNym (nym)+>
+<!ATTLIST listNym
+  type (terms|authorities) #REQUIRED
+>
+<!ELEMENT nym (etym)>
+<!ATTLIST nym
+  xml:id ID #REQUIRED
+>
+<!ELEMENT etym (abbr,expan,note*)>
+
+<!ENTITY characters ''>
+<!-- Define character declarations with all required character data and assign them to ENTITY chars. -->
+<!ENTITY characters '
+<charDecl type="arabic">
+	<desc>Contains ARABIC characters from Unicode-Range 0600-06FF:</desc>
+	<char xml:id="u0621">
+		<charName>ARABIC LETTER HAMZA</charName>
+		<mapping type="standard">&#x621;</mapping>
+		<mapping type="internal">C</mapping>
+		<mapping type="buckw">&#x27;</mapping>
+		<mapping type="buckw2">&#x27;</mapping>
+	</char>
+	<char xml:id="u0622">
+		<charName>ARABIC LETTER ALEF WITH MADDA ABOVE</charName>
+		<desc>Elongated <ref target="u0627">ALEF</ref> which resemles a combination of to Hamzas</desc>
+		<note>Combination of <ref target="u0627">ALEF</ref> and <ref target="u0653">MADDAH ABOVE</ref>.</note>
+		<mapping type="standard">&#x622;</mapping>
+		<mapping type="internal">M</mapping>
+		<mapping type="buckw">&#x7C;</mapping>
+		<mapping type="buckw2">A&#x3D;</mapping>
+	</char>
+	<char xml:id="u0623">
+		<charName>ARABIC LETTER ALEF WITH HAMZA ABOVE</charName>
+		<note>Combination of <ref target="u0627">ALEF</ref> and <ref target="u0654">HAMZA ABOVE</ref>.</note>
+		<mapping type="standard">&#x623;</mapping>
+		<mapping type="internal">O</mapping>
+		<mapping type="buckw">&#x3E;</mapping>
+		<mapping type="buckw2">A&#x5E;</mapping>
+	</char>
+	<char xml:id="u0624">
+		<charName>ARABIC LETTER WAW WITH HAMZA ABOVE</charName>
+		<note>Combination of <ref target="u0648">WAW</ref> and <ref target="u0654">HAMZA ABOVE</ref>.</note>
+		<mapping type="standard">&#x624;</mapping>
+		<mapping type="internal">W</mapping>
+		<mapping type="buckw">&#x26;</mapping>
+		<mapping type="buckw2">w&#x5E;</mapping>
+	</char>
+	<char xml:id="u0625">
+		<charName>ARABIC LETTER ALEF WITH HAMZA BELOW</charName>
+		<note>Combination of <ref target="u0627">ALEF</ref> and <ref target="u0655">HAMZA BELOW</ref>.</note>
+		<mapping type="standard">&#x625;</mapping>
+		<mapping type="internal">U</mapping>
+		<mapping type="buckw">&#x3C;</mapping>
+		<mapping type="buckw2">&#x3C;</mapping>
+	</char>
+	<char xml:id="u0626">
+		<charName>ARABIC LETTER YEH WITH HAMZA ABOVE</charName>
+		<note>Combination of <ref target="u064A">ALEF MAKSURA</ref> and <ref target="u0654">HAMZA ABOVE</ref>.</note>
+		<mapping type="standard">&#x626;</mapping>
+		<mapping type="internal">Y</mapping>
+		<mapping type="buckw">&#x7D;</mapping>
+		<mapping type="buckw2">y&#x5E;</mapping>
+	</char>
+	<char xml:id="u0627">
+		<charName>ARABIC LETTER ALEF</charName>
+		<note>Can be used individually or as carrier for 
+			<ref target="u0653">MADDAH ABOVE</ref> (see <ref target="u0622">ALEF WITH MADDA ABOVE</ref>), 
+			<ref target="u0654">HAMZA ABOVE</ref> (see <ref target="u0623">ALEF WITH HAMZA ABOVE</ref>), 
+			<ref target="u0655">HAMZA BELOW</ref> (see <ref target="u0625">ALEF WITH HAMZA BELOW</ref>) 
+			or WASLA (see <ref target="u0671">ALEF WASLA</ref>).
+		</note>
+		<mapping type="standard">&#x627;</mapping>
+		<mapping type="internal">A</mapping>
+		<mapping type="buckw">A</mapping>
+		<mapping type="buckw2">A</mapping>
+	</char>
+	<char xml:id="u0628">
+		<charName>ARABIC LETTER BEH</charName>
+		<mapping type="standard">&#x628;</mapping>
+		<mapping type="internal">b</mapping>
+		<mapping type="buckw">b</mapping>
+		<mapping type="buckw2">b</mapping>
+	</char>
+	<char xml:id="u0629">
+		<charName>ARABIC LETTER TEH MARBUTA</charName>
+		<mapping type="standard">&#x629;</mapping>
+		<mapping type="internal">p</mapping>
+		<mapping type="buckw">p</mapping>
+		<mapping type="buckw2">p</mapping>
+	</char>
+	<char xml:id="u062A">
+		<charName>ARABIC LETTER TEH</charName>
+		<mapping type="standard">&#x62A;</mapping>
+		<mapping type="internal">z</mapping>
+		<mapping type="buckw">z</mapping>
+		<mapping type="buckw2">z</mapping>
+	</char>
+	<char xml:id="u062B">
+		<charName>ARABIC LETTER THEH</charName>
+		<mapping type="standard">&#x62B;</mapping>
+		<mapping type="internal">v</mapping>
+		<mapping type="buckw">v</mapping>
+		<mapping type="buckw2">v</mapping>
+	</char>
+	<char xml:id="u062C">
+		<charName>ARABIC LETTER JEEM</charName>
+		<mapping type="standard">&#x62C;</mapping>
+		<mapping type="internal">j</mapping>
+		<mapping type="buckw">j</mapping>
+		<mapping type="buckw2">j</mapping>
+	</char>
+	<char xml:id="u062D">
+		<charName>ARABIC LETTER HAH</charName>
+		<mapping type="standard">&#x62D;</mapping>
+		<mapping type="internal">H</mapping>
+		<mapping type="buckw">H</mapping>
+		<mapping type="buckw2">H</mapping>
+	</char>
+	<char xml:id="u062E">
+		<charName>ARABIC LETTER KHAH</charName>
+		<mapping type="standard">&#x62E;</mapping>
+		<mapping type="internal">x</mapping>
+		<mapping type="buckw">x</mapping>
+		<mapping type="buckw2">x</mapping>
+	</char>
+	<char xml:id="u062F">
+		<charName>ARABIC LETTER DAL</charName>
+		<mapping type="standard">&#x62F;</mapping>
+		<mapping type="internal">d</mapping>
+		<mapping type="buckw">d</mapping>
+		<mapping type="buckw2">d</mapping>
+	</char>
+	<char xml:id="u0630">
+		<charName>ARABIC LETTER THAL</charName>
+		<mapping type="standard">&#x630;</mapping>
+		<mapping type="internal">c</mapping>
+		<mapping type="buckw">&#x2A;</mapping>
+		<mapping type="buckw2">&#x2A;</mapping>
+	</char>
+	<char xml:id="u0631">
+		<charName>ARABIC LETTER REH</charName>
+		<mapping type="standard">&#x631;</mapping>
+		<mapping type="internal">r</mapping>
+		<mapping type="buckw">r</mapping>
+		<mapping type="buckw2">r</mapping>
+	</char>
+	<char xml:id="u0632">
+		<charName>ARABIC LETTER ZAIN</charName>
+		<mapping type="standard">&#x632;</mapping>
+		<mapping type="internal">z</mapping>
+		<mapping type="buckw">z</mapping>
+		<mapping type="buckw2">z</mapping>
+	</char>
+	<char xml:id="u0633">
+		<charName>ARABIC LETTER SEEN</charName>
+		<mapping type="standard">&#x633;</mapping>
+		<mapping type="internal">s</mapping>
+		<mapping type="buckw">s</mapping>
+		<mapping type="buckw2">s</mapping>
+	</char>
+	<char xml:id="u0634">
+		<charName>ARABIC LETTER SHEEN</charName>
+		<mapping type="standard">&#x634;</mapping>
+		<mapping type="internal">X</mapping>
+		<mapping type="buckw">&#x24;</mapping>
+		<mapping type="buckw2">&#x24;</mapping>
+	</char>
+	<char xml:id="u0635">
+		<charName>ARABIC LETTER SAD</charName>
+		<mapping type="standard">&#x635;</mapping>
+		<mapping type="internal">S</mapping>
+		<mapping type="buckw">S</mapping>
+		<mapping type="buckw2">S</mapping>
+	</char>
+	<char xml:id="u0636">
+		<charName>ARABIC LETTER DAD</charName>
+		<mapping type="standard">&#x636;</mapping>
+		<mapping type="internal">D</mapping>
+		<mapping type="buckw">D</mapping>
+		<mapping type="buckw2">D</mapping>
+	</char>
+	<char xml:id="u0637">
+		<charName>ARABIC LETTER TAH</charName>
+		<mapping type="standard">&#x637;</mapping>
+		<mapping type="internal">T</mapping>
+		<mapping type="buckw">T</mapping>
+		<mapping type="buckw2">T</mapping>
+	</char>
+	<char xml:id="u0638">
+		<charName>ARABIC LETTER ZAH</charName>
+		<mapping type="standard">&#x638;</mapping>
+		<mapping type="internal">Z</mapping>
+		<mapping type="buckw">Z</mapping>
+		<mapping type="buckw2">Z</mapping>
+	</char>
+	<char xml:id="u0639">
+		<charName>ARABIC LETTER AIN</charName>
+		<mapping type="standard">&#x639;</mapping>
+		<mapping type="internal">E</mapping>
+		<mapping type="buckw">E</mapping>
+		<mapping type="buckw2">E</mapping>
+	</char>
+	<char xml:id="u063A">
+		<charName>ARABIC LETTER GHAIN</charName>
+		<mapping type="standard">&#x63A;</mapping>
+		<mapping type="internal">g</mapping>
+		<mapping type="buckw">g</mapping>
+		<mapping type="buckw2">g</mapping>
+	</char>
+	<char xml:id="u0640">
+		<charName>ARABIC TATWEEL</charName>
+		<desc>Inserted to carry tashkil (
+			<ref target="u064B">FATHATAN</ref>, 
+			<ref target="u064C">DAMMATAN</ref>, 
+			<ref target="u064D">KASRATAN</ref>, 
+			<ref target="u064E">FATHA</ref>, 
+			<ref target="u064F">DAMMA</ref>, 
+			<ref target="u0650">KASRA</ref>, 
+			<ref target="u0651">SHADDA</ref>, 
+			<ref target="u0652">SUKUN</ref> and
+			<ref target="u0670">SUPERSCRIPT ALEF</ref>
+			) with no base letter:
+		</desc>
+		<mapping type="standard">&#x640;</mapping>
+		<mapping type="internal">B</mapping>
+		<mapping type="buckw">&#x5F;</mapping>
+	</char>
+	<char xml:id="u0641">
+		<charName>ARABIC LETTER FEH</charName>
+		<mapping type="standard">&#x641;</mapping>
+		<mapping type="internal">f</mapping>
+		<mapping type="buckw">f</mapping>
+		<mapping type="buckw2">f</mapping>
+	</char>
+	<char xml:id="u0642">
+		<charName>ARABIC LETTER QAF</charName>
+		<mapping type="standard">&#x642;</mapping>
+		<mapping type="internal">q</mapping>
+		<mapping type="buckw">q</mapping>
+		<mapping type="buckw2">q</mapping>
+	</char>
+	<char xml:id="u0643">
+		<charName>ARABIC LETTER KAF</charName>
+		<mapping type="standard">&#x643;</mapping>
+		<mapping type="internal">k</mapping>
+		<mapping type="buckw">k</mapping>
+		<mapping type="buckw2">k</mapping>
+	</char>
+	<char xml:id="u0644">
+		<charName>ARABIC LETTER LAM</charName>
+		<mapping type="standard">&#x644;</mapping>
+		<mapping type="internal">l</mapping>
+		<mapping type="buckw">l</mapping>
+		<mapping type="buckw2">l</mapping>
+	</char>
+	<char xml:id="u0645">
+		<charName>ARABIC LETTER MEEM</charName>
+		<mapping type="standard">&#x645;</mapping>
+		<mapping type="internal">m</mapping>
+		<mapping type="buckw">m</mapping>
+		<mapping type="buckw2">m</mapping>
+	</char>
+	<char xml:id="u0646">
+		<charName>ARABIC LETTER NOON</charName>
+		<mapping type="standard">&#x646;</mapping>
+		<mapping type="internal">n</mapping>
+		<mapping type="buckw">n</mapping>
+		<mapping type="buckw2">n</mapping>
+	</char>
+	<char xml:id="u0647">
+		<charName>ARABIC LETTER HEH</charName>
+		<mapping type="standard">&#x647;</mapping>
+		<mapping type="internal">h</mapping>
+		<mapping type="buckw">h</mapping>
+		<mapping type="buckw2">h</mapping>
+	</char>
+	<char xml:id="u0648">
+		<charName>ARABIC LETTER WAW</charName>
+		<note>Can be used individually or as carrier for <ref target="u0654">HAMZA ABOVE</ref> (see <ref target="u0624">WAW WITH HAMZA ABOVE</ref>).</note>
+		<mapping type="standard">&#x648;</mapping>
+		<mapping type="internal">w</mapping>
+		<mapping type="buckw">w</mapping>
+		<mapping type="buckw2">w</mapping>
+	</char>
+	<char xml:id="u0649">
+		<charName>ARABIC LETTER ALEF MAKSURA</charName>
+		<desc>Flexible <ref target="u0627">ALEF</ref> which is written like <ref target="u064A">YEH</ref> without dots and is only used in final position.</desc>
+		<note>Not intended to be used as carrier for <ref target="u0654">HAMZA ABOVE</ref>!</note>
+		<mapping type="standard">&#x649;</mapping>
+		<mapping type="internal">I</mapping>
+		<mapping type="buckw">Y</mapping>
+		<mapping type="buckw2">Y</mapping>
+	</char>
+	<char xml:id="u064A">
+		<charName>ARABIC LETTER YEH</charName>
+		<note>Can be used individually or as carrier for <ref target="u0654">HAMZA ABOVE</ref> when it looses its dots (see <ref target="u0626">YEH WITH HAMZA ABOVE</ref>).</note>
+		<mapping type="standard">&#x64A;</mapping>
+		<mapping type="internal">y</mapping>
+		<mapping type="buckw">y</mapping>
+		<mapping type="buckw2">y</mapping>
+	</char>
+	<char xml:id="u064B">
+		<charName>ARABIC FATHATAN</charName>
+		<mapping type="standard">&#x64B;</mapping>
+		<mapping type="internal">F</mapping>
+		<mapping type="buckw">F</mapping>
+		<mapping type="buckw2">F</mapping>
+	</char>
+	<char xml:id="u064C">
+		<charName>ARABIC DAMMATAN</charName>
+		<mapping type="standard">&#x64C;</mapping>
+		<mapping type="internal">N</mapping>
+		<mapping type="buckw">N</mapping>
+		<mapping type="buckw2">N</mapping>
+	</char>
+	<char xml:id="u064D">
+		<charName>ARABIC KASRATAN</charName>
+		<mapping type="standard">&#x64D;</mapping>
+		<mapping type="internal">K</mapping>
+		<mapping type="buckw">K</mapping>
+		<mapping type="buckw2">K</mapping>
+	</char>
+	<char xml:id="u064E">
+		<charName>ARABIC FATHA</charName>
+		<mapping type="standard">&#x64E;</mapping>
+		<mapping type="internal">a</mapping>
+		<mapping type="buckw">a</mapping>
+		<mapping type="buckw2">a</mapping>
+	</char>
+	<char xml:id="u064F">
+		<charName>ARABIC DAMMA</charName>
+		<mapping type="standard">&#x64F;</mapping>
+		<mapping type="internal">u</mapping>
+		<mapping type="buckw">u</mapping>
+		<mapping type="buckw2">u</mapping>
+	</char>
+	<char xml:id="u0650">
+		<charName>ARABIC KASRA</charName>
+		<mapping type="standard">&#x650;</mapping>
+		<mapping type="internal">i</mapping>
+		<mapping type="buckw">i</mapping>
+		<mapping type="buckw2">i</mapping>
+	</char>
+	<char xml:id="u0651">
+		<charName>ARABIC SHADDA</charName>
+		<desc>Marks duplication of character</desc>
+		<mapping type="standard">&#x651;</mapping>
+		<mapping type="internal">R</mapping>
+		<mapping type="buckw2">&#x7E;</mapping>
+	</char>
+	<char xml:id="u0652">
+		<charName>ARABIC SUKUN</charName>
+		<desc>Marks absence of vowel</desc>
+		<mapping type="standard">&#x652;</mapping>
+		<mapping type="internal">o</mapping>
+		<mapping type="buckw">o</mapping>
+		<mapping type="buckw2">o</mapping>
+	</char>
+	<char xml:id="u0653">
+		<charName>ARABIC MADDAH ABOVE</charName>
+		<desc>Marks elongation of character</desc>
+		<note>Individual or for segmentation of <ref target="u0622">ALEF WITH MADDA ABOVE</ref></note>
+		<mapping type="standard">&#x653;</mapping>
+		<mapping type="internal">L</mapping>
+		<mapping type="buckw2">&#x3D;</mapping>
+	</char>
+	<char xml:id="u0654">
+		<charName>ARABIC HAMZA ABOVE</charName>
+		<note>Only for segmentation of <ref target="u0623">ALEF WITH HAMZA ABOVE</ref>, <ref target="u0624">WAW WITH HAMZA ABOVE</ref> and <ref target="u0626">YEH WITH HAMZA ABOVE</ref></note>
+		<mapping type="standard">&#x654;</mapping>
+		<mapping type="internal">&#x7B;</mapping>
+		<mapping type="buckw2">&#x5E;</mapping>
+	</char>
+	<char xml:id="u0655">
+		<charName>ARABIC HAMZA BELOW</charName>
+		<note>Only for segmentation of <ref target="u0625">ALEF WITH HAMZA BELOW</ref></note>
+		<mapping type="standard">&#x655;</mapping>
+		<mapping type="internal">&#x7D;</mapping>
+		<mapping type="buckw2">&#x5F;</mapping>
+	</char>
+	<char xml:id="u0670">
+		<charName>ARABIC LETTER SUPERSCRIPT ALEF</charName>
+		<desc>Indicates that the preceding FATHA has to be elongated.</desc>
+		<mapping type="standard">&#x670;</mapping>
+		<mapping type="internal">e</mapping>
+		<mapping type="buckw">&#x60;</mapping>
+		<mapping type="buckw2">&#x60;</mapping>
+	</char>
+	<char xml:id="u0671">
+		<charName>ARABIC LETTER ALEF WASLA</charName>
+		<desc>Marks quiescient <ref target="u0623">ALEF</ref> in initial position.</desc>
+		<note>This letter cannot be decomposed.</note>
+		<mapping type="standard">&#x671;</mapping>
+		<mapping type="internal">Q</mapping>
+		<mapping type="buckw">&#x7B;</mapping>
+		<mapping type="buckw2">A&#x40;</mapping>
+	</char>
+	<char xml:id="u067E">
+		<charName>ARABIC LETTER PEH</charName>
+		<note>Only for lang="fa"</note>
+		<mapping type="standard">&#x67E;</mapping>
+		<mapping type="internal">P</mapping>
+		<mapping type="buckw">P</mapping>
+		<mapping type="buckw2">P</mapping>
+	</char>
+	<char xml:id="u0686">
+		<charName>ARABIC LETTER TCHEH</charName>
+		<note>Only for lang="fa"</note>
+		<mapping type="standard">&#x686;</mapping>
+		<mapping type="internal">J</mapping>
+		<mapping type="buckw">J</mapping>
+		<mapping type="buckw2">J</mapping>
+	</char>
+	<char xml:id="u06A4">
+		<charName>ARABIC LETTER VEH</charName>
+		<note>Only for lang="fa"</note>
+		<mapping type="standard">&#x6A4;</mapping>
+		<mapping type="internal">V</mapping>
+		<mapping type="buckw">V</mapping>
+		<mapping type="buckw2">V</mapping>
+	</char>
+	<char xml:id="u06AF">
+		<charName>ARABIC LETTER GAF</charName>
+		<note>Only for lang="fa"</note>
+		<mapping type="standard">&#x6AF;</mapping>
+		<mapping type="internal">G</mapping>
+		<mapping type="buckw">G</mapping>
+		<mapping type="buckw2">G</mapping>
+	</char>
+</charDecl>
+<charDecl type="greek">
+</charDecl>
+<charDecl type="hebrew">
+</charDecl>
+<charDecl type="syriac">
+</charDecl>
+'>
+<!-- Define listNym with all gramatical terms and assign them to ENTITY terms. -->
+<!ENTITY terms '
+<listNym type="terms">
+	<nym xml:id="tAccord">
+		<etym>
+			<abbr>Accord.</abbr>
+			<expan resp="EWL">according</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAccusCase">
+		<etym>
+			<abbr>Accus. case</abbr>
+			<expan resp="EWL">Accusative case, <foreign lang="ar">naSobN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAct">
+		<etym>
+			<abbr>Act.</abbr>
+			<expan resp="EWL">Active, <foreign lang="ar">mabonieBN lilofaAEili</foreign> or <foreign lang="ar">lilomaEoluwmi</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tActPartN">
+		<etym>
+			<abbr>Act. part. n.</abbr>
+			<expan resp="EWL">Active participial noun, <foreign lang="ar">Aisomu faAEilK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAdvN">
+		<etym>
+			<abbr>Adv. n.</abbr>
+			<expan resp="EWL">Adverbial noun, <foreign lang="ar">ZarofN</foreign>, and sometimes <foreign lang="ar">SifapN</foreign>; of place, <foreign lang="ar">Zarofu makaAnK</foreign>; and of time, <foreign lang="ar">Zarofu zamaAnK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAgent">
+		<etym>
+			<abbr>Agent</abbr>
+			<expan resp="EWL">Agent, <foreign lang="ar">faAEilN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAnalogous">
+		<etym>
+			<abbr>Analogous</abbr>
+			<expan resp="EWL">Analogous, <ref target="tRegular">or regular</ref>, <foreign lang="ar">qiyaAsieBN</foreign> and <foreign lang="ar">maqiysN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAnalogy">
+		<etym>
+			<abbr>Analogy</abbr>
+			<expan resp="EWL">Analogy, <foreign lang="ar">fiyaAsN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAnomalous">
+		<etym>
+			<abbr>Anomalous</abbr>
+			<expan resp="EWL">Anomalous <ref target="tIrregular">or irregular</ref>, <foreign lang="ar">gayoru qiyaAsieBK</foreign> and <foreign lang="ar">gayoru maqiysK</foreign> or <foreign lang="ar">XaAcBN</foreign> (<ref target="tDev">see “Dev.”</ref>) or <foreign lang="ar">naAdirN</foreign> (<ref target="tExtr">see “Extr.”</ref>).</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAor">
+		<etym>
+			<abbr>Aor.</abbr>
+			<expan resp="EWL">Aorist, <foreign lang="ar">muDaAriEN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAplastic">
+		<etym>
+			<abbr>Aplastic</abbr>
+			<expan resp="EWL">Aplastic applied to a noun and to a verb, <foreign lang="ar">jaAmidN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tApp">
+		<etym>
+			<abbr>App.</abbr>
+			<expan resp="EWL">apparently</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAppositive">
+		<etym>
+			<abbr>Appositive</abbr>
+			<expan resp="EWL">Appositive, <foreign lang="ar">taAbiEN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tAttribute">
+		<etym>
+			<abbr>Attribute</abbr>
+			<expan resp="EWL">Attribute, <ref target="tPredicate">or predicate</ref>, <foreign lang="ar">musonadN</foreign> and <foreign lang="ar">xabarN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tBrokenPl">
+		<etym>
+			<abbr>Broken pl.</abbr>
+			<expan resp="EWL">Broken plural, <foreign lang="ar">jamoEN mukasBarN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tCollGenN">
+		<etym>
+			<abbr>Coll. gen. n.</abbr>
+			<expan resp="EWL">Collective generic noun, <foreign lang="ar">Aisomu jinosK jamoEieBN</foreign>; also called a lexicological plural, <foreign lang="ar">jamoEN lugawieBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tComplhient">
+		<etym>
+			<abbr>Complhient</abbr>
+			<expan resp="EWL">Complhient of a prefixed noun, <foreign lang="ar">muDaAfN Iilayohi</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tComplete">
+		<etym>
+			<abbr>Complete</abbr>
+			<expan resp="EWL">Complete, <hi>i. e.</hi> attributive, verb, <foreign lang="ar">fiEolN taAmBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tConj">
+		<etym>
+			<abbr>Conj.</abbr>
+			<expan resp="EWL">Conjugation, <foreign lang="ar">baAbN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tConjunct">
+		<etym>
+			<abbr>Conjunct</abbr>
+			<expan resp="EWL">Conjunct noun, <foreign lang="ar">mawoSuwlN QsomieBN</foreign>: conjunct particle, <foreign lang="ar">mawoSuwlN HarofieBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tConjunction">
+		<etym>
+			<abbr>Conjunction</abbr>
+			<expan resp="EWL">Conjunction, <foreign lang="ar">Harofu EaTofK</foreign> and <foreign lang="ar">HarofN EaATifN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tContr">
+		<etym>
+			<abbr>Contr.</abbr>
+			<expan resp="EWL">contrary</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tConvventional">
+		<etym>
+			<abbr>conventional</abbr>
+			<expan resp="EWL">Conventional term, <foreign lang="ar">AiSoTilaAHN</foreign>. ― Conventional language, <foreign lang="ar">EurofN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tCorroborative">
+		<etym>
+			<abbr>Corroborative</abbr>
+			<expan resp="EWL">Corroborative, <foreign lang="ar">taOokiydN‏</foreign> and <foreign lang="ar">tawokiydN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tDecl">
+		<etym>
+			<abbr>Decl.</abbr>
+			<expan resp="EWL">Declinable, <foreign lang="ar">‏muEorabN</foreign>: perfectly decl., <foreign lang="ar">‏maSoruwfN</foreign> and <foreign lang="ar">‏ munoSarifN</foreign>: imperfectly decl., <foreign lang="ar">gayoru maSoruwfK</foreign> and <foreign lang="ar">‏gayoru munoSarifK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tDefective">
+		<etym>
+			<abbr>Defective verb</abbr>
+			<expan resp="EWL">Defective verb, <hi>i. e.</hi> having <foreign lang="ar">w</foreign> or <foreign lang="ar">e</foreign> for the last radical letter, <foreign lang="ar">fiEolN naAqiSN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tDev">
+		<etym>
+			<abbr>Dev.</abbr>
+			<expan resp="EWL">Deviating; as in the phrase, Deviating from the constant course of speech (with respect to analogy, or rule, or with respect to usage); <foreign lang="ar">XaAcBN</foreign>. This term and <foreign lang="ar">naAdirN</foreign> (<ref target="tExtr">see “Extr.”</ref>) are often used in lexicons indiscriminately.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tDial">
+		<etym>
+			<abbr>Dial.</abbr>
+			<expan resp="EWL">Dialect, <foreign lang="ar">lugapN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tDialVar">
+		<etym>
+			<abbr>Dial. var. of</abbr>
+			<expan resp="EWL">Dial. var. of, <foreign lang="ar">lugapN fie</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tDim">
+		<etym>
+			<abbr>Dim.</abbr>
+			<expan resp="EWL">Diminutive, <foreign lang="ar">muSagBarN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tEnunciative">
+		<etym>
+			<abbr>Enunciative</abbr>
+			<expan resp="EWL">Enunciative, <foreign lang="ar">xabarN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tEpithet">
+		<etym>
+			<abbr>Epithet</abbr>
+			<expan resp="EWL">Epithet, and epithetic phrase, <foreign lang="ar">naEotN</foreign> and <foreign lang="ar">waSofN</foreign> and <foreign lang="ar">SifapN</foreign>. </expan>
+		</etym>
+	</nym>
+	<nym xml:id="tEx">
+		<etym>
+			<abbr>Ex.</abbr>
+			<expan resp="EWL">example</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tExpl">
+		<etym>
+			<abbr>Expl.</abbr>
+			<expan resp="EWL">explained</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tExpos">
+		<etym>
+			<abbr>Expos.</abbr>
+			<expan resp="EWL">Exposition, <foreign lang="ar">XaroHN</foreign> and <foreign lang="ar">tafosiyrN</foreign>: the latter particularly applied to an exposition of the Ḳur-án.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tExtr">
+		<etym>
+			<abbr>Extr.</abbr>
+			<expan resp="EWL">Extraordinary (with respect to analogy or rule, with respect to usage), <foreign lang="ar">naAdirN</foreign>. (<ref target="tDef">See “Dev.”</ref>)</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tFhi">
+		<etym>
+			<abbr>Fhi.</abbr>
+			<expan resp="EWL">Fhiinine, <foreign lang="ar">muWanBavN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tFut">
+		<etym>
+			<abbr>Fut.</abbr>
+			<expan resp="EWL">Future, <foreign lang="ar">musotaqobalN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tGenCase">
+		<etym>
+			<abbr>Gen. case</abbr>
+			<expan resp="EWL">Genitive case, <foreign lang="ar">xafoDN</foreign> and <foreign lang="ar">jarBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tGenN">
+		<etym>
+			<abbr>Gen. n.</abbr>
+			<expan resp="EWL">Generic noun, <foreign lang="ar">Aisomu jinosK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tHollowVerb">
+		<etym>
+			<abbr>Hollow verb</abbr>
+			<expan resp="EWL">Hollow verb, <foreign lang="ar">fiEolN Oajowafu</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tHomonym">
+		<etym>
+			<abbr>Homonym</abbr>
+			<expan resp="EWL">Homonym, <foreign lang="ar">muXotarakN</foreign> for <foreign lang="ar">muXotarakN fiyhi</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tIQ">
+		<etym>
+			<abbr>I. q.</abbr>
+			<expan resp="EWL">I. q., <hi>for</hi> idhi quod.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tIdealSubst">
+		<etym>
+			<abbr>Ideal subst.</abbr>
+			<expan resp="EWL">Ideal (<ref target="tRealSubst">as opposed to real</ref>) subst., <foreign lang="ar">Aisomu maEonFe</foreign>, or simply <foreign lang="ar">maEonFe</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tImitativeSequent">
+		<etym>
+			<abbr>Imitative sequent</abbr>
+			<expan resp="EWL">Imitative sequent, <foreign lang="ar">IitobAaEN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tImperative">
+		<etym>
+			<abbr>Imperative</abbr>
+			<expan resp="EWL">Imperative, <foreign lang="ar">OamorN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tInchoative">
+		<etym>
+			<abbr>Inchoative</abbr>
+			<expan resp="EWL">Inchoative, <foreign lang="ar">mubotadaON</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tIncomplete">
+		<etym>
+			<abbr>Incomplete</abbr>
+			<expan resp="EWL">Incomplete, <hi>i. e.</hi> non-attributive, verb, <foreign lang="ar">fiEolN naAqiSN</foreign> or <foreign lang="ar">fiEolN gayorutaAmBK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tIndecl">
+		<etym>
+			<abbr>Indecl.</abbr>
+			<expan resp="EWL">Indeclinable, <foreign lang="ar">mabonieBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tInfN">
+		<etym>
+			<abbr>Inf. n.</abbr>
+			<expan resp="EWL">Infinitive noun, <foreign lang="ar">maSodarN</foreign>. Inf. n. of unity, <foreign lang="ar">maSodarN lilomarBapi</foreign>. Inf. n. of modality, <foreign lang="ar">maSodarN lilnBawoEi</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tInstrumentalNoun">
+		<etym>
+			<abbr>Instrumental noun,</abbr>
+			<expan resp="EWL">Instrumental noun, <foreign lang="ar">Aisomu MlapK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tIntrans">
+		<etym>
+			<abbr>Intrans.</abbr>
+			<expan resp="EWL">Intransitive, <foreign lang="ar">gayoru mutaEadBK</foreign> and <foreign lang="ar">laAzimN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tIrreg">
+		<etym>
+			<abbr>Irreg.</abbr>
+			<expan resp="EWL">Irregular: <ref target="tAnomalous">see “Anomalous.”</ref></expan>
+		</etym>
+	</nym>
+	<nym xml:id="tLit">
+		<etym>
+			<abbr>Lit.</abbr>
+			<expan resp="EWL">literally</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMahmoozVerb">
+		<etym>
+			<abbr>Maḥmooz verb</abbr>
+			<expan resp="EWL">Maḥmooz verb, <foreign lang="ar">fiEolN mahomuwzN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMansoobAor">
+		<etym>
+			<abbr>Manṣoob aor.</abbr>
+			<expan resp="EWL">Manṣoob aorist, <foreign lang="ar">muDaAriEN manoSuwbN</foreign>.,</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMasc">
+		<etym>
+			<abbr>Masc.</abbr>
+			<expan resp="EWL">Masculine, <foreign lang="ar">mucakBarN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMeasure">
+		<etym>
+			<abbr>Measure</abbr>
+			<expan resp="EWL">Measure, <foreign lang="ar">wazonN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMejzoomAor">
+		<etym>
+			<abbr>Mejzoom aor.</abbr>
+			<expan resp="EWL">Mejzoom aorist, <foreign lang="ar">muDaAriEN majozuwmN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMetaphor">
+		<etym>
+			<abbr>Metaphor</abbr>
+			<expan resp="EWL">Metaphor, <foreign lang="ar">AisotiEaArapN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMetaphorical">
+		<etym>
+			<abbr>Metaphorical</abbr>
+			<expan resp="EWL">Metaphorical, <foreign lang="ar">AisotiEaArieBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tMetonymy">
+		<etym>
+			<abbr>Metonymy</abbr>
+			<expan resp="EWL">Metonymy, <foreign lang="ar">kinaAyapN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tN">
+		<etym>
+			<abbr>N.</abbr>
+			<expan resp="EWL">Noun, <foreign lang="ar">AisomN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tNUn">
+		<etym>
+			<abbr>N. un.</abbr>
+			<expan resp="EWL">Noun of unity, <foreign lang="ar">waAHidapN</foreign> and <foreign lang="ar">waAHidN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tNomCase">
+		<etym>
+			<abbr>Nom. case</abbr>
+			<expan resp="EWL">Nominative case, <foreign lang="ar">rafoEN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tObjectiveComplhient">
+		<etym>
+			<abbr>Objective complhient</abbr>
+			<expan resp="EWL">Objective complhient of a verb, <foreign lang="ar">mafoEuwlN</foreign> or <foreign lang="ar">mafoEuwlN bihi</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPartN">
+		<etym>
+			<abbr>Part. n.</abbr>
+			<expan resp="EWL">Part. n.: <ref target="tActPartN">see “act. part. n.”</ref> <ref target="tPassPartN">and “pass. part. n.”</ref></expan>
+		</etym>
+	</nym>
+	<nym xml:id="tParticle">
+		<etym>
+			<abbr>Particle</abbr>
+			<expan resp="EWL">Particle, <foreign lang="ar">HarofN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPass">
+		<etym>
+			<abbr>Pass.</abbr>
+			<expan resp="EWL">Passive, <foreign lang="ar">mabonieBN lilomafoEuwli</foreign> or <foreign lang="ar">lilomajohuwli</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPassPartN">
+		<etym>
+			<abbr>Pass. part. n.</abbr>
+			<expan resp="EWL">Passive participial noun, <foreign lang="ar">Aisomu mafoEuwlK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPerfectPl">
+		<etym>
+			<abbr>Perfect pl.</abbr>
+			<expan resp="EWL">Perfect plural, <foreign lang="ar">jamoEN saAlimN</foreign>; also called <ref target="tSoundPl">a sound pl.</ref>, <foreign lang="ar">jamoEN SaHiyHN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPerfectVerb">
+		<etym>
+			<abbr>Perfect verb</abbr>
+			<expan resp="EWL">Perfect verb, <hi>i. e.</hi> one which has not two radical letters alike, nor has <foreign lang="ar">C</foreign> nor <foreign lang="ar">w</foreign> nor <foreign lang="ar">e</foreign> for one of its radical letters, <foreign lang="ar">fiEolN saAlimN</foreign>. (<ref target="tSoundVerb">See also “Sound verb.”</ref>)</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPers">
+		<etym>
+			<abbr>Pers.</abbr>
+			<expan resp="EWL">Person (of a verb).</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPl">
+		<etym>
+			<abbr>Pl.</abbr>
+			<expan resp="EWL">Plural, <foreign lang="ar">jamoEN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPlPauc.">
+		<etym>
+			<abbr>pl. of pauc.</abbr>
+			<expan resp="EWL">Plural of paucity, <foreign lang="ar">jamoEu filBapK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPlMult">
+		<etym>
+			<abbr>Pl. of mult.</abbr>
+			<expan resp="EWL">Plural of multitude, <foreign lang="ar">jamoEu kavorapK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPlPl">
+		<etym>
+			<abbr>Pl. pl.</abbr>
+			<expan resp="EWL">Plural of a plural, <foreign lang="ar">jamoEu jamoEK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPossessiveNoun">
+		<etym>
+			<abbr>Possessive noun</abbr>
+			<expan resp="EWL">Possessive noun or epithet (such as <foreign lang="ar">taAmirN</foreign> and <foreign lang="ar">laAbinN</foreign> &amp;c.), <foreign lang="ar">AisomN Ealae AlnBasabi</foreign> (a kind of relative noun).</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPost-classical">
+		<etym>
+			<abbr>Post-classical</abbr>
+			<expan resp="EWL">Post-classical, <foreign lang="ar">muwalBadN</foreign> and <foreign lang="ar">muHodavN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPredicate">
+		<etym>
+			<abbr>Predicate</abbr>
+			<expan resp="EWL">Predicate: <ref target="tAattribute">see “Attribute.”</ref></expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPrefixedNoun">
+		<etym>
+			<abbr>Prefixed noun</abbr>
+			<expan resp="EWL">Prefixed noun, <foreign lang="ar">muDaAfN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPrep">
+		<etym>
+			<abbr>Prep.</abbr>
+			<expan resp="EWL">Preposition, <foreign lang="ar">Harofu jarBK</foreign>, and sometimes <foreign lang="ar">SifapN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tPret">
+		<etym>
+			<abbr>Pret.</abbr>
+			<expan resp="EWL">Preterite, <foreign lang="ar">maADK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tProv">
+		<etym>
+			<abbr>Prov.</abbr>
+			<expan resp="EWL">Proverb, <foreign lang="ar">mavalN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQ">
+		<etym>
+			<abbr>Q.</abbr>
+			<expan resp="EWL">Quadriliteral-radical verb, <foreign lang="ar">fiEolN rubaAEieBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQQ">
+		<etym>
+			<abbr>Q. Q.</abbr>
+			<expan resp="EWL">Quasi-quadriliteral-radical verb, <foreign lang="ar">fiEolN muloHaqN biAlr~ubaAEieBi</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQV">
+		<etym>
+			<abbr>Q. v.</abbr>
+			<expan resp="EWL">Quod vide.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQuasiCoordinate">
+		<etym>
+			<abbr>Quasi-coordinate</abbr>
+			<expan resp="EWL">Quasi-coordinate, <foreign lang="ar">muloHaqN</foreign> <ref target="Root_lHq">see art. <foreign lang="ar">lHq</foreign></ref>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQuasiInfN">
+		<etym>
+			<abbr>Quasi-inf. n.</abbr>
+			<expan resp="EWL">quasi-infinitive noun, <foreign lang="ar">Aisomu maSodarK</foreign> and <foreign lang="ar">AisomN lilomaSodari</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQuasiPass">
+		<etym>
+			<abbr>Quasi-pass.</abbr>
+			<expan resp="EWL">Quasi-passive, <foreign lang="ar">muTaAwiEN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQuasiPlN">
+		<etym>
+			<abbr>Quasi-pl. n.</abbr>
+			<expan resp="EWL">Quasi-plural noun, <foreign lang="ar">Aisomu jamoEK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tQuasiSoundVerb">
+		<etym>
+			<abbr>Quasi-sound verb</abbr>
+			<expan resp="EWL">Quasi-sound verb, </expan>
+		</etym>
+	</nym>
+	<nym xml:id="tRQ">
+		<etym>
+			<abbr>R. Q.</abbr>
+			<expan resp="EWL">Reduplicative quadriliteral-radical verb, <foreign lang="ar">fiEolN rubaAEaeBN muDaAEafN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tRealSubst">
+		<etym>
+			<abbr>Real subst.</abbr>
+			<expan resp="EWL">Real (<ref target="tIdealSubst">as opposed to ideal</ref>) subst., <foreign lang="ar">Aisomu EayonK</foreign> or simply <foreign lang="ar">EayonN</foreign>, and <foreign lang="ar">Aisomu caAtK</foreign> or simply <foreign lang="ar">caAtN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tReceptacularNoun">
+		<etym>
+			<abbr>Receptacular noun</abbr>
+			<expan resp="EWL">Receptacular noun, <foreign lang="ar">Aisomu wiEaABCK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tReg">
+		<etym>
+			<abbr>Reg.</abbr>
+			<expan resp="EWL">Regular: <ref target="tAnalogous">see “Analogous.”</ref></expan>
+		</etym>
+	</nym>
+	<nym xml:id="tRelN">
+		<etym>
+			<abbr>Rel. n.</abbr>
+			<expan resp="EWL">Relative noun, <foreign lang="ar">AisomN manosuwbN</foreign> or <foreign lang="ar">nisobapN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSimpleSubst">
+		<etym>
+			<abbr>Simple subst.</abbr>
+			<expan resp="EWL">Simple subst. (<ref target="tInfN">as opposed to inf. n.</ref>), <foreign lang="ar">AisomN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSing">
+		<etym>
+			<abbr>Sing.</abbr>
+			<expan resp="EWL">Singular, <foreign lang="ar">muforadN</foreign> and <foreign lang="ar">waAHidN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSoundPl">
+		<etym>
+			<abbr>Sound pl.</abbr>
+			<expan resp="EWL">Sound plural: <ref target="tPerfectPl">see “Perfect pl.”</ref></expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSoundVerb">
+		<etym>
+			<abbr>Sound verb</abbr>
+			<expan resp="EWL">Sound verb, <hi>i. e.</hi> one which is not of the class termed “perfect,” but which has not <foreign lang="ar">w</foreign> nor <foreign lang="ar">e</foreign> for one of its radical letters: or, as used in the ʼEyn and several other lexicons, one that has not <foreign lang="ar">w</foreign> nor <foreign lang="ar">e</foreign> nor <foreign lang="ar">C</foreign> for one of its radical letters: <foreign lang="ar">fiEolN SaHiyHN</foreign> (<ref target="tPerfectVerb">See “Perfect verb.”</ref>)</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSpecificative">
+		<etym>
+			<abbr>Specificative</abbr>
+			<expan resp="EWL">Specificative, or discriminative, <foreign lang="ar">tamoyiyzN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tState">
+		<etym>
+			<abbr>State</abbr>
+			<expan resp="EWL">State, denotative of, <foreign lang="ar">HaAlN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSubject">
+		<etym>
+			<abbr>Subject</abbr>
+			<expan resp="EWL">Subject (as correlative <ref target="tAttribute">of attribute</ref> <ref target="tPredicate">or predicate</ref>), <foreign lang="ar">musonadN Iilayohi</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSubst">
+		<etym>
+			<abbr>Subst</abbr>
+			<expan resp="EWL">Substantive, <foreign lang="ar">AisomN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSubstitute">
+		<etym>
+			<abbr>Substitute</abbr>
+			<expan resp="EWL">Substitute, <foreign lang="ar">badalN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSyllSigns">
+		<etym>
+			<abbr>Syll. signs</abbr>
+			<expan resp="EWL">Syllabical signs, <foreign lang="ar">XakolN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSyn">
+		<etym>
+			<abbr>Syn.</abbr>
+			<expan resp="EWL">Synonym and synonymous, <foreign lang="ar">muraAdifN</foreign> and <foreign lang="ar">mutaraAdifN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSynWith">
+		<etym>
+			<abbr>Syn. with</abbr>
+			<expan resp="EWL">Synonymous with, <foreign lang="ar">lugapN fie</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tTrad">
+		<etym>
+			<abbr>Trad.</abbr>
+			<expan resp="EWL">Tradition, <foreign lang="ar">HadiyvN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tTrans">
+		<etym>
+			<abbr>Trans.</abbr>
+			<expan resp="EWL">Transitive, <foreign lang="ar">mutaEadBK</foreign> and <foreign lang="ar">waAqiEN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tTransposition">
+		<etym>
+			<abbr>Transposition</abbr>
+			<expan resp="EWL">Transposition, <foreign lang="ar">falobN</foreign>. Formed by transposition, <foreign lang="ar">maqoluwbN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tTropical">
+		<etym>
+			<abbr>Tropical</abbr>
+			<expan resp="EWL">Tropical, <foreign lang="ar">majaAzN</foreign> and <foreign lang="ar">majaAzieBN</foreign>.</expan>
+			<note>Metaphor and methaphorical</note>
+		</etym>
+	</nym>
+	<nym xml:id="tUnsoundVerb">
+		<etym>
+			<abbr>Unsound verb</abbr>
+			<expan resp="EWL">Unsound verb, <hi>i. e.</hi> one having <foreign lang="ar">w</foreign> or <foreign lang="ar">e</foreign> for one of its radical letters: or, as used in the ʼEyn and several other lexicons, one having <foreign lang="ar">w</foreign> or <foreign lang="ar">e</foreign> or <foreign lang="ar">C</foreign> for one of its radical letters: <foreign lang="ar">fiEolN muEotalBN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tV">
+		<etym>
+			<abbr>V.</abbr>
+			<expan resp="EWL">Verb, <foreign lang="ar">fiEolN</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tVerbalNoun">
+		<etym>
+			<abbr>Verbal noun</abbr>
+			<expan resp="EWL">Verbal noun, <foreign lang="ar">Aisomu fiEolK</foreign>.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tATrop">
+		<etym>
+			<abbr>‡</abbr>
+			<expan resp="EWL">Asserted to be tropical.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tA2Trop">
+		<etym>
+			<abbr>‡‡</abbr>
+			<expan resp="EWL">Asserted to be doubly tropical.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="tSTrop">
+		<etym>
+			<abbr>†</abbr>
+			<expan resp="EWL">Supposed by me to be tropical.</expan>
+		</etym>
+	</nym>
+</listNym>
+'>
+<!-- Define listNym with all authorities and assign them to ENTITY authorities. -->
+<!ENTITY authorities '
+<listNym type="authorities">
+	<nym xml:id="aA">
+		<etym>
+			<abbr>A</abbr>
+			<expan resp="EWL">The “Asás” of Ez-Zamakhsheree.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAA">
+		<etym>
+			<abbr>AA</abbr>
+			<expan resp="EWL">Aboo-ʼAmr Ibn-El-ʼAlà, and Aboo-ʼAmr Esh-Sheybánee: each being cited simply by the name of “Aboo-ʼAmr.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAAF">
+		<etym>
+			<abbr>AAF</abbr>
+			<expan resp="EWL">Aboo-ʼAlee El-Fárisee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aADk">
+		<etym>
+			<abbr>ADḳ</abbr>
+			<expan resp="EWL">Abu-d-Duḳeysh</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAHat">
+		<etym>
+			<abbr>AḤát</abbr>
+			<expan resp="EWL">Aboo-Ḥátim Es-Sijistánee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAHei">
+		<etym>
+			<abbr>AḤei</abbr>
+			<expan resp="EWL">Aboo-Ḥeiyán</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAHeyth">
+		<etym>
+			<abbr>AHeyth</abbr>
+			<expan resp="EWL">Abu-l-Heythem</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAHn">
+		<etym>
+			<abbr>AḤn</abbr>
+			<expan resp="EWL">Aboo-Ḥaneefeh Ed-Deenawaree, author of the “Book of Plants.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAM">
+		<etym>
+			<abbr>AM</abbr>
+			<expan resp="EWL">Aboo-Manṣoor (same as Az)</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAO">
+		<etym>
+			<abbr>AO</abbr>
+			<expan resp="EWL">Aboo-ʼObeyde</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAObeyd">
+		<etym>
+			<abbr>A’Obeyd</abbr>
+			<expan resp="EWL">Aboo-ʼObeyd</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAZ">
+		<etym>
+			<abbr>AZ</abbr>
+			<expan resp="EWL">Aboo-Zeyd</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAal">
+		<etym>
+			<abbr>Aạl</abbr>
+			<expan resp="EWL">El-Aạlam</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAkh">
+		<etym>
+			<abbr>Akh</abbr>
+			<expan resp="EWL">El-Akhfash</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAs">
+		<etym>
+			<abbr>Aṣ</abbr>
+			<expan resp="EWL">El-Aṣma’ee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aAz">
+		<etym>
+			<abbr>Az</abbr>
+			<expan resp="EWL">El-Azheree (same as AM), author of the “Tahdheeb.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aB">
+		<etym>
+			<abbr>B</abbr>
+			<expan resp="EWL">The “Baṣáʼïr,” by the author of the “Ḳámoos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aBd">
+		<etym>
+			<abbr>Bḍ</abbr>
+			<expan resp="EWL">El-Beyḍáwee’s “Exposition of the Ḳur-án.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aBkh">
+		<etym>
+			<abbr>Bkh</abbr>
+			<expan resp="EWL">EI-Bukháree</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aBtl">
+		<etym>
+			<abbr>Bṭl</abbr>
+			<expan resp="EWL">El-Baṭalyowsee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aCK">
+		<etym>
+			<abbr>CḲ</abbr>
+			<expan resp="EWL">The Calcutta edition of the “Ḳámoos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aDmr">
+		<etym>
+			<abbr>Dmr</abbr>
+			<expan resp="EWL">Ed-Demeeree</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aEM">
+		<etym>
+			<abbr>EM</abbr>
+			<expan resp="EWL">The “Exposition of the Moʼallaḳát,” printed at Calcutta.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aF">
+		<etym>
+			<abbr>F</abbr>
+			<expan resp="EWL">El-Feyroozábádee, author of the “Ḳámoos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aFei">
+		<etym>
+			<abbr>Fei</abbr>
+			<expan resp="EWL">El-Feiyoomee, author of the “Miṣbáḥ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aFr">
+		<etym>
+			<abbr>Fr</abbr>
+			<expan resp="EWL">EI-Farrà</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aFs">
+		<etym>
+ 			<abbr>Fṣ</abbr>
+			<expan resp="EWL">The “Faṣeeḥ” of Thaạlab.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aHam">
+		<etym>
+			<abbr>Ḥam</abbr>
+			<expan resp="EWL">The “Exposition of the Ḥamáseh,” (“Hamasæ Carmina,”) by Et-Tebreezee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aHar">
+		<etym>
+			<abbr>Ḥar</abbr>
+			<expan resp="EWL"><choice type="corr"><sic>El-Hareereeʼs</sic><corr resp="WHL">El-Ḥareereeʼs</corr></choice> “Maḳámát,” the Commentary on; 2nd edit. of Paris.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aHr">
+		<etym>
+			<abbr>Hr</abbr>
+			<expan resp="EWL">El-Harawee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIAar">
+		<etym>
+			<abbr>IAạr</abbr>
+			<expan resp="EWL">Ibn-El-Aạrábee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIAb">
+		<etym>
+			<abbr>I’Ab</abbr>
+			<expan resp="EWL">Ibn-ʼAbbás</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIAk">
+		<etym>
+			<abbr>I’Aḳ</abbr>
+			<expan resp="EWL">Ibn-ʼAḳeel&#x27;s “Exposition of the Alfeeyeh of Ibn-Málik,” edited by Dr. Dieterici.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIAmb">
+		<etym>
+			<abbr>IAmb</abbr>
+			<expan resp="EWL">Ibn-El-Ambáree</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIAth">
+		<etym>
+			<abbr>IAth</abbr>
+			<expan resp="EWL">Ibn-El-Atheer El-Jezeree, (Mejd-ed-Deen,) author of the “Niháyeh.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIB">
+		<etym>
+			<abbr>IB</abbr>
+			<expan resp="EWL">Ibn-Barree, author of the “Annotations on the Ṣiḥáḥ,” with El-Busṭee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="alDrd">
+		<etym>
+			<abbr>lDrd</abbr>
+			<expan resp="EWL">Ibn-Dureyd, author of the “Jemharah” &amp;c.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIDrst">
+		<etym>
+			<abbr>IDrst</abbr>
+			<expan resp="EWL">Ibn-Durustaweyh</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIF">
+		<etym>
+			<abbr>IF</abbr>
+			<expan resp="EWL">Ibn-Fáris, author of the “Mujmal.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIHsh">
+		<etym>
+			<abbr>IHsh</abbr>
+			<expan resp="EWL">Ibn-Hishám, author of the “Mughnee.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIJ">
+		<etym>
+			<abbr>IJ</abbr>
+			<expan resp="EWL">Ibn-Jinnee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIKh">
+		<etym>
+			<abbr>IKh</abbr>
+			<expan resp="EWL">Ibn-Khálaweyh</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIKoot">
+		<etym>
+			<abbr>IḲooṭ</abbr>
+			<expan resp="EWL">Ibn-El-Ḳooṭeeye</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIKt">
+		<etym>
+			<abbr>IḲt</abbr>
+			<expan resp="EWL">Ibn-Ḳuteybeh</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIKtt">
+		<etym>
+			<abbr>IḲṭṭ</abbr>
+			<expan resp="EWL">Ibn-El-Ḳaṭṭáạ</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIM">
+		<etym>
+			<abbr>IM</abbr>
+			<expan resp="EWL">Ibn-Mukarram, (commonly called in the Táj el-ʼAroos “Ibn- Manḍhoor,”) author of the “Lisán el-ʼArab.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aIO">
+		<etym>
+			<abbr>IO</abbr>
+			<expan resp="EWL">Ibn-ʼOdeys</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aISd">
+		<etym>
+			<abbr>ISd</abbr>
+			<expan resp="EWL">Ibn-Seedeh, author of the “Moḥkam.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aISh">
+		<etym>
+			<abbr>ISh</abbr>
+			<expan resp="EWL">Ibn-Shumeyl (En-Naḍr).</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aISk">
+		<etym>
+			<abbr>ISk</abbr>
+			<expan resp="EWL">Ibn-Es-Sikkeet (Yaạḳoob).</expan>
+		</etym>
+	</nym>
+	<nym xml:id="albrD">
+		<etym>
+			<abbr>lbrD</abbr>
+			<expan resp="EWL">Ibráheem Ed-Dasooḳee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aJ">
+		<etym>
+			<abbr>J</abbr>
+			<expan resp="EWL">El-Jowharee, author of the “Ṣiḥáḥ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aJK">
+		<etym>
+			<abbr>JK</abbr>
+			<expan resp="EWL">A MS. supposed to be the “Jámiʼ” of El-Karmánee: a lexicon founded upon the “ʼEyn,” with additions from the “Tekmilet el-ʼEyn” of El-Khárzenjee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aJM">
+		<etym>
+			<abbr>JM</abbr>
+			<expan resp="EWL">The “Jámiʼ” of the seyyid Moḥammad.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aJel">
+		<etym>
+			<abbr>Jel</abbr>
+			<expan resp="EWL">The “Exposition of the Ḳur-án” by the Jeláleyn.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aJm">
+		<etym>
+			<abbr>Jm</abbr>
+			<expan resp="EWL">The “Jemharah” of Ibn-Dureyd.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aK">
+		<etym>
+			<abbr>Ḳ</abbr>
+			<expan resp="EWL">The “Ḳámoos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKI">
+		<etym>
+			<abbr>ḲI</abbr>
+			<expan resp="EWL">The ḳádee ʼIyád.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKL">
+		<etym>
+			<abbr>KL</abbr>
+			<expan resp="EWL">The “Kenz el-Loghah,” of Ibn-Maạroof; an Arabic-Persian Dictionary.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKT">
+		<etym>
+			<abbr>KT</abbr>
+			<expan resp="EWL">The “Kitáb et-Taạreefát.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKf">
+		<etym>
+			<abbr>Kf</abbr>
+			<expan resp="EWL">The “Kifáyet el-Mutaḥaffiḍh.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKh">
+		<etym>
+			<abbr>Kh</abbr>
+			<expan resp="EWL">EI-Khaleel, commonly supposed to be the author of the “ʼEyn.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKr">
+		<etym>
+			<abbr>Kr</abbr>
+			<expan resp="EWL">Kuráạ, author of the “Munjid.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKs">
+		<etym>
+			<abbr>Ks</abbr>
+			<expan resp="EWL">El-Kisá-ee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKsh">
+		<etym>
+			<abbr>Ksh</abbr>
+			<expan resp="EWL">The “Keshsháf” of Ez-Zamakhsheree.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKt">
+		<etym>
+			<abbr>Ḳt</abbr>
+			<expan resp="EWL">El-Ḳuteybee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKtr">
+		<etym>
+			<abbr>Ḳṭr</abbr>
+			<expan resp="EWL">Ḳuṭrub</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKull">
+		<etym>
+			<abbr>Kull</abbr>
+			<expan resp="EWL">The “Kulleeyát” of Abu-l-Baḳà.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKur">
+		<etym>
+			<abbr>Ḳur</abbr>
+			<expan resp="EWL">The “Ḳur-án.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKz">
+		<etym>
+			<abbr>Ḳz</abbr>
+			<expan resp="EWL">El-Ḳazzáz</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aKzw">
+		<etym>
+			<abbr>Ḳzw</abbr>
+			<expan resp="EWL">El-Ḳazweenee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aL">
+		<etym>
+			<abbr>L</abbr>
+			<expan resp="EWL">The “Lisán el-ʼArab.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aLb">
+		<etym>
+			<abbr>Lb</abbr>
+			<expan resp="EWL">El-Leblee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aLh">
+		<etym>
+			<abbr>Lḥ</abbr>
+			<expan resp="EWL">El-Liḥyánee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aLth">
+		<etym>
+			<abbr>Lth</abbr>
+			<expan resp="EWL">El-Leyth Ibn-Naṣr Ibn-Seiyár, held by El-Azheree to be the author of the “ʼEyn,” which he calls “Kitáb Leyth.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aM">
+		<etym>
+			<abbr>M</abbr>
+			<expan resp="EWL">The “Moḥkam.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMA">
+		<etym>
+			<abbr>MA</abbr>
+			<expan resp="EWL">The “Muḳaddamet el-Adab” of Ez-Zamakhsheree.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMF">
+		<etym>
+			<abbr>MF</abbr>
+			<expan resp="EWL">Moḥammad Ibn-Eṭ-Ṭeiyib El-Fásee, author of “Annotations on the Ḳámoos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMS">
+		<etym>
+			<abbr>MṢ</abbr>
+			<expan resp="EWL">The “Mukhtár eṣ-Ṣiḥáḥ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMbr">
+		<etym>
+			<abbr>Mbr</abbr>
+			<expan resp="EWL">El-Mubarrad</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMeyd">
+		<etym>
+			<abbr>Meyd</abbr>
+			<expan resp="EWL">El-Meydáneeʼs “Proverbs.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMgh">
+		<etym>
+			<abbr>Mgh</abbr>
+			<expan resp="EWL">The “Mughrib” of El-Muṭarrizee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMj">
+		<etym>
+			<abbr>Mj</abbr>
+			<expan resp="EWL">The “Mujmal” of Ibn-Fáris.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMsb">
+		<etym>
+			<abbr>Mṣb</abbr>
+			<expan resp="EWL">The “Miṣbáḥ” of El-Feiyoomee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMtr">
+		<etym>
+			<abbr>Mṭr</abbr>
+			<expan resp="EWL">EI-Muṭarrizee, author of the “Mughrib.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMughnee">
+		<etym>
+			<abbr>Mughnee</abbr>
+			<expan resp="EWL">The “Mughni-l-Lebeeb” of Ibn-Hishám.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aMz">
+		<etym>
+			<abbr>Mz</abbr>
+			<expan resp="EWL">The “Muzhir” of Es-Suyooṭee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aNh">
+		<etym>
+			<abbr>Nh</abbr>
+			<expan resp="EWL">The “Niháyeh” of Ibn-El-Atheer El-Jezeree (Mejd ed-Deen).</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aNs">
+		<etym>
+			<abbr>Ns</abbr>
+			<expan resp="EWL">En-Nesa-ee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aO">
+		<etym>
+			<abbr>O</abbr>
+			<expan resp="EWL">The “ʼObáb” of Eṣ-Ṣaghánee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aPS">
+		<etym>
+			<abbr>PṢ</abbr>
+			<expan resp="EWL">The “Persian Translation of the Ṣiḥáḥ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aR">
+		<etym>
+			<abbr>R</abbr>
+			<expan resp="EWL">The “Rowḍ” (“Er-Rowḍ el-Unuf”) of Es-Suheylee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aS">
+		<etym>
+			<abbr>Ṣ</abbr>
+			<expan resp="EWL">The “Ṣiḥáḥ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aSM">
+		<etym>
+			<abbr>SM</abbr>
+			<expan resp="EWL">The seyyid Murtaḍà, author of the “Táj el-ʼAroos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aSb">
+		<etym>
+			<abbr>Sb</abbr>
+			<expan resp="EWL">Seebaweyh</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aSeer">
+		<etym>
+			<abbr>Seer</abbr>
+			<expan resp="EWL">Es-Seeráfee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aSgh">
+		<etym>
+			<abbr>Ṣgh</abbr>
+			<expan resp="EWL"><choice type="corr"><sic>Es-Ṣaghánee</sic><corr resp="WHL">Eṣ-Ṣaghánee</corr></choice>, author of the “ʼObáb ‎” and of the “Tekmileh fi-ṣ-Ṣiḥáḥ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aSh">
+		<etym>
+			<abbr>Sh</abbr>
+			<expan resp="EWL">Shemir</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aSkr">
+		<etym>
+			<abbr>Skr</abbr>
+			<expan resp="EWL">Es-Sukkaree, author of an “Exposition of the Deewán El-Hudhaleeyeen.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aSuh">
+		<etym>
+			<abbr>Suh</abbr>
+			<expan resp="EWL">Es-Suheylee, author of the “Rowḍ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aT">
+		<etym>
+			<abbr>T</abbr>
+			<expan resp="EWL">The “Tahdheeb” of El-Azheree</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aTA">
+		<etym>
+			<abbr>TA</abbr>
+			<expan resp="EWL">The “Táj el-ʼAroos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aTK">
+		<etym>
+			<abbr>TḲ</abbr>
+			<expan resp="EWL">The “Turkish Translation of the Ḳámoos.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aTS">
+		<etym>
+			<abbr>TṢ</abbr>
+			<expan resp="EWL">The “Tekmileh fi-ṣ-Ṣiḥáḥ” of Eṣ-Ṣaghánee.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aTT">
+		<etym>
+			<abbr>TT</abbr>
+			<expan resp="EWL">The “Tahdheeb et-Tahdheeb.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aTh">
+		<etym>
+			<abbr>Th</abbr>
+			<expan resp="EWL">Thaạlab, author of the “Faṣeeḥ.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aW">
+		<etym>
+			<abbr>W</abbr>
+			<expan resp="EWL">El-Wáhideeʼs “Exposition of the Deewán of El-Mutanebbee,” edited by Dr. Dieterici.</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aYoo">
+		<etym>
+			<abbr>Yoo</abbr>
+			<expan resp="EWL">Yoonus</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aYz">
+		<etym>
+			<abbr>Yz</abbr>
+			<expan resp="EWL">El-Yezeedee</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aZ">
+		<etym>
+			<abbr>Z</abbr>
+			<expan resp="EWL">Ez-Zamakhsheree</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aZbd">
+		<etym>
+			<abbr>Zbd</abbr>
+			<expan resp="EWL">Ez-Zubeydee, author of an “Abridgment of the ʼEyn.”</expan>
+		</etym>
+	</nym>
+	<nym xml:id="aZj">
+		<etym>
+			<abbr>Zj</abbr>
+			<expan resp="EWL">Ez-Zejjáj</expan>
+		</etym>
+	</nym>
+</listNym>
+'>
