@@ -898,19 +898,19 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="wbd_1_A2">
 							<foreign lang="ar">wabida Ealayohi</foreign>, (Ṣ, M, L,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawobadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">wabadN</foreign>, (M, L, Ḳ,) <hi>He was angry with him:</hi> (Ṣ, M, L, Ḳ:) like <foreign lang="ar">wamida</foreign>. (Ṣ, L.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawobadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">wabadN</foreign>, (M, L, Ḳ,) <hi>He was angry with him:</hi> (Ṣ, M, L, Ḳ:) like <foreign lang="ar">wamida</foreign>. (Ṣ, L.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="wbd_1_A3">
 							<foreign lang="ar">wabida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawobadu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawobadu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">wabidN</foreign>, <hi>It</hi> 
 							[a day, &amp;c.] <hi>was,</hi> or <hi>became, hot,</hi> (M, L, Ḳ,) <hi>and without wind:</hi> (M, L:) like <foreign lang="ar">wamida</foreign>. (M, L.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="4" xml:id="wbd_1_A4">
 							<foreign lang="ar">wabida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawobadu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawobadu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">wabadN</foreign>, <hi>It</hi> (a garment) <hi>became old and worn-out.</hi> (M, L, Ḳ.)
 						</sense>
 					</entry>
@@ -980,7 +980,7 @@
 						</form>
 						<sense n="1" xml:id="wbr_1_A1">
 							1. <foreign lang="ar">wabira</foreign>, (Ṣ, Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawobaru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawobaru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">wabrN</foreign>, (Mṣb,) <hi>He</hi> (a camel) <hi>had much</hi> <foreign lang="ar">wabar</foreign> [i. e. <hi>fur,</hi> or <hi>soft</hi> hair]. (Ṣ, Mṣb.)
 						</sense>
 					</entry>
@@ -996,7 +996,7 @@
 						<sense n="1" xml:id="waborN_A1">
 							<foreign lang="ar">waborN</foreign>, a pl. [or rather a coll. gen. n.] 
 							of which the sing. [or n. un.] 
-							is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waborapN</foreign>}</expan></choice>; (Ṣ, Mgh;) 
+							is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waborapN</foreign>}</expan></choice>; (Ṣ, Mgh;) 
 							or a masc. n., of which the fem. is with <foreign lang="ar">p</foreign>, (Lth, T, M, Mṣb, Ḳ,) and also a pl. [or coll. gen. n.], (M,) 
 							[The <hi>hyrax Syriacus;</hi> believed to be the animal called in Hebr. 
 							<foreign lang="he">&#x05E9;&#x05C1;&#x05B8;&#x05E4;&#x05B8;&#x05DF;</foreign>;] <hi>a certain small beast,</hi> (Lth, T, Ṣ, Mgh, Mṣb, Ḳ,) <hi>like the cat,</hi> (Mṣb, Ḳ,) or <hi>of the size of the cat,</hi> (Lth, T, M, Mgh,) or <hi>smaller than the cat,</hi> (Ṣ,) <hi>of the beasts of the desert,</hi> (M,) <hi>of a dust-colour,</hi> (Lth, T, Mgh, Mṣb,) or <hi>of a hue between dust-colour and white,</hi> (<foreign lang="ar">TaHolaMCu</foreign>, this epithet being applied to <foreign lang="ar">waborapN</foreign>, Ṣ,) or <hi>white,</hi> (TA,) <hi>having beautiful eyes,</hi> (Lth, T, Mgh,) or <hi>having eyes bordered with black,</hi> or <hi>very black eyes,</hi> (<foreign lang="ar">kaHolaMCu</foreign>, Mṣb,) <hi>having no tail,</hi> (Ṣ, Mṣb,) or <hi>having a small tail,</hi> (Mgh,) 
@@ -1028,7 +1028,7 @@
 						<sense n="1" xml:id="wabarN_A1">
 							<foreign lang="ar">wabarN</foreign> The <foreign lang="ar">Suwf</foreign>, 
 							[here meaning the <hi>fur,</hi> or <hi>soft hair,</hi>] of the camel, (Lth, T, Ṣ,* M, A, Ḳ,) and of the hare or rabbit, and the like; (Lth, T, M, A, Ḳ;) and in like manner, that of the <foreign lang="ar">sam-uwr</foreign> [or sable], and of the fox, and of the <foreign lang="ar">fanak</foreign> [or marten]: (T:) or it is to the camel <hi>like wool</hi> (<foreign lang="ar">Swf</foreign>) <hi>to the sheep;</hi> and so to the hare or rabbit, and the like: (Mṣb:) originally an inf. n.: (Mṣb:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">wabarapN</foreign>}</expan></choice>: (Ṣ:) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">wabarapN</foreign>}</expan></choice>: (Ṣ:) 
 							pl. <foreign lang="ar">OawobaArN</foreign>. (M, Mṣb, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -1740,7 +1740,7 @@
 						<sense n="2" xml:id="wtr_1_A2">
 							[And <hi>He made it to be an odd number.</hi>] 
 							You say, <foreign lang="ar">watara Alqawoma</foreign>, (M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatiru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatiru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">watorN</foreign>; (M;) 
 							and <anchor type="arrow"><foreign lang="ar">Oawotarahumo↓</foreign></anchor>; (M, Ḳ;) <hi>He made the people, they being an even number, to be an odd number.</hi> (M, Ḳ, TA.) ʼAṭà says, <foreign lang="ar">kaAna Alqawomu witorFA faXafaEotuhumo wakaAnuwA XafoEFA fawatarotuhumo</foreign> [<hi>The people were an odd number and I made them an even number, and they were an even number and I made them an odd number</hi>]. (TA.) 
 							You say also, <foreign lang="ar">watara AlS-alaApa</foreign>, (Mṣb, Ḳ,) 
@@ -2701,7 +2701,7 @@
 						<hom n="A" xml:id="wvr_1_A">
 						<sense n="1" xml:id="wvr_1_A1">
 							1. <foreign lang="ar">wavura</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawovuru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawovuru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">wavaArapN</foreign>; [and app., <foreign lang="ar">watorN</foreign>; (see the second signification;)] 
 							<hi>It</hi> (a thing, Ṣ, M, Mṣb, or a bed, A) <hi>was,</hi> or <hi>became, plain, level, smooth, soft,</hi> or <hi>easy to lie</hi> or <hi>ride</hi> or <hi>walk upon.</hi> (Ṣ, M, A, Mṣb, Ḳ.)
 						</sense>
@@ -4543,7 +4543,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="wjz_1_A2">
 							<foreign lang="ar">wajuza fiI manoTiqihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawojuzu</foreign>}</expan></choice>; (A, Ḳ;) or <foreign lang="ar">fI kalaAmihi</foreign>; (Mṣb;) and <foreign lang="ar">wajaza fiyhi</foreign>, aor. <foreign lang="ar">yajizu</foreign>; inf. n. <foreign lang="ar">wajaAzapN</foreign>; (A, Ḳ;) of the former verb; (TA;) and [of the latter] <foreign lang="ar">wajozN</foreign> and <foreign lang="ar">wujuwzN</foreign>; (A, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawojuzu</foreign>}</expan></choice>; (A, Ḳ;) or <foreign lang="ar">fI kalaAmihi</foreign>; (Mṣb;) and <foreign lang="ar">wajaza fiyhi</foreign>, aor. <foreign lang="ar">yajizu</foreign>; inf. n. <foreign lang="ar">wajaAzapN</foreign>; (A, Ḳ;) of the former verb; (TA;) and [of the latter] <foreign lang="ar">wajozN</foreign> and <foreign lang="ar">wujuwzN</foreign>; (A, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Awjz↓ fiyhi</foreign></anchor>; (Mṣb;) [<hi>He was brief,</hi> or <hi>concise, in his speech,</hi> or <hi>language; contr. of</hi> <foreign lang="ar">OaTonaba</foreign>: or] <hi>he was of few words in his speech:</hi> (A, Ḳ:*) or <hi>he was brief, and quickly intelligible, in his language:</hi> (Mṣb:) 
 							or <anchor type="arrow"><foreign lang="ar">Awjz↓</foreign></anchor> signifies <hi>he was quick and brief</hi> in speaking. (Nh, TA.) See this latter verb below.
 						</sense>
@@ -4613,7 +4613,7 @@
 							<foreign lang="ar">wajozN</foreign> 
 							<hi>Quickness; speed; haste.</hi> (TA.) 
 							As an epithet, applied to a man, (TA,) <hi>Quick of motion</hi> (Ḳ, TA) <hi>in that which he begins:</hi> (TA:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">wajozapN</foreign>}</expan></choice>: (Ḳ:) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">wajozapN</foreign>}</expan></choice>: (Ḳ:) 
 							and <hi>quick,</hi> applied to a camel. (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -5508,7 +5508,7 @@
 						<hom n="A" xml:id="wHX_1_A">
 						<sense n="1" xml:id="wHX_1_A1">
 							1. <foreign lang="ar">waHuXa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawoHuXu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawoHuXu</foreign>}</expan></choice>, 
 							[inf. n., probably, <foreign lang="ar">wuHuwXapN</foreign> or <foreign lang="ar">waHaAXapN</foreign> or both,] <hi>It</hi> (a place) <hi>abounded with wild animals.</hi> (IḲṭṭ.) 
 							[The meaning assigned to this verb in Freytag's Lex. belongs not to it, but to <foreign lang="ar">waxuXa</foreign>.]
 						</sense>
@@ -6027,7 +6027,7 @@
 						</form>
 						<sense n="1" xml:id="wxX_1_A1">
 							1. <foreign lang="ar">waxuXa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawoxuXu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawoxuXu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">waxaAXapN</foreign> and <foreign lang="ar">wuxuwXapN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">wuxuwXN</foreign>, (TA,) <hi>It</hi> (a thing, Ṣ, TA,) <hi>became bad, vile,</hi> or <hi>base.</hi> (Ṣ, Ḳ, TA.)
 						</sense>
 					</entry>
@@ -6649,7 +6649,7 @@
 						</form>
 						<sense n="1" xml:id="wdj_1_A1">
 							1. <foreign lang="ar">wadaja</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yadiju</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">wadojN</foreign> (L, Ḳ) and <foreign lang="ar">widaAjN</foreign>; (L;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yadiju</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">wadojN</foreign> (L, Ḳ) and <foreign lang="ar">widaAjN</foreign>; (L;) 
 							and <anchor type="arrow"><foreign lang="ar">wd-j↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">tawodiyjN</foreign>; (Ḳ;) but the latter has an intensive signification; (Mṣb;) <hi>He cut the vein called</hi> <foreign lang="ar">Alwadaj</foreign>: (Ḳ:) <hi>he bled</hi> a beast <hi>by cutting the vein so called;</hi> <foreign lang="ar">wdj</foreign> with reference to a beast, as the object of the act, being the same as <foreign lang="ar">faSada</foreign> with reference to a man. (Ṣ.)
 						</sense>
@@ -6882,7 +6882,7 @@
 						</form>
 						<sense n="1" xml:id="wacaHN_A1">
 							<foreign lang="ar">wacaHN</foreign> The <hi>dung and urine that have clung to the wool of sheep,</hi> (Ḳ,) or <hi>to their tails and the inner sides of the roots of their thighs</hi> (<foreign lang="ar">OarofaAghA</foreign>), <hi>and dry</hi> [<hi>thereon</hi>]: (Ṣ:) or the <hi>filth that clings to the rump,</hi> or <hi>buttocks, of the ram:</hi> (Th:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">wacaHapN</foreign>}</expan></choice>: 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">wacaHapN</foreign>}</expan></choice>: 
 							pl. <foreign lang="ar">wucoHN</foreign>; like <foreign lang="ar">budonN</foreign>, (Ṣ, Ḳ,) 
 							<ref target="badanapN">pl. of <foreign lang="ar">badanapN</foreign></ref>. (Ṣ.)
 						</sense>
@@ -7674,7 +7674,7 @@
 						<hom n="B" xml:id="wrd_1_B">
 						<sense n="1" xml:id="wrd_1_B1">
 							<foreign lang="ar">waruda</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaworudu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">wuruwdapN</foreign>; (Ṣ, L, Mṣb;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaworudu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">wuruwdapN</foreign>; (Ṣ, L, Mṣb;) 
 							and <anchor type="arrow"><foreign lang="ar">UiyraAd-a↓</foreign></anchor>, originally <foreign lang="ar">UiworaAd-a</foreign>, the <foreign lang="ar">w</foreign> becoming <foreign lang="ar">I</foreign> because of the kesreh before it; (Ṣ, L, Ḳ;) ‡ <hi>He</hi> (a horse) <hi>was,</hi> or <hi>became,</hi> [<hi>of a bright,</hi> or <hi>yel-lowish bay colour;</hi>] <hi>of a colour between that called</hi> <foreign lang="ar">kumayot</foreign> and <foreign lang="ar">OaXoqar</foreign>: (Ṣ, L, Ḳ:) or, <hi>of a red colour inclining to yellow.</hi> (M, L, Mṣb.)
 						</sense>
 						<span type="sig">―</span>
@@ -7867,14 +7867,14 @@
 						<sense n="1" xml:id="warodN_A1">
 							<foreign lang="ar">warodN</foreign> [coll. gen. n.] 
 							The <hi>flower,</hi> or <hi>blossom,</hi> of any tree (AḤn, L, Ḳ) or plant: (AḤn, L:) but its predominant application is to the <hi>rose</hi> <foreign lang="ar">Hawojam</foreign>, (L, Ḳ,) the <hi>well-known red flower</hi> (TA) <hi>which one smells:</hi> (Ṣ, L, TA:) its colour varies in winter and summer: (L:) and it is of different kinds in the cultivated soil and in the desert and in the mountains: (AḤn, L:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">warodapN</foreign>}</expan></choice>. (Ṣ, L.) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">warodapN</foreign>}</expan></choice>. (Ṣ, L.) 
 							Said to be an arabicized word. (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="warodN_A2">
 							<foreign lang="ar">warodN</foreign> 
 							‡ A horse [<hi>of a bright,</hi> or <hi>yellowish, bay colour;</hi>] <hi>of a colour between that called</hi> <foreign lang="ar">kumayot</foreign> <hi>and</hi> <foreign lang="ar">OaXoqar</foreign>: (Ṣ, L, Ḳ:) a horse, (M, L, Mṣb,) or other thing. (M, L,) <hi>of a red colour inclining to yellow,</hi> (M, L, Mṣb,) beautiful in everything: (M, L:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">warodapN</foreign>}</expan></choice>: (Ṣ, L, Mṣb:) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">warodapN</foreign>}</expan></choice>: (Ṣ, L, Mṣb:) 
 							applied in the above sense to the sky, in the Ḳur, lv. 37: (L:) or it there means <hi>roseates,</hi> or <hi>of a rosecolour:</hi> (Zj, L:) pl. <foreign lang="ar">wurodN</foreign>, (Ṣ, L, Ḳ,) like as <foreign lang="ar">juwnN</foreign> 
 							<ref target="jaWonN">is pl. of <foreign lang="ar">jawonN</foreign></ref>, (Ṣ,) and <foreign lang="ar">wiraAdN</foreign> (Ṣ, L, Mṣb, Ḳ) and <foreign lang="ar">OaworaAdN</foreign>: (Ḳ:) but this last is unknown, and app. a mistake. (M, F, TA.)
 						</sense>
@@ -8508,7 +8508,7 @@
 							<foreign lang="ar">waraXaAnN</foreign> 
 							<hi>A certain bird,</hi> (Ṣ, Mgh, Ḳ,) <hi>of the pigeon-kind,</hi> (AḤát, Mgh, Mṣb,) or <hi>resembling the pigeon,</hi> (TA,) <hi>also called</hi> <foreign lang="ar">saAqu Hur-K</foreign>, (Ṣ, Mṣb, Ḳ,) <hi>which is the male of the</hi> <foreign lang="ar">qamaAriI-</foreign> [or <hi>kind of collared turtle-doves of which a single female is called</hi> <foreign lang="ar">qumoriy-apN</foreign> 
 							(<ref target="qumoriI-N">see <foreign lang="ar">qumoriI-N</foreign></ref>)], (Mṣb,) <hi>of the birds of the desert,</hi> (TA,) <hi>the flesh of which is lighter than that of the</hi> [<hi>common</hi>] <hi>pigeon:</hi> (Ḳ:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waraXaAnapN</foreign>}</expan></choice>: (Ḳ:) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waraXaAnapN</foreign>}</expan></choice>: (Ḳ:) 
 							pl. <foreign lang="ar">waraAXiynu</foreign> (Ṣ, Mgh, Mṣb, Ḳ) and <foreign lang="ar">wiroXaAnN</foreign>, (Ṣ, Mṣb, Ḳ,) like as <foreign lang="ar">kiruwaAnN</foreign> 
 							<ref target="karawaAnN">is a pl. of <foreign lang="ar">karawaAnN</foreign></ref>, contr. to rule. (Ṣ.) 
 							It is said in a proverb, <foreign lang="ar">biEil-api AlwaraXaAni taOokulu ruTaba AlmuXaAni</foreign> [<hi>With the pretext of the warashán, thou eatest the fresh ripe dates of the</hi> excellent <hi>kind called</hi> <foreign lang="ar">mXAn</foreign>]: (Ṣ, A, Ḳ:) said to him who pretends one thing and means another: (A, Ḳ:) originating from the fact that some people employed a slave belonging to them to guard the fresh ripe dates of their palm-trees, and he used to eat them, and, when reproved for his evil conduct, laid the blame upon the warashán; wherefore this was said to him. (Ṣgh.)
@@ -10221,7 +10221,7 @@
 						<sense n="1" xml:id="waXiyjN_A1">
 							<foreign lang="ar">waXiyjN</foreign> 
 							<hi>Trees of which spears are made:</hi> (Ṣ, Ḳ:) or <hi>canes growing obliquely, or,</hi> as in the M, <hi>in an intricate manner:</hi> or the <hi>hardest of canes:</hi> or, as a coll. gen. n., ‡ <hi>spears;</hi> 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waXiyjapN</foreign>}</expan></choice>: (TA:) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waXiyjapN</foreign>}</expan></choice>: (TA:) 
 							[<ref target="EijolapN">See also <foreign lang="ar">EijolapN</foreign></ref>:] 
 							or, originally, the <hi>roots of canes:</hi> and afterwards applied to signify <hi>spears,</hi> themselves; so called because of their intermingling when meeting together. (Ḥam, p. 165.)
 						</sense>
@@ -11457,7 +11457,7 @@
 						<hom n="C" xml:id="wDH_1_C">
 						<sense n="1" xml:id="wDH_1_C1">
 							<foreign lang="ar">waDiHa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawoDaHu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawoDaHu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">waDaHN</foreign>, 
 							[a verb of which the inf. n. is explained in the Mṣb by the word <foreign lang="ar">drn</foreign>: if this be not a mistake of a copyist, it app. signifies <hi>He</hi>, or <hi>it, was dirty;</hi> or <hi>was dirtied, soiled,</hi> or <hi>besmeared</hi>].
 						</sense>
@@ -12160,7 +12160,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="waTowaATN_A2">
 							<hi>Clamorous;</hi> (Lḥ, Ḳ;) applied to a man: (Lḥ:) and one <hi>who utters his speech,</hi> or <hi>words, rapidly,</hi> or <hi>near together;</hi> (Lḥ, Ḳ;) as though his voice were the voice of bats: so they assert it to mean: (Lḥ:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waTowaATapN</foreign>}</expan></choice>: (Ḳ:) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waTowaATapN</foreign>}</expan></choice>: (Ḳ:) 
 							and [in like manner] <anchor type="arrow"><foreign lang="ar">waTowaATiI-N↓</foreign></anchor> signifies <hi>loquacious; a great talker; a babbler.</hi> (Ḳ *, TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -12890,7 +12890,7 @@
 						<sense n="1" xml:id="waTaHN_A1">
 							<foreign lang="ar">waTaHN</foreign> 
 							[so in the Ṣ] and so written by Aboo-Sahl, but in the copies of the Ḳ <foreign lang="ar">waToHN</foreign>, (TA,) <hi>Dung</hi> (<foreign lang="ar">Ear-ap</foreign>) or <hi>mud that adheres to cloven hoofs, and to the claws,</hi> or <hi>talons of birds:</hi> (Ṣ, Ḳ:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waTaHapN</foreign>}</expan></choice>. (TA.)
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waTaHapN</foreign>}</expan></choice>. (TA.)
 						</sense>
 					</entry>
 				</superEntry>
@@ -13556,20 +13556,20 @@
 						</form>
 						<sense n="1" xml:id="wEv_1_A1">
 							1. <foreign lang="ar">waEiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawoEavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawoEavu</foreign>}</expan></choice>, 
 							(inf. n. <foreign lang="ar">waEovN</foreign>, TA,) 
 							and <foreign lang="ar">waEuva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawoEuvu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawoEuvu</foreign>}</expan></choice>, 
 							(inf. n. <foreign lang="ar">wuEuwvapN</foreign> and <foreign lang="ar">waEaAvapN</foreign>, TA,) 
 							<hi>It</hi> (a road) <hi>was difficult to travel,</hi> (Ḳ,) <hi>and arduous to ascend.</hi> (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="wEv_1_A2">
 							<foreign lang="ar">waEiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawoEavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawoEavu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">waEovN</foreign> and <foreign lang="ar">waEavN</foreign>; 
 							and <foreign lang="ar">waEuva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawoEuvu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawoEuvu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">wuEuwvapN</foreign>; 
 							<hi>it</hi> (a road) <hi>was soft, and like what is termed</hi> <foreign lang="ar">waEovN</foreign>. (ISd.)
 						</sense>
@@ -14524,7 +14524,7 @@
 						<span type="sig">―</span>
 						<sense n="6" xml:id="wagobN_A6">
 							<foreign lang="ar">wagobN</foreign> A <hi>large, big,</hi> or <hi>bulky,</hi> camel: (Ṣ, Ḳ:) pl. as above: 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">wagobapN</foreign>}</expan></choice>. (Ḳ.)
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">wagobapN</foreign>}</expan></choice>. (Ḳ.)
 						</sense>
 					</entry>
 				</superEntry>
@@ -14545,7 +14545,7 @@
 						</form>
 						<sense n="1" xml:id="wgd_1_A1">
 							1. <foreign lang="ar">waguda</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yawogudu</foreign>}</expan></choice>, (Ṣ, Ḳ, &amp;c.,) inf. n. <foreign lang="ar">wugaAdapN</foreign>, (L, Mṣb, Ḳ,) <hi>He was,</hi> or <hi>became, a low,</hi> or <hi>ignoble, mean,</hi> or <hi>sordid, and weak person,</hi> (Ṣ, Mṣb,) <hi>who served for the food of his belly:</hi> (Ṣ, L, Mṣb:) or <hi>light,</hi> (L,) <hi>stupid, and weak</hi> (L, Ḳ) <hi>in intellect,</hi> (L,) <hi>low,</hi> or <hi>ignoble, and mean,</hi> or <hi>sordid;</hi> (L, Ḳ;) or <hi>weak in body:</hi> (L, Ḳ:) or <hi>light in intellect:</hi> or <hi>weak as is a slave.</hi> (Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yawogudu</foreign>}</expan></choice>, (Ṣ, Ḳ, &amp;c.,) inf. n. <foreign lang="ar">wugaAdapN</foreign>, (L, Mṣb, Ḳ,) <hi>He was,</hi> or <hi>became, a low,</hi> or <hi>ignoble, mean,</hi> or <hi>sordid, and weak person,</hi> (Ṣ, Mṣb,) <hi>who served for the food of his belly:</hi> (Ṣ, L, Mṣb:) or <hi>light,</hi> (L,) <hi>stupid, and weak</hi> (L, Ḳ) <hi>in intellect,</hi> (L,) <hi>low,</hi> or <hi>ignoble, and mean,</hi> or <hi>sordid;</hi> (L, Ḳ;) or <hi>weak in body:</hi> (L, Ḳ:) or <hi>light in intellect:</hi> or <hi>weak as is a slave.</hi> (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="wgd_1_A2">
@@ -15815,7 +15815,7 @@
 						<hom n="B" xml:id="waqobN_B">
 						<sense n="1" xml:id="waqobN_B1">
 							<hi>Stupid; foolish; of little sense:</hi> (Ṣ, Ḳ:) like <foreign lang="ar">wagobN</foreign>: (Ṣ:) an epithet of a man: pl. <foreign lang="ar">OawoqaAbN</foreign>: (Ḳ, TA:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waqobapN</foreign>}</expan></choice>. (TA.)
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waqobapN</foreign>}</expan></choice>. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="waqobN_B2">
@@ -17159,7 +17159,7 @@
 						</form>
 						<sense n="1" xml:id="muwqirN_A1">
 							<foreign lang="ar">muwqirN</foreign>, 
-							and <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">muwqirapN</foreign>}</expan></choice>: 
+							and <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">muwqirapN</foreign>}</expan></choice>: 
 							<ref target="muwqarN">see <foreign lang="ar">muwqarN</foreign></ref>.
 						</sense>
 					</entry>
@@ -17191,7 +17191,7 @@
 						<hom n="A" xml:id="mawoquwrN_A">
 						<sense n="1" xml:id="mawoquwrN_A1">
 							<foreign lang="ar">mawoquwrN</foreign> 
-							and <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">mawoquwrapN</foreign>}</expan></choice>: 
+							and <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">mawoquwrapN</foreign>}</expan></choice>: 
 							<ref target="muwqarN">see <foreign lang="ar">muwqarN</foreign></ref>.
 						</sense>
 						</hom>
@@ -17433,7 +17433,7 @@
 						</form>
 						<sense n="1" xml:id="mawoquwSN_A1">
 							<foreign lang="ar">mawoquwSN</foreign> A man (Ṣ) <hi>having his neck broken:</hi> (Ṣ, Ḳ:) and so <foreign lang="ar">mawoquwSu AlEunuqi</foreign>: (A:) 
-							the fem. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">mawoquwSapN</foreign>}</expan></choice>: 
+							the fem. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">mawoquwSapN</foreign>}</expan></choice>: 
 							and <anchor type="arrow"><foreign lang="ar">waAqiSapN↓</foreign></anchor> occurs in the sense of <foreign lang="ar">mawoquwSapN</foreign> in a trad. of ʼAlee, in which he is said to have given judgment in the case of the <foreign lang="ar">qaAriSap</foreign> and the <foreign lang="ar">qaAmiSap</foreign> and the 
 							<anchor type="arrow"><foreign lang="ar">waAqiSap↓</foreign></anchor>, that the price of blood, or fine for homicide, should be paid in thirds; these being three girls, who were playing together, and mounted, one upon another; and the lowest pinched the middle one, who thereupon leaped off, so that the uppermost fell, and her neck broke; wherefore he imposed a third of the fine for the killing of the uppermost upon the lowest, and the like upon the middle one, annulling the third of the uppermost because she aided against herself: (Mgh, TA, in art. <foreign lang="ar">qrS</foreign>, and Mṣb,) here, 
 							[accord. to those who hold that <foreign lang="ar">waqaSa</foreign> is trans. only,] 
@@ -19389,7 +19389,7 @@
 							Also <foreign lang="ar">waliydN</foreign>, <foreign lang="ar">walaAYidu</foreign>. <hi>A boy:</hi> (Ṣ, A, L, Ḳ:) <hi>a youth:</hi> (AHeyth, L:) ‡ <hi>a boy who has arrived at the age when he is fit for service, before he attains to puberty:</hi> (A, L:) <hi>a youthful servant;</hi> one is so called from the time of his birth until he attains to manhood: 
 						<pb n="2967" xml:id="Page_2967"/>
 							the servant of a man in paradise is a <foreign lang="ar">wlyd</foreign> always, never changing in age: (L:) <hi>a slave;</hi> (Ṣ, L, Ḳ;) or, as some say, one <hi>born in servitude:</hi> (TA:) 
-							fem. in these senses, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waliydapN</foreign>}</expan></choice>: (Ṣ, A, L, Ḳ:) 
+							fem. in these senses, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waliydapN</foreign>}</expan></choice>: (Ṣ, A, L, Ḳ:) 
 							a female slave is called <foreign lang="ar">wlydp</foreign> even if aged: (L:) pl. (of the masc., Ṣ, L) <foreign lang="ar">wilodaAnN</foreign> (Ṣ, L, Ḳ) and <foreign lang="ar">wilodahN</foreign>; (L;) and (of the fem.,: Ṣ, L) <foreign lang="ar">walaAYidu</foreign>. (Ṣ, L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -19584,7 +19584,7 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="muwal-adN_A4">
 							Also <foreign lang="ar">muwal-adN</foreign>, (L,) 
-							and its fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">muwal-adapN</foreign>}</expan></choice>, (Ḳ,) 
+							and its fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">muwal-adapN</foreign>}</expan></choice>, (Ḳ,) 
 							‡ Anything <hi>innovated.</hi> (L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>

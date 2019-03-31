@@ -379,7 +379,7 @@
 						<hom n="B" xml:id="lb_1_B">
 						<sense n="1" xml:id="lb_1_B1">
 							<foreign lang="ar">lab-a</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobibu</foreign>}</expan></choice>; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobibu</foreign>}</expan></choice>; 
 							and <anchor type="arrow"><foreign lang="ar">labolaba↓</foreign></anchor>; <hi>He</hi> 
 							(a goat, and sometimes <anchor type="arrow"><foreign lang="ar">lblb↓</foreign></anchor> is used in the same sense with reference to a buck-antelope,) <hi>uttered a cry,</hi> or <hi>sound, at rutting-time.</hi> (TA.)
 						</sense>
@@ -392,7 +392,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lb_1_C2">
 							<foreign lang="ar">lab-ahu</foreign>, (Ḳ,) sec. pers. <foreign lang="ar">lababotu</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lab-N</foreign>, (Ṣ,) <hi>He struck him upon the part called the</hi> <foreign lang="ar">lab-ap</foreign>; (Ṣ, Ḳ;) i. e., the <hi>pit above the breast, between the collar-bones; the place where camels are stabbed.</hi> (TA.)
 						</sense>
 						</hom>
@@ -400,7 +400,7 @@
 						<hom n="D" xml:id="lb_1_D">
 						<sense n="1" xml:id="lb_1_D1">
 							<foreign lang="ar">lab-a</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>, <hi>It</hi> (a house) <hi>faced, was opposite to,</hi> or <hi>stood over against,</hi> another house. (Kh, Ṣ, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>, <hi>It</hi> (a house) <hi>faced, was opposite to,</hi> or <hi>stood over against,</hi> another house. (Kh, Ṣ, Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -472,7 +472,7 @@
 							4. <foreign lang="ar">Alb- biAlmakaAni</foreign>, 
 							inf. n. <foreign lang="ar">UilobaAbN</foreign>; (ISk, Ṣ, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">lab-a bihi↓</foreign></anchor>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lab-N</foreign>; (Kh, Ṣ, Ḳ;) <hi>He remained, stayed, abode,</hi> or <hi>dwelt, in the place;</hi> (Ṣ, Ḳ;) <hi>kept to it.</hi> (Ṣ.) 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lab-N</foreign>; (Kh, Ṣ, Ḳ;) <hi>He remained, stayed, abode,</hi> or <hi>dwelt, in the place;</hi> (Ṣ, Ḳ;) <hi>kept to it.</hi> (Ṣ.) 
 							Hence, says Fr., the expression <foreign lang="ar">lab-ayoka</foreign>, q. v. infra. (Ṣ, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -501,7 +501,7 @@
 						<sense n="2" xml:id="lb_4_D2">
 							<foreign lang="ar">Oalobabotu Ald-aAb-apa</foreign> <hi>I put a</hi> <foreign lang="ar">labab</foreign> (or <hi>breast-leather</hi>) <hi>on the beast of carriage;</hi> (Ṣ, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">lababotuhaA↓</foreign></anchor>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>. (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobubu</foreign>}</expan></choice>. (Ḳ.)
 						</sense>
 						</hom>
 					</entry>
@@ -875,7 +875,7 @@
 						<sense n="1" xml:id="labiybN_A1">
 							<foreign lang="ar">labiybN</foreign> 
 							‡ <hi>A person of understanding,</hi> or <hi>intelligence:</hi> pl. <foreign lang="ar">Oalib-aACu</foreign>. (Ṣ, Ḳ.) No other broken pl. is formed from it. (Sb.) 
-							Fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">labiybapN</foreign>}</expan></choice>. (TA.) 
+							Fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">labiybapN</foreign>}</expan></choice>. (TA.) 
 							<ref target="lub-N">See <foreign lang="ar">lub-N</foreign></ref>, 
 							<ref target="malobuwbN">and <foreign lang="ar">malobuwbN</foreign></ref>.
 						</sense>
@@ -1090,7 +1090,7 @@
 						</form>
 						<sense n="1" xml:id="lbO_1_A1">
 							1. <foreign lang="ar">labaOahaA</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobaOu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobaOu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laboCN</foreign>; (Ṣ;) 
 							and <anchor type="arrow"><foreign lang="ar">AltbOhA↓</foreign></anchor>; (TA;) <hi>He milked her;</hi> (Ḳ;) i. e., a ewe: (TA:) or <hi>he milked the biestings from her.</hi> (Ṣ, L.)
 						</sense>
@@ -1329,7 +1329,7 @@
 						</form>
 						<sense n="1" xml:id="lbt_1_A1">
 							1. <foreign lang="ar">labata yadahu</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobutu</foreign>}</expan></choice>, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobutu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">labotN</foreign>, TḲ,) <hi>He twisted,</hi> or <hi>wrung, his hand,</hi> or <hi>arm.</hi> (L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -1366,7 +1366,7 @@
 						</form>
 						<sense n="1" xml:id="lbv_1_A1">
 							1. <foreign lang="ar">labiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobavu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">labovN</foreign> (which is contr. to analogy, because the inf. n. of an intrans. v. of the measure <foreign lang="ar">faEila</foreign> is, accord. to rule, of the measure <foreign lang="ar">faEalN</foreign>, Ṣ,) and <foreign lang="ar">labayvN</foreign> (agreeably with analogy, occurring in a verse of Jereer, Ṣ,) and <foreign lang="ar">labaAvN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">lubovN</foreign> 
 							(which is the first form given by ISd, TA, [and the most common,]) 
 							and <foreign lang="ar">lubaAvN</foreign> and <foreign lang="ar">labaAvapN</foreign> and <foreign lang="ar">labiyvapN</foreign>, (Ḳ,) which are all contr. to analogy, (TA,) and <foreign lang="ar">lubovaAnN</foreign>, (ISd,) 
@@ -1586,7 +1586,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lbj_1_A2">
 							<foreign lang="ar">labaja bihi AlOaroDa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobuju</foreign>}</expan></choice>, <hi>He threw him down upon the ground:</hi> (Ṣ, Ḳ:) like <foreign lang="ar">labaTa</foreign>. (Ṣ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobuju</foreign>}</expan></choice>, <hi>He threw him down upon the ground:</hi> (Ṣ, Ḳ:) like <foreign lang="ar">labaTa</foreign>. (Ṣ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lbj_1_A3">
@@ -1646,7 +1646,7 @@
 						<sense n="1" xml:id="labaxN_A1">
 							<foreign lang="ar">labaxN</foreign>, (L, Ḳ,) or <foreign lang="ar">laboxN</foreign>, 
 							(as mentioned by AḤn., on the authority of another, [but see below,]) 
-							[a coll. gen. n., n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">labaxapN</foreign>}</expan></choice>, 
+							[a coll. gen. n., n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">labaxapN</foreign>}</expan></choice>, 
 							The <hi>persea</hi> of Theophrastus and Dioscorides; (De Sacy, “Relation de l'Egypte par Abd-Allatif,” in which see a full and learned disquisition respecting this tree, pp. 47 et seqq.)] 
 							described to AḤn, by a man acquainted with it, as growing at Ansinè, in Upper Egypt, as <hi>a kind of large tree, resembling the</hi> <foreign lang="ar">dulob</foreign> [or <hi>plane-tree</hi>], <hi>having a green fruit, resembling the date, very sweet, but disagreeable, excellent for pain in the teeth: when it is sawn, it</hi> 
 							[meaning the saw-dust] <hi>makes blood to flow from the nose of him who saws it: it is sawn into planks, and a plank of it obtains the price of fifty deenárs: it is used in the building of ships: they assert that if two planks of it be strongly attached together, and put in water for a year, they unite, and form one plank:</hi> in the T it is not said that they are put in water for a year, nor for less, nor for more: <hi>some assert that this tree, in Persia, killed; but when transplanted to Egypt, it became such that</hi> [<hi>the fruit of</hi>] <hi>it was eaten, without injuring:</hi> Ibn-Beytár mentions it. (L, and parts also in the Ḳ.) The n. un. is also explained as the name of <hi>a certain great tree, like the</hi> <foreign lang="ar">OavoOabap</foreign>, or <hi>greater, the leaves of which resemble those of the walnut-tree</hi> (<foreign lang="ar">Aljawoz</foreign>), <hi>having a fruit like that of the</hi> <foreign lang="ar">HamaAT</foreign>, <hi>bitter in taste, which, when eaten, excites thirst; and when water is drunk upon it, inflates the belly: it is one of the trees of the mountains.</hi> (AḤn, L.) 
@@ -1721,7 +1721,7 @@
 						</form>
 						<sense n="1" xml:id="lbd_1_A1">
 							1. <foreign lang="ar">labida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobadu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobadu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">labadN</foreign>, <hi>It</hi> (a thing) <hi>stuck, clave,</hi> or <hi>adhered.</hi> (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
@@ -1752,9 +1752,9 @@
 						<span type="sig">―</span>
 						<sense n="7" xml:id="lbd_1_A7">
 							<foreign lang="ar">labada biAlmakaAni</foreign>, (L, Ḳ,*) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobudu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobudu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lubuwdN</foreign>; and <foreign lang="ar">labida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobadu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobadu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">labadN</foreign>; (L, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Albd↓</foreign></anchor>; (Ṣ, L, Ḳ;;) ‡ <hi>He remained, continued, stayed, abode,</hi> or <hi>dwelt, in the place;</hi> (Ṣ, L, Ḳ;*) <hi>and clave to it.</hi> (L, Ḳ.*)
 						</sense>
@@ -1766,7 +1766,7 @@
 						<span type="sig">―</span>
 						<sense n="9" xml:id="lbd_1_A9">
 							<foreign lang="ar">labida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobadu</foreign>}</expan></choice>, (Ṣ, L,) inf. n. <foreign lang="ar">labadN</foreign>, (Ṣ, L, Ḳ,) <hi>He</hi> (a camel) <hi>became choked by eating much of the plant called</hi> <foreign lang="ar">Sil-iyaAn</foreign>, <hi>suffering a contortion in the</hi> [<hi>part of the chest called</hi>] <foreign lang="ar">Hayozuwm</foreign> <hi>and in the</hi> [<hi>part of the throat called</hi>] <foreign lang="ar">galoSamap</foreign>: (ISk, Ṣ, L, Ḳ:*) or <hi>had a complaint of the belly from eating of the</hi> <foreign lang="ar">qataAd</foreign> [or <hi>tragacantha</hi>]. (AḤn, L.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobadu</foreign>}</expan></choice>, (Ṣ, L,) inf. n. <foreign lang="ar">labadN</foreign>, (Ṣ, L, Ḳ,) <hi>He</hi> (a camel) <hi>became choked by eating much of the plant called</hi> <foreign lang="ar">Sil-iyaAn</foreign>, <hi>suffering a contortion in the</hi> [<hi>part of the chest called</hi>] <foreign lang="ar">Hayozuwm</foreign> <hi>and in the</hi> [<hi>part of the throat called</hi>] <foreign lang="ar">galoSamap</foreign>: (ISk, Ṣ, L, Ḳ:*) or <hi>had a complaint of the belly from eating of the</hi> <foreign lang="ar">qataAd</foreign> [or <hi>tragacantha</hi>]. (AḤn, L.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="10" xml:id="lbd_1_A10">
@@ -2235,7 +2235,7 @@
 						<hom n="A" xml:id="lbs_1_A">
 						<sense n="1" xml:id="lbs_1_A1">
 							1. <foreign lang="ar">labisa Alv-awoba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobasu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobasu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lubosN</foreign> (Ṣ, M, A, Mṣb, Ḳ) and <foreign lang="ar">libaAsN</foreign>, (M,) [<hi>He put on,</hi> or <hi>wore, the garment.</hi>] 
 							You also say, <foreign lang="ar">Ailobaso Ealayoka vawobaka</foreign> [<hi>Put on thee thy garment</hi>]. (M.) 
 							And <foreign lang="ar">labisa Als-ilaAHa</foreign> [<hi>He wore,</hi> or <hi>put on, the weapon,</hi> or <hi>weapons</hi>]. (Ṣ, Ḳ, in art. <foreign lang="ar">slH</foreign>, &amp;c.) 
@@ -2281,7 +2281,7 @@
 						<hom n="B" xml:id="lbs_1_B">
 						<sense n="1" xml:id="lbs_1_B1">
 							<foreign lang="ar">labasa Ealayohi AlOamora</foreign>, (Ṣ, M, A, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalobisu</foreign>}</expan></choice>, (Ṣ, M, Mṣb, Ḳ,) inf. n. <foreign lang="ar">labosN</foreign>, (Ṣ, M, Mṣb,) <hi>He made,</hi> or <hi>rendered, the thing,</hi> or <hi>case,</hi> or <hi>affair, confused to him:</hi> (Ṣ, M, Mṣb, Ḳ:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalobisu</foreign>}</expan></choice>, (Ṣ, M, Mṣb, Ḳ,) inf. n. <foreign lang="ar">labosN</foreign>, (Ṣ, M, Mṣb,) <hi>He made,</hi> or <hi>rendered, the thing,</hi> or <hi>case,</hi> or <hi>affair, confused to him:</hi> (Ṣ, M, Mṣb, Ḳ:) 
 							and <anchor type="arrow"><foreign lang="ar">lb-shu↓</foreign></anchor>, (A, Mṣb,) inf. n. <foreign lang="ar">talobiysN</foreign>, (Ṣ, Ḳ,) signifies the same in an intensive degree: (Ṣ,* Mṣb, Ḳ:*) or the former signifies either as above, or <hi>he concealed the thing,</hi> or <hi>case,</hi> or <hi>affair, from him:</hi> (R, MF:) and [in like manner] <foreign lang="ar">talobiysN</foreign> is <hi>syn. with</hi> <foreign lang="ar">tadoliysN</foreign>, (Ḳ,) or is <hi>similar thereto:</hi> (Ṣ:) and the former also signifies <hi>he made,</hi> or <hi>rendered, the thing,</hi> or <hi>case,</hi> or <hi>affair, dubious to him;</hi> (TA;) 
 							[as also <anchor type="arrow"><foreign lang="ar">lb-shu↓</foreign></anchor>: both signify <hi>he involved the thing,</hi> or <hi>case,</hi> or <hi>affair, in confusion,</hi> or <hi>doubt, to him:</hi> and <hi>he concealed, disguised,</hi> or <hi>cloaked, it to him.</hi>] 
 							It is said in the Ḳur., 
@@ -2848,7 +2848,7 @@
 						<hom n="A" xml:id="lt_1_A">
 						<sense n="1" xml:id="lt_1_A1">
 							1. <foreign lang="ar">lat-a</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice> TA,) inf. n. <foreign lang="ar">lat-N</foreign>, <hi>He bruised,</hi> or <hi>brayed,</hi> or <hi>broke up into small fragments,</hi> or <hi>particles.</hi> (A, M, Ḳ.) <hi>He</hi> (an ass) <hi>broke in pieces,</hi> or <hi>bruised,</hi> with his hoof, the pebbles over which he passed. (TA.)
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice> TA,) inf. n. <foreign lang="ar">lat-N</foreign>, <hi>He bruised,</hi> or <hi>brayed,</hi> or <hi>broke up into small fragments,</hi> or <hi>particles.</hi> (A, M, Ḳ.) <hi>He</hi> (an ass) <hi>broke in pieces,</hi> or <hi>bruised,</hi> with his hoof, the pebbles over which he passed. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lt_1_A2">
@@ -2863,7 +2863,7 @@
 						<hom n="B" xml:id="lt_1_B">
 						<sense n="1" xml:id="lt_1_B1">
 							<foreign lang="ar">lat-a Als-awiyqa</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lat-N</foreign>, <hi>He moistened the</hi> <foreign lang="ar">swyq</foreign> <hi>with a little water,</hi> [or <hi>clarified butter,</hi> or <hi>fat of a sheep's tail, &amp;c.</hi> 
 							(<ref target="lutaAtN">see <foreign lang="ar">lutaAtN</foreign></ref>)]: (Mṣb:) 
 						<pb n="2649" xml:id="Page_2649"/>
@@ -2873,14 +2873,14 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lt_1_B2">
 							<foreign lang="ar">lat-a viyaAbahu</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lat-N</foreign>, † <hi>It</hi> (a rain) <hi>wetted his clothes.</hi> (A.)
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lat-N</foreign>, † <hi>It</hi> (a rain) <hi>wetted his clothes.</hi> (A.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
 						<hom n="C" xml:id="lt_1_C">
 						<sense n="1" xml:id="lt_1_C1">
 							<foreign lang="ar">lat-a</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice> S,) inf. n. <foreign lang="ar">lat-N</foreign> <hi>He bound</hi> a thing. (Aṣ, Ṣ, Ḳ.)
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalotutu</foreign>}</expan></choice> S,) inf. n. <foreign lang="ar">lat-N</foreign> <hi>He bound</hi> a thing. (Aṣ, Ṣ, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lt_1_C2">
@@ -2958,7 +2958,7 @@
 						<hom n="A" xml:id="ltO_1_A">
 						<sense n="1" xml:id="ltO_1_A1">
 							1. <foreign lang="ar">lataOah fiI Sadorihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalotaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">latoCN</foreign>, (TA,) <hi>He thrust him on his breast.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalotaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">latoCN</foreign>, (TA,) <hi>He thrust him on his breast.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="ltO_1_A2">
@@ -3060,7 +3060,7 @@
 						<hom n="A" xml:id="ltb_1_A">
 						<sense n="1" xml:id="ltb_1_A1">
 							1. <foreign lang="ar">lataba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalotubu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalotubu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">latobN</foreign> and <foreign lang="ar">lutuwbN</foreign>, <hi>He,</hi> or <hi>it, was,</hi> or <hi>remained, fixed, settled,</hi> or <hi>firm:</hi> (Aṣ, Ṣ, Ḳ:) <hi>adhered, clave,</hi> or <hi>stuck.</hi> (Ḳ.)
 						</sense>
 						</hom>
@@ -3197,7 +3197,7 @@
 						</form>
 						<sense n="1" xml:id="ltH_1_A1">
 							1. <foreign lang="ar">latiHa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalotaHu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lataHN</foreign>, Ṣ,) <hi>He hungered; was hungry.</hi> (Ṣ. Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalotaHu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lataHN</foreign>, Ṣ,) <hi>He hungered; was hungry.</hi> (Ṣ. Ḳ.)
 						</sense>
 					</entry>
 					<entry type="main" n="40773" xml:id="latoHaAnu">
@@ -3236,7 +3236,7 @@
 						</form>
 						<sense n="1" xml:id="lv_1_A1">
 							1. <foreign lang="ar">lav-a</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalovivu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lav-N</foreign>; (Ḳ;) 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalovivu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lav-N</foreign>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Alv-↓</foreign></anchor> (in the T <foreign lang="ar">Oalovava</foreign>,) inf. n. <foreign lang="ar">UilovaAvN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">lavolava↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">lavolavapN</foreign>; (Aṣ, Ṣ, Ḳ;) <hi>He remained, stayed, abode,</hi> or <hi>dwelt;</hi> (Aṣ, Ṣ, Ḳ;) <foreign lang="ar">bimakaAnK</foreign> <hi>in a place;</hi> (Aṣ, Ṣ;) <hi>and quitted it not.</hi> (TA.) So in the words of a trad., <foreign lang="ar">laA tuliv-uwA bidaAri maEojazapK</foreign>, and <foreign lang="ar">maEojizapK</foreign>, (Ṣ,) [<hi>Remain ye not in a dwelling of impotence</hi>]: 
@@ -3246,7 +3246,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lv_1_A2">
 							<foreign lang="ar">lav-a</foreign>,, 
-							[aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalovivu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lav-N</foreign>; (Ḳ;) 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalovivu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lav-N</foreign>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Alv-↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">UilovaAvN</foreign>; (Ṣ, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">lavolava↓</foreign></anchor>, 
@@ -3255,12 +3255,12 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lv_1_A3">
 							<foreign lang="ar">lav-a AlX-ajara</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalovuvu</foreign>}</expan></choice>,] <hi>It</hi> (dew, or day-dew, <foreign lang="ar">lav-N</foreign>,) <hi>fell upon the trees.</hi> (Ḳ.) The noun is in the acc. case. (TA.)
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalovuvu</foreign>}</expan></choice>,] <hi>It</hi> (dew, or day-dew, <foreign lang="ar">lav-N</foreign>,) <hi>fell upon the trees.</hi> (Ḳ.) The noun is in the acc. case. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="4" xml:id="lv_1_A4">
 							<foreign lang="ar">lav-a Ealayohi</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalovivu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lav-N</foreign>; (Ḳ;) 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalovivu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lav-N</foreign>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Alv-↓ Elyh</foreign></anchor>, 
 							inf. n. <foreign lang="ar">UilovaAvN</foreign>; (AA, Ṣ, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">lavolava↓</foreign></anchor>, 
@@ -3429,7 +3429,7 @@
 						</form>
 						<sense n="1" xml:id="lvO_1_A1">
 							1. <foreign lang="ar">lavaOa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalovaOu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalovaOu</foreign>}</expan></choice>, 
 							<hi>He</hi> (a dog) <hi>put his muzzle into a vessel, &amp;c., and lapped.</hi> (Ḳ.) Omitted by J because held by him incorrect. (TA.)
 						</sense>
 					</entry>
@@ -3458,9 +3458,9 @@
 						<hom n="A" xml:id="lj_1_A">
 						<sense n="1" xml:id="lj_1_A1">
 							1. <foreign lang="ar">laj-a</foreign>, sec. pers. <foreign lang="ar">lajijota</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojaju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojaju</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lajaAjN</foreign> and <foreign lang="ar">lajaAjapN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">lajajN</foreign>; (M, A:) and <foreign lang="ar">laj-a</foreign>, sec. pers. <foreign lang="ar">lajajota</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojiju</foreign>}</expan></choice>; (Ṣ, Ḳ;) <hi>He persisted,</hi> or <hi>persevered,</hi> <foreign lang="ar">fiI OamorK</foreign> <hi>in an affair:</hi> (Mṣb:) or <hi>he persisted in an affair, and refused to turn from it:</hi> (M:) or <hi>he persisted obstinately in an affair, even if it became manifest that it was wrong:</hi> (the Towsheeh:) or <hi>he persevered,</hi> or <hi>continued, in opposition, in contention, litigation,</hi> or <hi>wrangling:</hi> (TA:) or <hi>he persisted in contention, litigation,</hi> or <hi>wrangling;</hi> (Mṣb, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojiju</foreign>}</expan></choice>; (Ṣ, Ḳ;) <hi>He persisted,</hi> or <hi>persevered,</hi> <foreign lang="ar">fiI OamorK</foreign> <hi>in an affair:</hi> (Mṣb:) or <hi>he persisted in an affair, and refused to turn from it:</hi> (M:) or <hi>he persisted obstinately in an affair, even if it became manifest that it was wrong:</hi> (the Towsheeh:) or <hi>he persevered,</hi> or <hi>continued, in opposition, in contention, litigation,</hi> or <hi>wrangling:</hi> (TA:) or <hi>he persisted in contention, litigation,</hi> or <hi>wrangling;</hi> (Mṣb, TA;) 
 							and so <anchor type="arrow"><foreign lang="ar">lAj-↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">mulaAj-apN</foreign>: (Ṣ:) or <hi>he contended, litigated,</hi> or <hi>wrangled.</hi> (Ḳ.) 
 							[Hence, <foreign lang="ar">laj-a faHaj-a</foreign>, a prov.: 
@@ -3934,8 +3934,8 @@
 						</form>
 						<sense n="1" xml:id="ljO_1_A1">
 							1. <foreign lang="ar">lajaOa Uilayohi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojaOu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lajoCN</foreign> (TA) or <foreign lang="ar">lajaON</foreign> (Ṣ) and <foreign lang="ar">lujuwoCN</foreign> (TA) and <foreign lang="ar">malojaON</foreign>; (Ṣ;) and <foreign lang="ar">lajiY-</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lajaON</foreign>; (TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojaOu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lajoCN</foreign> (TA) or <foreign lang="ar">lajaON</foreign> (Ṣ) and <foreign lang="ar">lujuwoCN</foreign> (TA) and <foreign lang="ar">malojaON</foreign>; (Ṣ;) and <foreign lang="ar">lajiY-</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lajaON</foreign>; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">AltjO↓</foreign></anchor>; (Ṣ, Ḳ;) <hi>He had recourse to it,</hi> or <hi>betook himself to it,</hi> or <hi>repaired to it,</hi> (i. e. a thing or a place, TA) <hi>for refuge, protection, preservation, concealment, covert,</hi> or <hi>lodging.</hi> (Ḳ.) 
 							<ref target="ljA4">See 4</ref>.
 						</sense>
@@ -4066,7 +4066,7 @@
 						<hom n="B" xml:id="lajaON_B">
 						<sense n="1" xml:id="lajaON_B1">
 							The <hi>frog:</hi> (Ḳ:) or <hi>a kind of tortoise, that lives on the land and in the sea:</hi> (M:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">lajaOapN</foreign>}</expan></choice>. (Ḳ.) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">lajaOapN</foreign>}</expan></choice>. (Ḳ.) 
 							<hi>The</hi> <foreign lang="ar">ljOp</foreign> <hi>of the sea</hi> (<foreign lang="ar">All-ajaOapu AlbaHoriy-apu</foreign>) <hi>is asserted to have a tongue in its breast, and to kill the animal that it strikes.</hi> (Dmr.)
 						</sense>
 						</hom>
@@ -4104,7 +4104,7 @@
 						<hom n="A" xml:id="ljb_1_A">
 						<sense n="1" xml:id="ljb_1_A1">
 							1. <foreign lang="ar">lajiba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojabu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojabu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lajabN</foreign>, <hi>It</hi> 
 							[a number of men] <hi>cried out,</hi> or <hi>vociferated; raised a clamour,</hi> or <hi>confused noise.</hi> (Ṣ, Ḳ.) 
 							<ref target="Root_jlb">See also art. <foreign lang="ar">jlb</foreign></ref>.
@@ -4124,7 +4124,7 @@
 						<hom n="B" xml:id="ljb_1_B">
 						<sense n="1" xml:id="ljb_1_B1">
 							<foreign lang="ar">lajubato</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojubu</foreign>}</expan></choice>; (inf. n. <foreign lang="ar">lujuwbapN</foreign>, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojubu</foreign>}</expan></choice>; (inf. n. <foreign lang="ar">lujuwbapN</foreign>, TA;) 
 							and <anchor type="arrow"><foreign lang="ar">lj-bt↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">talojiybN</foreign>; <hi>She</hi> (a sheep or goat) <hi>had little milk;</hi> (Ṣ, Ḳ:) or <hi>her milk dried up, in consequence of her having passed four months since bringing forth.</hi> (Ṣ.) 
 							<ref target="lajobapN">See <foreign lang="ar">lajobapN</foreign></ref>.
@@ -4329,8 +4329,8 @@
 						</form>
 						<sense n="1" xml:id="ljc_1_A1">
 							1. <foreign lang="ar">lajaca</foreign>, (L, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojucu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lajocN</foreign>; (L, Ḳ;) and <foreign lang="ar">lajica</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojacu</foreign>}</expan></choice>; (Ḳ;) <hi>He ate</hi> (L, Ḳ) food. (L.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojucu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lajocN</foreign>; (L, Ḳ;) and <foreign lang="ar">lajica</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojacu</foreign>}</expan></choice>; (Ḳ;) <hi>He ate</hi> (L, Ḳ) food. (L.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="ljc_1_A2">
@@ -4354,7 +4354,7 @@
 						<span type="sig">―</span>
 						<sense n="6" xml:id="ljc_1_A6">
 							<hi>He asked often after having been given once:</hi> (Ḳ:) <foreign lang="ar">lajacaniI</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalojucu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalojucu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lajocN</foreign>, signifies <hi>he asked me, and did so much, after I had given him:</hi> (Ṣ:) or <hi>he asked me after he had asked me and I had given him:</hi> (AZ, L:) or <hi>he asked me, and did so much, after he had asked me and I had given him.</hi> (Aṣ, L.)
 						</sense>
 						<span type="sig">―</span>
@@ -4624,7 +4624,7 @@
 						<hom n="A" xml:id="lHb_1_A">
 						<sense n="1" xml:id="lHb_1_A1">
 							1. <foreign lang="ar">laHaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHabu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">laHobN</foreign>; (Ṣ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHabu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">laHobN</foreign>; (Ṣ;) 
 							and <anchor type="arrow"><foreign lang="ar">AltHb↓</foreign></anchor>; (Ḳ;) <hi>He trod, and passed along,</hi> a road, such as is termed <foreign lang="ar">laHobN</foreign>, (Ṣ, Ḳ,) or simply, a road. (TA.) So also <foreign lang="ar">AltHm</foreign>. (Lth.)
 						</sense>
 						</hom>
@@ -4667,7 +4667,7 @@
 						<span type="sig">―</span>
 						<sense n="9" xml:id="lHb_1_B9">
 							<foreign lang="ar">laHaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHabu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHabu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">luHuwbN</foreign>, <hi>It</hi> (a road) <hi>became conspicuous, clear,</hi> or <hi>open:</hi> (Ḳ:) as though it peeled 
 							[the surface of] the ground. (TA.)
 						</sense>
@@ -4696,7 +4696,7 @@
 						<hom n="D" xml:id="lHb_1_D">
 						<sense n="1" xml:id="lHb_1_D1">
 							<foreign lang="ar">laHiba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHabu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHabu</foreign>}</expan></choice>, 
 							[inf. n. <foreign lang="ar">laHabN</foreign>,] <hi>He</hi> (a man) <hi>became emaciated by reason of old age,</hi> (Ṣ, Ḳ,) <hi>and weakness.</hi> (TA.)
 						</sense>
 						</hom>
@@ -4835,14 +4835,14 @@
 						<hom n="A" xml:id="lHt_1_A">
 						<sense n="1" xml:id="lHt_1_A1">
 							1. <foreign lang="ar">laHata</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHotN</foreign>, TA,) <hi>He beat, struck,</hi> or <hi>smote,</hi> a person with a staff, or stick. (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHotN</foreign>, TA,) <hi>He beat, struck,</hi> or <hi>smote,</hi> a person with a staff, or stick. (Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
 						<hom n="B" xml:id="lHt_1_B">
 						<sense n="1" xml:id="lHt_1_B1">
 							<foreign lang="ar">laHata</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHotN</foreign>, TA,) <hi>He peeled,</hi> or <hi>unbarked,</hi> a staff, or stick: (Ḳ:) or <hi>sawed</hi> it, <hi>and peeled,</hi> or <hi>unbarked</hi> it: as also <foreign lang="ar">naHata</foreign>. (IAạr.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHotN</foreign>, TA,) <hi>He peeled,</hi> or <hi>unbarked,</hi> a staff, or stick: (Ḳ:) or <hi>sawed</hi> it, <hi>and peeled,</hi> or <hi>unbarked</hi> it: as also <foreign lang="ar">naHata</foreign>. (IAạr.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lHt_1_B2">
@@ -4853,14 +4853,14 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lHt_1_B3">
 							<foreign lang="ar">laHatahu biAlEacoli</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laHotN</foreign>, [<hi>He trimmed him with reproof</hi>]: 
 							a phrase similar to that immediately preceding. (TA, app. from IAạr.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="4" xml:id="lHt_1_B4">
 							<foreign lang="ar">laHatahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHatu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laHotN</foreign>, † <hi>He took what he had, leaving him nothing;</hi> as also <foreign lang="ar">lataHahu</foreign>. (TA.)
 						</sense>
 						</hom>
@@ -4904,7 +4904,7 @@
 						</form>
 						<sense n="1" xml:id="lHj_1_A1">
 							1. <foreign lang="ar">laHija</foreign> 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHaju</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHajN</foreign>, Ṣ,) <hi>It</hi> (a sword, Ṣ, Ḳ, or other thing, Ṣ) <hi>stuck fast in the scabbard,</hi> (Ṣ, Ḳ,) <hi>and would not come forth;</hi> like <foreign lang="ar">laSiba</foreign>. (Ṣ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHaju</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHajN</foreign>, Ṣ,) <hi>It</hi> (a sword, Ṣ, Ḳ, or other thing, Ṣ) <hi>stuck fast in the scabbard,</hi> (Ṣ, Ḳ,) <hi>and would not come forth;</hi> like <foreign lang="ar">laSiba</foreign>. (Ṣ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lHj_1_A2">
@@ -4927,7 +4927,7 @@
 						<span type="sig">―</span>
 						<sense n="6" xml:id="lHj_1_A6">
 							<foreign lang="ar">laHaja Uilayohi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHaju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHaju</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laHojN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">AltHj↓</foreign></anchor>; <hi>He inclined to him,</hi> or <hi>it.</hi> (TA.) By the following words of Ru-beh, 
 							<quote>
@@ -5133,7 +5133,7 @@
 						<sense n="1" xml:id="lHd_1_A1">
 							1. <foreign lang="ar">laHada</foreign> (A) 
 							and <anchor type="arrow"><foreign lang="ar">AlHd↓</foreign></anchor> (L, Ḳ) ‡ <hi>He,</hi> or <hi>it,</hi> (as an arrow, A) <hi>declined,</hi> or <hi>deviated, from the right course:</hi> (A, L, Ḳ:) and also <hi>he,</hi> or <hi>it, inclined:</hi> you say <foreign lang="ar">laHada Uilayohi</foreign>, (A, L, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>; (L;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>; (L;) 
 							and <anchor type="arrow"><foreign lang="ar">AlHd↓</foreign></anchor> (A;) 
 							and <anchor type="arrow"><foreign lang="ar">AltHd↓</foreign></anchor>; (Ṣ, L, Ḳ;) <hi>he,</hi> or <hi>it, inclined to him,</hi> or <hi>it.</hi> (A, L, Ḳ.) Some read, [in the Ḳur xvi. 105,] <foreign lang="ar">lisaAnu Ql-aciI yaloHaduwna Uilayohi</foreign> 
 							‡ [<hi>The tongue of him unto whom they incline</hi>]. (Ṣ.)
@@ -5141,7 +5141,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lHd_1_A2">
 							<anchor type="arrow"><foreign lang="ar">AlHd↓ fiI Ald-iyni</foreign></anchor>; (Ṣ, A, L, Mṣb;) and <foreign lang="ar">laHada fiyhi</foreign>, (Ṣ, L, Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>; (L;) ‡ <hi>He deviated,</hi> or <hi>swerved, from the right way, with respect to religion:</hi> (Ṣ, A, L:) <hi>he impugned religion.</hi> (Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>; (L;) ‡ <hi>He deviated,</hi> or <hi>swerved, from the right way, with respect to religion:</hi> (Ṣ, A, L:) <hi>he impugned religion.</hi> (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lHd_1_A3">
@@ -5152,14 +5152,14 @@
 						<hom n="B" xml:id="lHd_1_B">
 						<sense n="1" xml:id="lHd_1_B1">
 							<foreign lang="ar">laHada Alqabora</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHodN</foreign>; L,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laHodN</foreign>; L,) 
 							and <anchor type="arrow"><foreign lang="ar">AlHdhu↓</foreign></anchor>; (A, L, Ḳ;) and <foreign lang="ar">laHada lahu laHodFA</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">AlHd↓ lh</foreign></anchor>; (Ṣ, Mṣb;) <hi>He made a</hi> <foreign lang="ar">laHod</foreign> <hi>to the grave.</hi> (Ṣ, A, L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lHd_1_B2">
 							<foreign lang="ar">laHada Qlomay-ita</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHadu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laHodN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">AlHdhu↓</foreign></anchor>; and <foreign lang="ar">laHada lahu</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">AlHd↓ lh</foreign></anchor>; <hi>He made a</hi> <foreign lang="ar">laHod</foreign> <hi>for the corpse:</hi> 
@@ -5331,7 +5331,7 @@
 						</form>
 						<sense n="1" xml:id="lHs_1_A1">
 							1. <foreign lang="ar">laHisahu</foreign>, (Ṣ, Mgh, Mṣb, Ḳ,) or <foreign lang="ar">laHisahu bilisaAnihi</foreign>, (A,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHasu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">laHosN</foreign> (Ṣ, A, Mṣb, Ḳ) and <foreign lang="ar">maloHasN</foreign> (A Ḳ) and <foreign lang="ar">laHosapN</foreign> and <foreign lang="ar">luHosapN</foreign>, (Yaạḳoob, Ṣ, Ḳ,) the last mentioned by ISk, (TA,) <hi>He licked it;</hi> (Ṣ, A, Ḳ, TA;) namely, a bowl, (Ṣ, Ḳ,) and a vessel: (Ṣ:) <foreign lang="ar">All-aHosu</foreign> is with the tongue: (Ṣ, Ḳ:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHasu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">laHosN</foreign> (Ṣ, A, Mṣb, Ḳ) and <foreign lang="ar">maloHasN</foreign> (A Ḳ) and <foreign lang="ar">laHosapN</foreign> and <foreign lang="ar">luHosapN</foreign>, (Yaạḳoob, Ṣ, Ḳ,) the last mentioned by ISk, (TA,) <hi>He licked it;</hi> (Ṣ, A, Ḳ, TA;) namely, a bowl, (Ṣ, Ḳ,) and a vessel: (Ṣ:) <foreign lang="ar">All-aHosu</foreign> is with the tongue: (Ṣ, Ḳ:) 
 						<pb n="2655" xml:id="Page_2655"/>
 							or <foreign lang="ar">laHsahu</foreign> signifies <hi>he took what was upon it,</hi> (Mgh,) or <hi>what adhered to its sides,</hi> (Mṣb,) <hi>with his tongue</hi> or <hi>his finger;</hi> (Mgh, Mṣb;) the suffixed pronoun referring to a bowl (Mgh, Mṣb) or some other thing: (Mgh:) and <hi>he took it</hi> (a thing) <hi>with his tongue.</hi> (TA.) 
 							It is said in a proverb, <foreign lang="ar">OasoraEu mino laHosi Alkalobi Oanofahu</foreign> [<hi>Quicker than the dog's licking his nose</hi>]. (Ṣ, A.) 
@@ -5562,7 +5562,7 @@
 						</form>
 						<sense n="1" xml:id="lHZ_1_A1">
 							1. <foreign lang="ar">laHaZahu</foreign>, (Ṣ, Ḳ,) or <foreign lang="ar">laHaZahu biAlEayoni</foreign>, (Mṣb,) and <foreign lang="ar">laHaZa Uilayohi</foreign>, (Ṣ, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloHaZu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloHaZu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laHoZN</foreign> (Mṣb, Ḳ) and <foreign lang="ar">laHaZaAnN</foreign>, (Ḳ,) <hi>He looked at him from the outer angle of the eye,</hi> (Ṣ, Mṣb, Ḳ,) <hi>to the right</hi> or <hi>left,</hi> (Mṣb, TA,) <hi>with more turning of the face than is denoted by</hi> <foreign lang="ar">XazorN</foreign>; (Mṣb, Ḳ;) or <hi>without turning the face:</hi> (TA:) or <hi>he watched him with the eye:</hi> (Mṣb:) and hence 
 							<anchor type="arrow"><foreign lang="ar">mulaAHaZapN↓</foreign></anchor>, of the measure <foreign lang="ar">mufaAEalapN</foreign>, (Ḳ, TA,) explained by Az as signifying a man's <hi>looking from the outer angle of either eye.</hi> (TA.)
 						</sense>
@@ -5826,7 +5826,7 @@
 						</form>
 						<sense n="1" xml:id="laxolaxaAniI-N_A1">
 							<foreign lang="ar">laxolaxaAniI-N</foreign>, (Ṣ, Ḳ,) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">laxolaxaAniy-apN</foreign>}</expan></choice>, (L,) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">laxolaxaAniy-apN</foreign>}</expan></choice>, (L,) 
 							A man <hi>whose speech,</hi> or <hi>utterance, is characterized by what is termed</hi> <foreign lang="ar">laxolaxaAniy-ap</foreign>, or <hi>barbarousness,</hi> or <hi>vitiousness, &amp;c.:</hi> (L:) <hi>not chaste in speech,</hi> or <hi>utterance.</hi> (Ṣ, Ḳ.)
 						</sense>
 					</entry>
@@ -5883,7 +5883,7 @@
 						<hom n="B" xml:id="lxb_1_B">
 						<sense n="1" xml:id="lxb_1_B1">
 							<foreign lang="ar">laxaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloxabu</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloxubu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laxobN</foreign>, TA,) <hi>Inivit</hi> feminam: (Kr, Ḳ:) but the word commonly known, related by Yaạḳoob and others, is <foreign lang="ar">naxaba</foreign>. (ISd.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloxabu</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloxubu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laxobN</foreign>, TA,) <hi>Inivit</hi> feminam: (Kr, Ḳ:) but the word commonly known, related by Yaạḳoob and others, is <foreign lang="ar">naxaba</foreign>. (ISd.)
 						</sense>
 						</hom>
 					</entry>
@@ -6017,12 +6017,12 @@
 						<hom n="A" xml:id="ld_1_A">
 						<sense n="1" xml:id="ld_1_A1">
 							1. <foreign lang="ar">lad-</foreign>, originally <foreign lang="ar">ladida</foreign>, (second pers. <foreign lang="ar">ladidota</foreign>, L,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalodadu</foreign>}</expan></choice>, (L, Mṣb,) inf. n. <foreign lang="ar">ladadN</foreign> (Ṣ, A, L, Mṣb,) <hi>He was violent,</hi> or <hi>vehement, in contention,</hi> or <hi>altercation; in dispute; in litigation.</hi> (Ṣ, A, L, Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalodadu</foreign>}</expan></choice>, (L, Mṣb,) inf. n. <foreign lang="ar">ladadN</foreign> (Ṣ, A, L, Mṣb,) <hi>He was violent,</hi> or <hi>vehement, in contention,</hi> or <hi>altercation; in dispute; in litigation.</hi> (Ṣ, A, L, Mṣb.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="ld_1_A2">
 							<foreign lang="ar">lad-ahu</foreign>, (Ṣ, L, Mṣb, Ḳ,)) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalodadu</foreign>}</expan></choice>, (Ṣ, L, Mṣb,) inf. n. <foreign lang="ar">lad-N</foreign>, (L, Mṣb,) <hi>He overcame him in contention,</hi> or <hi>altercation; in dispute; in litigation:</hi> (Ṣ,* L, Ḳ:*) or <hi>he opposed him violently,</hi> or <hi>vehemently, in contention,</hi> or <hi>altercation; in dispute; in litigation.</hi> (Mṣb.) <foreign lang="ar">ladidota</foreign>, (in some copies of the Ḳ, <foreign lang="ar">ladadota</foreign>,) inf. n. <foreign lang="ar">laddN</foreign>, (IḲṭṭ, L: in the Ḳ, <foreign lang="ar">lad-N</foreign>:) <hi>Thou becamest such as is called</hi> <foreign lang="ar">Oalad-</foreign> [<hi>violent,</hi> or <hi>vehement, in contention, &amp;c.</hi>]. (IḲṭṭ, L, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalodadu</foreign>}</expan></choice>, (Ṣ, L, Mṣb,) inf. n. <foreign lang="ar">lad-N</foreign>, (L, Mṣb,) <hi>He overcame him in contention,</hi> or <hi>altercation; in dispute; in litigation:</hi> (Ṣ,* L, Ḳ:*) or <hi>he opposed him violently,</hi> or <hi>vehemently, in contention,</hi> or <hi>altercation; in dispute; in litigation.</hi> (Mṣb.) <foreign lang="ar">ladidota</foreign>, (in some copies of the Ḳ, <foreign lang="ar">ladadota</foreign>,) inf. n. <foreign lang="ar">laddN</foreign>, (IḲṭṭ, L: in the Ḳ, <foreign lang="ar">lad-N</foreign>:) <hi>Thou becamest such as is called</hi> <foreign lang="ar">Oalad-</foreign> [<hi>violent,</hi> or <hi>vehement, in contention, &amp;c.</hi>]. (IḲṭṭ, L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="ld_1_A3">
@@ -6033,7 +6033,7 @@
 						<hom n="B" xml:id="ld_1_B">
 						<sense n="1" xml:id="ld_1_B1">
 							<foreign lang="ar">lad-ahu</foreign>, (Ḳ,) or <foreign lang="ar">lad-ahu biAll-aduwdi</foreign>, (M,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalodudu</foreign>}</expan></choice>, (L,) inf. n. <foreign lang="ar">lad-N</foreign> and <foreign lang="ar">luduwdN</foreign>; (M, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalodudu</foreign>}</expan></choice>, (L,) inf. n. <foreign lang="ar">lad-N</foreign> and <foreign lang="ar">luduwdN</foreign>; (M, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Ald-hu↓</foreign></anchor>; (Ṣ, L, Ḳ;) and <foreign lang="ar">lad-ahu All-aduwda</foreign>; (M, L, Ḳ;) <hi>He administered to him the medicine,</hi> or <hi>draught, termed</hi> <foreign lang="ar">laduwd</foreign>. (Ṣ,* M, L, Ḳ.*) The action termed <foreign lang="ar">All-ad-u</foreign> is <hi>the taking a child's tongue, and drawing it to one side, and pouring medicine in the other side, between the tongue and the side of the mouth.</hi> (Fr, L.)
 						</sense>
 						<span type="sig">―</span>
@@ -6634,7 +6634,7 @@
 						</form>
 						<sense n="1" xml:id="lcb_1_A1">
 							1. <foreign lang="ar">lacaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalocubu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalocubu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lucuwbN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">laAcaba↓</foreign></anchor>; <hi>He remained, stayed, abode,</hi> or <hi>dwelt,</hi> in a place: (Ḳ:) or correctly written with <foreign lang="ar">d</foreign>, unpointed: but IDrd doubts whether correctly with <foreign lang="ar">c</foreign> or with <foreign lang="ar">d</foreign>. (TA.) 
 							<ref target="lazaba">See also <foreign lang="ar">lazaba</foreign></ref>.
@@ -6679,7 +6679,7 @@
 							1. <foreign lang="ar">laz-a AlX-aIoCu biAlX-aIoCi</foreign>, (TḲ,) 
 							[aor., app. <foreign lang="ar">_i</foreign>,] 
 							or <foreign lang="ar">laz-ahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalozuzu</foreign>}</expan></choice>, (so in a copy of the Mṣb,) inf. n. <foreign lang="ar">laz-N</foreign>, (Mṣb, Ḳ,) <hi>The thing clave to the thing:</hi> (Mṣb, Ḳ,* TḲ:) <hi>it stuck,</hi> or <hi>adhered, to it.</hi> (TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalozuzu</foreign>}</expan></choice>, (so in a copy of the Mṣb,) inf. n. <foreign lang="ar">laz-N</foreign>, (Mṣb, Ḳ,) <hi>The thing clave to the thing:</hi> (Mṣb, Ḳ,* TḲ:) <hi>it stuck,</hi> or <hi>adhered, to it.</hi> (TA.) 
 							<ref target="lz_8">See also 8</ref>.
 						</sense>
 						<span type="sig">―</span>
@@ -6692,7 +6692,7 @@
 						<hom n="B" xml:id="lz_1_B">
 						<sense n="1" xml:id="lz_1_B1">
 							<foreign lang="ar">laz-ahu</foreign>, (Ṣ, Ḳ,)) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalozuzu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">laz-N</foreign> (Ṣ, Ḳ) and <foreign lang="ar">lazazN</foreign>, (Ḳ, and so in a copy of the Ṣ,) or <foreign lang="ar">lazaAzN</foreign>, (L, and so in a copy of the Ṣ,) <hi>He fastened it,</hi> or <hi>made it fast;</hi> or <hi>he bound it,</hi> or <hi>tied it;</hi> syn. <foreign lang="ar">Xad-ahu</foreign>: and <hi>he stuck it,</hi> or <hi>made it to adhere;</hi> (Ṣ, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalozuzu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">laz-N</foreign> (Ṣ, Ḳ) and <foreign lang="ar">lazazN</foreign>, (Ḳ, and so in a copy of the Ṣ,) or <foreign lang="ar">lazaAzN</foreign>, (L, and so in a copy of the Ṣ,) <hi>He fastened it,</hi> or <hi>made it fast;</hi> or <hi>he bound it,</hi> or <hi>tied it;</hi> syn. <foreign lang="ar">Xad-ahu</foreign>: and <hi>he stuck it,</hi> or <hi>made it to adhere;</hi> (Ṣ, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">Alz-hu↓</foreign></anchor>, (Ḳ,) inf. n. <foreign lang="ar">UilozaAzN</foreign>. 
 							(TA. [But it is afterwards said in the TA, that, accord. to the TṢ, <foreign lang="ar">Oalozazotu bihi</foreign> in the sense of <foreign lang="ar">OaloSaqotu bihi</foreign> was disallowed by Aṣ.]) 
 							You say also, <foreign lang="ar">laz-ahu bihi</foreign>, (TḲ,) inf. n. <foreign lang="ar">laz-N</foreign>, (Ḳ,) <hi>He made it to cleave to it;</hi> (Ḳ,* TḲ;) <hi>like the</hi> <foreign lang="ar">lizaAz</foreign> <hi>of a house</hi> or <hi>chamber.</hi> (Lth, TA.) 
@@ -6938,7 +6938,7 @@
 						<hom n="B" xml:id="lzO_1_B">
 						<sense n="1" xml:id="lzO_1_B1">
 							<foreign lang="ar">lazaOahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalozaOu</foreign>}</expan></choice>; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalozaOu</foreign>}</expan></choice>; 
 							and <anchor type="arrow"><foreign lang="ar">lz-Oh↓</foreign></anchor>, (Ḳ,) 
 							and <anchor type="arrow"><foreign lang="ar">AlzOh↓</foreign></anchor>; (TA;) <hi>He gave him</hi> 
 							[a thing]. (Ḳ, TA.) 
@@ -7025,7 +7025,7 @@
 						<hom n="A" xml:id="lzb_1_A">
 						<sense n="1" xml:id="lzb_1_A1">
 							1. <foreign lang="ar">lazaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalozubu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalozubu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">luzuwbN</foreign>, <hi>It was,</hi> or <hi>remained, fixed, settled, firm,</hi> or <hi>constant.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -7035,7 +7035,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lzb_1_A3">
 							<foreign lang="ar">lazuba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalozubu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalozubu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lazobN</foreign> and <foreign lang="ar">luzuwbN</foreign>, [<hi>It became commixed,</hi> or <hi>commingled: it intermixed;</hi> or <hi>it became contracted;</hi>] <hi>one part of it entered into another.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -7191,7 +7191,7 @@
 						</form>
 						<sense n="1" xml:id="lzj_1_A1">
 							1. <foreign lang="ar">lazija</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalozaju</foreign>}</expan></choice>, (Ṣ, M, Ḳ,) inf. n. <foreign lang="ar">lazajN</foreign> and <foreign lang="ar">luzuwjapN</foreign> (M) and <foreign lang="ar">luzuwjN</foreign>; (Mṣb;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalozaju</foreign>}</expan></choice>, (Ṣ, M, Ḳ,) inf. n. <foreign lang="ar">lazajN</foreign> and <foreign lang="ar">luzuwjapN</foreign> (M) and <foreign lang="ar">luzuwjN</foreign>; (Mṣb;) 
 							and <anchor type="arrow"><foreign lang="ar">tlz-j↓</foreign></anchor>; (M;) <hi>It</hi> (a thing, Ṣ) <hi>stretched out,</hi> in a neut. sense: <hi>it roped;</hi> or <hi>drew out, with a viscous, glutinous, clammy, cohesive, sticky, ropy,</hi> or <hi>slimy, continuity of parts:</hi> syn. <foreign lang="ar">tamaT-aTa</foreign> and <foreign lang="ar">tamad-ada</foreign>: (Ṣ, Ḳ:) <hi>it was,</hi> or <hi>became, viscous, glutinous, clammy, cohesive, sticky, ropy,</hi> or <hi>slimy, so as to adhere to the hand and the like.</hi> (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
@@ -7327,7 +7327,7 @@
 						<hom n="A" xml:id="lsb_1_A">
 						<sense n="1" xml:id="lsb_1_A1">
 							1. <foreign lang="ar">lasabahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalosibu</foreign>}</expan></choice>, (Ṣ, Ḳ,) and <foreign lang="ar">_a</foreign>, (Ḳ,) inf. n. <foreign lang="ar">lasobN</foreign>, (Ṣ,) <hi>It</hi> (a scorpion, Ṣ, or a serpent or other thing, Ḳ, as a scorpion, and wasp, but generally said of a scorpion, TA,) <hi>stung him,</hi> or <hi>bit him.</hi> (Ṣ, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalosibu</foreign>}</expan></choice>, (Ṣ, Ḳ,) and <foreign lang="ar">_a</foreign>, (Ḳ,) inf. n. <foreign lang="ar">lasobN</foreign>, (Ṣ,) <hi>It</hi> (a scorpion, Ṣ, or a serpent or other thing, Ḳ, as a scorpion, and wasp, but generally said of a scorpion, TA,) <hi>stung him,</hi> or <hi>bit him.</hi> (Ṣ, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lsb_1_A2">
@@ -7336,14 +7336,14 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lsb_1_A3">
 							<foreign lang="ar">lasiba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalosabu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lasobN</foreign>, (Ṣ,) <hi>He licked</hi> honey, (Ṣ, Ḳ,) or the like, (Ḳ,) as clarified butter. (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalosabu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lasobN</foreign>, (Ṣ,) <hi>He licked</hi> honey, (Ṣ, Ḳ,) or the like, (Ḳ,) as clarified butter. (TA.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
 						<hom n="B" xml:id="lsb_1_B">
 						<sense n="1" xml:id="lsb_1_B1">
 							<foreign lang="ar">lasiba bihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalosabu</foreign>}</expan></choice>, <hi>It adhered, clave,</hi> or <hi>stuck, to it,</hi> or <hi>in it:</hi> (Ṣ, Ḳ:) like <foreign lang="ar">laSiba</foreign>. (Ṣ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalosabu</foreign>}</expan></choice>, <hi>It adhered, clave,</hi> or <hi>stuck, to it,</hi> or <hi>in it:</hi> (Ṣ, Ḳ:) like <foreign lang="ar">laSiba</foreign>. (Ṣ.)
 						</sense>
 						</hom>
 					</entry>
@@ -7401,8 +7401,8 @@
 						</form>
 						<sense n="1" xml:id="lsd_1_A1">
 							1. <foreign lang="ar">lasada</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalosidu</foreign>}</expan></choice>, (Ṣ, M, Ḳ,) and <foreign lang="ar">_u</foreign>, (M,) inf. n. <foreign lang="ar">lasodN</foreign>; (Ṣ;) and <foreign lang="ar">lasida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalosadu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lasadN</foreign>; (Ṣ;) the latter mentioned by AḤát, (Ṣ,) or Aboo-Khálid, (L,) in the Kitáb el-Abwáb, (Ṣ, L,) but the former is the more chaste, (TA,) <hi>It</hi> (a lamb or kid, Ḳ, or the young one of a clovenhoofed animal, Ṣ, M,) <hi>sucked</hi> its mother: (Ṣ, M, L:) or <hi>sucked</hi> her <hi>so as to exhaust all that was in the udder.</hi> (M, L, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalosidu</foreign>}</expan></choice>, (Ṣ, M, Ḳ,) and <foreign lang="ar">_u</foreign>, (M,) inf. n. <foreign lang="ar">lasodN</foreign>; (Ṣ;) and <foreign lang="ar">lasida</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalosadu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lasadN</foreign>; (Ṣ;) the latter mentioned by AḤát, (Ṣ,) or Aboo-Khálid, (L,) in the Kitáb el-Abwáb, (Ṣ, L,) but the former is the more chaste, (TA,) <hi>It</hi> (a lamb or kid, Ḳ, or the young one of a clovenhoofed animal, Ṣ, M,) <hi>sucked</hi> its mother: (Ṣ, M, L:) or <hi>sucked</hi> her <hi>so as to exhaust all that was in the udder.</hi> (M, L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lsd_1_A2">
@@ -7450,14 +7450,14 @@
 						<hom n="A" xml:id="lS_1_A">
 						<sense n="1" xml:id="lS_1_A1">
 							1. <foreign lang="ar">laS-a</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloSiSu</foreign>}</expan></choice>, <hi>He thieved,</hi> or <hi>stole:</hi> (A:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloSiSu</foreign>}</expan></choice>, <hi>He thieved,</hi> or <hi>stole:</hi> (A:) 
 							[<ref target="luSuwSiy-apN">see <foreign lang="ar">luSuwSiy-apN</foreign></ref>, and the other nouns mentioned therewith, some of which, if not all, are app. inf. ns. of this verb:] 
 							and <anchor type="arrow"><foreign lang="ar">tlS-S↓</foreign></anchor> signifies the same; or <hi>he was thievish:</hi> (Ṣ,* Mṣb,* TA:) [or <hi>he practised theft:</hi>] or <hi>he thieved,</hi> or <hi>stole, repeatedly:</hi> (A, TA:) and <hi>he acted as a spy;</hi> syn. <foreign lang="ar">tajas-asa</foreign>. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lS_1_A2">
 							<foreign lang="ar">laS-a AlX-aIoCa</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloSuSu</foreign>}</expan></choice>, (Mṣb, TḲ,) inf. n. <foreign lang="ar">laS-N</foreign>, (A, Mṣb, Ḳ,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloSuSu</foreign>}</expan></choice>, (Mṣb, TḲ,) inf. n. <foreign lang="ar">laS-N</foreign>, (A, Mṣb, Ḳ,) 
 							[in the CK <foreign lang="ar">liS-N</foreign>,] <hi>He stole the thing:</hi> (Mṣb:) 
 							[and] <hi>he did the thing secretly,</hi> or <hi>covertly.</hi> (A, Ḳ.)
 						</sense>
@@ -7701,7 +7701,7 @@
 						</form>
 						<sense n="1" xml:id="lSb_1_A1">
 							1. <foreign lang="ar">laSiba Als-ayofu fiI Algimodi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloSabu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laSobN</foreign>, as in a copy of the Ṣ, perhaps a mistake for <foreign lang="ar">laSabN</foreign>,) <hi>The sword stuck in the scabbard,</hi> (Ṣ, Ḳ,) <hi>and would not come forth.</hi> (Ṣ.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloSabu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laSobN</foreign>, as in a copy of the Ṣ, perhaps a mistake for <foreign lang="ar">laSabN</foreign>,) <hi>The sword stuck in the scabbard,</hi> (Ṣ, Ḳ,) <hi>and would not come forth.</hi> (Ṣ.) 
 							<ref target="lasiba">See also <foreign lang="ar">lasiba</foreign></ref> 
 							<ref target="lazaba">and <foreign lang="ar">lazaba</foreign></ref>.
 						</sense>
@@ -7843,9 +7843,9 @@
 						</form>
 						<sense n="1" xml:id="lTO_1_A1">
 							1. <foreign lang="ar">laTaOa biAlOaroDi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTaOu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTaOu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laToCN</foreign>; and <foreign lang="ar">laTiYa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTaOu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTaOu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">luTuwoCN</foreign>; <hi>He clave to the ground.</hi> (Ṣ, Ḳ.) 
 							Also, the former, without <foreign lang="ar">C</foreign>: <foreign lang="ar">UiloTaho</foreign> occurs in a trad. for <foreign lang="ar">UiloTaOo</foreign> 
 							[imper. of <foreign lang="ar">laTiYa</foreign>] <hi>Cleave to the ground.</hi> (TA.)
@@ -7947,7 +7947,7 @@
 						<hom n="A" xml:id="lTv_1_A">
 						<sense n="1" xml:id="lTv_1_A1">
 							1. <foreign lang="ar">laTavahu</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTivu</foreign>}</expan></choice>, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTivu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laTovN</foreign>, L,) <hi>He struck him with the flat of the hand;</hi> or, <hi>with a broad piece of wood:</hi> (IAạr, Ḳ:) <hi>he slapped him with his open hand;</hi> syn. <foreign lang="ar">Sak-ahu</foreign>; (Ḳ;) like <foreign lang="ar">laTamahu</foreign>. (TA.) 
 							[<ref target="lTs_1">See also <foreign lang="ar">laTasahu</foreign></ref>.]
 						</sense>
@@ -7966,19 +7966,19 @@
 						<hom n="C" xml:id="lTv_1_C">
 						<sense n="1" xml:id="lTv_1_C1">
 							<foreign lang="ar">laTavahu AlOamoru</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTivu</foreign>}</expan></choice>, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTivu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laTovN</foreign>,) <hi>The affair was difficult,</hi> or <hi>troublesome, to him.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lTv_1_C2">
 							<foreign lang="ar">laTavahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTivu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTivu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laTovN</foreign>, <hi>It</hi> (a load, or an affair,) <hi>was heavy</hi> or <hi>burdensome, and hard,</hi> or <hi>grievous to him.</hi> (L.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lTv_1_C3">
 							<foreign lang="ar">laTavN</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTuvu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">laTovN</foreign>, <hi>It became corrupt.</hi> (IAạr, Ḳ.)
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTuvu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">laTovN</foreign>, <hi>It became corrupt.</hi> (IAạr, Ḳ.)
 						</sense>
 						</hom>
 					</entry>
@@ -8042,7 +8042,7 @@
 						</form>
 						<sense n="1" xml:id="lTH_1_A1">
 							1. <foreign lang="ar">laTaHahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTaHu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laToHN</foreign>, Ṣ,) <hi>He struck him with the palm of his hand;</hi> (Ḳ;) as also <foreign lang="ar">laTaxahu</foreign>: or <hi>he struck him, not violently, with his open hand:</hi> (TA:) or <hi>he struck him, not violently, with the palm of his hand and the like:</hi> (T:) or <hi>he struck him gently on the back</hi> (Ṣ, Ḳ) <hi>with the palm of the hand;</hi> like <foreign lang="ar">HaTaOahu</foreign>. (Ṣ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTaHu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laToHN</foreign>, Ṣ,) <hi>He struck him with the palm of his hand;</hi> (Ḳ;) as also <foreign lang="ar">laTaxahu</foreign>: or <hi>he struck him, not violently, with his open hand:</hi> (TA:) or <hi>he struck him, not violently, with the palm of his hand and the like:</hi> (T:) or <hi>he struck him gently on the back</hi> (Ṣ, Ḳ) <hi>with the palm of the hand;</hi> like <foreign lang="ar">HaTaOahu</foreign>. (Ṣ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lTH_1_A2">
@@ -8080,7 +8080,7 @@
 						<hom n="A" xml:id="lTx_1_A">
 						<sense n="1" xml:id="lTx_1_A1">
 							1. <foreign lang="ar">laTaxahu</foreign>, (Ṣ, Ḳ, &amp;c.,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloTaxu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">laToxN</foreign>, (Ṣ,) <hi>He defiled, befouled, polluted, dirtied, soiled, sullied, smeared, besmeared, daubed, bedaubed, bespattered,</hi> [<hi>rubbed over,</hi> or <hi>overspread,</hi>] <hi>sprinkled</hi> or <hi>splashed, him,</hi> or <hi>it,</hi> (Ṣ, L, Mṣb, Ḳ,) as a garment, (Mṣb,) <foreign lang="ar">bidadaA</foreign> <hi>with such a thing,</hi> (Ṣ,) as with ink. (Mṣb.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloTaxu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">laToxN</foreign>, (Ṣ,) <hi>He defiled, befouled, polluted, dirtied, soiled, sullied, smeared, besmeared, daubed, bedaubed, bespattered,</hi> [<hi>rubbed over,</hi> or <hi>overspread,</hi>] <hi>sprinkled</hi> or <hi>splashed, him,</hi> or <hi>it,</hi> (Ṣ, L, Mṣb, Ḳ,) as a garment, (Mṣb,) <foreign lang="ar">bidadaA</foreign> <hi>with such a thing,</hi> (Ṣ,) as with ink. (Mṣb.) 
 							[<ref target="lTx_2">See also 2</ref>.]
 						</sense>
 						<span type="sig">―</span>
@@ -8446,7 +8446,7 @@
 						<hom n="A" xml:id="lEb_1_A">
 						<sense n="1" xml:id="lEb_1_A1">
 							1. <foreign lang="ar">laEiba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloEabu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloEabu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laEibN</foreign> (which is the original [and most common] form, TA) and <foreign lang="ar">liEobN</foreign> (Ṣ, Ḳ: the latter of these inf. ns. contracted from the former, Mṣb) and <foreign lang="ar">laEobN</foreign> 
 							(Ḳ: also contracted from the first: not heard by IḲt; but authorized by Mekkee, and, accord. to him, agreeable with a constant rule, applicable in the case of any word of a similar measure having a guttural letter as its medial radical, whether a noun or verb: TA:) 
 						<pb n="2662" xml:id="Page_2662"/>
@@ -8475,7 +8475,7 @@
 						<hom n="B" xml:id="lEb_1_B">
 						<sense n="1" xml:id="lEb_1_B1">
 							<foreign lang="ar">laEaba</foreign>, (and <foreign lang="ar">laEiba</foreign>, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloEabu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloEabu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laEobN</foreign>; (Ṣ, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">AlEb↓</foreign></anchor>; (Ḳ;) <hi>He</hi> (a child, Ṣ) <hi>slavered; drivelled; emitted a flow of slaver</hi> or <hi>drivel from his mouth.</hi> (Ṣ, Ḳ.) 
 							The first word is the most approved: (TA:) 
@@ -8931,7 +8931,7 @@
 						</form>
 						<sense n="1" xml:id="lEv_1_A1">
 							1. <foreign lang="ar">laEivN</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloEavu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laEavN</foreign>, TA,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloEavu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">laEavN</foreign>, TA,) 
 							<hi>He</hi> (a man, TA) <hi>was heavy and slow.</hi> (Ḳ.)
 						</sense>
 					</entry>
@@ -8964,7 +8964,7 @@
 						</form>
 						<sense n="1" xml:id="lEj_1_A1">
 							1. <foreign lang="ar">laEaja</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloEaju</foreign>}</expan></choice>: (inf. n. <foreign lang="ar">laEojN</foreign>, TA) <hi>It</hi> (a beating, TA) <hi>burned</hi> the skin: <hi>it pained</hi> the body: (Ḳ:) <hi>it</hi> (a beating) <hi>pained</hi> a person, <hi>and burned</hi> the skin: (Ṣ:) <hi>it</hi> (anything burning) <hi>pained: it</hi> (love, or grief,) <hi>burned</hi> his heart. (TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloEaju</foreign>}</expan></choice>: (inf. n. <foreign lang="ar">laEojN</foreign>, TA) <hi>It</hi> (a beating, TA) <hi>burned</hi> the skin: <hi>it pained</hi> the body: (Ḳ:) <hi>it</hi> (a beating) <hi>pained</hi> a person, <hi>and burned</hi> the skin: (Ṣ:) <hi>it</hi> (anything burning) <hi>pained: it</hi> (love, or grief,) <hi>burned</hi> his heart. (TA.) 
 							[<ref target="baEaja">See <foreign lang="ar">baEaja</foreign></ref>.] <foreign lang="ar">laAEijN</foreign> is numbered amongst the 
 							[few] inf. ns. of the measure <foreign lang="ar">faAEilN</foreign> [like <foreign lang="ar">qaAYimN</foreign>]; and means as explained below. (TA.)
 						</sense>
@@ -9066,7 +9066,7 @@
 						</form>
 						<sense n="1" xml:id="lEs_1_A1">
 							1. <foreign lang="ar">laEisa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloEasu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">laEasN</foreign>, (TA,) [<hi>He vas,</hi> or <hi>became, characterized, by what is termed</hi> <foreign lang="ar">laEasN</foreign> <hi>and</hi> <foreign lang="ar">luEosapN</foreign>; (see the former of these words below;)] 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloEasu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">laEasN</foreign>, (TA,) [<hi>He vas,</hi> or <hi>became, characterized, by what is termed</hi> <foreign lang="ar">laEasN</foreign> <hi>and</hi> <foreign lang="ar">luEosapN</foreign>; (see the former of these words below;)] 
 							<hi>he had a blackness, deemed beautiful, in the lip.</hi> (Ḳ.)
 						</sense>
 					</entry>
@@ -9139,24 +9139,24 @@
 						<hom n="A" xml:id="lgb_1_A">
 						<sense n="1" xml:id="lgb_1_A1">
 							1. <foreign lang="ar">lagaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>, (Ṣ,) and <foreign lang="ar">_a</foreign> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>, (Ṣ,) and <foreign lang="ar">_a</foreign> 
 							(Ḳ); and <foreign lang="ar">lagiba</foreign>, aor <foreign lang="ar">_a</foreign>; (Ṣ, Ḳ;) but this latter is of weak authority; (Ṣ;) and <foreign lang="ar">laguba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>; (Lb, Ḳ;) inf. n. <foreign lang="ar">lagobN</foreign>, (Ḳ,) which is said to be inf. n. of <foreign lang="ar">lagaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>, (TA,) and <foreign lang="ar">luguwbN</foreign>, (Ṣ, Ḳ,) inf. n. of <foreign lang="ar">lagaba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>; (Lb, Ḳ;) inf. n. <foreign lang="ar">lagobN</foreign>, (Ḳ,) which is said to be inf. n. of <foreign lang="ar">lagaba</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>, (TA,) and <foreign lang="ar">luguwbN</foreign>, (Ṣ, Ḳ,) inf. n. of <foreign lang="ar">lagaba</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>, 
 							<ref target="lagiba">and of <foreign lang="ar">lagiba</foreign></ref>, (Ṣ,) and <foreign lang="ar">laguwbN</foreign>, (Ḳ,) which deviates from constant rule, like <foreign lang="ar">waDuwCN</foreign> and <foreign lang="ar">qabuwlN</foreign>, (TA,) and <foreign lang="ar">lagabN</foreign>, which is said to be inf. n. of <foreign lang="ar">lagiba</foreign>, agreeably with analogy; (TA;) <hi>He was fatigued, tired,</hi> or <hi>wearied,</hi> (Ṣ, &amp;c.,) <hi>in the greatest degree,</hi> or <hi>to the utmost:</hi> (M, Ḳ:) or <hi>he was languid in consequence of fatigue:</hi> or <hi>he was fatigued, tired,</hi> or <hi>wearied, in spirit,</hi> or <hi>mind:</hi> but most agree, as to the signification, with the Ṣ and Ḳ. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lgb_1_A2">
 							<foreign lang="ar">lagaAbapN</foreign> (Ṣ, Ḳ: in the CK, and app. in most MṢ. copies of the Ḳ, expressly said to be <foreign lang="ar">lugaAbapN</foreign>, with ḍammeh:) and <foreign lang="ar">luguwbapN</foreign> (Ḳ) [app. inf. ns., of which the verb is <foreign lang="ar">laguba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>,] 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogubu</foreign>}</expan></choice>,] 
 							The <hi>being stupid, and weak:</hi> or 
 							[if substs.] <hi>stupidity, and weakness.</hi> (Ṣ, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lgb_1_A3">
 							<foreign lang="ar">lagaba Ealayohimo</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogabu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lagobN</foreign>, Ṣ,) <hi>He spoiled,</hi> or <hi>marred, their affair, scheme, plot,</hi> or <hi>the like:</hi> syn. <foreign lang="ar">Oafosada Ealayohimo</foreign>: 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogabu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lagobN</foreign>, Ṣ,) <hi>He spoiled,</hi> or <hi>marred, their affair, scheme, plot,</hi> or <hi>the like:</hi> syn. <foreign lang="ar">Oafosada Ealayohimo</foreign>: 
 							[<foreign lang="ar">Oamorahumo</foreign>, or the like, being understood]. (El-Umawee and Ṣ.)
 						</sense>
 						<span type="sig">―</span>
@@ -9458,7 +9458,7 @@
 						</form>
 						<sense n="1" xml:id="lgd_1_A1">
 							1. <foreign lang="ar">lagada</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogadu</foreign>}</expan></choice> T, L, Ḳ, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogadu</foreign>}</expan></choice> T, L, Ḳ, 
 							inf. n. <foreign lang="ar">lagodN</foreign>, T, L,) <hi>He made</hi> camels <hi>to turn back to the right way,</hi> or <hi>road:</hi> (Ṣ, L, Ḳ:) or <hi>he made</hi> camels <hi>to keep to the road,</hi> or, <hi>to the right way.</hi> (T, L.)
 						</sense>
 						<span type="sig">―</span>
@@ -9547,7 +9547,7 @@
 						</form>
 						<sense n="1" xml:id="lgz_1_A1">
 							1. <foreign lang="ar">lagazahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloguzu</foreign>}</expan></choice>, (TḲ,) inf. n. <foreign lang="ar">lagozN</foreign>, (IF, A, Mṣb, Ḳ,) <hi>He turned it from its proper mode</hi> or <hi>manner; distorted it.</hi> (IF, A, Mṣb, Ḳ, TA, TḲ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloguzu</foreign>}</expan></choice>, (TḲ,) inf. n. <foreign lang="ar">lagozN</foreign>, (IF, A, Mṣb, Ḳ,) <hi>He turned it from its proper mode</hi> or <hi>manner; distorted it.</hi> (IF, A, Mṣb, Ḳ, TA, TḲ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lgz_1_A2">
@@ -9761,11 +9761,11 @@
 						</form>
 						<sense n="1" xml:id="lgT_1_A1">
 							1. <foreign lang="ar">lagaTa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogaTu</foreign>}</expan></choice>, (Ṣ, Mgh, Mṣb, Ḳ,) inf. n. <foreign lang="ar">lagoTN</foreign> (Ṣ, Mṣb, TA) and <foreign lang="ar">lagaTN</foreign>, (TA,) or the latter is a simple subst., (Mṣb,) and <foreign lang="ar">ligaATN</foreign>; (Ṣ, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogaTu</foreign>}</expan></choice>, (Ṣ, Mgh, Mṣb, Ḳ,) inf. n. <foreign lang="ar">lagoTN</foreign> (Ṣ, Mṣb, TA) and <foreign lang="ar">lagaTN</foreign>, (TA,) or the latter is a simple subst., (Mṣb,) and <foreign lang="ar">ligaATN</foreign>; (Ṣ, TA;) 
 							and <anchor type="arrow"><foreign lang="ar">lg-T↓</foreign></anchor>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">AlgT↓</foreign></anchor>, (Ṣ, Mgh, Mṣb, Ḳ,) inf. n. <foreign lang="ar">AilogaATN</foreign>; (Ṣ, Mgh;) <hi>He spoke clamorously, confusedly, and indistinctly:</hi> (Mṣb:) or, said of a number of men, (Ṣ, Mgh, Ḳ,) <hi>they uttered a sound, noise,</hi> or <hi>cry;</hi> and <hi>a clamour, confused noise,</hi> or <hi>mixture of voices</hi> or <hi>cries:</hi> (Ṣ, Ḳ:) or <hi>they uttered indistinct, and unintelligible sounds</hi> or <hi>noises</hi> or <hi>cries.</hi> (Mgh, Ḳ.) 
 							And <foreign lang="ar">lagaTa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalogaTu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalogaTu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lagoTN</foreign> and <foreign lang="ar">lagiyTN</foreign>, is said of the pigeon, and of the 
 							[bird called] <foreign lang="ar">qaTaA</foreign>, 
 							[meaning, <hi>It uttered its cry,</hi> or <hi>cries;</hi>] (Ḳ;) or of each of these you say, <foreign lang="ar">lagaTa biSawotihi</foreign>, 
@@ -9865,7 +9865,7 @@
 						<hom n="A" xml:id="lfO_1_A">
 						<sense n="1" xml:id="lfO_1_A1">
 							1. <foreign lang="ar">lafaOa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofaOu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofaOu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lafoCN</foreign> and <foreign lang="ar">lafaMCN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">AltfO↓</foreign></anchor>; <hi>He stripped off,</hi> or <hi>peeled off,</hi> (Ḳ,) meat from a bone. (AZ, Ṣ.)
 						</sense>
@@ -9896,7 +9896,7 @@
 						<hom n="B" xml:id="lfO_1_B">
 						<sense n="1" xml:id="lfO_1_B1">
 							<foreign lang="ar">lafiYa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofaOu</foreign>}</expan></choice>, <hi>He,</hi> or <hi>it remained,</hi> or <hi>endured.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofaOu</foreign>}</expan></choice>, <hi>He,</hi> or <hi>it remained,</hi> or <hi>endured.</hi> (Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -9992,7 +9992,7 @@
 						<hom n="A" xml:id="lft_1_A">
 						<sense n="1" xml:id="lft_1_A1">
 							1. <foreign lang="ar">lafatahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lafotN</foreign>, (Ṣ,) <hi>He twisted, wrung,</hi> or <hi>turned, him,</hi> or <hi>it,</hi> (Ṣ, Ḳ), <hi>in a way different from his,</hi> or <hi>its,</hi> [<hi>proper</hi>] <hi>direction:</hi> as when you grasp a man's throat, and twist or wring it. (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lafotN</foreign>, (Ṣ,) <hi>He twisted, wrung,</hi> or <hi>turned, him,</hi> or <hi>it,</hi> (Ṣ, Ḳ), <hi>in a way different from his,</hi> or <hi>its,</hi> [<hi>proper</hi>] <hi>direction:</hi> as when you grasp a man's throat, and twist or wring it. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lft_1_A2">
@@ -10010,13 +10010,13 @@
 						<span type="sig">―</span>
 						<sense n="5" xml:id="lft_1_A5">
 							<foreign lang="ar">lafatahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lafotN</foreign>, <hi>He turned him aside, to the right or left.</hi> (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="6" xml:id="lft_1_A6">
 							<foreign lang="ar">lafatahu Eini AlX-aIoCi</foreign> 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lafotN</foreign>, <hi>He turned away, averted,</hi> or <hi>diverted, him from the thing.</hi> (TA.) So in the Ḳur, x., 79. (Fr.)
 						</sense>
 						<span type="sig">―</span>
@@ -10035,12 +10035,12 @@
 						<span type="sig">―</span>
 						<sense n="10" xml:id="lft_1_A10">
 							<foreign lang="ar">lafata AlmaAXiyapa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lafotN</foreign>, TA,) <hi>He beat the camels</hi> or <hi>sheep</hi> or <hi>goats, not caring which of them he struck.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lafotN</foreign>, TA,) <hi>He beat the camels</hi> or <hi>sheep</hi> or <hi>goats, not caring which of them he struck.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="11" xml:id="lft_1_A11">
 							<foreign lang="ar">lafata AlokalaAma</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lafotN</foreign>, ‡ <hi>He sent forth,</hi> or <hi>uttered, words, without caring what might be the meaning.</hi> (TA.)
 						</sense>
 						</hom>
@@ -10048,7 +10048,7 @@
 						<hom n="B" xml:id="lft_1_B">
 						<sense n="1" xml:id="lft_1_B1">
 							<foreign lang="ar">lafata XayoYFA</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lafotN</foreign>, <hi>He stirred a thing about and over,</hi> like as flour is stirred about and over with clarified butter, &amp;c. (TA.) 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofitu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lafotN</foreign>, <hi>He stirred a thing about and over,</hi> like as flour is stirred about and over with clarified butter, &amp;c. (TA.) 
 							[<ref target="lafiytapN">See <foreign lang="ar">lafiytapN</foreign></ref>.]
 						</sense>
 						<span type="sig">―</span>
@@ -10484,13 +10484,13 @@
 						</form>
 						<sense n="1" xml:id="lfH_1_A1">
 							1. <foreign lang="ar">lafaHatohu Aln-aAru</foreign>, (Ṣ, M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofaHu</foreign>}</expan></choice>, (M,) inf. n. <foreign lang="ar">lafoHN</foreign> and <foreign lang="ar">lafaHaAnN</foreign>, (M, Ḳ,) <hi>The fire smote,</hi> or <hi>hurt, his face;</hi> as also <foreign lang="ar">lfHt wajohahu</foreign>: (M, O:) <hi>the fire burned him;</hi> (TA;) as also <foreign lang="ar">nfHth AlnAr biHar-ihaA</foreign>; (Ṣ, Ḳ;) and in like manner the hot wind called <foreign lang="ar">samuwm</foreign>: (Ṣ:) <foreign lang="ar">lafaHato</foreign> and <foreign lang="ar">nafaHato</foreign> are syn., except that the effect of <foreign lang="ar">Aln-afoH</foreign> is greater than 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofaHu</foreign>}</expan></choice>, (M,) inf. n. <foreign lang="ar">lafoHN</foreign> and <foreign lang="ar">lafaHaAnN</foreign>, (M, Ḳ,) <hi>The fire smote,</hi> or <hi>hurt, his face;</hi> as also <foreign lang="ar">lfHt wajohahu</foreign>: (M, O:) <hi>the fire burned him;</hi> (TA;) as also <foreign lang="ar">nfHth AlnAr biHar-ihaA</foreign>; (Ṣ, Ḳ;) and in like manner the hot wind called <foreign lang="ar">samuwm</foreign>: (Ṣ:) <foreign lang="ar">lafaHato</foreign> and <foreign lang="ar">nafaHato</foreign> are syn., except that the effect of <foreign lang="ar">Aln-afoH</foreign> is greater than 
 							<ref target="All-afoH">that of <foreign lang="ar">All-afoH</foreign></ref>: (Zj:) or <foreign lang="ar">lafoHN</foreign> relates to a hot wind; and <foreign lang="ar">nafoHN</foreign>, to a cold, or cool, wind: (Aṣ, Ṣ:) you also say <foreign lang="ar">lfHth Als-amuwm</foreign> meaning <hi>the</hi> <foreign lang="ar">smwm</foreign> <hi>blew in his face.</hi> (L.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lfH_1_A2">
 							Also <foreign lang="ar">lafaHahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofaHu</foreign>}</expan></choice>, <hi>He smote,</hi> or <hi>struck, him,</hi> with a sword, (Ṣ, Ḳ,) <hi>lightly,</hi> or <hi>slightly:</hi> you say <foreign lang="ar">lafaHotuhu biAls-ayofi lafoHapF</foreign> <hi>I struck him with the sword a light,</hi> or <hi>slight, blow.</hi> (Ṣ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofaHu</foreign>}</expan></choice>, <hi>He smote,</hi> or <hi>struck, him,</hi> with a sword, (Ṣ, Ḳ,) <hi>lightly,</hi> or <hi>slightly:</hi> you say <foreign lang="ar">lafaHotuhu biAls-ayofi lafoHapF</foreign> <hi>I struck him with the sword a light,</hi> or <hi>slight, blow.</hi> (Ṣ.)
 						</sense>
 					</entry>
 					<entry type="main" n="41143" xml:id="lafoHN">
@@ -10575,14 +10575,14 @@
 						</form>
 						<sense n="1" xml:id="lfZ_1_A1">
 							1. <foreign lang="ar">lafaZahu</foreign>, (Ṣ, M, Mṣb, Ḳ,) and <foreign lang="ar">lafaZa bihi</foreign>, (M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>, (Ṣ, M, Mṣb, Ḳ,) inf. n. <foreign lang="ar">lafoZN</foreign>; (T, Ṣ, M, Mṣb;) and <foreign lang="ar">lafiZahu</foreign>, and <foreign lang="ar">lafiZa bihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>; (Ibn-ʼAbbád, Ḳ.) but the former is that which is commonly known; (TA;) <hi>He ejected it; cast it forth;</hi> [<hi>disgorged it;</hi>] (T, Ṣ, M, Mṣb, Ḳ;) namely a thing that was in his mouth; (T;) his spittle, &amp;c.; (Mṣb;) from (<foreign lang="ar">mino</foreign>) his mouth. (Ṣ, TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>, (Ṣ, M, Mṣb, Ḳ,) inf. n. <foreign lang="ar">lafoZN</foreign>; (T, Ṣ, M, Mṣb;) and <foreign lang="ar">lafiZahu</foreign>, and <foreign lang="ar">lafiZa bihi</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>; (Ibn-ʼAbbád, Ḳ.) but the former is that which is commonly known; (TA;) <hi>He ejected it; cast it forth;</hi> [<hi>disgorged it;</hi>] (T, Ṣ, M, Mṣb, Ḳ;) namely a thing that was in his mouth; (T;) his spittle, &amp;c.; (Mṣb;) from (<foreign lang="ar">mino</foreign>) his mouth. (Ṣ, TA.) 
 						<pb n="2667" xml:id="Page_2667"/>
 							And <foreign lang="ar">lafaZa</foreign> alone, [elliptically,] <hi>He ejected what had entered between his teeth,</hi> of food. (TA.) 
 							You say also, <foreign lang="ar">lafaZati AlHay-apu sam-ahaA</foreign> 
 							‡ [<hi>The serpent ejected its poison.</hi>] (TA.) 
 							And <foreign lang="ar">lafaZa EaSobahu</foreign>, lit. <hi>He ejected his spittle that stuck and dried in his mouth;</hi> meaning ‡ <hi>he died;</hi> (T, TA;) as also <foreign lang="ar">lafaZa nafosahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>, 
 							inf. n. as above; (M, TA;) and <foreign lang="ar">lafaZa</foreign> alone. (M, Ḳ.) 
 							And <foreign lang="ar">jaMCa waqado lafaZa lijaAmahu</foreign>, 
 							[as to the letter and the meaning like <foreign lang="ar">jaMCa waqado dalaqa lijaAmahu</foreign>,] ‡ <hi>He came harassed,</hi> or <hi>distressed, by thirst and fatigue.</hi> (Ibn-ʼAbbád, M, Z, Ḳ.) 
@@ -10602,7 +10602,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lfZ_1_A2">
 							[Hence,] <foreign lang="ar">lafaZa biAlkalaAmi</foreign>, (Ṣ, Ḳ,) and <foreign lang="ar">biqawolK</foreign>, (Mṣb,) and <foreign lang="ar">biAlX-aIoCi</foreign>, (M,) and <foreign lang="ar">lafaZa Alqawola</foreign>, (TA,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalofiZu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lafoZN</foreign>, (M,) <hi>He uttered, spoke forth,</hi> or <hi>pronounced,</hi> (Ṣ, M, Mṣb, Ḳ,) <hi>the saying,</hi> (Ṣ, Ḳ,) and <hi>a saying,</hi> (Mṣb,) and <hi>the thing;</hi> (M;) 
 							as also <anchor type="arrow"><foreign lang="ar">tlf-Z↓ bihi</foreign></anchor>. (Ṣ, Mṣb, Ḳ.) 
 							It is said in the Ḳur, [l. 17,] <foreign lang="ar">maA yalofiZu mino qawolK</foreign> 
@@ -10755,7 +10755,7 @@
 						</form>
 						<sense n="1" xml:id="laAfiZN_A1">
 							<foreign lang="ar">laAfiZN</foreign> 
-							[act. part. n. of 1: fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">laAfiZapN</foreign>}</expan></choice>]. 
+							[act. part. n. of 1: fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">laAfiZapN</foreign>}</expan></choice>]. 
 							You say, <foreign lang="ar">fulAanN laAfiZN</foreign> 
 							‡ <hi>Such a one is dying.</hi> (TA.)
 						</sense>
@@ -10905,7 +10905,7 @@
 						</form>
 						<sense n="1" xml:id="lqv_1_A1">
 							1. <foreign lang="ar">laqava</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloquvu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">laqovN</foreign>; 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloquvu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">laqovN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">lq-v↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">taloqiyvN</foreign>; <hi>He mixed</hi> 
 							[a thing]. (Ḳ.) 
@@ -10914,7 +10914,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lqv_1_A2">
 							<foreign lang="ar">laqiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloqivu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloqivu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laqovN</foreign>, <hi>He took</hi> 
 							[a thing] <hi>quickly, and altogether.</hi> (Ḳ.) 
 							But this is not of established authority. (TA.)
@@ -10950,7 +10950,7 @@
 						</form>
 						<sense n="1" xml:id="lqH_1_A1">
 							1. <foreign lang="ar">laqiHato</foreign>, (Ṣ, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloqaHu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">laqaHN</foreign> (Ṣ, Mṣb, Ḳ,) and <foreign lang="ar">laqoHN</foreign> (Ḳ) and <foreign lang="ar">laqaAHN</foreign>; (Ṣ, Ḳ;) and <foreign lang="ar">luqiHato biAlowaladi</foreign>, in the pass. form; (Mṣb;) <hi>She</hi> (a camel) <hi>conceived,</hi> or <hi>became pregnant;</hi> (Mṣb, TA;) <hi>received</hi> [<hi>into her womb</hi>] <hi>the seed of the stallion.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloqaHu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">laqaHN</foreign> (Ṣ, Mṣb, Ḳ,) and <foreign lang="ar">laqoHN</foreign> (Ḳ) and <foreign lang="ar">laqaAHN</foreign>; (Ṣ, Ḳ;) and <foreign lang="ar">luqiHato biAlowaladi</foreign>, in the pass. form; (Mṣb;) <hi>She</hi> (a camel) <hi>conceived,</hi> or <hi>became pregnant;</hi> (Mṣb, TA;) <hi>received</hi> [<hi>into her womb</hi>] <hi>the seed of the stallion.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lqH_1_A2">
@@ -11310,7 +11310,7 @@
 						</form>
 						<sense n="1" xml:id="lqs_1_A1">
 							1. <foreign lang="ar">laqisato nafosuhu</foreign>, (Ṣ, A, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloqasu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">laqasN</foreign>, (Ṣ, TA,) <hi>His soul</hi> [or <hi>stomach</hi>] <hi>heaved;</hi> or <hi>became agitated by a tendency to vomit;</hi> or <hi>became heavy;</hi> syn. <foreign lang="ar">gavato</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloqasu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">laqasN</foreign>, (Ṣ, TA,) <hi>His soul</hi> [or <hi>stomach</hi>] <hi>heaved;</hi> or <hi>became agitated by a tendency to vomit;</hi> or <hi>became heavy;</hi> syn. <foreign lang="ar">gavato</foreign>, 
 							[q. v.,] (Ṣ, A, Ḳ,) and <foreign lang="ar">xabuvato</foreign>; (Ṣ, Ḳ;) <foreign lang="ar">mina AlX-aIoCi</foreign> <hi>in consequence of the thing.</hi> (Ṣ, Ḳ.) Moḥammad desired his followers to use this expression instead of <foreign lang="ar">xabuvato nafosuhu</foreign>, which he disliked. (Ḳ, TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -11349,7 +11349,7 @@
 						</form>
 						<sense n="1" xml:id="lqT_1_A1">
 							1. <foreign lang="ar">laqaTahu</foreign>, (Ṣ, Mgh,* Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloquTu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloquTu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">laqoTN</foreign>, (Mṣb, TA,) <hi>He picked it up, took it up, raised it,</hi> (Mgh,) or <hi>took it,</hi> (Ṣ, Ḳ,) <hi>from the ground,</hi> (Ṣ, Mgh, Ḳ,) <hi>without trouble</hi> or <hi>fatigue;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">AltqThu↓</foreign></anchor>: (Ṣ:) or both signify <hi>he took it from a place where it was not thought to be;</hi> this being the primary signification: and hence, <hi>he took it.</hi> (Mṣb.) 
 							It is said of a man: and you say also, <foreign lang="ar">laqaTa AlT-aAYiru AlHab-a</foreign> [<hi>The bird picked up from the ground the grains</hi>]. (Mṣb.) 
@@ -11450,7 +11450,7 @@
 							<anchor type="arrow"><foreign lang="ar">luqaTapN↓</foreign></anchor>; and if they made the <foreign lang="ar">q</foreign> quiescent, there would be two alterations in the word, and such double alteration does not exist in chaste language: (Mṣb:) IB, however, says that 
 							<anchor type="arrow"><foreign lang="ar">luqoTapN↓</foreign></anchor> is correct; and he approves it; because <foreign lang="ar">fuEolapN</foreign> has the sense of a pass. part. n., as in the instance of <foreign lang="ar">DuHokapN</foreign>; and <foreign lang="ar">fuEalapN</foreign> has the sense of an act. part. n., as in the instance of <foreign lang="ar">DuHakapN</foreign>; and that it occurs in poetry: and IAth observes, that some say thus; but that 
 							<anchor type="arrow"><foreign lang="ar">luqaTapN↓</foreign></anchor> is more common and more correct. (TA.) <hi>Anything that is scattered,</hi> of ears of corn, or of fruit; 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">laqaTapN</foreign>}</expan></choice>: (TA:) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">laqaTapN</foreign>}</expan></choice>: (TA:) 
 							<hi>what is picked up,</hi> or <hi>taken from the ground,</hi> (Ṣ, Mṣb, Ḳ,) by men, (Ṣ,) of ears of corn; (Ṣ, Mṣb, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">luqaATN↓</foreign></anchor>, with damm: (Ṣ:) 
 							and <anchor type="arrow"><foreign lang="ar">laqaATN↓</foreign></anchor>, like <foreign lang="ar">saHaAbN</foreign>, the <hi>ears of corn which the reaping-hooks miss,</hi> (AḤn, Ḳ,) <hi>and which men pick up.</hi> (AḤn.) <hi>What is picked up</hi> from a mine: (Mṣb:) <hi>pieces of gold found in a mine;</hi> (Ḳ;) or such are termed <foreign lang="ar">laqaTu maEodinK</foreign>: (Ṣ:) or <foreign lang="ar">laqaTN</foreign> signifies <hi>pieces of gold,</hi> or <hi>of silver, like what are termed</hi> <foreign lang="ar">Xacor</foreign>, <hi>and larger, in mines;</hi> which are the best thereof: and one says <foreign lang="ar">cahabN laqaTN</foreign>: (Lth:) 
@@ -11794,7 +11794,7 @@
 						<hom n="A" xml:id="lkO_1_A">
 						<sense n="1" xml:id="lkO_1_A1">
 							1. <foreign lang="ar">lakaOa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lakoCN</foreign>, (TA,) <hi>He beat</hi> a person (Ḳ) with a whip. (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lakoCN</foreign>, (TA,) <hi>He beat</hi> a person (Ḳ) with a whip. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lkO_1_A2">
@@ -11817,7 +11817,7 @@
 						<hom n="C" xml:id="lkO_1_C">
 						<sense n="1" xml:id="lkO_1_C1">
 							<foreign lang="ar">lakiYa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokaOu</foreign>}</expan></choice>, <hi>He stayed, dwelt,</hi> or <hi>abode,</hi> (Ḳ,) in a place: like <foreign lang="ar">lakiIa</foreign>. (TA.) <foreign lang="ar">lkY bimawoDiEK</foreign> <hi>He kept,</hi> or <hi>remained fixed, in a place.</hi> (Ḳ,* TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokaOu</foreign>}</expan></choice>, <hi>He stayed, dwelt,</hi> or <hi>abode,</hi> (Ḳ,) in a place: like <foreign lang="ar">lakiIa</foreign>. (TA.) <foreign lang="ar">lkY bimawoDiEK</foreign> <hi>He kept,</hi> or <hi>remained fixed, in a place.</hi> (Ḳ,* TA.)
 						</sense>
 						</hom>
 					</entry>
@@ -11879,25 +11879,25 @@
 						</form>
 						<sense n="1" xml:id="lkv_1_A1">
 							1. <foreign lang="ar">lakava</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokuvu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lakovN</foreign> (and <foreign lang="ar">likaAvN</foreign>, IAạr), <hi>He struck,</hi> or <hi>smote;</hi> (Ḳ;) accord. to IAạr, who does not particularize the hand, nor the foot: (TA:) or, <hi>with his hand,</hi> or <hi>his foot,</hi> accord. to some: (TA:) or, <hi>with</hi> 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokuvu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">lakovN</foreign> (and <foreign lang="ar">likaAvN</foreign>, IAạr), <hi>He struck,</hi> or <hi>smote;</hi> (Ḳ;) accord. to IAạr, who does not particularize the hand, nor the foot: (TA:) or, <hi>with his hand,</hi> or <hi>his foot,</hi> accord. to some: (TA:) or, <hi>with</hi> 
 							[perhaps a mistake for <hi>upon</hi>] <hi>the mouth.</hi> (Kr.) 
 							[<ref target="lkd">See also <foreign lang="ar">lkd</foreign></ref>.]
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lkv_1_A2">
 							<foreign lang="ar">lakatahu</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokuvu</foreign>}</expan></choice>,] <hi>He overburdened him.</hi> (Ḳ.)
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokuvu</foreign>}</expan></choice>,] <hi>He overburdened him.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lkv_1_A3">
 							<foreign lang="ar">lakiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokavu</foreign>}</expan></choice>, 
 							[inf. n. <foreign lang="ar">lakavN</foreign>,] <hi>He</hi> (a camel) <hi>was affected with the disorder called</hi> <foreign lang="ar">lakavN</foreign>, or <foreign lang="ar">lukaAvN</foreign>. (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="4" xml:id="lkv_1_A4">
 							<foreign lang="ar">lakiva bihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokavu</foreign>}</expan></choice>, <hi>It</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokavu</foreign>}</expan></choice>, <hi>It</hi> 
 							(dirt [<ref target="lakovN">see <foreign lang="ar">lakovN</foreign></ref>]) 
 							<hi>adhered to it;</hi> (Ḳ;) i. e., to the vessel. (TA.) 
 							[<ref target="lakida">See also <foreign lang="ar">lakida</foreign></ref> 
@@ -12016,7 +12016,7 @@
 						</form>
 						<sense n="1" xml:id="lkd_1_A1">
 							1. <foreign lang="ar">lakida Ealayohi</foreign>, (Aṣ, Ṣ, L, Ḳ,) and <foreign lang="ar">bihi</foreign>, (L,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lakadN</foreign>; (Aṣ, Ṣ, L;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">lakadN</foreign>; (Aṣ, Ṣ, L;) 
 							and <anchor type="arrow"><foreign lang="ar">tlk-d↓ bh</foreign></anchor>; (A;) <hi>It</hi> (dirt) <hi>clave,</hi> or <hi>stuck, to him,</hi> or <hi>it.</hi> (Aṣ, Ṣ, A, L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -12114,7 +12114,7 @@
 						</form>
 						<sense n="1" xml:id="lkz_1_A1">
 							1. <foreign lang="ar">lakazahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalokuzu</foreign>}</expan></choice>, (Mgh, Mṣb,) inf. n. <foreign lang="ar">lakozN</foreign>, (Ṣ, Mgh, Mṣb, Ḳ,) <hi>He struck him upon the breast</hi> (AO, Ṣ, A, Mgh, Mṣb, Ḳ) <hi>with the fist:</hi> (AO, Ṣ, Mgh, Mṣb:) and <hi>upon the</hi> <foreign lang="ar">Hanak</foreign> [or <hi>part beneath the chin</hi>]: (A, Ḳ:) and <hi>upon the neck:</hi> (Ḳ:) or <hi>upon any part of the body with the fist:</hi> (AZ, Ṣ, Mṣb:) or <hi>with the extremities of the fingers:</hi> (TA, art. <foreign lang="ar">lqz</foreign>:) <hi>he pushed,</hi> or <hi>impelled,</hi> or <hi>repelled, him:</hi> (TA, ibid.:) <hi>he thrust</hi> or <hi>pierced him</hi> [with a spear or the like]: (TA, art. <foreign lang="ar">lz</foreign>:) <foreign lang="ar">lakozN</foreign> is also <hi>syn. with</hi> <foreign lang="ar">wakozN</foreign> [which has several significations, some of which are indentical with some explained above]. (Ḳ.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalokuzu</foreign>}</expan></choice>, (Mgh, Mṣb,) inf. n. <foreign lang="ar">lakozN</foreign>, (Ṣ, Mgh, Mṣb, Ḳ,) <hi>He struck him upon the breast</hi> (AO, Ṣ, A, Mgh, Mṣb, Ḳ) <hi>with the fist:</hi> (AO, Ṣ, Mgh, Mṣb:) and <hi>upon the</hi> <foreign lang="ar">Hanak</foreign> [or <hi>part beneath the chin</hi>]: (A, Ḳ:) and <hi>upon the neck:</hi> (Ḳ:) or <hi>upon any part of the body with the fist:</hi> (AZ, Ṣ, Mṣb:) or <hi>with the extremities of the fingers:</hi> (TA, art. <foreign lang="ar">lqz</foreign>:) <hi>he pushed,</hi> or <hi>impelled,</hi> or <hi>repelled, him:</hi> (TA, ibid.:) <hi>he thrust</hi> or <hi>pierced him</hi> [with a spear or the like]: (TA, art. <foreign lang="ar">lz</foreign>:) <foreign lang="ar">lakozN</foreign> is also <hi>syn. with</hi> <foreign lang="ar">wakozN</foreign> [which has several significations, some of which are indentical with some explained above]. (Ḳ.) 
 							You say also, <foreign lang="ar">lakazahu bijumoEi kaf-ihi</foreign> <hi>He struck him upon the breast,</hi> or <hi>the part called</hi> <foreign lang="ar">Hanak</foreign>, <hi>with his fist.</hi> (A.)
 						</sense>
 					</entry>
@@ -12231,7 +12231,7 @@
 						</form>
 						<sense n="1" xml:id="lmO_1_A1">
 							1. <foreign lang="ar">lamaOahu</foreign>, and <foreign lang="ar">lamaOa Ealayohi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomaOu</foreign>}</expan></choice>, <hi>He smote his hand upon it,</hi> [or <hi>laid his hand upon it,</hi> or <hi>seized it,</hi>] <hi>openly</hi> or <hi>secretly.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomaOu</foreign>}</expan></choice>, <hi>He smote his hand upon it,</hi> [or <hi>laid his hand upon it,</hi> or <hi>seized it,</hi>] <hi>openly</hi> or <hi>secretly.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lmO_1_A2">
@@ -12347,7 +12347,7 @@
 						</form>
 						<sense n="1" xml:id="lmj_1_A1">
 							1. <foreign lang="ar">lamaja</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomuju</foreign>}</expan></choice> S, M,) inf. n. <foreign lang="ar">lamojN</foreign>, (Ṣ, Ḳ,) <hi>He ate:</hi> or <hi>he ate with the extremity of the mouth:</hi> (M:) or <hi>he ate with the extremities of his mouth:</hi> (Ṣ, Ḳ:) or <hi>he took</hi> fodder, or dry herbage, <hi>with the extremity of his mouth:</hi> (T:) AZ says, I know not <foreign lang="ar">All-amoj</foreign> except as the act of asses, and it is <hi>like</hi> <foreign lang="ar">All-amos</foreign>, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomuju</foreign>}</expan></choice> S, M,) inf. n. <foreign lang="ar">lamojN</foreign>, (Ṣ, Ḳ,) <hi>He ate:</hi> or <hi>he ate with the extremity of the mouth:</hi> (M:) or <hi>he ate with the extremities of his mouth:</hi> (Ṣ, Ḳ:) or <hi>he took</hi> fodder, or dry herbage, <hi>with the extremity of his mouth:</hi> (T:) AZ says, I know not <foreign lang="ar">All-amoj</foreign> except as the act of asses, and it is <hi>like</hi> <foreign lang="ar">All-amos</foreign>, 
 							[probably a mistake for <foreign lang="ar">All-ahos</foreign>, or its syn. <foreign lang="ar">All-aHos</foreign>,] 
 							or signifies <hi>more than this latter word.</hi> (AḤn.)
 						</sense>
@@ -12543,7 +12543,7 @@
 						</form>
 						<sense n="1" xml:id="lmH_1_A1">
 							1. <foreign lang="ar">lamaHahu</foreign>, (Ṣ,) or <foreign lang="ar">lamaHa Uilayohi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomaHu</foreign>}</expan></choice>; (L, Mṣb, Ḳ), 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomaHu</foreign>}</expan></choice>; (L, Mṣb, Ḳ), 
 							inf. n. <foreign lang="ar">lamoHN</foreign>; (Mṣb;) 
 							and <anchor type="arrow"><foreign lang="ar">AlmH↓</foreign></anchor>, (L, Ḳ,) 
 							or <anchor type="arrow"><foreign lang="ar">AlmHhu↓</foreign></anchor>, (Ṣ, Mṣb,) 
@@ -12561,7 +12561,7 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="lmH_1_A4">
 							<foreign lang="ar">lamaHa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomaHu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomaHu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lamoHN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">lamaHaAnN</foreign> and <foreign lang="ar">talomaAHN</foreign>, (Ḳ,) <hi>It</hi> (lightning, and a star,) <hi>shone; gleamed; glistened; i. q.</hi> <foreign lang="ar">lamaEa</foreign>. (Ṣ, Ḳ.)
 						</sense>
 					</entry>
@@ -12773,7 +12773,7 @@
 						<hom n="A" xml:id="lmz_1_A">
 						<sense n="1" xml:id="lmz_1_A1">
 							1. <foreign lang="ar">lamazahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomizu</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomuzu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomizu</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomuzu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lamozN</foreign>, <hi>He made a sign to him with the eye,</hi> or <hi>the like,</hi> (Ṣ, A,* Mṣb, Ḳ,) as <hi>the head,</hi> and <hi>the lip, with low speech.</hi> (TA.) This is the original signification. (Ṣ, Mṣb, TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -12845,7 +12845,7 @@
 						<sense n="1" xml:id="lam-aAzN_A1">
 							<foreign lang="ar">lam-aAzN</foreign> 
 							[One <hi>who makes frequent signs with the eye,</hi> or <hi>the like:</hi> 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">lam-aAapzN</foreign>}</expan></choice>: 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">lam-aAapzN</foreign>}</expan></choice>: 
 							see one ex. voce <foreign lang="ar">ram-aAzN</foreign>].
 						</sense>
 						<span type="sig">―</span>
@@ -12888,8 +12888,8 @@
 						</form>
 						<sense n="1" xml:id="lms_1_A1">
 							1. <foreign lang="ar">lamasahu</foreign>, (Ṣ, M, A, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice> (Ṣ, M, Mṣb, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomisu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">lamosN</foreign>, (Ṣ, M, Mṣb,) <hi>He felt it;</hi> or <hi>touched it;</hi> syn. <foreign lang="ar">mas-ahu</foreign>: (IAạr, Az, IDrd, El-Fárábee, A, Mṣb, TA:) or <hi>he felt it,</hi> or <hi>touched it,</hi> (<foreign lang="ar">mas-ahu</foreign>,) <hi>with his hand:</hi> (Ṣ, Mṣb, Ḳ:) or <hi>he put his hand to it:</hi> (Mṣb:) or <hi>he felt it with his hand for the purpose of testing it, that he might form a judgment of it;</hi> syn. <foreign lang="ar">jas-ahu</foreign>: (M, TA:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice> (Ṣ, M, Mṣb, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomisu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">lamosN</foreign>, (Ṣ, M, Mṣb,) <hi>He felt it;</hi> or <hi>touched it;</hi> syn. <foreign lang="ar">mas-ahu</foreign>: (IAạr, Az, IDrd, El-Fárábee, A, Mṣb, TA:) or <hi>he felt it,</hi> or <hi>touched it,</hi> (<foreign lang="ar">mas-ahu</foreign>,) <hi>with his hand:</hi> (Ṣ, Mṣb, Ḳ:) or <hi>he put his hand to it:</hi> (Mṣb:) or <hi>he felt it with his hand for the purpose of testing it, that he might form a judgment of it;</hi> syn. <foreign lang="ar">jas-ahu</foreign>: (M, TA:) 
 							and <anchor type="arrow"><foreign lang="ar">laAmasahu↓</foreign></anchor> is syn. with <foreign lang="ar">lamasahu</foreign>, (M, TA,) or <foreign lang="ar">maAs-ahu</foreign>: (A:) <foreign lang="ar">lamosN</foreign> and <foreign lang="ar">mas-N</foreign> both signify the <hi>perceiving by means of the exterior of the external skin:</hi> (Er-Rághib, TA:) or they are nearly alike: (TA:) 
 							[generally, like the English words <hi>feeling</hi> and <hi>touching,</hi> respectively:] 
 							or the former is, originally, 
@@ -12898,14 +12898,14 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lms_1_A2">
 							[Hence,] <foreign lang="ar">lamasahaA</foreign>, (M, A, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice> (M) [and <foreign lang="ar">_i</foreign>, as implied in the Ḳ], 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice> (M) [and <foreign lang="ar">_i</foreign>, as implied in the Ḳ], 
 							inf. n. <foreign lang="ar">lamosN</foreign>, (Ṣ, M,) ‡ <hi>Inivit eam;</hi> (I’Ab, Ṣ, M, A, Mṣb, Ḳ;) scil. mulierem; (A, Mṣb;) puellam; (Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">laAmasahaA↓</foreign></anchor>, (M, A, Mṣb,) inf. n. <foreign lang="ar">mulaAmasapN</foreign> (I’Ab, Ṣ, Mṣb, Ḳ) and <foreign lang="ar">limaAsN</foreign>: (I’Ab, Mṣb:) and † <hi>he kissed her;</hi> by doing which, as well as by the former, one renders necessary the performance of the ablution termed <foreign lang="ar">wDwC</foreign>. ('Abd-Allah Ibn-ʼAmr, Ibn-Mesʼood.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lms_1_A3">
 							[Hence also,] <foreign lang="ar">lamasahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice> [and <foreign lang="ar">_i</foreign>], (A, TA,) inf. n. <foreign lang="ar">lamosN</foreign>, (IDrd, Mṣb, TA,) ‡ <hi>He sought,</hi> [<hi>as though by feeling,</hi>] or <hi>sought for</hi> or <hi>after, it,</hi> namely, a thing, (IDrd, Mṣb, TA,) <hi>in any manner;</hi> (IDrd, Mṣb;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice> [and <foreign lang="ar">_i</foreign>], (A, TA,) inf. n. <foreign lang="ar">lamosN</foreign>, (IDrd, Mṣb, TA,) ‡ <hi>He sought,</hi> [<hi>as though by feeling,</hi>] or <hi>sought for</hi> or <hi>after, it,</hi> namely, a thing, (IDrd, Mṣb, TA,) <hi>in any manner;</hi> (IDrd, Mṣb;) 
 							[as, for instance, <hi>by asking,</hi> or <hi>demanding;</hi>] 
 							as also <anchor type="arrow"><foreign lang="ar">Altmshu↓</foreign></anchor>, (Ṣ, M, A,* Ḳ, TA,) [which is more common,] 
 							and <anchor type="arrow"><foreign lang="ar">tlm-shu↓</foreign></anchor>: (M, TA:) or this last signifies <hi>he sought it,</hi> or <hi>sought for</hi> or <hi>after it, repeatedly,</hi> or <hi>time after time.</hi> (Ṣ, Ḳ, TA.) 
@@ -12917,7 +12917,7 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="lms_1_A4">
 							<foreign lang="ar">lamasa AlbaSara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomusu</foreign>}</expan></choice>, 
 							‡ <hi>It took away the sight.</hi> (A, TA.) 
 							And the same, or, accord. to one relation of a trad., 
 							<anchor type="arrow"><foreign lang="ar">Altmshu↓</foreign></anchor>, † <hi>It took away quickly, and destroyed, the sight;</hi> said there of certain serpents: or the meaning is, † <hi>it aimed at the eye with its bite:</hi> and <foreign lang="ar">lamasa Eayonahu</foreign> is said to signify 
@@ -13092,7 +13092,7 @@
 						<hom n="A" xml:id="lmZ_1_A">
 						<sense n="1" xml:id="lmZ_1_A1">
 							1. <foreign lang="ar">lamaZa</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalomuZu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">lamoZN</foreign>, (Ṣ, M,) <hi>He sought leisurely and gradually, with his tongue, after the remains of the food in his mouth,</hi> (Ṣ, Ḳ, TA,) <hi>after eating:</hi> (TA:) and <hi>he put forth his tongue, and wiped with it his lips:</hi> (Ṣ, Ḳ:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalomuZu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">lamoZN</foreign>, (Ṣ, M,) <hi>He sought leisurely and gradually, with his tongue, after the remains of the food in his mouth,</hi> (Ṣ, Ḳ, TA,) <hi>after eating:</hi> (TA:) and <hi>he put forth his tongue, and wiped with it his lips:</hi> (Ṣ, Ḳ:) 
 							as also <anchor type="arrow"><foreign lang="ar">tlm-Z↓</foreign></anchor>, (Ṣ, Ḳ,) in both senses: (Ḳ:) 
 							you say also <anchor type="arrow"><foreign lang="ar">tlm-Zt↓ AlHay-apu</foreign></anchor> ‡ <hi>The serpent put forth its tongue,</hi> (Ṣ, Ḳ, TA,) <hi>like as the eater puts it forth and wipes with it his lip:</hi> (Ṣ, TA:) 
 							or the former verb and <anchor type="arrow">↓the latter</anchor> signify <hi>he took with his tongue what remained in the mouth after eating:</hi> (M:) or <hi>he sought leisurely and gradually after the taste,</hi> and <hi>tasted time after time:</hi> (M, Ḳ:) 
@@ -13319,7 +13319,7 @@
 						</form>
 						<sense n="1" xml:id="lhb_1_A1">
 							1. <foreign lang="ar">lahiba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohabu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lahabN</foreign>, Ṣ,) ‡ <hi>He thirsted; was thirsty:</hi> (Ṣ, Ḳ:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohabu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">lahabN</foreign>, Ṣ,) ‡ <hi>He thirsted; was thirsty:</hi> (Ṣ, Ḳ:) 
 							[probably, <hi>burned with thirst</hi>].
 						</sense>
 					</entry>
@@ -13461,7 +13461,7 @@
 							and <anchor type="arrow"><foreign lang="ar">luhaAbN↓</foreign></anchor> 
 							and <anchor type="arrow"><foreign lang="ar">lahabaAnN↓</foreign></anchor> (Ṣ, Ḳ), 
 							[inf. ns., of which the verb, <foreign lang="ar">lahiba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohabu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohabu</foreign>}</expan></choice>, 
 							does not appear to have been used in the classical ages,] 
 							The <hi>flaming,</hi> or <hi>blazing,</hi> of fire: (Ṣ:) or its <hi>flaming,</hi> or <hi>blazing, free from smoke:</hi> (T, Ḳ:) or <foreign lang="ar">lahabN</foreign> signifies the <hi>flame,</hi> or <hi>blaze,</hi> of fire: (Ṣ, Ḳ:) 
 							and <anchor type="arrow"><foreign lang="ar">lahiybN↓</foreign></anchor>, its <hi>heat.</hi> (Ḳ.)
@@ -13650,15 +13650,15 @@
 						</form>
 						<sense n="1" xml:id="lhv_1_A1">
 							1. <foreign lang="ar">lahiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohavu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lahavN</foreign> and <foreign lang="ar">lahaAvN</foreign> and <foreign lang="ar">lahavaAnN</foreign>, <hi>He thirsted; was thirsty:</hi> (Ṣ, Ḳ:) or <hi>thirst heated his belly,</hi> or <hi>inside.</hi> (L.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="lhv_1_A2">
 							<foreign lang="ar">lahava</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohavu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">lahovN</foreign> and <foreign lang="ar">luhaAvN</foreign>; (Ṣ, Ḳ;) and <foreign lang="ar">lahiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohavu</foreign>}</expan></choice>; (TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohavu</foreign>}</expan></choice>; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">Althv↓</foreign></anchor>; (Ḳ;) <hi>He</hi> (a dog, Ṣ, and a man, and, in the case of the second verb, a bird also, TA) <hi>put forth his tongue, by reason of thirst,</hi> or <hi>fatigue,</hi> or <hi>weariness:</hi> (Ṣ, Ḳ:) or <foreign lang="ar">lahava</foreign> signifies <hi>his breath</hi> (<foreign lang="ar">nfs</foreign>) <hi>rose, by reason of fatigue,</hi> or <hi>weariness:</hi> or <hi>he</hi> (a dog) <hi>put forth his tongue, by reason of thirst:</hi> and <hi>he</hi> (a man) <hi>was fatigued,</hi> or <hi>weary.</hi> (TA.)
 						</sense>
 					</entry>
@@ -13790,7 +13790,7 @@
 						</form>
 						<sense n="1" xml:id="lhj_1_A1">
 							1. <foreign lang="ar">lahija bihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohaju</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lahajN</foreign>; (Ṣ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohaju</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">lahajN</foreign>; (Ṣ;) 
 							and <anchor type="arrow"><foreign lang="ar">Oalohaja↓</foreign></anchor>, 
 							and <anchor type="arrow"><foreign lang="ar">lahowaja↓</foreign></anchor>; (TA;) <hi>He became devoted, addicted,</hi> or <hi>attached, to it,</hi> (i. e., <hi>to an affair,</hi> TA,) <hi>and kept, attended,</hi> or <hi>applied himself, constantly, perseveringly, persistently,</hi> or <hi>assiduously, to it; was intent upon it;</hi> (Ṣ, Ḳ;) and <hi>accustomed,</hi> or <hi>habituated, himself to it.</hi> (TA.)
 						</sense>
@@ -14027,7 +14027,7 @@
 						</form>
 						<sense n="1" xml:id="lhd_1_A1">
 							1. <foreign lang="ar">lahadahu</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohadu</foreign>}</expan></choice> L, Ḳ, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohadu</foreign>}</expan></choice> L, Ḳ, 
 							inf. n. <foreign lang="ar">lahodN</foreign>, L,) <hi>It</hi> (a load) <hi>oppressed him,</hi> (a camel, L,) <hi>by its weight,</hi> (Ṣ, L, Ḳ,) <hi>and squeezed him:</hi> (L:) <hi>it</hi> (a heavy load) <hi>squeezed it,</hi> (namely, a camel's back or side,) or <hi>bruised it so that it swelled, and became galled:</hi> in which case, a hollow is made at the proper place in the stuffed lining of the saddle, to prevent farther injury. (L.)
 						</sense>
 						<span type="sig">―</span>
@@ -14037,7 +14037,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="lhd_1_A3">
 							<foreign lang="ar">lahadahu</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yalohadu</foreign>}</expan></choice> L, Ḳ, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yalohadu</foreign>}</expan></choice> L, Ḳ, 
 							inf. n. <foreign lang="ar">lahodN</foreign>, L, and <foreign lang="ar">lahodapN</foreign>; Kr;) 
 							and <anchor type="arrow"><foreign lang="ar">lh-dhu↓</foreign></anchor>, (inf. n. <foreign lang="ar">talohiydN</foreign>; TA;) but the latter denotes frequency of the action; (Ṣ, L;) <hi>He pushed, pushed away,</hi> or <hi>repelled, him:</hi> or <hi>pushed him violently upon the chest:</hi> (L:) or <hi>he pushed him, pushed him away,</hi> or <hi>repelled him, on account of his baseness,</hi> or <hi>despicableness:</hi> (Ṣ, L, Ḳ:) or <hi>he struck him in the breasts,</hi> (L,) or <hi>in the bases of the breasts,</hi> (Ḳ,) <hi>and in the bases of the shoulder-blades:</hi> (L, Ḳ:) or <hi>he pressed,</hi> or <hi>squeezed, him;</hi> syn. <foreign lang="ar">gamazahu</foreign>. (L, Ḳ.)
 						</sense>
@@ -15957,7 +15957,7 @@
 							<foreign lang="ar">lawozN</foreign> 
 							[The <hi>almond;</hi> or <hi>almonds;</hi>] the <hi>fruit of a certain tree;</hi> (Mṣb, TA;) <hi>well known;</hi> (A, Mṣb, Ḳ;) <hi>abundant in the countries of the Arabs;</hi> said by some to be <hi>a species of</hi> <foreign lang="ar">mizoj</foreign>, which is <hi>that whereof the edible part is not attained save by breaking;</hi> by others said to be <hi>bruised,</hi> or <hi>brayed,</hi> <foreign lang="ar">mizoj</foreign>; and also called <foreign lang="ar">qumoruwSN</foreign>: it is <hi>of two kinds, sweet</hi> and <hi>bitter:</hi> (TA:) <hi>the sweet is of moderate temperature, beneficial to the chest and the lungs and the bladder,</hi> (<hi>by reason of its soft nature,</hi> TA,) <hi>and the eating thereof, shelled, with sugar, augments the marrow and brain, and fattens: the bitter is hot in the third degree, opens stoppages of the nose, clears away</hi> [<hi>the spots in the skin called</hi>] <foreign lang="ar">namaX</foreign>, <hi>and stills pain,</hi> 
 							(Ḳ [but omitted in the CK] and TA,) <hi>when it</hi> [app. meaning <hi>its oil</hi>] <hi>is drunk, and when dropped into the ear;</hi> (TA;) <hi>and it relaxes the bowels, and causes sleep,</hi> (Ḳ, TA,) <hi>when the soles of the feet are anointed with it, and when it is introduced into the nose;</hi> (TA;) <hi>and it is diuretic:</hi> (Ḳ, TA:) it is an Arabic word: (Mṣb, TA:) a coll. gen. n.: (TA:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">lawozapN</foreign>}</expan></choice>. (Ṣ, Mṣb, Ḳ.)
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">lawozapN</foreign>}</expan></choice>. (Ṣ, Mṣb, Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>

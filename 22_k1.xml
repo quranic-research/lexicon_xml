@@ -436,7 +436,7 @@
 						</form>
 						<sense n="1" xml:id="ktm_1_A1">
 							1. <foreign lang="ar">katama</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yakotumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yakotumu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">katomN</foreign> [and <foreign lang="ar">kitomaAnN</foreign>], 
 							doubly trans., <hi>He concealed,</hi> or <hi>suppressed,</hi> a secret. (Mgh.)
 						</sense>
@@ -2051,7 +2051,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="kZm_1_A2">
 							<foreign lang="ar">kaZama</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yakoZimu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yakoZimu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">kaZomN</foreign>, <hi>He restrained himself.</hi> (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -2226,7 +2226,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="kf_1_A3">
 							<foreign lang="ar">kaf-a Eanohu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yakofufu</foreign>}</expan></choice>, <hi>He refrained, or forbore, from it, as forbidden; abstained, or desisted, from it; left, relinquished,</hi> or <hi>forsook it:</hi> (Mṣb:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yakofufu</foreign>}</expan></choice>, <hi>He refrained, or forbore, from it, as forbidden; abstained, or desisted, from it; left, relinquished,</hi> or <hi>forsook it:</hi> (Mṣb:) 
 							[as also <anchor type="arrow"><foreign lang="ar">Ankf-↓</foreign></anchor>].
 						</sense>
 						<span type="sig">―</span>

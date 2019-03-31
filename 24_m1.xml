@@ -771,7 +771,7 @@
 						</form>
 						<sense n="1" xml:id="mvl_1_A1">
 							1. <foreign lang="ar">mavala</foreign> 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yamovulu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yamovulu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">muvuwlN</foreign>; (Ṣ, M, Ḳ, &amp;c.;) and <foreign lang="ar">mavula</foreign>; (M, Ḳ;) 
 							<hi>He stood erect;</hi> (Ṣ, M, Ḳ, &amp;c.;) <foreign lang="ar">bayona yadayohi</foreign> <hi>before him.</hi> (Ṣ, &amp;c.)
 						</sense>
@@ -1169,7 +1169,7 @@
 						</form>
 						<sense n="1" xml:id="mHq_1_A1">
 							1. <foreign lang="ar">maHaqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yamoHaqu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yamoHaqu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">maHoqN</foreign>, 
 							<hi>He rendered</hi> a thing <hi>deficient, and deprived</hi> it <hi>of its blessing, or increase:</hi> or [<hi>he annihilated, annulled,</hi> or <hi>obliterated,</hi> it;] <hi>he did away with</hi> it <hi>wholly, so that no trace thereof remained.</hi> (Mṣb.)
 						</sense>
@@ -2025,7 +2025,7 @@
 						<sense n="1" xml:id="maziyrN_A1">
 							<foreign lang="ar">maziyrN</foreign> 
 							<hi>Strong-hearted.</hi> (Ṣ.) 
-							So I have rendered the fem. (<choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">maziyrapN</foreign>}</expan></choice>) in explaining <foreign lang="ar">balohaMCu</foreign>: it seems there to mean <hi>bold.</hi> 
+							So I have rendered the fem. (<choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">maziyrapN</foreign>}</expan></choice>) in explaining <foreign lang="ar">balohaMCu</foreign>: it seems there to mean <hi>bold.</hi> 
 						</sense>
 					</entry>
 				</superEntry>
@@ -4738,7 +4738,7 @@
 						</form>
 						<sense n="1" xml:id="mn_1_A1">
 							1. <foreign lang="ar">man-a Ealayohi</foreign>, (Ṣ, M, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yamonunu</foreign>}</expan></choice>, (Mṣb,) inf. n. <foreign lang="ar">man-N</foreign> (Ṣ, M, Mṣb, Ḳ) and <foreign lang="ar">min-iynaI</foreign>; (Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yamonunu</foreign>}</expan></choice>, (Mṣb,) inf. n. <foreign lang="ar">man-N</foreign> (Ṣ, M, Mṣb, Ḳ) and <foreign lang="ar">min-iynaI</foreign>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Amtn-↓</foreign></anchor>; (Mṣb;) <hi>He conferred,</hi> or <hi>bestowed, upon him, a favour,</hi> or <hi>benefit.</hi> (Ṣ, M, Mṣb, Ḳ.) 
 							You say, <foreign lang="ar">man-a Ealayohi XayoOF</foreign>, and <foreign lang="ar">biXaIoCK</foreign>, which latter is more common, 
 							and <anchor type="arrow"><foreign lang="ar">Amtn-↓ Elyh bihi</foreign></anchor> <hi>He conferred, or bestowed, a thing upon him as a favour.</hi> (Mṣb.)

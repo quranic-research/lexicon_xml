@@ -117,12 +117,12 @@
 						</form>
 						<sense n="1" xml:id="nOv_1_A1">
 							1. <foreign lang="ar">naOava Eanohu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoOavu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">naOovN</foreign>, TA,) <hi>He became distant, or far removed, from him, or it.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoOavu</foreign>}</expan></choice>, (inf. n. <foreign lang="ar">naOovN</foreign>, TA,) <hi>He became distant, or far removed, from him, or it.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="nOv_1_A2">
 							<foreign lang="ar">naOava</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoOavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoOavu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">naOovN</foreign> <hi>He was slow, or tardy.</hi> (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -2360,7 +2360,7 @@
 						<hom n="A" xml:id="nzE_1_A">
 						<sense n="1" xml:id="nzE_1_A1">
 							1. <foreign lang="ar">nazaEa UilaI Oaholihi</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoziEu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">nizaAEN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">nuzuwEN</foreign> and <foreign lang="ar">nazaAEpN</foreign>; (Ḳ:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoziEu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">nizaAEN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">nuzuwEN</foreign> and <foreign lang="ar">nazaAEpN</foreign>; (Ḳ:) 
 							and <anchor type="arrow"><foreign lang="ar">naAzaEa↓</foreign></anchor>; (Ḳ;) <hi>He yearned towards</hi> or <hi>for, longed for,</hi> or <hi>desired, his family.</hi> (Ṣ,* Ḳ,* TA, PṢ).
 						</sense>
 						<span type="sig">―</span>
@@ -2406,7 +2406,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="nzE_1_B3">
 							<foreign lang="ar">nazaEa</foreign> (Mṣb, TA,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoziEu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">nazoEN</foreign> (Mṣb, TA,) <hi>He was at the point</hi> [or <hi>in the agony</hi>] <hi>of death;</hi> meaning, <hi>of having his soul drawn forth:</hi> (Mṣb:) <hi>he gave up his spirit;</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoziEu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">nazoEN</foreign> (Mṣb, TA,) <hi>He was at the point</hi> [or <hi>in the agony</hi>] <hi>of death;</hi> meaning, <hi>of having his soul drawn forth:</hi> (Mṣb:) <hi>he gave up his spirit;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">naAzaEa↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">nizaAEN</foreign>. (TA.)
 						</sense>
@@ -3285,7 +3285,7 @@
 						</form>
 						<sense n="1" xml:id="nsf_1_A1">
 							1. <foreign lang="ar">nasafatohu Alr-iyHu</foreign>, (Mgh, Mṣb, TA,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanosifu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">nasofN</foreign>; (Mṣb, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanosifu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">nasofN</foreign>; (Mṣb, TA;) 
 							and <anchor type="arrow"><foreign lang="ar">Ainotasafatohu↓</foreign></anchor>, (TA,) <hi>The wind carried it away;</hi> (TA;) <hi>i. q.</hi> <foreign lang="ar">caratohu</foreign> [q. v.]; (Mgh;) namely, dust. (Mgh, Mṣb.)
 						</sense>
 					</entry>
@@ -3646,7 +3646,7 @@
 						</form>
 						<sense n="1" xml:id="nXf_1_A1">
 							1. <foreign lang="ar">naXafa AlmaMCa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoXifu</foreign>}</expan></choice>, (Mgh, Mṣb,) inf. n. <foreign lang="ar">naXofN</foreign>, (Mṣb,) <hi>He took</hi> [or <hi>absorbed</hi>] <hi>the water from the ground,</hi> (Mgh, Mṣb,) or <hi>from a pool,</hi> (Mgh,) <hi>with a piece of rag</hi> or <hi>some other thing</hi> (Mgh, Mṣb) <hi>of a similar kind.</hi> (Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoXifu</foreign>}</expan></choice>, (Mgh, Mṣb,) inf. n. <foreign lang="ar">naXofN</foreign>, (Mṣb,) <hi>He took</hi> [or <hi>absorbed</hi>] <hi>the water from the ground,</hi> (Mgh, Mṣb,) or <hi>from a pool,</hi> (Mgh,) <hi>with a piece of rag</hi> or <hi>some other thing</hi> (Mgh, Mṣb) <hi>of a similar kind.</hi> (Mṣb.)
 						</sense>
 					</entry>
 					<entry type="main" n="45158" class="verb" xml:id="nXf_2">
@@ -4132,7 +4132,7 @@
 						<sense n="1" xml:id="niDowN_A1">
 							<foreign lang="ar">niDowN</foreign> 
 							<hi>A lean,</hi> or <hi>emaciated,</hi> camel: 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">niDowapN</foreign>}</expan></choice>. (Ṣ, Mṣb, Ḳ.) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">niDowapN</foreign>}</expan></choice>. (Ṣ, Mṣb, Ḳ.) 
 							<foreign lang="ar">niSowu safarK</foreign> [<hi>Lean,</hi> or <hi>emaciated by journeying</hi>]; applied to a beast. (TA, in <foreign lang="ar">rjE</foreign>.)
 						</sense>
 					</entry>
@@ -4709,7 +4709,7 @@
 						</form>
 						<sense n="1" xml:id="nEZ_1_A1">
 							1. <foreign lang="ar">naEaZa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoEaZu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoEaZu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">naEoZN</foreign> and <foreign lang="ar">nuEuwZN</foreign> (Ṣ, Mṣb, Ḳ,) and <foreign lang="ar">naEaZN</foreign>, (ISd, Ḳ,) 
 							<hi>It</hi> (the <foreign lang="ar">zub-</foreign>, Ṣ, or <foreign lang="ar">cakar</foreign>, Mṣb, Ḳ,) <hi>became erect,</hi> (Ṣ, Mṣb, Ḳ), <hi>by reason of carnal appetite;</hi> (Mṣb;) 
 							as also <anchor type="arrow"><foreign lang="ar">AnEZ↓</foreign></anchor>. (M, TA.)
@@ -4980,10 +4980,10 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="nEm_1_A2">
 							<foreign lang="ar">naEima</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoEumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoEumu</foreign>}</expan></choice>, 
 							is like <foreign lang="ar">faDila</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoEumu</foreign>}</expan></choice>, and <foreign lang="ar">HaDira</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoEumu</foreign>}</expan></choice>. 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoEumu</foreign>}</expan></choice>, and <foreign lang="ar">HaDira</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoEumu</foreign>}</expan></choice>. 
 							See the latter.
 						</sense>
 						<span type="sig">―</span>
@@ -5500,7 +5500,7 @@
 						</form>
 						<sense n="1" xml:id="ngm_1_A1">
 							1. <foreign lang="ar">nagama</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanogimu</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanogamu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanogimu</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanogamu</foreign>}</expan></choice>, 
 							<hi>He spoke in a low, gentle,</hi> or <hi>soft, voice</hi> or <hi>tone:</hi> (Ṣ, Mṣb:) [<hi>he spoke in an undertone:</hi>] <hi>he used such a voice</hi> in singing: (Ḳ:) or <hi>he modulated his voice,</hi> or <hi>made melody,</hi> in singing. (TḲ.) See <foreign lang="ar">jrs</foreign>.
 						</sense>
 					</entry>
@@ -6371,7 +6371,7 @@
 							8. <foreign lang="ar">Ainotaqamotu minohu</foreign> 
 							<hi>I took,</hi> or <hi>executed, vengeance on him,</hi> or <hi>inflicted penal retribution on him, for that which he had done:</hi> (JK:) or <hi>I punished him;</hi> (Ṣ, Mṣb, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">naqamotu↓ minohu</foreign></anchor>, (Mṣb, Ḳ,) and <foreign lang="ar">Ealayhi</foreign>, (TA,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanoqimu</foreign>}</expan></choice>; (Mṣb, Ḳ;) and <foreign lang="ar">naqimotu</foreign>. (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanoqimu</foreign>}</expan></choice>; (Mṣb, Ḳ;) and <foreign lang="ar">naqimotu</foreign>. (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="nqm_8_A2">
@@ -6620,8 +6620,8 @@
 						</form>
 						<sense n="1" xml:id="nkf_1_A1">
 							1. <foreign lang="ar">nakifa minaAlX-aIoCi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanokafu</foreign>}</expan></choice>,; inf. n. <foreign lang="ar">nakafN</foreign>; and <foreign lang="ar">nakafa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanokufu</foreign>}</expan></choice>; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanokafu</foreign>}</expan></choice>,; inf. n. <foreign lang="ar">nakafN</foreign>; and <foreign lang="ar">nakafa</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanokufu</foreign>}</expan></choice>; 
 							and <anchor type="arrow"><foreign lang="ar">Astnkf↓</foreign></anchor>; <hi>He abstained from, or refused to do, the thing, from disdain and pride.</hi> (Mṣb.)
 						</sense>
 					</entry>
@@ -6765,7 +6765,7 @@
 						</form>
 						<sense n="1" xml:id="nky_1_A1">
 							1. <foreign lang="ar">nakiIa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanokaIu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanokaIu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">nakaMCN</foreign>, 
 							<hi>He</hi> (an <hi>enemy</hi>) <hi>was defeated, and overcome.</hi> (TA, art. <foreign lang="ar">nkO</foreign>.)
 						</sense>
@@ -7057,7 +7057,7 @@
 						</form>
 						<sense n="1" xml:id="nmy_1_A1">
 							1. <foreign lang="ar">namaI</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yanomiIu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yanomiIu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">namaMCN</foreign>, 
 							<hi>It increased;</hi> (M, Ḳ, Mgh, TA;) <hi>multiplied; became plentiful,</hi> or <hi>abundant;</hi> (Mṣb, TA;) said of a thing, (Mṣb,) of cattle, or wealth, (Ṣ, Mgh, TA,), &amp;c. (TA.)
 						</sense>

@@ -924,7 +924,7 @@
 						<hom n="B" xml:id="ysr_1_B">
 						<sense n="1" xml:id="ysr_1_B1">
 							<foreign lang="ar">yasura</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yayosuru</foreign>}</expan></choice>, <hi>It</hi> (a thing) <hi>was,</hi> or <hi>became, little in quantity:</hi> (A, Mṣb:) <hi>contemptible; paltry; of no weight</hi> or <hi>worth.</hi> (A.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yayosuru</foreign>}</expan></choice>, <hi>It</hi> (a thing) <hi>was,</hi> or <hi>became, little in quantity:</hi> (A, Mṣb:) <hi>contemptible; paltry; of no weight</hi> or <hi>worth.</hi> (A.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -1769,9 +1769,9 @@
 						</form>
 						<sense n="1" xml:id="yfx_1_A1">
 							1. <foreign lang="ar">yafaxahu</foreign>, (Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yayofaxu</foreign>}</expan></choice>, because of the guttural letter, 
-							or <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yayofuxu</foreign>}</expan></choice>, accord. to the common rule observed in the Ḳ, 
-							or <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yayofixu</foreign>}</expan></choice>, as though it were of the same class as <foreign lang="ar">waEada</foreign>, (TA,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yayofaxu</foreign>}</expan></choice>, because of the guttural letter, 
+							or <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yayofuxu</foreign>}</expan></choice>, accord. to the common rule observed in the Ḳ, 
+							or <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yayofixu</foreign>}</expan></choice>, as though it were of the same class as <foreign lang="ar">waEada</foreign>, (TA,) 
 							[the last is probably the most correct form, as <foreign lang="ar">yaOofixuhu</foreign> is the aor. of <foreign lang="ar">Oafaxahu</foreign>, of which <foreign lang="ar">yafaxahu</foreign> is a dial. form,] 
 							<hi>He,</hi> or <hi>it, hit him,</hi> or <hi>hurt him, on the part of his head called the</hi> <foreign lang="ar">yaAfuwx</foreign>. (Ḳ.)
 						</sense>
@@ -1849,7 +1849,7 @@
 							[separated friends]; (TA;) and is profitable for disturbance of the mind (occasioned by the black bile, TA) and palpitation, and weakness of the heart and stomach, if drunk; 
 							[being app. reduced to powder for that purpose, as is done with some other gems in the East;] and for congealment of the blood, if hung 
 							[upon the person]: (Ḳ:) it is a Persian word, (Ṣ,) arabicized: (Ṣ, Ḳ:) of the measure <foreign lang="ar">faAEuwlN</foreign>: 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaAquwtapN</foreign>}</expan></choice>; 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaAquwtapN</foreign>}</expan></choice>; 
 							and pl. <foreign lang="ar">yawAqiytu</foreign>. (Ṣ.)
 						</sense>
 					</entry>
@@ -1871,9 +1871,9 @@
 						</form>
 						<sense n="1" xml:id="yqZ_1_A1">
 							1. <foreign lang="ar">yaqiZa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yayoqaZu</foreign>}</expan></choice>, (Mṣb, Ḳ,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yayoqaZu</foreign>}</expan></choice>, (Mṣb, Ḳ,) 
 							and <foreign lang="ar">yaquZa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yayoquZu</foreign>}</expan></choice>; (Lḥ, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yayoquZu</foreign>}</expan></choice>; (Lḥ, Ḳ;) 
 							and in the Mṣb is added <foreign lang="ar">yaqaZa</foreign>, i. e. like <foreign lang="ar">Daraba</foreign>, which is strange; (TA;) 
 							[but this I do not find in my copy of the Mṣb;] 
 							inf. n. [of the first] <foreign lang="ar">yaqaZN</foreign> (Mṣb, Ḳ) and <foreign lang="ar">yaqaZapN</foreign>, (Mṣb, TA,) or the latter is a simple subst., (Ṣ,) 

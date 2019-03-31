@@ -2572,7 +2572,7 @@
 						</form>
 						<sense n="1" xml:id="waramN_A1">
 							<foreign lang="ar">waramN</foreign>, a coll. gen. n., <hi>Swellings, or tumours:</hi> 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">waramapN</foreign>}</expan></choice>. 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">waramapN</foreign>}</expan></choice>. 
 							The n. un. occurs in the TA, art. <foreign lang="ar">jdr</foreign>, &amp;c.
 						</sense>
 					</entry>
@@ -5095,7 +5095,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="wEy_1_A3">
 							<foreign lang="ar">waEaI</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaEiIu</foreign>}</expan></choice>, <hi>He heeded; paid attention to.</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaEiIu</foreign>}</expan></choice>, <hi>He heeded; paid attention to.</hi> 
 						</sense>
 					</entry>
 					<entry type="main" n="47659" class="verb" xml:id="wEy_4">
@@ -5944,7 +5944,7 @@
 						<span type="sig">―</span>
 						<sense n="9" xml:id="wqf_1_A9">
 							<foreign lang="ar">waqafa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqifu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqifu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">wuquwfN</foreign>, <hi>He withstood, resisted:</hi> governing by <foreign lang="ar">Eano</foreign>.
 						</sense>
 						<span type="sig">―</span>

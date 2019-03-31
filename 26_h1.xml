@@ -1038,7 +1038,7 @@
 						<sense n="2" xml:id="hadiy-apN_A2">
 							<anchor type="arrow"><foreign lang="ar">hadoIN↓</foreign></anchor> and <foreign lang="ar">hadiI-N</foreign> 
 							[coll. gen. ns.] <hi>What one brings as an offering to Mekkeh,</hi> (Ḳ,) <hi>or to the Kaabeh,</hi> (Beyd, v. 2,) <hi>or to the Haram,</hi> (Ṣ, Mgh,) <hi>consisting of camels</hi> (Lth, Ṣ, Mgh, Mṣb) <hi>or other beasts,</hi> (Lth,) namely <hi>kine or sheep or goats,</hi> (Mgh,) <hi>to be sacrificed,</hi> (TA,) <hi>and of goods or commodities:</hi> (Lth:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">hadiy-apN</foreign>}</expan></choice>. (Ṣ, &amp;c.)
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">hadiy-apN</foreign>}</expan></choice>. (Ṣ, &amp;c.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="hadiy-apN_A3">
@@ -1258,7 +1258,7 @@
 						<sense n="1" xml:id="harAasN_A1">
 							<foreign lang="ar">harAasN</foreign> 
 							<hi>A certain thorny</hi> or <hi>prickly tree,</hi> (Ṣ, Ḳ, TA,) <hi>the thorns or prickles of which are like the</hi> <foreign lang="ar">Hasak</foreign>, (TA,) <hi>and its fruit is like the</hi> <foreign lang="ar">nabiq</foreign>: 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">harAasapN</foreign>}</expan></choice>. (Ḳ, TA.) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">harAasapN</foreign>}</expan></choice>. (Ḳ, TA.) 
 							<ref target="quTobN">See <foreign lang="ar">quTobN</foreign></ref>.
 						</sense>
 					</entry>
@@ -1350,7 +1350,7 @@
 						<sense n="2" xml:id="hrq_4_A2">
 							<foreign lang="ar">haraAqahu</foreign> and <foreign lang="ar">OahorAaqahu</foreign> 
 							and <anchor type="arrow"><foreign lang="ar">haraqahu↓</foreign></anchor>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yahoraqu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yahoraqu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">haroqN</foreign>, <hi>He poured it out,</hi> or <hi>forth:</hi> 
 							<ref target="rwq_4">see 4</ref> 
 							<ref target="Root_rwq">in art. <foreign lang="ar">rwq</foreign></ref>.
@@ -1553,9 +1553,9 @@
 						<sense n="1" xml:id="hzl_1_A1">
 							1. <foreign lang="ar">hazolN</foreign> is <hi>contr. of</hi> <foreign lang="ar">jid-N</foreign>. (Ṣ, Mgh, Ḳ.) 
 							You say, <foreign lang="ar">hazala</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yahozilu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yahozilu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">hazolN</foreign>; (Ṣ, Mṣb, Ḳ;) and <foreign lang="ar">hazila</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yahozalu</foreign>}</expan></choice>, (Ḳ,) inf. n. as above; (TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yahozalu</foreign>}</expan></choice>, (Ḳ,) inf. n. as above; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">haAzala↓</foreign></anchor>; (Ḳ;) <hi>He jested,</hi> or <hi>joked;</hi> (Mṣb;) or <hi>was not serious,</hi> or <hi>in earnest;</hi> (TA;) <foreign lang="ar">fiI kalAamihi</foreign> <hi>in his speech;</hi> (Mṣb, TA;) and <foreign lang="ar">fiI AlOamori</foreign> <hi>in the affair.</hi> (TA.)
 						</sense>
 					</entry>
@@ -2508,7 +2508,7 @@
 						<span type="sig">―</span>
 						<sense n="5" xml:id="hm_1_A5">
 							<foreign lang="ar">ham-a bihi fiI nafosihi</foreign> 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yahomumu</foreign>}</expan></choice>] <hi>He intended it, meant it, desired it.</hi> or <hi>determined upon it, in his mind.</hi> (TA.) See also a verse cited voce <foreign lang="ar">rutamN</foreign>.
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yahomumu</foreign>}</expan></choice>] <hi>He intended it, meant it, desired it.</hi> or <hi>determined upon it, in his mind.</hi> (TA.) See also a verse cited voce <foreign lang="ar">rutamN</foreign>.
 						</sense>
 						<span type="sig">―</span>
 						<sense n="6" xml:id="hm_1_A6">
@@ -2831,7 +2831,7 @@
 						</form>
 						<sense n="1" xml:id="hml_1_A1">
 							1. <foreign lang="ar">hamala</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yahomulu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yahomulu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">hamalAanN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">Ainohamala↓</foreign></anchor>; <hi>It</hi> (water) <hi>overflowed, and poured forth.</hi> (Mgh.)
 						</sense>

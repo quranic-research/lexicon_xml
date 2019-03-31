@@ -1351,7 +1351,7 @@
 						</form>
 						<sense n="1" xml:id="qdm_1_A1">
 							1. <foreign lang="ar">qadama Alqawoma</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqodumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqodumu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">qadomN</foreign> (Ṣ,* Mṣb, Ḳ) and <foreign lang="ar">quduwmN</foreign>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">taqad-amahumo↓</foreign></anchor>; (Ṣ,* Mṣb, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">qad-amahumo↓</foreign></anchor>; 
@@ -1364,7 +1364,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="qdm_1_A3">
 							<foreign lang="ar">qadima Albalada</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqodamu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqodamu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">quduwmN</foreign> and <foreign lang="ar">maqodamN</foreign>, [<hi>He came to,</hi> or <hi>arrived at, the town,</hi>, &amp;c.] (Mṣb.) <foreign lang="ar">OaxocaniI maA qaduma wamAa Haduva</foreign>: 
 							<ref target="Root_Hdv">see art. <foreign lang="ar">Hdv</foreign></ref>.
 						</sense>
@@ -1928,7 +1928,7 @@
 						</form>
 						<sense n="1" xml:id="qcf_1_A1">
 							1. <foreign lang="ar">qacafa biQloHijArapi wagayorihaA</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqocifu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqocifu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">qacofN</foreign>, <hi>He threw stones,</hi>, &amp;c. (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
@@ -2001,7 +2001,7 @@
 						<sense n="1" xml:id="qac-aAfN_A1">
 							<foreign lang="ar">qac-aAfN</foreign> 
 							<hi>i. q.</hi> <foreign lang="ar">manojaniyqN</foreign>: (Lth, Ḳ:) The <hi>kind of instrument with which a thing is thrown so that it goes far;</hi> 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">qac-aAfapN</foreign>}</expan></choice>. (Aboo-Kheyreh, Ḳ.) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">qac-aAfapN</foreign>}</expan></choice>. (Aboo-Kheyreh, Ḳ.) 
 							<ref target="marojaAmN">See <foreign lang="ar">marojaAmN</foreign></ref> 
 							<ref target="mirojamapN">and <foreign lang="ar">mirojamapN</foreign></ref>.
 						</sense>
@@ -2114,7 +2114,7 @@
 						</form>
 						<sense n="1" xml:id="qrX_1_A1">
 							1. <foreign lang="ar">qaraXa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqoriXu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqoriXu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">qaroXN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">AiqotaraXa↓</foreign></anchor> 
 							and <anchor type="arrow"><foreign lang="ar">taqar-aXa↓</foreign></anchor>; <hi>He gained, acquired, or earned, and collected,</hi> for his family. (M.)
@@ -4028,7 +4028,7 @@
 						<span type="sig">―</span>
 						<sense n="5" xml:id="qDy_1_A5">
 							<foreign lang="ar">qaDaI Ealayohi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqoDiIu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqoDiIu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">qaDaMCN</foreign>, &amp;c., <hi>He decided judicially,</hi> or <hi>judged, against him;</hi> and <foreign lang="ar">bayona AlxaSomayoni</foreign> <hi>between the two litigants.</hi> (TA.) 
 							<ref target="qadorN">See <foreign lang="ar">qadorN</foreign></ref>.
 						</sense>
@@ -5929,7 +5929,7 @@
 						</form>
 						<sense n="1" xml:id="qlq_1_A1">
 							1. <foreign lang="ar">qaliqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqolaqu</foreign>}</expan></choice>, (M, Mṣb, TA,) inf. n. <foreign lang="ar">qalaqN</foreign>, (Ṣ, M, Mṣb, Ḳ,) <hi>It was,</hi> or <hi>became, unsettled, unsteady, unfixed, loose, mobile, unquiet,</hi> or <hi>restless; it did not settle, become fixed</hi> or <hi>motionless</hi> or <hi>quiet</hi> or <hi>at rest,</hi> or <hi>it did not rest</hi> or <hi>remain</hi> or <hi>continue, in its place.</hi> (TA.) <hi>He,</hi> or <hi>it, became disquieted, disturbed, agitated, flurried,</hi> or <hi>in a state of unrest</hi> or <hi>commotion;</hi> syn. <foreign lang="ar">AinozaEaja</foreign>, (Ṣ, Ḳ, TA,) and <foreign lang="ar">AiDoTaraba</foreign>. (M, Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqolaqu</foreign>}</expan></choice>, (M, Mṣb, TA,) inf. n. <foreign lang="ar">qalaqN</foreign>, (Ṣ, M, Mṣb, Ḳ,) <hi>It was,</hi> or <hi>became, unsettled, unsteady, unfixed, loose, mobile, unquiet,</hi> or <hi>restless; it did not settle, become fixed</hi> or <hi>motionless</hi> or <hi>quiet</hi> or <hi>at rest,</hi> or <hi>it did not rest</hi> or <hi>remain</hi> or <hi>continue, in its place.</hi> (TA.) <hi>He,</hi> or <hi>it, became disquieted, disturbed, agitated, flurried,</hi> or <hi>in a state of unrest</hi> or <hi>commotion;</hi> syn. <foreign lang="ar">AinozaEaja</foreign>, (Ṣ, Ḳ, TA,) and <foreign lang="ar">AiDoTaraba</foreign>. (M, Mṣb.)
 						</sense>
 						<pb n="2993" xml:id="Page_2993"/>
 						<span type="sig">―</span>
@@ -6215,7 +6215,7 @@
 						<sense n="1" xml:id="qumoqumN_A1">
 							<foreign lang="ar">qumoqumN</foreign> 
 							<hi>A certain well-known vessel;</hi> arabicized from <foreign lang="ar">kumokumo</foreign>; (Ḳ, TA;) <hi>a vessel of copper, in which water is heated;</hi> also called <foreign lang="ar">maHam-u</foreign>; and called by the people of Syria <foreign lang="ar">gal-aAyapN</foreign>; as also <foreign lang="ar">qumoqumapN</foreign>: (Mṣb:) or <hi>a well-known vessel of copper, &amp;c., in which water is heated, narrow in the head:</hi> and hence, ‡ <hi>a small vessel of copper</hi> or <hi>silver</hi> or <hi>china-ware, in which rose-water is put</hi> [<hi>for sprinkling, having a long and narrow neck, with a cover pierced with a hole</hi> or <hi>with several holes</hi>]; (TA;) the <hi>vessel of the perfumer:</hi> 
-							and, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">qumoqumapN</foreign>}</expan></choice>, <hi>a vessel of brass, having two loop-shaped handles, which the traveller takes with him:</hi> pl. <foreign lang="ar">qamaAqimu</foreign>. (Mṣb.)
+							and, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">qumoqumapN</foreign>}</expan></choice>, <hi>a vessel of brass, having two loop-shaped handles, which the traveller takes with him:</hi> pl. <foreign lang="ar">qamaAqimu</foreign>. (Mṣb.)
 						</sense>
 					</entry>
 					<entry type="main" n="39266" xml:id="qamoqaAmapN">
@@ -6352,7 +6352,7 @@
 						</form>
 						<sense n="1" xml:id="qmh_1_A1">
 							1. <foreign lang="ar">qamaha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqomahu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqomahu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">qumuwhN</foreign>, <hi>i. q.</hi> <foreign lang="ar">qamaHa</foreign>, q. v.
 						</sense>
 					</entry>
@@ -6650,7 +6650,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="qunofucN.1_A3">
 							Also <foreign lang="ar">qunofucN</foreign> and <foreign lang="ar">qunofacN</foreign> The <hi>rat,</hi> or <hi>mouse;</hi> syn. <foreign lang="ar">faArN</foreign>: (Ḳ:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">qunofucapN</foreign>}</expan></choice>. (TA.)
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">qunofucapN</foreign>}</expan></choice>. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="4" xml:id="qunofucN.1_A4">
@@ -6659,7 +6659,7 @@
 						</sense>
 						<span type="sig">―</span>
 						<sense n="5" xml:id="qunofucN.1_A5">
-							And, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">qunofucapN</foreign>}</expan></choice>, 
+							And, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">qunofucapN</foreign>}</expan></choice>, 
 							† The <hi>part of the head that is below that which is called the</hi> <foreign lang="ar">qamaHoduwap</foreign>. (L.)
 						</sense>
 						<span type="sig">―</span>
@@ -6674,7 +6674,7 @@
 						</sense>
 						<span type="sig">―</span>
 						<sense n="8" xml:id="qunofucN.1_A8">
-							<foreign lang="ar">qunofucN</foreign> (L, Ḳ) and <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">qunofucapN</foreign>}</expan></choice> (L) 
+							<foreign lang="ar">qunofucN</foreign> (L, Ḳ) and <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">qunofucapN</foreign>}</expan></choice> (L) 
 							† <hi>A tree in the midst of sand.</hi> (L, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -7222,7 +7222,7 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="qwl_1_A4">
 							<foreign lang="ar">qaAla Ealayohi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaqowulu</foreign>}</expan></choice>, <hi>He lied,</hi> or <hi>said what was false, against him.</hi> (TA in art. <foreign lang="ar">tlw</foreign>.) See <foreign lang="ar">taqaw-ala</foreign>.
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaqowulu</foreign>}</expan></choice>, <hi>He lied,</hi> or <hi>said what was false, against him.</hi> (TA in art. <foreign lang="ar">tlw</foreign>.) See <foreign lang="ar">taqaw-ala</foreign>.
 						</sense>
 						<span type="sig">―</span>
 						<sense n="5" xml:id="qwl_1_A5">

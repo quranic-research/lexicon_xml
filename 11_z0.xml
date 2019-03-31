@@ -270,9 +270,9 @@
 						</form>
 						<sense n="1" xml:id="zOr_1_A1">
 							1. <foreign lang="ar">zaOara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoOiru</foreign>}</expan></choice> (Ṣ, A, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoOaru</foreign>}</expan></choice>; (A, Ḳ;) and <foreign lang="ar">zaYira</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoOaru</foreign>}</expan></choice>; (Ṣ, Ḳ;) inf. n. <foreign lang="ar">zaYiyrN</foreign> and <foreign lang="ar">zaOorN</foreign>; (Ṣ, A, Ḳ;) said of a lion, <hi>He roared,</hi> or <hi>growled;</hi> i. e., <hi>made his cry,</hi> or <hi>voice, to be heard</hi> (Ṣ, A, Ḳ) <hi>in his chest,</hi> (Ṣ, A,) or <hi>from his chest;</hi> (Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoOiru</foreign>}</expan></choice> (Ṣ, A, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoOaru</foreign>}</expan></choice>; (A, Ḳ;) and <foreign lang="ar">zaYira</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoOaru</foreign>}</expan></choice>; (Ṣ, Ḳ;) inf. n. <foreign lang="ar">zaYiyrN</foreign> and <foreign lang="ar">zaOorN</foreign>; (Ṣ, A, Ḳ;) said of a lion, <hi>He roared,</hi> or <hi>growled;</hi> i. e., <hi>made his cry,</hi> or <hi>voice, to be heard</hi> (Ṣ, A, Ḳ) <hi>in his chest,</hi> (Ṣ, A,) or <hi>from his chest;</hi> (Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">tzO-r↓</foreign></anchor> (Ṣ, Ḳ) 
 							and <anchor type="arrow"><foreign lang="ar">AzOr↓</foreign></anchor>: (Ḳ:) <hi>he cried out, and was angry.</hi> (TA.)
 						</sense>
@@ -281,7 +281,7 @@
 							And [hence], 
 							said of a stallion-camel, 
 							as also <anchor type="arrow"><foreign lang="ar">AzOr↓</foreign></anchor>, (Ḳ, by implication,) or <foreign lang="ar">zaOara</foreign> [only], (TA,) or <foreign lang="ar">zaOara fiI hadiyrahi</foreign>, (A,) ‡ <hi>He reiterated his voice,</hi> or <hi>cry, in his chest, and then prolonged it,</hi> (A, Ḳ, TA,) <hi>in his braying:</hi> (A:) or <foreign lang="ar">zaOara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoOiru</foreign>}</expan></choice>, <hi>he threatened</hi> in his braying. (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoOiru</foreign>}</expan></choice>, <hi>he threatened</hi> in his braying. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zOr_1_A3">
@@ -419,7 +419,7 @@
 						<sense n="1" xml:id="zuWaAnN_A1">
 							<foreign lang="ar">zuWaAnN</foreign> (Ṣ, M, Mṣb, Ḳ) and <foreign lang="ar">zuwaAnN</foreign> (M, Mṣb) and <foreign lang="ar">ziYaAnN</foreign> (M, Ḳ) and <foreign lang="ar">ziwaAnN</foreign> (M, Mṣb) and <foreign lang="ar">zaMnN</foreign> (Ḳ) and <foreign lang="ar">zawaAnN</foreign>, (Ḳ in art. <foreign lang="ar">zwn</foreign>, q. v.,) but the like of <foreign lang="ar">saHaAbN</foreign> is said by ISd to be a form not seen by him on the authority of anyone, (TA,) [<hi>A noxious weed, that grows among wheat;</hi> app. <hi>darnel-grass;</hi> the <hi>lolium temulentum</hi> of Linn.; so in the present day;] <hi>a certain grain,</hi> (Mṣb,) the <hi>bitter grain,</hi> (M,) <hi>that mingles with wheat,</hi> (Ṣ, M, Mṣb, Ḳ,) <hi>and gives a bad quality to it:</hi> (Mṣb:) 
 							[<hi>the grain thus called is often, accidentally,</hi> or <hi>carelessly, mixed with wheat, and causes giddiness: the plant resembles that now called</hi> <foreign lang="ar">Xayolam</foreign>, <hi>a decoction of which is used as an anæsthetic:</hi> it is said in the Ḳ in art. <foreign lang="ar">Xlm</foreign> that the <foreign lang="ar">zWAn</foreign> is the same as the <foreign lang="ar">Xayolam</foreign>: but it is said in the TA in that art., on the authority of AḤn, that the grain of the <foreign lang="ar">Xayolam</foreign> does not intoxicate, (as that of darnel-grass is well known to do in a certain manner,) and that it is very bitter: and in the Ḳ in art. <foreign lang="ar">dnq</foreign> it is said that the <foreign lang="ar">danoqap</foreign> is the <foreign lang="ar">zuwaAn</foreign>, and the <foreign lang="ar">danaqap</foreign> is the <foreign lang="ar">Xayolam</foreign>: the TA states more fully in that art. that the <foreign lang="ar">danoqap</foreign> is said by AḤn to be the <foreign lang="ar">zuwaAn</foreign> that is in wheat, which is cleared therefrom; and that the <foreign lang="ar">danaqap</foreign> is said by AA to be the <foreign lang="ar">Xayolam</foreign>: Forskål mentions the <foreign lang="ar">ziwaAn</foreign> and the <foreign lang="ar">Xayolam</foreign>, as different species, among undetermined plants, and describes the former thus: <foreign lang="la"><hi>zizania</hi> Aleppensibus notissima: inter triticum viget: si semina restant farinæ (sic) mixta, hominem reddunt ex panis esu temulentum: messores plantam non separant; sed post triturationem vanni aut cribri ope semina rejiciunt</foreign>: (Flora Aegypt. Arab. p. 199:)] 
-							the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zuWaAnapN</foreign>}</expan></choice>. (Mṣb.) 
+							the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zuWaAnapN</foreign>}</expan></choice>. (Mṣb.) 
 						</sense>
 					</entry>
 					<entry type="xref" n="18470" xml:id="OazoOaniI-N">
@@ -688,7 +688,7 @@
 						<sense n="1" xml:id="zabiybN_A1">
 							<foreign lang="ar">zabiybN</foreign> 
 							<hi>Dried grapes;</hi> or <hi>raisins:</hi> and also <hi>dried figs:</hi> (Ḳ:) said by AḤn to have been used in this latter sense by an Arab of the desert: (TA:) a coll. gen. n.; masc. and fem.: (Mṣb:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zabiybapN</foreign>}</expan></choice>. (Ṣ, Mṣb.)
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zabiybapN</foreign>}</expan></choice>. (Ṣ, Mṣb.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -895,13 +895,13 @@
 						</form>
 						<sense n="1" xml:id="zbd_1_A1">
 							1. <foreign lang="ar">zabadahu</foreign>, (Aṣ, Ṣ, A, Mgh, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobudu</foreign>}</expan></choice>, (Aṣ, Ṣ, A, Mṣb,) inf. n. <foreign lang="ar">zabodN</foreign>, (Aṣ, Mṣb,) <hi>He fed him with,</hi> or <hi>gave him to eat,</hi> <foreign lang="ar">zubod</foreign> [i. e. <hi>fresh butter</hi>]. (Aṣ, Ṣ, A, Mgh, Mṣb, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobudu</foreign>}</expan></choice>, (Aṣ, Ṣ, A, Mṣb,) inf. n. <foreign lang="ar">zabodN</foreign>, (Aṣ, Mṣb,) <hi>He fed him with,</hi> or <hi>gave him to eat,</hi> <foreign lang="ar">zubod</foreign> [i. e. <hi>fresh butter</hi>]. (Aṣ, Ṣ, A, Mgh, Mṣb, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zbd_1_A2">
 							And hence, (Mgh,) <foreign lang="ar">zabadahu</foreign>, (Aṣ, Ṣ, A, Mgh, Mṣb,) or <foreign lang="ar">zabada lahu</foreign>, 
 							(Ḳ, [app. a mistranscription, for its aor. is there mentioned immediately after without the prep.,]) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobidu</foreign>}</expan></choice>, (Aṣ, Ṣ, A, Mgh, Mṣb, Ḳ,) the verb in the sense here following being thus distinguished from that in the sense preceding, (Aṣ, Mṣb,) inf. n. as above, (Aṣ, Ṣ, Mgh,) ‡ <hi>He gave him a gift:</hi> (Aṣ, A, Mgh, Mṣb:) or <hi>he gave him somewhat, a little, not much,</hi> (Ṣ, Ḳ,) <hi>of property,</hi> (Ṣ,) or <hi>of his property.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobidu</foreign>}</expan></choice>, (Aṣ, Ṣ, A, Mgh, Mṣb, Ḳ,) the verb in the sense here following being thus distinguished from that in the sense preceding, (Aṣ, Mṣb,) inf. n. as above, (Aṣ, Ṣ, Mgh,) ‡ <hi>He gave him a gift:</hi> (Aṣ, A, Mgh, Mṣb:) or <hi>he gave him somewhat, a little, not much,</hi> (Ṣ, Ḳ,) <hi>of property,</hi> (Ṣ,) or <hi>of his property.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zbd_1_A3">
@@ -1276,7 +1276,7 @@
 						<hom n="A" xml:id="zbr_1_A">
 						<sense n="1" xml:id="zbr_1_A1">
 							1. <foreign lang="ar">zabara AlbiYora</foreign>, (A, TA,) 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoburu</foreign>}</expan></choice>, and perhaps <foreign lang="ar">_i</foreign> 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoburu</foreign>}</expan></choice>, and perhaps <foreign lang="ar">_i</foreign> 
 							also,] inf. n. <foreign lang="ar">zaborN</foreign>, (Ṣ, Ḳ,) <hi>He cased the well,</hi> or <hi>walled it internally, with stones.</hi> (Ṣ, A, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -1291,8 +1291,8 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="zbr_1_A4">
 							And [hence, perhaps, or] from <foreign lang="ar">zabara</foreign> in the first of the senses expl. above, because him whom you restrain from error you strengthen like as a well is strengthened by its being cased, (TA,) <foreign lang="ar">zabarahu</foreign>, (Ṣ, A, Mgh, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoburu</foreign>}</expan></choice> (Ṣ, Mgh, Mṣb, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobiru</foreign>}</expan></choice>, (Ks, Ḳ,) inf. n. as above, (Ṣ, Mgh, Mṣb, Ḳ,) <hi>He chid him;</hi> or <hi>checked, restrained,</hi> or <hi>forbade, him with rough speech:</hi> (Ṣ, A, Mgh, Mṣb, Ḳ:) <hi>he prevented, hindered,</hi> or <hi>withheld, him:</hi> (Ṣ, Mgh, Ḳ:) <hi>he forbade,</hi> or <hi>prohibited, him:</hi> (Ḳ:) <hi>he repelled him with strength.</hi> (MF in art. <foreign lang="ar">hzbr</foreign>.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoburu</foreign>}</expan></choice> (Ṣ, Mgh, Mṣb, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobiru</foreign>}</expan></choice>, (Ks, Ḳ,) inf. n. as above, (Ṣ, Mgh, Mṣb, Ḳ,) <hi>He chid him;</hi> or <hi>checked, restrained,</hi> or <hi>forbade, him with rough speech:</hi> (Ṣ, A, Mgh, Mṣb, Ḳ:) <hi>he prevented, hindered,</hi> or <hi>withheld, him:</hi> (Ṣ, Mgh, Ḳ:) <hi>he forbade,</hi> or <hi>prohibited, him:</hi> (Ḳ:) <hi>he repelled him with strength.</hi> (MF in art. <foreign lang="ar">hzbr</foreign>.) 
 							You say, <foreign lang="ar">zabarahu Eani AlOamori</foreign> <hi>He restrained him with rough speech,</hi> or <hi>forbade and prevented him, from doing the thing.</hi> (TA.) 
 							And <foreign lang="ar">zabara Als-aAYila</foreign> <hi>He chid and repelled the beggar with rough speech.</hi> (TA.)
 						</sense>
@@ -1301,7 +1301,7 @@
 						<hom n="B" xml:id="zbr_1_B">
 						<sense n="1" xml:id="zbr_1_B1">
 							<foreign lang="ar">zabara</foreign>, (Ṣ, A, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoburu</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobiru</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. as above, <hi>He wrote</hi> (Ṣ, A, Mṣb, Ḳ) a writing, or book: (A, Mṣb:) or <hi>he wrote</hi> it <hi>firmly, skilfully,</hi> or <hi>well:</hi> (TA:) and <hi>he inscribed,</hi> or <hi>engraved, upon stones:</hi> (Az, TA:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoburu</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobiru</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. as above, <hi>He wrote</hi> (Ṣ, A, Mṣb, Ḳ) a writing, or book: (A, Mṣb:) or <hi>he wrote</hi> it <hi>firmly, skilfully,</hi> or <hi>well:</hi> (TA:) and <hi>he inscribed,</hi> or <hi>engraved, upon stones:</hi> (Az, TA:) 
 							and <anchor type="arrow"><foreign lang="ar">tazobirapN↓</foreign></anchor>, also, is <hi>syn. with</hi> <foreign lang="ar">kitaAbapN</foreign>, like <foreign lang="ar">zaborN</foreign>, (Ṣ, Ḳ,) and <foreign lang="ar">xaT-N</foreign>: Aṣ says, I heard an Arab of the desert say, <foreign lang="ar">OanaA OaEorifu tazobiratiI</foreign>, meaning <foreign lang="ar">xaT-iI</foreign> and <foreign lang="ar">kitaAbatiI</foreign> [i. e. <hi>I know my writing,</hi> or <hi>handwriting</hi>]: (Ṣ:) and Fr says, It is either an inf. n. of 
 							<anchor type="arrow"><foreign lang="ar">zab-ara↓</foreign></anchor>, meaning <hi>he wrote,</hi> though I know not the verb with teshdeed, or it is a simple subst. like <foreign lang="ar">tawodiyapN</foreign>: (TA:) thus <foreign lang="ar">zabara</foreign> is <hi>syn. with</hi> <foreign lang="ar">cabara</foreign>: (AʼObeyd, T and Ṣ in art. <foreign lang="ar">cbr</foreign>:) [and so, perhaps, is 
 							<anchor type="arrow"><foreign lang="ar">zab-ara↓</foreign></anchor> <hi>with</hi> <foreign lang="ar">cab-ara</foreign>.]
@@ -2050,8 +2050,8 @@
 						<hom n="A" xml:id="zbq_1_A">
 						<sense n="1" xml:id="zbq_1_A1">
 							1. <foreign lang="ar">zabaqa</foreign>, (IF, Ṣ, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobiqu</foreign>}</expan></choice> (AʼObeyd, Ṣ, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobuqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaboqN</foreign>, (TA,) <hi>He plucked out</hi> (IF, Ṣ, Mṣb, Ḳ) his hair, (IF, Ṣ,) or the hair, (Mṣb,) or his beard. (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobiqu</foreign>}</expan></choice> (AʼObeyd, Ṣ, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobuqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaboqN</foreign>, (TA,) <hi>He plucked out</hi> (IF, Ṣ, Mṣb, Ḳ) his hair, (IF, Ṣ,) or the hair, (Mṣb,) or his beard. (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zbq_1_A2">
@@ -2282,7 +2282,7 @@
 						<hom n="A" xml:id="zbl_1_A">
 						<sense n="1" xml:id="zbl_1_A1">
 							1. <foreign lang="ar">zabala</foreign>, (Ṣ, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobulu</foreign>}</expan></choice>, (Mṣb,) or <foreign lang="ar">_i</foreign>, (Ḳ,) inf. n. <foreign lang="ar">zubuwlN</foreign> and <foreign lang="ar">zabolN</foreign>, (Mṣb,) <hi>He dunged,</hi> or <hi>manured,</hi> (Ṣ, Ḳ,) land, (Ṣ,) or seed-produce; (Ḳ;) <hi>he put</hi> land <hi>into a good state for sowing, with</hi> <foreign lang="ar">zibol</foreign> and <hi>the like.</hi> (Mṣb.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobulu</foreign>}</expan></choice>, (Mṣb,) or <foreign lang="ar">_i</foreign>, (Ḳ,) inf. n. <foreign lang="ar">zubuwlN</foreign> and <foreign lang="ar">zabolN</foreign>, (Mṣb,) <hi>He dunged,</hi> or <hi>manured,</hi> (Ṣ, Ḳ,) land, (Ṣ,) or seed-produce; (Ḳ;) <hi>he put</hi> land <hi>into a good state for sowing, with</hi> <foreign lang="ar">zibol</foreign> and <hi>the like.</hi> (Mṣb.) 
 							[In a copy of the M, in art. <foreign lang="ar">smd</foreign>, this verb is written 
 							<anchor type="arrow"><foreign lang="ar">zab-ala↓</foreign></anchor>, which I believe to be post-classical.]
 						</sense>
@@ -2545,7 +2545,7 @@
 						</form>
 						<sense n="1" xml:id="zbn_1_A1">
 							1. <foreign lang="ar">zabanahu</foreign>, (Mṣb, TA,) and <foreign lang="ar">zabana bihi</foreign>, (TA,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazobinu</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">zabonN</foreign>, (Ṣ, M, Mgh, Mṣb, Ḳ,) <hi>He pushed it,</hi> or <hi>thrust it;</hi> or <hi>pushed it,</hi> or <hi>thrust it, away;</hi> (Ṣ,* Mgh,* Mṣb, Ḳ,* TA;) namely, a thing: (Mṣb, TA:) or a thing from another thing. (M,* TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazobinu</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">zabonN</foreign>, (Ṣ, M, Mgh, Mṣb, Ḳ,) <hi>He pushed it,</hi> or <hi>thrust it;</hi> or <hi>pushed it,</hi> or <hi>thrust it, away;</hi> (Ṣ,* Mgh,* Mṣb, Ḳ,* TA;) namely, a thing: (Mṣb, TA:) or a thing from another thing. (M,* TA.) 
 							You say of a she-camel, <foreign lang="ar">tazobinu HaAlibahaA</foreign> <hi>She pushes,</hi> or <hi>thrusts,</hi> or <hi>she pushes,</hi> or <hi>thrusts, away, her milker.</hi> (Mgh, Mṣb, TA.) 
 							And <foreign lang="ar">zabanato</foreign>, (Ṣ,) or <foreign lang="ar">zabanato bivafinaAti rijolihaA</foreign>, (TA,) <hi>She</hi> (a camel) <hi>struck with her stifle-joints</hi> (TA) on the occasion of being milked: <foreign lang="ar">zabonN</foreign> being 
 							[generally] with the stifle-joints; and <foreign lang="ar">rakoDN</foreign>, with the hind leg; and <foreign lang="ar">xaboTN</foreign>, with the fore leg. (Ṣ, TA.) 
@@ -3242,14 +3242,14 @@
 						<hom n="A" xml:id="zj_1_A">
 						<sense n="1" xml:id="zj_1_A1">
 							1. <foreign lang="ar">zaj-ahu</foreign>, (Ṣ, A, Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazojuju</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">zaj-N</foreign>, (Ṣ, A, Mṣb, Ḳ,) <hi>He pierced him,</hi> or <hi>thrust him,</hi> (i. e. a man, Ṣ, Mṣb,) <hi>with the</hi> <foreign lang="ar">zuj-</foreign> [or <hi>pointed iron foot of the spear</hi>]; (Ṣ, A, Mṣb, Ḳ;*) and <hi>cast at him with it:</hi> and <foreign lang="ar">zaj-a</foreign> also signifies <hi>he pierced,</hi> or <hi>thrust, with haste.</hi> (TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazojuju</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">zaj-N</foreign>, (Ṣ, A, Mṣb, Ḳ,) <hi>He pierced him,</hi> or <hi>thrust him,</hi> (i. e. a man, Ṣ, Mṣb,) <hi>with the</hi> <foreign lang="ar">zuj-</foreign> [or <hi>pointed iron foot of the spear</hi>]; (Ṣ, A, Mṣb, Ḳ;*) and <hi>cast at him with it:</hi> and <foreign lang="ar">zaj-a</foreign> also signifies <hi>he pierced,</hi> or <hi>thrust, with haste.</hi> (TA.) 
 							And <foreign lang="ar">zajajotuhu biAlr-umoHi</foreign> <hi>I cast at him with the spear.</hi> (A, and Ḥam p. 147.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zj_1_A2">
 							[Hence,] <foreign lang="ar">zaj-a biAlX-aIoCi</foreign> 
 							‡ <hi>He cast,</hi> or <hi>threw, the thing from himself:</hi> (A:) or <foreign lang="ar">zaj-a biAlX-aIoCi mino yadihi</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazojuju</foreign>}</expan></choice>, (TA,) inf. n. as above, (Ḳ, TA,) ‡ <hi>he cast,</hi> or <hi>threw, the thing from his hand.</hi> (Ḳ,* TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazojuju</foreign>}</expan></choice>, (TA,) inf. n. as above, (Ḳ, TA,) ‡ <hi>he cast,</hi> or <hi>threw, the thing from his hand.</hi> (Ḳ,* TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zj_1_A3">
@@ -3270,7 +3270,7 @@
 						<hom n="B" xml:id="zj_1_B">
 						<sense n="1" xml:id="zj_1_B1">
 							<foreign lang="ar">zaj-a</foreign>, sec. pers. <foreign lang="ar">zajijota</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazojaju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazojaju</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zajajN</foreign>, <hi>It</hi> (an eyebrow) <hi>was,</hi> or <hi>became, narrow and long:</hi> (TḲ:) or <hi>arched:</hi> (MA:) [or <hi>narrow and long and full and arched:</hi> 
 							<ref target="zajajN">see <foreign lang="ar">zajajN</foreign> below</ref>.]
 						</sense>
@@ -3321,7 +3321,7 @@
 							4. <foreign lang="ar">Azj- Alr-umoHa</foreign>; (IAạr, ISk, Ṣ, A, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">zj-jhu↓</foreign></anchor>; (A, TA;) 
 							and <anchor type="arrow"><foreign lang="ar">zaj-ahu↓</foreign></anchor>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazojuju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazojuju</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaj-N</foreign>; (Mṣb;) and <foreign lang="ar">zaj-aAhu</foreign>; (TA;) <hi>He put,</hi> or <hi>made, a</hi> <foreign lang="ar">zuj-</foreign> [q. v.] <hi>to the spear.</hi> (IAạr, ISk, Ṣ, A, Mṣb, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -3623,7 +3623,7 @@
 						</form>
 						<sense n="1" xml:id="zjr_1_A1">
 							1. <foreign lang="ar">zajarahu</foreign>, (Ṣ, A, Mgh, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazojuru</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">zajorN</foreign>, (Ṣ, A, Mṣb,) <hi>He chid him, by a cry, by his voice,</hi> or <hi>by reproof:</hi> (Ṣ,* Ḳ,* TA:) <hi>he checked him, restrained him,</hi> or <hi>forbade him, with rough speech:</hi> (TA:) or <hi>prevented, hindered, restrained,</hi> or <hi>withheld, him:</hi> or <hi>forbade,</hi> or <hi>prohibited, him:</hi> [<hi>by any kind of cry</hi> or <hi>speech:</hi>] 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazojuru</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">zajorN</foreign>, (Ṣ, A, Mṣb,) <hi>He chid him, by a cry, by his voice,</hi> or <hi>by reproof:</hi> (Ṣ,* Ḳ,* TA:) <hi>he checked him, restrained him,</hi> or <hi>forbade him, with rough speech:</hi> (TA:) or <hi>prevented, hindered, restrained,</hi> or <hi>withheld, him:</hi> or <hi>forbade,</hi> or <hi>prohibited, him:</hi> [<hi>by any kind of cry</hi> or <hi>speech:</hi>] 
 							as also <anchor type="arrow"><foreign lang="ar">Azdjrhu↓</foreign></anchor>; (Ṣ, A, Mgh, Mṣb, Ḳ;) the latter originally <foreign lang="ar">Aztjrhu</foreign>: (Mṣb, TA:) <foreign lang="ar">Eano kacaA</foreign> <hi>from</hi> [<hi>doing</hi>] <hi>such a thing:</hi> (A,* Mgh, TA:) and <foreign lang="ar">Eani Als-uwoCi</foreign> <hi>from evil.</hi> (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -3646,7 +3646,7 @@
 						<span type="sig">―</span>
 						<sense n="5" xml:id="zjr_1_A5">
 							<foreign lang="ar">zajara AlT-aAYira</foreign>, (Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazojuru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazojuru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zajorN</foreign>; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">Azdjrhu↓</foreign></anchor>; (Ḳ;) ‡ <hi>He chid the bird, auguring evil from it.</hi> (Ḳ, TA.)
 						</sense>
@@ -3951,7 +3951,7 @@
 						</form>
 						<sense n="1" xml:id="zjl_1_A1">
 							1. <foreign lang="ar">zajila</foreign>, (MA, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazojalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zajalN</foreign>, (MA, Ḳ, KL, and Ḥar p. 240,) <hi>He uttered his voice,</hi> or <hi>a cry;</hi> or <hi>made a sound,</hi> or <hi>cry:</hi> (MA, KL:) or <hi>he raised his voice,</hi> (Ḳ, Ḥar,) <hi>to evince emotion.</hi> (Ḥar.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazojalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zajalN</foreign>, (MA, Ḳ, KL, and Ḥar p. 240,) <hi>He uttered his voice,</hi> or <hi>a cry;</hi> or <hi>made a sound,</hi> or <hi>cry:</hi> (MA, KL:) or <hi>he raised his voice,</hi> (Ḳ, Ḥar,) <hi>to evince emotion.</hi> (Ḥar.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zjl_1_A2">
@@ -4298,7 +4298,7 @@
 						</form>
 						<sense n="1" xml:id="zH_1_A1">
 							1. <foreign lang="ar">zaH-ahu</foreign>, (Ṣ, L, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHuHu</foreign>}</expan></choice>, (Ṣ, L,) inf. n. <foreign lang="ar">zaH-N</foreign>; (L;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHuHu</foreign>}</expan></choice>, (Ṣ, L,) inf. n. <foreign lang="ar">zaH-N</foreign>; (L;) 
 							and <anchor type="arrow"><foreign lang="ar">zaHozaHahu↓</foreign></anchor>; (L;) <hi>He removed him,</hi> or <hi>it, from his,</hi> or <hi>its, place:</hi> (Ṣ, L, Ḳ:) and <hi>he pushed,</hi> or <hi>thrust, away, him,</hi> or <hi>it:</hi> (L, Ḳ:) or the latter, <hi>he removed him,</hi> or <hi>it, far away; placed,</hi> or <hi>put, him,</hi> or <hi>it, at a distance, far away,</hi> or <hi>far off:</hi> (Ṣ, A, Mgh, L, Mṣb:) and the former signifies also <hi>he drew, dragged,</hi> or <hi>pulled, away, him,</hi> or <hi>it, in haste.</hi> (L, Ḳ.) 
 							You say, <anchor type="arrow"><foreign lang="ar">zaHozaHahu↓ Eanohu</foreign></anchor> <hi>He removed him,</hi> or <hi>it, far away;</hi> (Ṣ, Ḳ;) or <hi>pushed,</hi> or <hi>thrust, away;</hi> and <hi>removed; him,</hi> or <hi>it;</hi> (TA;) <hi>from it;</hi> (Ṣ, Ḳ;) i. e. from his, or its, place. (TA.) 
 							It is said in the Ḳur [iii. 182], <anchor type="arrow"><foreign lang="ar">famano zuHoziHa↓ Eani Aln-aAri waOudoxila Aljan-apa faqado faAza</foreign></anchor>, i. e. [<hi>And he</hi>] <hi>who shall be removed</hi> [<hi>from the fire</hi> of Hell], 
@@ -4398,10 +4398,10 @@
 						<hom n="A" xml:id="zHr_1_A">
 						<sense n="1" xml:id="zHr_1_A1">
 							1. <foreign lang="ar">zaHara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHaru</foreign>}</expan></choice>, and <foreign lang="ar">_i</foreign>, (Ḳ,) inf. n. <foreign lang="ar">zaHiyrN</foreign> (A, Ḳ) and <foreign lang="ar">zuHaArN</foreign> and <foreign lang="ar">zuHaArapN</foreign>, (Ḳ,) <hi>He emitted the voice,</hi> (Ḳ,* TA,) or (Ḳ, TA, in the CK “and,”) <hi>the breath, with a moaning;</hi> (A, Ḳ;) [or <hi>he breathed hard;</hi> as appears from what follows;] in work, or labour, or in difficulty. (TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHaru</foreign>}</expan></choice>, and <foreign lang="ar">_i</foreign>, (Ḳ,) inf. n. <foreign lang="ar">zaHiyrN</foreign> (A, Ḳ) and <foreign lang="ar">zuHaArN</foreign> and <foreign lang="ar">zuHaArapN</foreign>, (Ḳ,) <hi>He emitted the voice,</hi> (Ḳ,* TA,) or (Ḳ, TA, in the CK “and,”) <hi>the breath, with a moaning;</hi> (A, Ḳ;) [or <hi>he breathed hard;</hi> as appears from what follows;] in work, or labour, or in difficulty. (TA.) 
 							You say, <foreign lang="ar">samiEotu lahu zaHiyrFA</foreign> [<hi>I heard him breathe hard;</hi> or <hi>emit the voice,</hi> or <hi>the breath, with a moaning</hi>]. (A.) 
 							And of a woman bringing forth, you say, <foreign lang="ar">zaHarato</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHaru</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHiru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHaru</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHiru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaHiyrN</foreign>, <hi>She breathed hard.</hi> (Ṣ.)
 						</sense>
 						<span type="sig">―</span>
@@ -4411,7 +4411,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zHr_1_A3">
 							<foreign lang="ar">zaHara</foreign>, (A, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHaru</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHiru</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaHiyrN</foreign> (Ṣ, A, Ḳ) and <foreign lang="ar">zuHaArN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">zuHaArapN</foreign>; (Ḳ;) [and app. <foreign lang="ar">zuHira</foreign> also; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHaru</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHiru</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaHiyrN</foreign> (Ṣ, A, Ḳ) and <foreign lang="ar">zuHaArN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">zuHaArapN</foreign>; (Ḳ;) [and app. <foreign lang="ar">zuHira</foreign> also; 
 							(<ref target="mazoHuwrN">see <foreign lang="ar">mazoHuwrN</foreign></ref>;)] 
 							and <anchor type="arrow"><foreign lang="ar">tzH-r↓</foreign></anchor>; (A, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">zH-r↓</foreign></anchor>, 
@@ -4607,7 +4607,7 @@
 						<hom n="A" xml:id="zHf_1_A">
 						<sense n="1" xml:id="zHf_1_A1">
 							1. <foreign lang="ar">zaHafa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHafu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHafu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaHofN</foreign> (Ṣ, Mgh, Mṣb, Ḳ) and <foreign lang="ar">zuHuwfN</foreign> (Mṣb, Ḳ) and <foreign lang="ar">zaHafaAnN</foreign>, (Ḳ,) <hi>He,</hi> or <hi>it,</hi> (an army, Mgh, Mṣb,* or a company of men, Mṣb) <hi>walked, marched,</hi> or <hi>went on foot,</hi> <foreign lang="ar">Uilayohi</foreign> [<hi>to him,</hi> or <hi>it</hi>]; (Ṣ, Ḳ;) and [generally] <hi>did so by little and little;</hi> (accord. to an explanation of <foreign lang="ar">zaHofN</foreign> in the TA;) <hi>crept,</hi> or <hi>crawled, along;</hi> or <hi>went,</hi> or <hi>walked, leisurely,</hi> or <hi>gently:</hi> (Mgh:) 
 							and <anchor type="arrow"><foreign lang="ar">tzH-f Uilayohi↓</foreign></anchor>, (Ṣ, Ḳ,) 
 							as also <anchor type="arrow"><foreign lang="ar">AzdHf↓</foreign></anchor>, (Ḳ,) <hi>i. q.</hi> <foreign lang="ar">tmX-I</foreign>, (Ṣ, Ḳ,) i. e. <hi>he walked</hi> [<hi>with slow steps,</hi> or] <hi>heavily, with an effort, to him,</hi> or <hi>it:</hi> (TḲ:) and <foreign lang="ar">miXoyapu zaHafaAnK</foreign> means <hi>a gait in which is a heaviness of motion.</hi> (TA.) 
@@ -4627,11 +4627,11 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="zHf_1_A4">
 							Also, said of a camel, (Ṣ, Mgh, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHafu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHafu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaHofN</foreign> and <foreign lang="ar">zuHuwfN</foreign>, and <foreign lang="ar">zaHafaAnN</foreign>, (TA,) <hi>He became fatigued, and dragged his foot,</hi> or <hi>the extremity of his foot;</hi> (Ṣ, Mgh, Mṣb, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">OazoHafu↓</foreign></anchor>: (Ṣ, Mgh, Mṣb:) or this latter signifies <hi>he</hi> (a camel) <hi>became fatigued,</hi> (Ḳ, TA,) <hi>and stood still with his master:</hi> 
 							and <anchor type="arrow"><foreign lang="ar">OazoHafato↓ raAHilatuhu mina AlUiEoyaMCi</foreign></anchor> <hi>His saddle-camel stood still from fatigue:</hi> or, accord. to El-Khaṭṭábee, correctly, <foreign lang="ar">OuzoHifato Ealayohi</foreign>: (TA:) or this is a mistake, occurring in the Fáïk; and it is correctly with fet-ḥ: (Mgh:) and accord. to the T, <foreign lang="ar">zaHafa</foreign> signifies <hi>he</hi> (a camel) <hi>became fatigued, so that he stood still with his master:</hi> (TA:) or, as some say, <foreign lang="ar">zaHafa</foreign> said of one walking, or marching, [i. e., of a man and of a beast,] (Mṣb, TA,) accord. to AZ, whether fat or lean, (Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHafu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHafu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaHofN</foreign> and <foreign lang="ar">zaHafaAnN</foreign>, or, as AZ says, <foreign lang="ar">zaHofN</foreign> and <foreign lang="ar">zuHuwfN</foreign>, (TA,) signifies, (Mṣb,) or signifies also, (TA,) <hi>he became fatigued,</hi> (Mṣb, TA,) in walking, or marching. (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -4977,7 +4977,7 @@
 						</form>
 						<sense n="1" xml:id="zHl_1_A1">
 							1. <foreign lang="ar">zaHala</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zuHuwlN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">zaHolN</foreign> (Ḥam p. 125) and <foreign lang="ar">mazoHalN</foreign>, (Ṣ,) <hi>He removed, withdrew,</hi> or <hi>retired to a distance;</hi> (Ṣ, Ḳ, TA, and Ḥam ubi suprà;) and <hi>went back</hi> or <hi>backwards, drew back, receded,</hi> or <hi>retreated;</hi> (TA;) <foreign lang="ar">Eano makaAnihi</foreign> [<hi>from his place</hi>]; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zuHuwlN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">zaHolN</foreign> (Ḥam p. 125) and <foreign lang="ar">mazoHalN</foreign>, (Ṣ,) <hi>He removed, withdrew,</hi> or <hi>retired to a distance;</hi> (Ṣ, Ḳ, TA, and Ḥam ubi suprà;) and <hi>went back</hi> or <hi>backwards, drew back, receded,</hi> or <hi>retreated;</hi> (TA;) <foreign lang="ar">Eano makaAnihi</foreign> [<hi>from his place</hi>]; 
 							as also <anchor type="arrow"><foreign lang="ar">tzH-l↓</foreign></anchor>. (Ṣ, Ḳ.) 
 							Hence, in a trad., <foreign lang="ar">AizoHalo Ean-iI faqado nazaHotaniI</foreign>, meaning [<hi>Remove thou,</hi>, &amp;c., <hi>from me,</hi>] <hi>for thou hast exhausted me of what I possessed.</hi> (TA.) 
 							And <foreign lang="ar">yazoHalu Eani AlOamuwri</foreign> (Ḳ, TA, in the CK <foreign lang="ar">AlOamori</foreign>,) <hi>He removes, withdraws,</hi> or <hi>retires far away, from affairs.</hi> (TA.)
@@ -4989,7 +4989,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zHl_1_A3">
 							And <foreign lang="ar">zaHala Eano maqaAmihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaHolN</foreign> and <foreign lang="ar">zuHuwlN</foreign> and <foreign lang="ar">mazoHalN</foreign>, (TA,) <hi>It</hi> (a thing, TA) <hi>quitted its station,</hi> or <hi>standing-place;</hi> (Ḳ, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaHolN</foreign> and <foreign lang="ar">zuHuwlN</foreign> and <foreign lang="ar">mazoHalN</foreign>, (TA,) <hi>It</hi> (a thing, TA) <hi>quitted its station,</hi> or <hi>standing-place;</hi> (Ḳ, TA;) 
 							as also <anchor type="arrow"><foreign lang="ar">tazaHowala↓</foreign></anchor>: (Ḳ:) in some copies of the Ḳ, in the explanation of this phrase, <foreign lang="ar">zal-a</foreign> is put in the place of <foreign lang="ar">zaAla</foreign>. (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -5099,7 +5099,7 @@
 						<sense n="1" xml:id="zuHalN_A1">
 							<foreign lang="ar">zuHalN</foreign> 
 							A man <hi>who removes, withdraws,</hi> or <hi>retires far away, from affairs,</hi> (Ḳ,* TA,) <hi>whether they be good or evil:</hi> (TA:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zuHalapN</foreign>}</expan></choice>. (Ḳ.)
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zuHalapN</foreign>}</expan></choice>. (Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -5499,7 +5499,7 @@
 						<hom n="A" xml:id="zHm_1_A">
 						<sense n="1" xml:id="zHm_1_A1">
 							1. <foreign lang="ar">zaHamahu</foreign>, (Mgh, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoHamu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoHamu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaHomN</foreign> (Mṣb, Ḳ) and <foreign lang="ar">zaHomapN</foreign> (Mṣb) and <foreign lang="ar">ziHaAmN</foreign>, with kesr; 
 							(Ḳ; [but see what here follows, 
 							<ref target="zaHomapN">and see also <foreign lang="ar">zaHomapN</foreign> below</ref>;]) 
@@ -5720,7 +5720,7 @@
 						<hom n="A" xml:id="zx_1_A">
 						<sense n="1" xml:id="zx_1_A1">
 							1. <foreign lang="ar">zax-ahu</foreign>, (Ṣ, A, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoxuxu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoxuxu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zax-N</foreign>, (TA,) <hi>He pushed him,</hi> or <hi>thrust him,</hi> (Ṣ, A,) or <hi>made him to fall,</hi> (Ḳ,) <hi>into a depressed place,</hi> or <hi>a deep hollow</hi> or <hi>cavity:</hi> (Ṣ, A, Ḳ:) [or <hi>he pushed him,</hi> or <hi>thrust him, in any manner;</hi> for] <foreign lang="ar">zax-N</foreign> signifies, accord. to IDrd, <hi>any pushing,</hi> or <hi>thrusting.</hi> (TA.) 
 							You say, <foreign lang="ar">zux-a fiI Aln-aAri</foreign>, (A,) or <foreign lang="ar">zux-a bihi fiI Aln-aAri</foreign>, <hi>He was pushed,</hi> or <hi>thrust,</hi> and <hi>thrown,</hi> or <hi>cast, into the fire</hi> 
 							[of Hell]. (TA.) 
@@ -5769,7 +5769,7 @@
 						<hom n="C" xml:id="zx_1_C">
 						<sense n="1" xml:id="zx_1_C1">
 							<foreign lang="ar">zax-a Aljamoru</foreign>, (Ṣ, A, Ḳ,) in some copies of the Ḳ, erroneously, <foreign lang="ar">Alxamoru</foreign>, (TA,)) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoxixu</foreign>}</expan></choice>, (Ṣ, Ḳ,) with kesr, (Ṣ,) and <foreign lang="ar">_u</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoxixu</foreign>}</expan></choice>, (Ṣ, Ḳ,) with kesr, (Ṣ,) and <foreign lang="ar">_u</foreign>, 
 							with damm, [which is anomalous,] (TA,) inf. n. <foreign lang="ar">zaxiyxN</foreign> (Ṣ,* A,* Ḳ) and <foreign lang="ar">zax-N</foreign>, (Ḳ,) <hi>The live coals glistened:</hi> (Ḳ:) or <hi>glistened vehemently:</hi> (Ṣ, A:) and in like manner, <foreign lang="ar">AlHariyru</foreign> [<hi>the silk</hi>]. (TA.) 
 						</sense>
 						</hom>
@@ -5910,7 +5910,7 @@
 						<hom n="A" xml:id="zxr_1_A">
 						<sense n="1" xml:id="zxr_1_A1">
 							1. <foreign lang="ar">zaxara</foreign>, (Ṣ, A, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoxaru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoxaru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaxorN</foreign> and <foreign lang="ar">zuxuwrN</foreign> (Ḳ) and <foreign lang="ar">zaxiyrN</foreign>, so in the A, (TA,) <hi>It</hi> (the sea) <hi>became full;</hi> or <hi>rose, and became full;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">tzx-z↓</foreign></anchor>: (Ḳ:) or both, said of the sea, <hi>its flow,</hi> or <hi>tide, rose,</hi> or <hi>became full:</hi> (JK, A:) or the former, [or each,] 
 							said of the sea, <hi>it increased, and its water became abundant, and its waves rose.</hi> (TA.)
@@ -5922,7 +5922,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zxr_1_A3">
 							<foreign lang="ar">zaxarati Alqidoru</foreign>, (Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoxaru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoxaru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaxorN</foreign>, (TA,) <hi>The cooking-pot boiled,</hi> or <hi>began to do so:</hi> (Ḳ, TA:) and in like manner, <foreign lang="ar">AlHarobu</foreign> [<hi>war,</hi> or <hi>the war;</hi> i. e. <hi>raged,</hi> or <hi>began to do so</hi>]. (A,* Ḳ.) 
 							And <foreign lang="ar">zaxara Alqawomu</foreign> <hi>The people,</hi> or <hi>party, became in a state of commotion</hi> for the purpose of going forth to execute some affair, (AA, JK, Ḳ, TA,) or for war. (JK, A, Ḳ.)
 						</sense>
@@ -6741,7 +6741,7 @@
 						<hom n="B" xml:id="zrb_1_B">
 						<sense n="1" xml:id="zrb_1_B1">
 							<foreign lang="ar">zariba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazorabu</foreign>}</expan></choice>, (Ḳ, TA,) said of water, (TA,) <hi>It flowed;</hi> (Ḳ, TA;) like <foreign lang="ar">sariba</foreign>. (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazorabu</foreign>}</expan></choice>, (Ḳ, TA,) said of water, (TA,) <hi>It flowed;</hi> (Ḳ, TA;) like <foreign lang="ar">sariba</foreign>. (TA.)
 						</sense>
 						</hom>
 					</entry>
@@ -7006,7 +7006,7 @@
 							<foreign lang="ar">zarajuwnN</foreign>, (Ṣ, Ḳ,) which is also written <foreign lang="ar">zurojuwnN</foreign>, like <foreign lang="ar">EuSofuwrN</foreign>, 
 							<ref target="Root_zrj">is mentioned in art. <foreign lang="ar">zrj</foreign></ref> and also in 
 							the present art. by the author of the Ḳ, though he charges J with error in mentioning it in this art. because <foreign lang="ar">muzar-ajN</foreign> is used by a rájiz as meaning “intoxicated:” whereas J is not in error, but is right, in doing thus; for the <foreign lang="ar">n</foreign> is radical accord. to the generality of the lexicologists and the authors on inflection, like the <foreign lang="ar">s</foreign> in <foreign lang="ar">qarabuwsN</foreign>; and the rájiz above referred to elided the <foreign lang="ar">n</foreign> in forming <foreign lang="ar">muzar-ajN</foreign> because he imagined it to be augmentative: (MF in art. <foreign lang="ar">zrj</foreign>:) it signifies <hi>Wine;</hi> (Ṣ, Ḳ;) and is a Pers. word, (Aṣ, Sh, Seer, Ṣ,) originally <foreign lang="ar">zrkwn</foreign>, [i. e. <foreign lang="ar">zaroGuwno</foreign>,] (Sh, TA,) meaning “goldcoloured:” (Aṣ, Sh, Seer, Ṣ:) or it signifies, (Ṣ, Mgh,) or signifies also [like as does <foreign lang="ar">EinabN</foreign>, of which the primary signification is “grapes”], (Ḳ,) the <hi>grape-vine;</hi> (ISh, Ṣ, Mgh, Ḳ;) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zarajuwnapN</foreign>}</expan></choice>; (ISh, TA;) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zarajuwnapN</foreign>}</expan></choice>; (ISh, TA;) 
 							and pl. <foreign lang="ar">zaraAjiynu</foreign>: (Mgh:) it has this meaning in the dial. of Et-Táïf: (ISh, TA in art. <foreign lang="ar">zrj</foreign>:) or the <hi>shoots of a grape-vine:</hi> (Mgh, Ḳ:) thus in the dial. of Et-Táïf and El-Ghowr: (TA in the present art.:) or <hi>a shoot that is planted, of a grape-vine.</hi> (AḤn, TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -7037,10 +7037,10 @@
 						<hom n="A" xml:id="zrd_1_A">
 						<sense n="1" xml:id="zrd_1_A1">
 							1. <foreign lang="ar">zarida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoradu</foreign>}</expan></choice>, (Ṣ, L, Mṣb, Ḳ,) inf. n. <foreign lang="ar">zarodN</foreign>, (Ṣ, L, Mṣb,) or <foreign lang="ar">zaradN</foreign>; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoradu</foreign>}</expan></choice>, (Ṣ, L, Mṣb, Ḳ,) inf. n. <foreign lang="ar">zarodN</foreign>, (Ṣ, L, Mṣb,) or <foreign lang="ar">zaradN</foreign>; 
 							(TA; [but this I find not in any other lexicon;]) 
 							or <foreign lang="ar">zarada</foreign>, (A, Mgh,) or this also, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazorudu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazorudu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zarodN</foreign> and <foreign lang="ar">zaradaAnN</foreign>; this latter form of the verb being mentioned by IDrd in the Jm, and ISd in the M, and IḲṭṭ in the Af'ál; but it is disapproved by Th, and asserted by his expositors to be vulgar; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">Aizodarada↓</foreign></anchor>, (Ṣ,* A, Mgh, Mṣb, Ḳ,) inf. n. <foreign lang="ar">AizodiraAdN</foreign> (Ṣ, A) and <foreign lang="ar">muzodaradN</foreign>; (A, TA;) 
 							and <anchor type="arrow"><foreign lang="ar">tzr-d↓</foreign></anchor>; (A, TA;) and <foreign lang="ar">AizodaAra</foreign>, mentioned by ʼAmr El-Mutarriz, but this is the most strange; (TA;) <hi>He swallowed</hi> (Ṣ, A, Mgh, Mṣb, Ḳ) a morsel, or mouthful, (Ṣ, A, Mṣb, Ḳ,) or water, (Mgh,) [and medicine; for] 
@@ -7053,8 +7053,8 @@
 						<hom n="B" xml:id="zrd_1_B">
 						<sense n="1" xml:id="zrd_1_B1">
 							<foreign lang="ar">zaradahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazorudu</foreign>}</expan></choice> (Ṣ, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoridu</foreign>}</expan></choice> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazorudu</foreign>}</expan></choice> (Ṣ, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoridu</foreign>}</expan></choice> 
 							(TA, and so in a copy of the Ṣ, as well as <foreign lang="ar">_u</foreign>,) or <foreign lang="ar">zarada Haloqahu</foreign>, 
 							(A, TA, [in my copy of the A written <foreign lang="ar">zar-ada</foreign>,]) 
 							inf. n. <foreign lang="ar">zarodN</foreign>, (Ṣ,) <hi>He strangled him,</hi> or <hi>throttled him,</hi> or <hi>squeezed his throat;</hi> syn. <foreign lang="ar">xanaqahu</foreign>, (Ṣ, Ḳ,) or <foreign lang="ar">EaSara Haloqahu</foreign>. (A.) 
@@ -7379,7 +7379,7 @@
 						</form>
 						<sense n="1" xml:id="zrE_1_A1">
 							1. <foreign lang="ar">zaraEa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoraEu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaroEN</foreign> (Ṣ, TA) and <foreign lang="ar">ziraAEapN</foreign>, (TA,) <hi>He sowed,</hi> or <hi>cast seed;</hi> (Ṣ, Ḳ, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoraEu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaroEN</foreign> (Ṣ, TA) and <foreign lang="ar">ziraAEapN</foreign>, (TA,) <hi>He sowed,</hi> or <hi>cast seed;</hi> (Ṣ, Ḳ, TA;) 
 							as also <anchor type="arrow"><foreign lang="ar">AizodaraEa↓</foreign></anchor>, (Ṣ, Mṣb, Ḳ,) originally <foreign lang="ar">AizotaraEa</foreign>, the <foreign lang="ar">t</foreign> being changed into <foreign lang="ar">d</foreign> in order that it may agree with the <foreign lang="ar">z</foreign>, (Ṣ, Ḳ,) for <foreign lang="ar">d</foreign> and <foreign lang="ar">z</foreign> are pronounced with the voice as well as the breath, whereas <foreign lang="ar">t</foreign> is pronounced with the breath only: (Ṣ, TA:) [or the latter verb, as appears from an explanation of it to be found below, may signify <hi>he sowed for himself.</hi>] They say, <foreign lang="ar">mano zaraEa HaSada</foreign> [<hi>He who sows reaps</hi>]. (TA.) 
 							And [they use this verb transitively, saying,] <foreign lang="ar">zaraEotu Albur-a waAlX-aEiyra</foreign> [<hi>I sowed wheat and barley</hi>]: and in like manner, <foreign lang="ar">zaraEotu AlX-ajara</foreign> [<hi>I sowed the trees;</hi> or <hi>sowed the seeds which should produce the trees:</hi> or it may signify <hi>I planted the trees</hi>]. (Ibn-Abi-l-Hadeed.) 
 							And <foreign lang="ar">zaraEa AlHub-a laka fiI Alquluwbi karamuka waHusonu xuluqika</foreign> 
@@ -7882,7 +7882,7 @@
 						<hom n="A" xml:id="zrq_1_A">
 						<sense n="1" xml:id="zrq_1_A1">
 							1. <foreign lang="ar">zariqa</foreign>, (MA, TA,) 
-							[aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoraqu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">zaraqN</foreign> (Ṣ, MA, KL, TA) and <foreign lang="ar">zuroqapN</foreign>, (MA,) [or the latter is a simple subst.,] <hi>He had that colour of the eye which is termed</hi> <foreign lang="ar">zuroqap</foreign> [q. v.]; (Ṣ, TA;) [i. e.] <hi>he was blue-eyed;</hi> (KL;) or <hi>gray-eyed;</hi> (MA, PṢ;) or <hi>of a greenish hue in the eye</hi> 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoraqu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">zaraqN</foreign> (Ṣ, MA, KL, TA) and <foreign lang="ar">zuroqapN</foreign>, (MA,) [or the latter is a simple subst.,] <hi>He had that colour of the eye which is termed</hi> <foreign lang="ar">zuroqap</foreign> [q. v.]; (Ṣ, TA;) [i. e.] <hi>he was blue-eyed;</hi> (KL;) or <hi>gray-eyed;</hi> (MA, PṢ;) or <hi>of a greenish hue in the eye</hi> 
 							[so I render the Pers. explanation <foreign lang="ar">sbz JXm Xd</foreign>]. (MA.) 
 							And <foreign lang="ar">zariqato Eayonuhu</foreign>; (Ṣ, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Azrq-t↓ Eayonuhu</foreign></anchor>, 
@@ -7917,7 +7917,7 @@
 						<hom n="C" xml:id="zrq_1_C">
 						<sense n="1" xml:id="zrq_1_C1">
 							<foreign lang="ar">zaraqahu</foreign>, (Mgh,) or <foreign lang="ar">zaraqahu bimizoraAqK</foreign>, (Ṣ, Ḳ,) or <foreign lang="ar">birumoHK</foreign>, (Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoruqu</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">zaroqN</foreign>, (Mgh, Mṣb,) <hi>He cast at him,</hi> (Ṣ, Mgh, Ḳ,) or <hi>he thrust him,</hi> or <hi>pierced him,</hi> (Mgh, Mṣb,) <hi>with a</hi> <foreign lang="ar">mzrAq</foreign> [or <hi>javelin</hi>], (Ṣ, Mgh, Ḳ,) or <hi>with a spear.</hi> (Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoruqu</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">zaroqN</foreign>, (Mgh, Mṣb,) <hi>He cast at him,</hi> (Ṣ, Mgh, Ḳ,) or <hi>he thrust him,</hi> or <hi>pierced him,</hi> (Mgh, Mṣb,) <hi>with a</hi> <foreign lang="ar">mzrAq</foreign> [or <hi>javelin</hi>], (Ṣ, Mgh, Ḳ,) or <hi>with a spear.</hi> (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zrq_1_C2">
@@ -7934,7 +7934,7 @@
 						<hom n="D" xml:id="zrq_1_D">
 						<sense n="1" xml:id="zrq_1_D1">
 							<foreign lang="ar">zaraqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoruqu</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoriqu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">zaroqN</foreign>, (Mṣb,) said of a bird, <hi>i. q.</hi> <foreign lang="ar">caraqa</foreign> [i. e. <hi>It muted,</hi> or <hi>dunged</hi>]. (Ṣ, Mṣb, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoruqu</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoriqu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">zaroqN</foreign>, (Mṣb,) said of a bird, <hi>i. q.</hi> <foreign lang="ar">caraqa</foreign> [i. e. <hi>It muted,</hi> or <hi>dunged</hi>]. (Ṣ, Mṣb, Ḳ.)
 						</sense>
 						</hom>
 					</entry>
@@ -8374,7 +8374,7 @@
 						<hom n="A" xml:id="zrm_1_A">
 						<sense n="1" xml:id="zrm_1_A1">
 							1. <foreign lang="ar">zarima</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoramu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaramN</foreign>, (TA,) said of one's urine, (Ṣ, Ḳ,) and of his flow of tears, and of his speech, (Ḳ,) and of his oath, (TA,) and of anything that had gone back, (Ṣ,) <hi>It became interrupted,</hi> or <hi>stopped;</hi> or <hi>it stopped;</hi> or <hi>ceased;</hi> (Ṣ, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoramu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaramN</foreign>, (TA,) said of one's urine, (Ṣ, Ḳ,) and of his flow of tears, and of his speech, (Ḳ,) and of his oath, (TA,) and of anything that had gone back, (Ṣ,) <hi>It became interrupted,</hi> or <hi>stopped;</hi> or <hi>it stopped;</hi> or <hi>ceased;</hi> (Ṣ, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">AizoraOam-a↓</foreign></anchor>. (Ḳ.) 
 							And so the former verb said of a sale. (TA.)
 						</sense>
@@ -8425,7 +8425,7 @@
 							4. <foreign lang="ar">Azrmhu</foreign> 
 							<hi>He,</hi> or <hi>it, interrupted it, stopped it,</hi> or <hi>caused it to cease;</hi> namely, one's urine, and his flow of tears, and his speech; 
 							as also <anchor type="arrow"><foreign lang="ar">zaramahu↓</foreign></anchor>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazorimu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaromN</foreign>; (TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazorimu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaromN</foreign>; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">zr-mhu↓</foreign></anchor>, (Ḳ,) inf. n. <foreign lang="ar">tazoriymN</foreign>. (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -9208,7 +9208,7 @@
 						</form>
 						<sense n="1" xml:id="zEb_1_A1">
 							1. <foreign lang="ar">zaEabotuhu Ean-iI</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEabu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">zaEobN</foreign>, <hi>I pushed, thrust, drove away,</hi> or <hi>repelled, him,</hi> or <hi>it, from me.</hi> (Ṣ, TA.)
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEabu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">zaEobN</foreign>, <hi>I pushed, thrust, drove away,</hi> or <hi>repelled, him,</hi> or <hi>it, from me.</hi> (Ṣ, TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zEb_1_A2">
@@ -9562,7 +9562,7 @@
 						</form>
 						<sense n="1" xml:id="zEr_1_A1">
 							1. <foreign lang="ar">zaEira</foreign>, (Ṣ, A, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEaru</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zaEarN</foreign>, (Ṣ, A, Mṣb, Ḳ,) <hi>His hair,</hi> (Ṣ, A, Mṣb,) and <hi>his plumage,</hi> (A,) <hi>was,</hi> or <hi>became, scanty,</hi> (Ṣ, A, Mṣb,) <hi>and thin;</hi> (A;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEaru</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zaEarN</foreign>, (Ṣ, A, Mṣb, Ḳ,) <hi>His hair,</hi> (Ṣ, A, Mṣb,) and <hi>his plumage,</hi> (A,) <hi>was,</hi> or <hi>became, scanty,</hi> (Ṣ, A, Mṣb,) <hi>and thin;</hi> (A;) 
 							as also <anchor type="arrow"><foreign lang="ar">AzEAr-↓</foreign></anchor>: (A:) and <hi>it</hi> (hair, and plumage, Ḳ, and fur, TA) <hi>was,</hi> or <hi>became, scanty, and thin;</hi> (Ḳ, TA;) 
 							as also <anchor type="arrow"><foreign lang="ar">AzEr-↓</foreign></anchor> 
 							and <anchor type="arrow"><foreign lang="ar">AzEAr-↓</foreign></anchor>. (Ḳ.)
@@ -9656,7 +9656,7 @@
 						<sense n="1" xml:id="zuEoruwrN_B1">
 							<hi>A well-known fruit;</hi> (Ṣ;) the <hi>fruit of a well-known tree;</hi> (Ḳ;) the <hi>fruit of a tree, of which there is a red species and a yellow, having a round and hard stone;</hi> (Mgh;) <hi>a fruit of the desert, in make resembling the</hi> <foreign lang="ar">nabiq</foreign> [or <hi>fruit of the lote-tree</hi>], <hi>and in the taste of which is acidity;</hi> (Mṣb;) <hi>it may be the wild</hi> <foreign lang="ar">nabiq</foreign>: (Mṣb, voce <foreign lang="ar">sidorN</foreign>:) AA says that the <foreign lang="ar">nulok</foreign> is the <foreign lang="ar">zErwr</foreign>; and IDrd, that the Arabs do not know it: 
 							[it is a coll. gen. n.:] 
-							the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zuEoruwrapN</foreign>}</expan></choice>: (TA:) 
+							the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zuEoruwrapN</foreign>}</expan></choice>: (TA:) 
 							[the name is now applied to the <hi>medlar,</hi> or <hi>a species thereof:</hi> accord. to Golius, the “<hi>mespilum;</hi> special. quod genus <hi>aronium</hi> vocat Dios. i. 169:”] accord. to ISh, the <hi>tree called</hi> <foreign lang="ar">dulob</foreign>: (T:) this, says Ṣgh, is different from what J has mentioned. (TA.)
 						</sense>
 						</hom>
@@ -9726,7 +9726,7 @@
 						<hom n="A" xml:id="zEf_1_A">
 						<sense n="1" xml:id="zEf_1_A1">
 							1. <foreign lang="ar">zaEafahu</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEafu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEofN</foreign>, (Ṣ,) <hi>He,</hi> or <hi>it, killed him on the spot;</hi> (Ṣ, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEafu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEofN</foreign>, (Ṣ,) <hi>He,</hi> or <hi>it, killed him on the spot;</hi> (Ṣ, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">AzEfhu↓</foreign></anchor>, 
 							and <anchor type="arrow"><foreign lang="ar">AzdEfhu↓</foreign></anchor>; (Ḳ;) the last mentioned by Aṣ, as syn. with <foreign lang="ar">OaqoEaSahu</foreign>: (TA:) or <hi>cast,</hi> or <hi>shot, at him,</hi> or <hi>smote him, so that he died on the spot, quickly:</hi> (L, TA:) and <hi>killed him quickly.</hi> (Ṣ.)
 						</sense>
@@ -9922,7 +9922,7 @@
 						<hom n="A" xml:id="zEq_1_A">
 						<sense n="1" xml:id="zEq_1_A1">
 							1. <foreign lang="ar">zaEaqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEoqN</foreign>, (TA,) <hi>He called out,</hi> or <hi>cried out.</hi> (Ḳ, TA.) You say; <foreign lang="ar">zaEaqotu bihi</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEoqN</foreign>, (TA,) <hi>He called out,</hi> or <hi>cried out.</hi> (Ḳ, TA.) You say; <foreign lang="ar">zaEaqotu bihi</foreign>, 
 							inf. n. as above, <hi>I called out,</hi> or <hi>cried out, to him:</hi> (Ṣ:) of the dial. of Syria. (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -9957,13 +9957,13 @@
 						<hom n="B" xml:id="zEq_1_B">
 						<sense n="1" xml:id="zEq_1_B1">
 							<foreign lang="ar">zaEiqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEaqN</foreign>; (TA;) and <foreign lang="ar">zuEiqa</foreign>, like <foreign lang="ar">EuniIa</foreign>; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEaqN</foreign>; (TA;) and <foreign lang="ar">zuEiqa</foreign>, like <foreign lang="ar">EuniIa</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">AnzEq↓</foreign></anchor>: <hi>He feared by night:</hi> (Ḳ:) but in the T, the restriction to the night is not added; nor is it in the instance of the last of these verbs in the O. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zEq_1_B2">
 							And <foreign lang="ar">zaEiqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEaqu</foreign>}</expan></choice>, (Ṣ, Ḳ, TA,) inf. n. <foreign lang="ar">zaEaqN</foreign>; (Ṣ, TA;) and <foreign lang="ar">zuEiqa</foreign>; 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEaqu</foreign>}</expan></choice>, (Ṣ, Ḳ, TA,) inf. n. <foreign lang="ar">zaEaqN</foreign>; (Ṣ, TA;) and <foreign lang="ar">zuEiqa</foreign>; 
 							(Ḳ; [but only the former accord. to the TA, as in the Ṣ;]) 
 							<hi>He was,</hi> or <hi>became, brisk, lively,</hi> or <hi>sprightly,</hi> (Ṣ, Ḳ,) <hi>but with fear;</hi> (Ṣ;) 
 							as also <anchor type="arrow"><foreign lang="ar">AnzEq↓</foreign></anchor>. 
@@ -10220,7 +10220,7 @@
 						</form>
 						<sense n="1" xml:id="zEl_1_A1">
 							1. <foreign lang="ar">zaEila</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEalN</foreign>; (Ṣ, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaEalN</foreign>; (Ṣ, TA;) 
 							and <anchor type="arrow"><foreign lang="ar">tzE-l↓</foreign></anchor>; (Ḳ;) <hi>He was,</hi> or <hi>became, brisk, lively, sprightly, active, agile, prompt, and quick;</hi> (Ṣ, Ḳ, TA;) and <hi>he exulted,</hi> or <hi>exulted greatly,</hi> or <hi>excessively, and behaved insolently and unthankfully,</hi> or <hi>ungratefully.</hi> (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -10358,7 +10358,7 @@
 						<hom n="A" xml:id="zEm_1_A">
 						<sense n="1" xml:id="zEm_1_A1">
 							1. <foreign lang="ar">zaEama</foreign>, (Ṣ, Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEumu</foreign>}</expan></choice>, 
 							(Mṣb, MṢ, JM, [not mentioned in the Ṣ nor in the Ḳ, app. because well known,]) 
 							inf. n. <foreign lang="ar">zaEomN</foreign> and <foreign lang="ar">zuEomN</foreign> and <foreign lang="ar">zEomN</foreign>, (Ṣ, Mṣb, Ḳ,) the first of the dial. of El-Ḥijáz, (Mṣb, TA,) the second of the dial. of 
 							[the tribe of] Asad, (Mṣb,) or Benoo-Temeem, (TA,) and the third of the dial. of some of 
@@ -10414,13 +10414,13 @@
 						<hom n="B" xml:id="zEm_1_B">
 						<sense n="1" xml:id="zEm_1_B1">
 							<foreign lang="ar">zaEama bihi</foreign>, (Ṣ, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEumu</foreign>}</expan></choice> (Ṣ, Mṣb)  
-							and <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEamu</foreign>}</expan></choice>, (Mṣb,) inf. n. <foreign lang="ar">zaEomN</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">zaEaAmapN</foreign>, (Ṣ, Ḳ,) or the latter is a simple subst., (Mṣb,) <hi>He was,</hi> or <hi>became, responsible, answerable, amenable, surety,</hi> or <hi>guarantee, for it;</hi> (Ṣ, Mṣb, Ḳ;) namely, property. (Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEumu</foreign>}</expan></choice> (Ṣ, Mṣb)  
+							and <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEamu</foreign>}</expan></choice>, (Mṣb,) inf. n. <foreign lang="ar">zaEomN</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">zaEaAmapN</foreign>, (Ṣ, Ḳ,) or the latter is a simple subst., (Mṣb,) <hi>He was,</hi> or <hi>became, responsible, answerable, amenable, surety,</hi> or <hi>guarantee, for it;</hi> (Ṣ, Mṣb, Ḳ;) namely, property. (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zEm_1_B2">
 							And <foreign lang="ar">zaEama</foreign>, like <foreign lang="ar">qatala</foreign>, (Mṣb,) or <foreign lang="ar">zaEuma</foreign>, like <foreign lang="ar">karuma</foreign>, (TA,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEumu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaEaAmapN</foreign>, <hi>He was,</hi> or <hi>became, chief, lord, master,</hi> or <hi>prince,</hi> (Mṣb, TA,) of a people, (TA,) or <foreign lang="ar">EalaI qawomK</foreign> [<hi>over a people</hi>]; (Mṣb;) or <hi>spokesman</hi> of a people. (TA.)
 						</sense>
 						</hom>
@@ -10434,7 +10434,7 @@
 						<hom n="D" xml:id="zEm_1_D">
 						<sense n="1" xml:id="zEm_1_D1">
 							<foreign lang="ar">zaEima</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoEamu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">zaEamN</foreign> (Ṣ, TA) and <foreign lang="ar">zaEomN</foreign>, (TA,) <hi>He coveted,</hi> or <hi>eagerly desired.</hi> (Ṣ, Ḳ.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoEamu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">zaEamN</foreign> (Ṣ, TA) and <foreign lang="ar">zaEomN</foreign>, (TA,) <hi>He coveted,</hi> or <hi>eagerly desired.</hi> (Ṣ, Ḳ.) 
 							[Like its syn. <foreign lang="ar">TamiEa</foreign>, it is trans. by means of <foreign lang="ar">fiI</foreign>.] 
 							One says, <anchor type="arrow"><foreign lang="ar">zaEima fulaAnN fiI gayori mazoEamK↓</foreign></anchor>, i. e. <foreign lang="ar">TamiEa fI gayori maToEamK</foreign> [<hi>Such a one coveted a thing not to be coveted;</hi> meaning, <hi>a thing of which the attainment was remote,</hi> or <hi>improbable:</hi> 
 							<ref target="Root_TmE">see art. <foreign lang="ar">TmE</foreign></ref>]. (TA.) 
@@ -10790,7 +10790,7 @@
 						</form>
 						<sense n="1" xml:id="muzoEamN_A1">
 							<foreign lang="ar">muzoEamN</foreign>: 
-							<ref target="zaEuwmN">see its fem., <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">muzoEamapN</foreign>}</expan></choice>, voce <foreign lang="ar">zaEuwmN</foreign></ref>.
+							<ref target="zaEuwmN">see its fem., <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">muzoEamapN</foreign>}</expan></choice>, voce <foreign lang="ar">zaEuwmN</foreign></ref>.
 						</sense>
 					</entry>
 					<entry type="main" n="18985" xml:id="muzoEimN">
@@ -10862,7 +10862,7 @@
 						</form>
 						<sense n="1" xml:id="zgb_1_A1">
 							1. <foreign lang="ar">zagiba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazogabu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zagabN</foreign>; (Mṣb;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazogabu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zagabN</foreign>; (Mṣb;) 
 							and <anchor type="arrow"><foreign lang="ar">zg-b↓</foreign></anchor>, (JK, Ṣ, A, Ḳ,) inf. n. <foreign lang="ar">tazogiybN</foreign>; (Ṣ;) 
 							and <anchor type="arrow"><foreign lang="ar">AzgAb-↓</foreign></anchor>; (Ḳ;) <hi>It,</hi> or <hi>he, was,</hi> or <hi>became, downy;</hi> or <hi>had upon it,</hi> or <hi>him, what is termed</hi> <foreign lang="ar">zagabN</foreign> meaning as expl. below; (JK, Ṣ, Ḳ;) in any of its senses: (TA:) said of a young bird, (JK, Ṣ, A, Mṣb,) meaning 
 							[as above, or] <hi>its</hi> <foreign lang="ar">zagab</foreign> [or <hi>down</hi>] <hi>grew forth:</hi> (A:) or <hi>its feathers were small:</hi> and, said of a boy, or a young child, <hi>his</hi> <foreign lang="ar">zagab</foreign> [or <hi>downy hair</hi>] <hi>grew forth:</hi> (Mṣb:) 
@@ -10989,7 +10989,7 @@
 						<sense n="1" xml:id="zagabN_A1">
 							<foreign lang="ar">zagabN</foreign> 
 							[<hi>Down:</hi>] or the <hi>yellow</hi> [<hi>down resembling</hi>] <hi>small hairs upon the feathers of the young bird:</hi> (Ṣ:) or <hi>small and soft hair</hi> and <hi>feathers:</hi> or <hi>each of these when first coming forth:</hi> (A, Ḳ:) i. e. (TA) the <hi>small and soft hair when it first appears, of a young child,</hi> (Mṣb, TA,) and <hi>of a colt</hi> [or <hi>foal</hi>]; (JK,* TA;) and <hi>likewise of an old man, when his hair becomes thin and weak;</hi> (Mṣb;) and the <hi>feathers when they first appear,</hi> (Mṣb, TA,) <hi>of the young bird:</hi> (TA:) and <hi>small feathers that do not become long nor good:</hi> (JK, Mṣb:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zagabapN</foreign>}</expan></choice>: (TA:) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zagabapN</foreign>}</expan></choice>: (TA:) 
 							and <hi>what remains upon the head of an old man when his hair has become thin.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -11192,7 +11192,7 @@
 						</form>
 						<sense n="1" xml:id="zgl_1_A1">
 							1. <foreign lang="ar">zagalahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazogalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zagolN</foreign>, (TA,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazogalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zagolN</foreign>, (TA,) 
 							<hi>He,</hi> or <hi>it, poured it out,</hi> or <hi>forth, with an impetus,</hi> or <hi>with force.</hi> 
 							(Ḳ. [<ref target="zgl_4">See also 4</ref>.]) 
 							And <hi>He,</hi> or <hi>it, spirted it forth;</hi> (Ḳ;) 
@@ -11391,7 +11391,7 @@
 						<hom n="A" xml:id="zf_1_A">
 						<sense n="1" xml:id="zf_1_A1">
 							1. <foreign lang="ar">zaf-a AlEaruwsa</foreign>, (Ḳ,) or <foreign lang="ar">zafafotuhaA</foreign>, (Ṣ,) or <foreign lang="ar">zaf-atohaA Aln-isaMCu</foreign>, (Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofufu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zaf-N</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">zifaAfN</foreign>, (Ṣ, Ḳ,) or the latter is a simple subst.; (Mṣb;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofufu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zaf-N</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">zifaAfN</foreign>, (Ṣ, Ḳ,) or the latter is a simple subst.; (Mṣb;) 
 							and <anchor type="arrow"><foreign lang="ar">Azf-hA↓</foreign></anchor>, (Ḳ,) or <foreign lang="ar">AzffthA</foreign>, (Ṣ,) or <foreign lang="ar">Azf-thA AlnsMC</foreign>; (Mṣb;) 
 							and <anchor type="arrow"><foreign lang="ar">Azdf-hA↓</foreign></anchor>, (Ḳ,) or <foreign lang="ar">AzdffthA</foreign>, (Ṣ,) [or <foreign lang="ar">Azdf-thA AlnsMC</foreign>;] <foreign lang="ar">UilaI zawojihaA</foreign>; all signify the same; (Ṣ, Mṣb,* Ḳ;) i. e. <hi>He,</hi> [or <hi>I,</hi>] or <hi>the women, sent</hi> [or <hi>conducted</hi>] <hi>the bride</hi> [<hi>with festive parade</hi> or <hi>pageantry,</hi> and generally <hi>with music,</hi>] <hi>to her husband:</hi> (Mṣb, Ḳ:) accord. to Er-Rághib, <foreign lang="ar">zf- AlErws</foreign> is a metaphorical phrase, from <foreign lang="ar">zafozafapu Aln-aEaAmi</foreign>; because she is conducted with joyous alacrity. (TA.)
 						</sense>
@@ -11400,11 +11400,11 @@
 						<hom n="B" xml:id="zf_1_B">
 						<sense n="1" xml:id="zf_1_B1">
 							<foreign lang="ar">zaf-a</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofifu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofifu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zafiyfN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">zaf-N</foreign> and <foreign lang="ar">zufuwfN</foreign>, (Ḳ,) or <foreign lang="ar">zafiyfN</foreign> is a simple subst., (Mṣb,) said of an ostrich, (Ṣ, Ḳ,) and of a camel, (Ṣ,), &amp;c., (Ḳ,) <hi>He hastened,</hi> or <hi>was quick;</hi> (Ṣ, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">Azf-↓</foreign></anchor>: (IAạr, Ḳ:) accord. to Lḥ, said of a man and of others; 
 							and <anchor type="arrow"><foreign lang="ar">Azf-↓</foreign></anchor>, he says, is the more unusual of the two: (TA:) or <foreign lang="ar">zaf-a</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofifu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofifu</foreign>}</expan></choice>, 
 							is said, in this sense, of a man: and, accord. to the Mj, said of an ostrich, 
 							inf. n. <foreign lang="ar">zafiyfN</foreign>, it means <hi>he hastened,</hi> or <hi>was quick, so that a</hi> [<hi>sound such as is termed</hi>] <foreign lang="ar">zafiyf</foreign> <hi>was heard to be produced by his wings:</hi> (Mṣb:) or <foreign lang="ar">zaf-N</foreign> 
 							and <anchor type="arrow"><foreign lang="ar">UizofaAfN↓</foreign></anchor> are <hi>like</hi> <foreign lang="ar">camiylN</foreign> [which signifies the <hi>going a gentle pace;</hi> or <hi>a pace above that which is termed</hi> <foreign lang="ar">AlEanaqu</foreign>, <hi>and above that which is termed</hi> <foreign lang="ar">Alt-azay-udu</foreign>]: 
@@ -11425,7 +11425,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zf_1_B3">
 							<foreign lang="ar">zaf-ati Alr-iyHu</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofifu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">zafiyfN</foreign> and <foreign lang="ar">zufuwfN</foreign>, (TA,) <hi>The wind blew along,</hi> (Ṣ, Ḳ,) <hi>not violently:</hi> (Ṣ:) or <hi>blew gently and continually:</hi> (TA:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofifu</foreign>}</expan></choice>, (Ṣ,) inf. n. <foreign lang="ar">zafiyfN</foreign> and <foreign lang="ar">zufuwfN</foreign>, (TA,) <hi>The wind blew along,</hi> (Ṣ, Ḳ,) <hi>not violently:</hi> (Ṣ:) or <hi>blew gently and continually:</hi> (TA:) 
 							and <anchor type="arrow"><foreign lang="ar">zafozafat↓</foreign></anchor> signifies the same: (Ḳ, TA:) or the latter, 
 							inf. n. <foreign lang="ar">zafozafapN</foreign>, signifies <hi>it blew violently:</hi> so in the T: or <hi>it blew gently:</hi> (TA:) or <foreign lang="ar">zafozafapN</foreign> signifies the <hi>moaning</hi> (<foreign lang="ar">Haniyn</foreign>) of the wind, and its <hi>sounding among the trees.</hi> (Ṣ.)
 						</sense>
@@ -11718,7 +11718,7 @@
 						</form>
 						<sense n="1" xml:id="zafozaAfN_A1">
 							<foreign lang="ar">zafozaAfN</foreign>; 
-							and <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zafozaAfapN</foreign>}</expan></choice>: 
+							and <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zafozaAfapN</foreign>}</expan></choice>: 
 							<ref target="zafozafN">see the next preceding paragraph</ref>, in five places.
 						</sense>
 					</entry>
@@ -11750,7 +11750,7 @@
 						<sense n="1" xml:id="zaAf-N_A1">
 							[<foreign lang="ar">zaAf-N</foreign> 
 							act. part. n. of <foreign lang="ar">zaf-a</foreign> in the phrase <foreign lang="ar">zaf-a AlEaruwsa</foreign>: 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zaAf-apN</foreign>}</expan></choice>: 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zaAf-apN</foreign>}</expan></choice>: 
 							pl. of the latter <foreign lang="ar">zawaAf-u</foreign>. Hence,] <foreign lang="ar">zaHafato zawaAf-uhaA</foreign>, a phrase mentioned by Lḥ, meaning <foreign lang="ar">All-awaAtiIzafafonahaA</foreign> [i. e. <hi>The women who conducted her to her husband walked along gently</hi>]. (TA.)
 						</sense>
 					</entry>
@@ -11865,7 +11865,7 @@
 						<hom n="A" xml:id="zfr_1_A">
 						<sense n="1" xml:id="zfr_1_A1">
 							1. <foreign lang="ar">zafara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofiru</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">zafiyrN</foreign> (Ṣ, A, Ḳ) and <foreign lang="ar">raforN</foreign> (Ḳ) and <foreign lang="ar">UizofiyrN</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofiru</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">zafiyrN</foreign> (Ṣ, A, Ḳ) and <foreign lang="ar">raforN</foreign> (Ḳ) and <foreign lang="ar">UizofiyrN</foreign>, 
 							(M, [like <foreign lang="ar">UiroziyzN</foreign>, app. an inf. n., or perhaps a simple subst.,]) 
 							<hi>He drew in his breath to the utmost, by reason of distress:</hi> (Ṣ:) it originally signifies <hi>he drew back his breath vehemently, so that his ribs became swollen out:</hi> (Er-Rághib:) <foreign lang="ar">zafiyrN</foreign> is the <hi>beginning of the cry of the ass,</hi> (Lth, Ṣ, A, Er-Rághib,) <hi>and of the like,</hi> (Lth,) and is generally used in this sense; (Er-Rághib;) and <foreign lang="ar">XahiyqN</foreign> is the ending thereof; (Lth, Ṣ, A, Er-Rághib;) for the former is the <hi>drawing in of the breath,</hi> and the latter is the sending it forth: (Lth, Ṣ:) or the verb signifies <hi>he sent forth his breath, after prolonging it:</hi> (M, Ḳ:) or <hi>he sent forth his breath with a prolonged sound:</hi> [i. e., <hi>he sighed,</hi> or <hi>uttered a long sigh,</hi> or <hi>sighed vehemently;</hi> or <hi>he groaned:</hi>] or <hi>he filled his chest, by reason of grief, and then sent forth his breath:</hi> (TA:) or <hi>he breathed, raising his voice, like one moaning,</hi> or <hi>in grief.</hi> (Ḥar p. 20.)
 						</sense>
@@ -11888,7 +11888,7 @@
 						<hom n="B" xml:id="zfr_1_B">
 						<sense n="1" xml:id="zfr_1_B1">
 							<foreign lang="ar">zafara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofiru</foreign>}</expan></choice>, (Ṣ, A, Ḳ,) inf. n. <foreign lang="ar">zaforN</foreign>; (Ṣ, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofiru</foreign>}</expan></choice>, (Ṣ, A, Ḳ,) inf. n. <foreign lang="ar">zaforN</foreign>; (Ṣ, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Azdfr↓</foreign></anchor>; (Ṣ, Ḳ;) <hi>He carried,</hi> (Ṣ, A, Ḳ,) a thing, (Ḳ,) or a load, or burden, (Ṣ, A,) as, for ex., a filled water-skin. (TA.) 
 							You say, <foreign lang="ar">yazofiruwna Eanohu AlOavoqaAla</foreign> [<hi>They bear,</hi> or <hi>carry,</hi> or <hi>take off from him, and carry, his burdens</hi>]. (A.)
 						</sense>
@@ -12350,7 +12350,7 @@
 						<hom n="A" xml:id="zfn_1_A">
 						<sense n="1" xml:id="zfn_1_A1">
 							1. <foreign lang="ar">zafanahu</foreign>, (TA, and Ḥar p. 124,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofinu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">zafonN</foreign>, (TA, Ḥar,) in its primary acceptation, <hi>He pushed,</hi> or <hi>thrust,</hi> or <hi>he pushed,</hi> or <hi>thrust, away,</hi> (TA, Ḥar,) <hi>vehemently:</hi> and <hi>he struck</hi> [or <hi>kicked</hi>] <hi>with the leg,</hi> or <hi>hind leg.</hi> (Ḥar.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofinu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">zafonN</foreign>, (TA, Ḥar,) in its primary acceptation, <hi>He pushed,</hi> or <hi>thrust,</hi> or <hi>he pushed,</hi> or <hi>thrust, away,</hi> (TA, Ḥar,) <hi>vehemently:</hi> and <hi>he struck</hi> [or <hi>kicked</hi>] <hi>with the leg,</hi> or <hi>hind leg.</hi> (Ḥar.) 
 							You say, <foreign lang="ar">danawotu minohu fazafananiI</foreign> <hi>I approached him, and he pushed me,</hi> or <hi>thrust me, from him.</hi> (TA.) 
 							And <foreign lang="ar">huwa yazofinu AlmaTiI-a</foreign> <hi>He drives,</hi> or <hi>urges on, the saddlecamel.</hi> (TA.) 
 							And <foreign lang="ar">Alr-iyHu tazofinu Als-aHaAba</foreign> and <foreign lang="ar">Alt-uraAba</foreign> [<hi>The wind drives along the clouds</hi> and <hi>the dust</hi>]. (TA.) 
@@ -12362,7 +12362,7 @@
 						<hom n="B" xml:id="zfn_1_B">
 						<sense n="1" xml:id="zfn_1_B1">
 							And <foreign lang="ar">zafana</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazofinu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazofinu</foreign>}</expan></choice>, 
 							(Ṣ, Mgh, Mṣb, Ḳ, in the CK <foreign lang="ar">_u</foreign>,) inf. n. <foreign lang="ar">zafonN</foreign> (Ṣ, Mgh, Mṣb) and <foreign lang="ar">zafanaAnN</foreign>, (TA,) <hi>He danced;</hi> (Ṣ, Mgh, Mṣb, Ḳ;) and <hi>played,</hi> or <hi>sported.</hi> (TA.) 
 							It is said in a trad. of Fátimeh, <foreign lang="ar">kaAnato tazofinu liloHasani</foreign> <hi>She used to dance to El-Ḥasan.</hi> (TA.)
 						</sense>
@@ -12506,7 +12506,7 @@
 						<sense n="1" xml:id="zq_1_A1">
 							1. <foreign lang="ar">zaq-a faroxahu</foreign>, 
 							said of a bird, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoququ</foreign>}</expan></choice>, (Ṣ, M, Mṣb,) inf. n. <foreign lang="ar">zaq-N</foreign>; (M, Mṣb, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoququ</foreign>}</expan></choice>, (Ṣ, M, Mṣb,) inf. n. <foreign lang="ar">zaq-N</foreign>; (M, Mṣb, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">zaqozaqahu↓</foreign></anchor>, (IDrd, M,) inf. n. <foreign lang="ar">zaqozaqapN</foreign>; (Ḳ;) <hi>It fed its young one</hi> (Ṣ, M, Ḳ) <hi>with its mouth</hi> [or <hi>bill</hi>]; (Ṣ, M;*) <hi>it ejected food</hi> [<hi>from its bill</hi>] <hi>into the mouth of its young one.</hi> (IDrd, TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -12792,7 +12792,7 @@
 						<sense n="1" xml:id="zaqabN_A1">
 							<foreign lang="ar">zaqabN</foreign>, (Ḳ,) and <foreign lang="ar">TariyqN zaqabN</foreign>, (Lḥ, Ṣ,) 
 							[in which the latter word may be either a substitute for the former or an epithet,] <hi>A narrow road</hi> or <hi>way:</hi> (Lḥ, Ṣ, Ḳ:) pl. <foreign lang="ar">zuqubN</foreign>: (TA:) 
-							and n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zaqabapN</foreign>}</expan></choice>; or this and the pl. are alike. (Ḳ, TA.) 
+							and n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zaqabapN</foreign>}</expan></choice>; or this and the pl. are alike. (Ḳ, TA.) 
 							The phrase <foreign lang="ar">maTaAribN zaqabN</foreign> occurs in a verse of Aboo-Dhu-eyb cited voce <foreign lang="ar">maTorabN</foreign>; 
 							[the former word being with tenween for the sake of the measure;] or, as some relate it, <foreign lang="ar">zuqubN</foreign>: (Ṣ, TA:) in this instance, <foreign lang="ar">zqb</foreign> is a substitute for <foreign lang="ar">mTArb</foreign>: or, accord. to AʼObeyd, <foreign lang="ar">mTArb</foreign> signifies <hi>narrow roads</hi> or <hi>ways,</hi> and <foreign lang="ar">zqb</foreign> signifies <hi>narrow:</hi> (TA:) or <foreign lang="ar">TariyqN zaqabN</foreign> signifies <hi>an obscure narrow road</hi> or <hi>way.</hi> (JK.)
 						</sense>
@@ -12823,7 +12823,7 @@
 							[The act of <hi>gobbling</hi> a thing; i. e. <hi>eating</hi> it <hi>quickly,</hi> and <hi>hastily;</hi> or <hi>drawing</hi> it <hi>with the mouth, and eating</hi> it <hi>quickly:</hi> or <hi>swallowing</hi> it: 
 							(<ref target="zqm_5">see also 5</ref> 
 							<ref target="zqm_8">and 8</ref>:)]: (AA, Ḳ, TA:) or <foreign lang="ar">laqomN XadiydN</foreign> [<hi>vehement gobbling;</hi>, &amp;c.]: (TA:) you say, <foreign lang="ar">zaqamahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoqumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoqumu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaqomN</foreign>, meaning <foreign lang="ar">laqimahu</foreign> [<hi>He gobbled it;</hi>, &amp;c.]. (TḲ.) 
 						<pb n="1239" xml:id="Page_1239"/>
 							[And particularly] The <hi>eating what is termed</hi> <foreign lang="ar">Alz-aq-uwm</foreign>, as meaning <hi>a certain food in which are dates and fresh butter:</hi> (Ṣ:) [or so <foreign lang="ar">zaqomu zaq-uwmK</foreign>; for] you say, 
@@ -12981,7 +12981,7 @@
 						<hom n="A" xml:id="zkO_1_A">
 						<sense n="1" xml:id="zkO_1_A1">
 							1. <foreign lang="ar">zakaOahu</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazokaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zakoCN</foreign>, (Ṣ,) <hi>He paid it in ready money, quickly,</hi> or <hi>promptly;</hi> or <hi>was quick,</hi> or <hi>prompt, in doing so.</hi> (ISk, Ṣ.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazokaOu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zakoCN</foreign>, (Ṣ,) <hi>He paid it in ready money, quickly,</hi> or <hi>promptly;</hi> or <hi>was quick,</hi> or <hi>prompt, in doing so.</hi> (ISk, Ṣ.) 
 							[The verb is doubly trans. in this sense:] you say, <foreign lang="ar">zakaOahu OalofFA</foreign> <hi>He paid him a thousand</hi> (meaning a thousand dirhems, TA) <hi>in ready money, quickly,</hi> or <hi>promptly.</hi> (Ḳ, TA.) 
 							And <foreign lang="ar">zakaOotuhu Haq-ahu</foreign>, 
 							inf. n. as above, <hi>I paid him his due;</hi> as also <foreign lang="ar">nakaOotuhu Hq-h</foreign>, 
@@ -13095,7 +13095,7 @@
 						</form>
 						<sense n="1" xml:id="zkr_1_A1">
 							1. <foreign lang="ar">zakara</foreign>, (A, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazokuru</foreign>}</expan></choice>, (TḲ,) inf. n. <foreign lang="ar">zakorN</foreign>; (TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazokuru</foreign>}</expan></choice>, (TḲ,) inf. n. <foreign lang="ar">zakorN</foreign>; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">zk-r↓</foreign></anchor>, (Ḳ,) inf. n. <foreign lang="ar">tazokiyrN</foreign>; (TA;) ‡ <hi>He filled</hi> (A, Ḳ) a vessel, (TA,) or a water-skin. (A.)
 						</sense>
 					</entry>
@@ -13711,7 +13711,7 @@
 								<L><foreign lang="ar">wazalali Aln-iy-api waAlt-aSofiyqi</foreign></L> 
 								<L><foreign lang="ar">riEoyapa mawolFI naASiHK Xafiyqi</foreign></L> 
 							</quote>, (Ṣ in the present art.,* and in art. <foreign lang="ar">Sfq</foreign>,* and art. <foreign lang="ar">ftq</foreign>, but in this last with <foreign lang="ar">rab-K</foreign> in the place of <foreign lang="ar">mawolFI</foreign>, and TA,) 
-							[i. e. <hi>Verily they have, in the year of little rain,</hi> (thus <foreign lang="ar">Alftwq</foreign>, as here used, is expl. in the Ṣ in art. <foreign lang="ar">ftq</foreign>,) <hi>and in the passing along lightly to the place which is the object of the journey, and in the being removed from a tract which they have depastured to a place in which is pasture,</hi> (thus <foreign lang="ar">AltSfyq</foreign>, as here used, <subst><del resp="EWL">in</del><add resp="EWL">is</add></subst> expl. in the Ṣ in art. <foreign lang="ar">Sfq</foreign>,) <hi>the tending of a master honest in his conduct,</hi> or <hi>desirous of their good, benevolent,</hi> or <hi>compassionate</hi>]: 
+							[i. e. <hi>Verily they have, in the year of little rain,</hi> (thus <foreign lang="ar">Alftwq</foreign>, as here used, is expl. in the Ṣ in art. <foreign lang="ar">ftq</foreign>,) <hi>and in the passing along lightly to the place which is the object of the journey, and in the being removed from a tract which they have depastured to a place in which is pasture,</hi> (thus <foreign lang="ar">AltSfyq</foreign>, as here used, <subst><del resp="#EWL">in</del><add resp="#EWL">is</add></subst> expl. in the Ṣ in art. <foreign lang="ar">Sfq</foreign>,) <hi>the tending of a master honest in his conduct,</hi> or <hi>desirous of their good, benevolent,</hi> or <hi>compassionate</hi>]: 
 							he is speaking of his camels: (Ṣ in art. <foreign lang="ar">ftq</foreign>:) he means that they pass along lightly 
 							[so I render <foreign lang="ar">tazil-u</foreign>] from place to place in search of herbage: and <foreign lang="ar">Alny-p</foreign> means the place to which they purpose journeying. (Ṣ.)
 						</sense>
@@ -13723,7 +13723,7 @@
 						<span type="sig">―</span>
 						<sense n="5" xml:id="zl_1_A5">
 							<foreign lang="ar">zal-ati Ald-araAhimu</foreign>, (Ṣ, Mṣb,* Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazolilu</foreign>}</expan></choice>, (Ṣ, Mṣb,) inf. n. <foreign lang="ar">zuluwlN</foreign>, (Ṣ, Ḳ,) or <foreign lang="ar">zaliylN</foreign>, (Mṣb,) <hi>The dirhems,</hi> or <hi>pieces of money, poured out,</hi> or <hi>forth:</hi> (Ḳ:) or <hi>were,</hi> or <hi>became, deficient in weight.</hi> (Ṣ, Mṣb,* Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazolilu</foreign>}</expan></choice>, (Ṣ, Mṣb,) inf. n. <foreign lang="ar">zuluwlN</foreign>, (Ṣ, Ḳ,) or <foreign lang="ar">zaliylN</foreign>, (Mṣb,) <hi>The dirhems,</hi> or <hi>pieces of money, poured out,</hi> or <hi>forth:</hi> (Ḳ:) or <hi>were,</hi> or <hi>became, deficient in weight.</hi> (Ṣ, Mṣb,* Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="6" xml:id="zl_1_A6">
@@ -14298,13 +14298,13 @@
 						<hom n="A" xml:id="zlj_1_A">
 						<sense n="1" xml:id="zlj_1_A1">
 							1. <foreign lang="ar">zalaja</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zalojN</foreign> and <foreign lang="ar">zalajaAnN</foreign> and <foreign lang="ar">zaliyjN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">Anzlj↓</foreign></anchor>; <hi>He went a gentle pace:</hi> and <hi>he walked,</hi> or <hi>ran, quickly:</hi> (L:) or <foreign lang="ar">zalojN</foreign> signifies the <hi>being quick</hi> in going and in other things: and the <hi>going quickly:</hi> (TA:) and <foreign lang="ar">zalajaAnN</foreign>, the <hi>advancing,</hi> or <hi>preceding,</hi> (O, Ḳ, TA,) <hi>quickly,</hi> (O,) or <hi>in journeying:</hi> 
 							(TA: [<ref target="zalaxaAnN">see also <foreign lang="ar">zalaxaAnN</foreign></ref>:]) 
 							or, as some say, the <hi>going a gentle pace.</hi> (TA.) 
 							You say of a she-camel, <foreign lang="ar">zalajato</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zalojN</foreign>, <hi>She went swiftly,</hi> [<hi>appearing</hi>] <hi>as though she did not move her legs by reason of her swiftness.</hi> (Lth, TA.) 
 							And <foreign lang="ar">zalajato</foreign> occurring in a verse of Dhu-r-Rummeh, [app. referring to draughts of water,] 
 							is expl. as meaning <hi>They descended quickly</hi> into the entrance of the gullet, by reason of vehemence of thirst. (TA.) 
@@ -14313,14 +14313,14 @@
 							inf. n. <foreign lang="ar">zalojN</foreign> and <foreign lang="ar">zaliyjN</foreign>, <hi>He,</hi> or <hi>it, passed, going lightly upon the ground.</hi> (Ṣ, Ḳ.) 
 							And, of an arrow, <foreign lang="ar">yazoliju EalaI wajohi AlOaroDi</foreign> [app. <hi>It goes along lightly upon the ground</hi>]: and <foreign lang="ar">yamoDiI maDaMCF zalojFA</foreign> [app. meaning the same]. (TA.) 
 							And <foreign lang="ar">zalaja Als-ahomu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zuluwjN</foreign> and <foreign lang="ar">zaliyjN</foreign>, <hi>The arrow fell upon the ground, and did not go straight to the animal at which it was shot.</hi> 
 							(TA. [<ref target="zalaxa">See also <foreign lang="ar">zalaxa</foreign></ref>.])
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zlj_1_A2">
 							<foreign lang="ar">zalaja</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoliju</foreign>}</expan></choice>, 
 							also signifies <hi>He escaped from difficulties, troubles,</hi> or <hi>distresses.</hi> (TA.)
 						</sense>
 						<span type="sig">―</span>
@@ -14668,7 +14668,7 @@
 						<hom n="A" xml:id="zlx_1_A">
 						<sense n="1" xml:id="zlx_1_A1">
 							1. <foreign lang="ar">zalaxato rijoluhu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazolaxu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazolaxu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zuluwxN</foreign>, <hi>His foot slipped;</hi> (AZ, A, L, TA;) like <foreign lang="ar">zalajato</foreign>; (AZ, L, TA;) 
 							as also <anchor type="arrow"><foreign lang="ar">tzl-xt↓</foreign></anchor>. (A.)
 						</sense>
@@ -14690,7 +14690,7 @@
 						<hom n="B" xml:id="zlx_1_B">
 						<sense n="1" xml:id="zlx_1_B1">
 							<foreign lang="ar">zalaxahu biAlr-umoHi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazolixu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaloxN</foreign>, (TA,) <hi>i. q.</hi> <foreign lang="ar">zaj-ahu</foreign> [<hi>He pierced him,</hi> or <hi>thrust him, with the pointed iron foot of the spear</hi>]; (Ḳ;) as also <foreign lang="ar">zax-ahu</foreign>. (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazolixu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaloxN</foreign>, (TA,) <hi>i. q.</hi> <foreign lang="ar">zaj-ahu</foreign> [<hi>He pierced him,</hi> or <hi>thrust him, with the pointed iron foot of the spear</hi>]; (Ḳ;) as also <foreign lang="ar">zax-ahu</foreign>. (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zlx_1_B2">
@@ -14702,7 +14702,7 @@
 						<hom n="C" xml:id="zlx_1_C">
 						<sense n="1" xml:id="zlx_1_C1">
 							<foreign lang="ar">zalixa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazolaxu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zalaxN</foreign>, (TA,) <hi>He was,</hi> or <hi>became, fat.</hi> (Ḳ.) <foreign lang="ar">zalixato</foreign> is said of camels, meaning <hi>They were,</hi> or <hi>became, fat.</hi> (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazolaxu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zalaxN</foreign>, (TA,) <hi>He was,</hi> or <hi>became, fat.</hi> (Ḳ.) <foreign lang="ar">zalixato</foreign> is said of camels, meaning <hi>They were,</hi> or <hi>became, fat.</hi> (TA.)
 						</sense>
 						</hom>
 					</entry>
@@ -14842,7 +14842,7 @@
 						<sense n="1" xml:id="zalaxaAnN_A1">
 							<foreign lang="ar">zalaxaAnN</foreign> and <foreign lang="ar">zaloxaAnN</foreign> 
 							† The <hi>advancing,</hi> or <hi>preceding,</hi> accord. to the Ḳ, <hi>in going,</hi> or <hi>gait,</hi> but accord. to the parent-lexicons, <hi>in haste,</hi> or <hi>quickly;</hi> as also <foreign lang="ar">zljAn</foreign> [i. e. <foreign lang="ar">zalajaAnN</foreign>, which is an inf. n.; and in like manner <foreign lang="ar">zalaxaAnN</foreign> and <foreign lang="ar">zaloxaAnN</foreign>, accord. to the TḲ, are inf. ns., of which the verb is <foreign lang="ar">zalaxa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoluxu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoluxu</foreign>}</expan></choice>, 
 							though it is more probably <foreign lang="ar">_a</foreign>]. (TA.)
 						</sense>
 					</entry>
@@ -15415,11 +15415,11 @@
 						<hom n="A" xml:id="zlq_1_A">
 						<sense n="1" xml:id="zlq_1_A1">
 							1. <foreign lang="ar">zaliqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazolaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zalaqN</foreign>; (TA;) and <foreign lang="ar">zalaqa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoluqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaloqN</foreign>; (TA;) <hi>He slipped;</hi> syn. <foreign lang="ar">zal-a</foreign>; (Ḳ, TA;) for which <foreign lang="ar">cal-a</foreign> is erroneously put in [some of] the copies of the Ḳ. 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazolaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zalaqN</foreign>; (TA;) and <foreign lang="ar">zalaqa</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoluqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaloqN</foreign>; (TA;) <hi>He slipped;</hi> syn. <foreign lang="ar">zal-a</foreign>; (Ḳ, TA;) for which <foreign lang="ar">cal-a</foreign> is erroneously put in [some of] the copies of the Ḳ. 
 							(TA. [<ref target="zlq_5">See also 5</ref>.]) 
 							And <foreign lang="ar">zaliqato rijoluhu</foreign>, (Ṣ,) or <foreign lang="ar">Alqadamu</foreign>, (Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazolaqu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazolaqu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zalaqN</foreign>, (Ṣ, Mṣb,) <hi>His foot,</hi> (Ṣ,) or <hi>the foot,</hi> (Mṣb,) <hi>slipped,</hi> (Ṣ,) or <hi>did not remain firm,</hi> or <hi>fixed, in its place.</hi> (Mṣb.) The former is also said of an arrow, [app. as meaning <hi>It slid along the ground,</hi>] like <foreign lang="ar">zahiqa</foreign> [q. v.]. (JK in art. <foreign lang="ar">zhq</foreign>.)
 						</sense>
 						<span type="sig">―</span>
@@ -15440,7 +15440,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zlq_1_B2">
 							<foreign lang="ar">zalaqahu Eano makaAnihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoliqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaloqN</foreign>, (TA,) <hi>He removed him from his place.</hi> (Ḳ, TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoliqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaloqN</foreign>, (TA,) <hi>He removed him from his place.</hi> (Ḳ, TA.) 
 							Hence the reading of Aboo-Jaạfar and Náfi', [in the Ḳur lxviii. 51,] <foreign lang="ar">waUino yakaAdu Ql-aciyna kafaruwA layazoliquwnaka biOaboSaArihimo</foreign>, meaning [<hi>And verily they who have disbelieved almost</hi>] <hi>smite thee with their</hi> evil <hi>eyes so as to remove thee from thy station in which God has placed thee, by reason of enmity to thee.</hi> 
 							(TA. [Or this reading may be rendered agreeably with the common reading: 
 							<ref target="zlq_4">see 4</ref>.])
@@ -15448,7 +15448,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zlq_1_B3">
 							<foreign lang="ar">zalaqa raOosahu</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoliqu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoliqu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zaloqN</foreign>, (Ṣ,) <hi>He shaved his head;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">Azlqhu↓</foreign></anchor>; 
 							and <anchor type="arrow"><foreign lang="ar">zl-qhu↓</foreign></anchor>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">tazoliyqN</foreign>: (Ṣ:) IB says that, accord. to ʼAlee Ibn-Hamzeh, it is only <foreign lang="ar">zabaqahu</foreign>, with <foreign lang="ar">b</foreign>; and that <foreign lang="ar">Alz-aboqu</foreign> means the plucking out; not the shaving: but accord. to Fr, one says of him who has shaved his head <foreign lang="ar">qd zlqh</foreign>, 
@@ -15861,7 +15861,7 @@
 						</form>
 						<sense n="1" xml:id="zlm_1_A1">
 							1. <foreign lang="ar">zalama</foreign>, 
-							(aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazolumu</foreign>}</expan></choice>, 
+							(aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazolumu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zalomN</foreign>, TḲ,) <hi>He cut off</hi> one's nose [and app. anything projecting, or prominent: 
 							<ref target="zlm_2">see 2</ref>: 
 							<ref target="zlm_8">and see also 8</ref>]. (ISh, Ḳ.)
@@ -16132,7 +16132,7 @@
 							applied to an arrow, (Ṣ, Ḳ, TA,) 
 							like <anchor type="arrow"><foreign lang="ar">zaliymN↓</foreign></anchor>, (Ṣ, Ḳ,) 
 							<hi>Cut</hi> [or <hi>pared</hi>], (ISk, Ṣ,) <hi>and made good in its proportion</hi> or <hi>conformation, and its workmanship:</hi> (ISk, Ṣ, Ḳ:) [<hi>well shaped:</hi>] or <hi>made even and supple:</hi> (TA:) 
-							and in like manner the former, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">muzal-amapN</foreign>}</expan></choice>, applied to a staff (<foreign lang="ar">EaSFA</foreign>). (Ṣ.)
+							and in like manner the former, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">muzal-amapN</foreign>}</expan></choice>, applied to a staff (<foreign lang="ar">EaSFA</foreign>). (Ṣ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="muzal-amN_A2">
@@ -16152,7 +16152,7 @@
 						<span type="sig">―</span>
 						<sense n="5" xml:id="muzal-amN_A5">
 							Applied to a man, (Ṣ, TA,) † <hi>Light,</hi> (TA,) or, like <foreign lang="ar">muqac-acN</foreign>, <hi>made light,</hi> (Ṣ,) <hi>in form, figure,</hi> or <hi>person:</hi> so says ISk: (Ṣ, TA:) or † <hi>short, light,</hi> or <hi>active,</hi> and <foreign lang="ar">Zariyf</foreign> [app. as meaning either <hi>elegant in form,</hi> or <hi>clever</hi>]; (M, Ḳ;) likened to a small arrow: (M:) 
-							and, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">muzal-amapN</foreign>}</expan></choice>, applied to a woman as meaning † <hi>not tall;</hi> like <foreign lang="ar">muqac-acapN</foreign>. (Ṣ.)
+							and, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">muzal-amapN</foreign>}</expan></choice>, applied to a woman as meaning † <hi>not tall;</hi> like <foreign lang="ar">muqac-acapN</foreign>. (Ṣ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="6" xml:id="muzal-amN_A6">
@@ -16215,7 +16215,7 @@
 						<hom n="A" xml:id="zm_1_A">
 						<sense n="1" xml:id="zm_1_A1">
 							1. <foreign lang="ar">zam-ahu</foreign>, (Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomumu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zam-N</foreign>, (TA,) <hi>He tied,</hi> or <hi>bound, it: fastened it;</hi> or <hi>made it fast.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -16861,7 +16861,7 @@
 						</form>
 						<sense n="1" xml:id="zmt_1_A1">
 							1. <foreign lang="ar">zamuta</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomutu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomutu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zamaAtahu</foreign>, <hi>He was,</hi> or <hi>became, grave, staid, steady, sedate,</hi> or <hi>calm.</hi> (A, Ḳ.)
 						</sense>
 					</entry>
@@ -16933,7 +16933,7 @@
 						</form>
 						<sense n="1" xml:id="zmx_1_A1">
 							1. <foreign lang="ar">zamaxa</foreign>, (Ṣ, Ḳ,) or <foreign lang="ar">zamaxa biOanofihi</foreign>, (L,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomaxu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zamoxN</foreign>, (L,) <hi>He exalted,</hi> or <hi>magnified, himself; was proud;</hi> (Ṣ, L, Ḳ;) <hi>behaved proudly, haughtily,</hi> or <hi>vainly;</hi> (Ṣ, L;) <hi>elevated his nose, from pride;</hi> (L;) <hi>i. q.</hi> <foreign lang="ar">Xamaxa</foreign>, or <foreign lang="ar">Xamaxa biOanofihi</foreign>. (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomaxu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zamoxN</foreign>, (L,) <hi>He exalted,</hi> or <hi>magnified, himself; was proud;</hi> (Ṣ, L, Ḳ;) <hi>behaved proudly, haughtily,</hi> or <hi>vainly;</hi> (Ṣ, L;) <hi>elevated his nose, from pride;</hi> (L;) <hi>i. q.</hi> <foreign lang="ar">Xamaxa</foreign>, or <foreign lang="ar">Xamaxa biOanofihi</foreign>. (TA.)
 						</sense>
 					</entry>
 					<entry type="xref" n="19281" xml:id="zamaxN">
@@ -17025,7 +17025,7 @@
 						<hom n="A" xml:id="zmr_1_A">
 						<sense n="1" xml:id="zmr_1_A1">
 							1. <foreign lang="ar">zamara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomiru</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomuru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomiru</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomuru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zamorN</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">zamiyrN</foreign> (Mṣb, Ḳ) and <foreign lang="ar">zamaraAnN</foreign>; (ISd, TA;) 
 							and <anchor type="arrow"><foreign lang="ar">zm-r↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">tazomiyrN</foreign>; (Ḳ;) <hi>He</hi> [<hi>piped,</hi> or] <hi>played upon</hi> (lit. <hi>sang in</hi>) <hi>a reed;</hi> (Ḳ;) <hi>he blew in a</hi> <foreign lang="ar">mizomaArN</foreign>. (Ṣ,* A, Mṣb.*)
@@ -17033,7 +17033,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zmr_1_A2">
 							[Hence,] <foreign lang="ar">zamara Aln-aEaAmu</foreign>, (Ṣ, Ḳ,) and <foreign lang="ar">zamarati Alhayoqapu</foreign>, (A,) or <foreign lang="ar">Aln-aEaAmapu</foreign>, (TA,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomiru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomiru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zimaArN</foreign> (Ṣ, A, Ḳ) and <foreign lang="ar">zumaArN</foreign>, (TA,) ‡ <hi>The ostriches,</hi> (Ṣ, Ḳ,) and <hi>the she-ostrich,</hi> (A, TA,) <hi>cried,</hi> or <hi>uttered their,</hi> or <hi>her, cry.</hi> (Ṣ, A, Ḳ, TA.) 
 							[Said only of the females, or a female:] 
 							of the male ostrich one says only <foreign lang="ar">EaAr-a</foreign>. (Ṣ, TA.)
@@ -17052,7 +17052,7 @@
 						<hom n="B" xml:id="zmr_1_B">
 						<sense n="1" xml:id="zmr_1_B1">
 							<foreign lang="ar">zamira</foreign>, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomaru</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zamarN</foreign>, (Ṣ,) <hi>He had little hair,</hi> (Ṣ,* Ḳ,* TA,) and <hi>little wool.</hi> (Ḳ,* TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomaru</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zamarN</foreign>, (Ṣ,) <hi>He had little hair,</hi> (Ṣ,* Ḳ,* TA,) and <hi>little wool.</hi> (Ḳ,* TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zmr_1_B2">
@@ -17115,7 +17115,7 @@
 						<sense n="1" xml:id="zamirN_A1">
 							<foreign lang="ar">zamirN</foreign> 
 							<hi>Having little hair;</hi> (Ṣ, A, Ḳ;) and <hi>having little wool:</hi> 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zamirapN</foreign>}</expan></choice>. (A, Ḳ.) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zamirapN</foreign>}</expan></choice>. (A, Ḳ.) 
 							You say <foreign lang="ar">SabiI-N zamirN</foreign> <hi>A child having little hair:</hi> and <foreign lang="ar">XaApN zamirapN</foreign> [<hi>A sheep,</hi> or <hi>goat, having little wool</hi> or <hi>hair</hi>]: and <foreign lang="ar">ganamN zawaAmiru</foreign> [<hi>Sheep,</hi> or <hi>goats, having little wool</hi> or <hi>hair</hi>]: (A, TA:) and <foreign lang="ar">naAqapN zamirapN</foreign> <hi>A she-camel having little fur:</hi> and <foreign lang="ar">nabotN zamierN</foreign> [app. meaning <hi>A plant having few leaves</hi>]. (Ḥam p. 683.) 
 							And <foreign lang="ar">XaEarN zamirN</foreign> [<hi>Scanty,</hi> or <hi>thin, hair</hi>]. (A, TA.)
 						</sense>
@@ -17266,7 +17266,7 @@
 						</form>
 						<sense n="1" xml:id="zaAmirN_A1">
 							<foreign lang="ar">zaAmirN</foreign>; 
-							and its fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zaAmirapN</foreign>}</expan></choice>: 
+							and its fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zaAmirapN</foreign>}</expan></choice>: 
 							<ref target="zam-aArN">see <foreign lang="ar">zam-aArN</foreign></ref>.
 						</sense>
 					</entry>
@@ -17399,7 +17399,7 @@
 							[see this word:] and Ibn-Sá'id El-Anṣáree says that the mine of the <foreign lang="ar">zbrjd</foreign> is said to be near to that of the <foreign lang="ar">zm-rc</foreign>: (TA:) several authors say that <hi>the</hi> <foreign lang="ar">zm-rc</foreign> <hi>differs from the</hi> <foreign lang="ar">zbrjd</foreign> <hi>in being more green:</hi> (MF, TA:) it is an arabicized word 
 							[from the Pers. <foreign lang="ar">zumorudo</foreign>]: (Ṣ, L, Mṣb, Ḳ:) 
 							[a coll. gen. n.:] 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zumur-ucapN</foreign>}</expan></choice>. (Mṣb.)
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zumur-ucapN</foreign>}</expan></choice>. (Mṣb.)
 						</sense>
 					</entry>
 				</superEntry>
@@ -17421,7 +17421,7 @@
 						<hom n="A" xml:id="zmE_1_A">
 						<sense n="1" xml:id="zmE_1_A1">
 							1. <foreign lang="ar">zamiEa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomaEu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomaEu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zamaEN</foreign>, <hi>He became confounded,</hi> or <hi>perplexed, and unable to see his right course;</hi> or <hi>he became bereft of his reason</hi> or <hi>intellect; in consequence of fear:</hi> (Ṣ, Mṣb,* Ḳ:*) <hi>he feared,</hi> or <hi>was afraid:</hi> (Ḳ:) <hi>he was impatient;</hi> or <hi>had not sufficient strength to bear what befell him, and found not patience:</hi> (L:) <hi>he became disquieted, disturbed, agitated, flurried,</hi> or <hi>in a state of commotion.</hi> (Lḥ.)
 						</sense>
 						</hom>
@@ -17429,10 +17429,10 @@
 						<hom n="B" xml:id="zmE_1_B">
 						<sense n="1" xml:id="zmE_1_B1">
 							<foreign lang="ar">zamaEati AlOaronabu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomaEu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">zamaEaAnN</foreign>, (Lth, Ḳ, TA,) <hi>The hare was light,</hi> or <hi>active, and quick,</hi> or <hi>swift:</hi> (Lth, Ḳ, TA:) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomaEu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">zamaEaAnN</foreign>, (Lth, Ḳ, TA,) <hi>The hare was light,</hi> or <hi>active, and quick,</hi> or <hi>swift:</hi> (Lth, Ḳ, TA:) 
 							and <anchor type="arrow"><foreign lang="ar">AzmEt↓</foreign></anchor> <hi>it ran,</hi> (Ṣ, TA,) <hi>and was light,</hi> or <hi>active.</hi> (TA.) 
 							And <foreign lang="ar">zamaEa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomaEu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomaEu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zamaEaAnN</foreign>, <hi>He went slowly.</hi> (ISk, Ṣ, Ḳ.) 
 							Thus the verb has two contr. significations. (Ḳ.) 
 							And <hi>He went with short steps;</hi> 
@@ -17727,13 +17727,13 @@
 						<hom n="A" xml:id="zml_1_A">
 						<sense n="1" xml:id="zml_1_A1">
 							1. <foreign lang="ar">zamala</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomilu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomilu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zamaAlN</foreign>, <hi>He ran,</hi> (Ḳ, TA,) and <hi>went along quickly,</hi> (TA,) <hi>leaning,</hi> or <hi>bearing, on one side, raising his other side;</hi> (Ḳ, TA;) <hi>as though he were bearing upon one leg; not with the firmness of him who bears upon both of his legs.</hi> (TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zml_1_A2">
 							And <foreign lang="ar">zamala</foreign> (Ḳ, TA) <foreign lang="ar">fiI maXoyihi</foreign> and <foreign lang="ar">Eadowihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">zamolN</foreign> and <foreign lang="ar">zamaAlN</foreign> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">zamolN</foreign> and <foreign lang="ar">zamaAlN</foreign> 
 							[the latter accord. to the CK <foreign lang="ar">zimaAlN</foreign> but said in the TA to be with fet-ḥ like the former,] and <foreign lang="ar">zamalaAnN</foreign> (Ḳ, TA) and <foreign lang="ar">zamalN</foreign>, 
 							(TA as from the Ḳ, [but not in the CK nor in my MṢ. copy of the Ḳ,]) 
 							said of a horse or similar beast, (Ḳ, TA,) or of a wild ass, (TA,) <hi>He was as though he limped, by reason of his briskness,</hi> or <hi>sprightliness,</hi> (Ḳ,) or <hi>as though bearing upon his fore legs, by reason of pride,</hi> or <hi>self-conceit, and briskness, in his going</hi> and <hi>his running.</hi> (TA.)
@@ -17748,14 +17748,14 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zml_1_B2">
 							And <foreign lang="ar">zamalahu</foreign>, (IDrd, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zamolN</foreign>, (TA,) <hi>He made him to ride behind him,</hi> (IDrd, Ḳ,) <foreign lang="ar">EalaI AlbaEiyri</foreign> <hi>on the camel:</hi> (IDrd:) or <hi>he rode with him</hi> [on a camel, in a <foreign lang="ar">maHomil</foreign>,] <hi>so as to counterbalance him;</hi> (Ḳ, TḲ:) 
 							and so <anchor type="arrow"><foreign lang="ar">zAmlhu↓</foreign></anchor>, (Mgh,) inf. n. <foreign lang="ar">muzaAmalapN</foreign>, (Ṣ,) <hi>he rode with him so as to counterbalance him</hi> (Ṣ * Mgh) on a camel, (Ṣ,) in the <foreign lang="ar">maHomil</foreign>. (Mgh.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zml_1_B3">
 							[And <foreign lang="ar">zamala gayorahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice>, <hi>He followed another:</hi>] see 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomulu</foreign>}</expan></choice>, <hi>He followed another:</hi>] see 
 							<ref target="zaAmilN"><foreign lang="ar">zaAmilN</foreign></ref>.
 						</sense>
 						</hom>
@@ -18447,7 +18447,7 @@
 						</form>
 						<sense n="1" xml:id="zmn_1_A1">
 							1. <foreign lang="ar">zamina</foreign>. 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazomanu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazomanu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zamanN</foreign> (Mṣb, Ḳ) and <foreign lang="ar">zamaAnapN</foreign> (Ṣ,* Mṣb, Ḳ) and <foreign lang="ar">zumonapN</foreign>, (Ḳ,) <hi>He</hi> (a man, Ṣ, Mṣb) <hi>had,</hi> or <hi>was affected with, a malady of long continuance,</hi> (Mṣb,) or <hi>what is termed</hi> <foreign lang="ar">zamaAnapN</foreign>, expl. below: (Ḳ:) <hi>he was,</hi> or <hi>became, afflicted</hi> [<hi>with what is so termed</hi>]: (Ṣ:) or <hi>he was,</hi> or <hi>became, crippled.</hi> (TḲ.)
 						</sense>
 					</entry>
@@ -19020,7 +19020,7 @@
 							<foreign lang="ar">zan-a EaSabuhu</foreign>, 
 							[aor., accord. to rule, <foreign lang="ar">_i</foreign>, 
 							or the sec. pers. may be <foreign lang="ar">zaninota</foreign>, and the 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonanu</foreign>}</expan></choice>, and the inf. n., in this case, <foreign lang="ar">rananN</foreign>, which see below, but the TḲ makes its aor. to be <foreign lang="ar">_u</foreign>, and the inf. n. <foreign lang="ar">zan-N</foreign>,] <hi>His sinews dried up.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonanu</foreign>}</expan></choice>, and the inf. n., in this case, <foreign lang="ar">rananN</foreign>, which see below, but the TḲ makes its aor. to be <foreign lang="ar">_u</foreign>, and the inf. n. <foreign lang="ar">zan-N</foreign>,] <hi>His sinews dried up.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zn_1_B2">
@@ -19041,7 +19041,7 @@
 							4. <foreign lang="ar">Oazonanotuhu</foreign> 
 							<hi>I thought him to possess good</hi> or <hi>evil;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">zananotuhu↓</foreign></anchor>,, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonunu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonunu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zan-N</foreign>: or both mean <hi>I imputed,</hi> or <hi>attributed, to him good</hi> or <hi>evil:</hi> (Mṣb:) 
 							or <anchor type="arrow"><foreign lang="ar">zan-a↓ fulaAnFA bixayorK</foreign></anchor> or <foreign lang="ar">biXar-K</foreign> <hi>he thought such a one to possess good</hi> or <hi>evil;</hi> like <foreign lang="ar">Oazan-ahu</foreign>; syn. <foreign lang="ar">Zan-ahu bihi</foreign>: (Ḳ:) or, accord. to Lḥ, one says, <foreign lang="ar">Oazonanotuhu bimaAlK</foreign> and <foreign lang="ar">bixayorK</foreign> <hi>I thought him to possess</hi> [<hi>property</hi> and (as appears from what is said below on his authority) <hi>wealth</hi>]: 
 							but <anchor type="arrow"><foreign lang="ar">zananotuhu↓</foreign></anchor> is what the vulgar say, and is wrong. (TA.) 
@@ -19050,7 +19050,7 @@
 							[and accord. to Golius <anchor type="arrow"><foreign lang="ar">Aizotananotuhu↓</foreign></anchor>, mentioned by him as from the Ṣ, but not found therein by Freytag, nor by me in either of my copies,] <hi>I suspected him of a thing,</hi> or <hi>of such a thing:</hi> (Ṣ, Ḳ, and Ḥar ubi suprà:) 
 							[but] Lḥ says, <foreign lang="ar">laA yakuwnu AlUizonaAnu fiI Alxayori</foreign> [app. meaning that <foreign lang="ar">Oazan-a</foreign> is not said in relation to that which is good: 
 							see what is cited on his authority above]. (TA.) 
-							And <foreign lang="ar">Azn-hu biAlOamori</foreign> <hi>He suspected him of the thing,</hi> or <hi>affair;</hi> like <foreign lang="ar">OaZan-ahu</foreign> <add resp="EWL">[app. a mistake for <foreign lang="ar">AiZ-an-ahu</foreign>]</add>. (Ṣ.) 
+							And <foreign lang="ar">Azn-hu biAlOamori</foreign> <hi>He suspected him of the thing,</hi> or <hi>affair;</hi> like <foreign lang="ar">OaZan-ahu</foreign> <add resp="#EWL">[app. a mistake for <foreign lang="ar">AiZ-an-ahu</foreign>]</add>. (Ṣ.) 
 							And <foreign lang="ar">huwa yuzan-u bikacaA</foreign> [<hi>He is suspected of such a thing</hi>]. (Ṣ.) Hassán says, 
 							<quote>
 								<L><foreign lang="ar">HaSaAnN razaAnN maA tuzan-u biriybapK</foreign></L> 
@@ -19216,7 +19216,7 @@
 						<hom n="A" xml:id="znO_1_A">
 						<sense n="1" xml:id="znO_1_A1">
 							1. <foreign lang="ar">zanaOa fiI Aljabali</foreign>, (Ṣ, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonaOu</foreign>}</expan></choice>, (Mṣb, Ḳ,*) inf. n. <foreign lang="ar">zanoCN</foreign> and <foreign lang="ar">zunuwoCN</foreign>, (Ṣ, Mṣb, Ḳ,) <hi>He ascended the mountain.</hi> (Ṣ, Mṣb, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonaOu</foreign>}</expan></choice>, (Mṣb, Ḳ,*) inf. n. <foreign lang="ar">zanoCN</foreign> and <foreign lang="ar">zunuwoCN</foreign>, (Ṣ, Mṣb, Ḳ,) <hi>He ascended the mountain.</hi> (Ṣ, Mṣb, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="znO_1_A2">
@@ -19242,7 +19242,7 @@
 						<span type="sig">―</span>
 						<sense n="6" xml:id="znO_1_A6">
 							Said of the urine, (Ṣ, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonaOu</foreign>}</expan></choice>, (Ṣ, TA,) or <foreign lang="ar">_u</foreign>, (Mṣb,) inf. n. <foreign lang="ar">zunuwoCN</foreign> (Ṣ, Mṣb, TA) and <foreign lang="ar">zanoCN</foreign>, (TA,) <hi>It became retained,</hi> or <hi>suppressed.</hi> (Ṣ, Mṣb, Ḳ, TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonaOu</foreign>}</expan></choice>, (Ṣ, TA,) or <foreign lang="ar">_u</foreign>, (Mṣb,) inf. n. <foreign lang="ar">zunuwoCN</foreign> (Ṣ, Mṣb, TA) and <foreign lang="ar">zanoCN</foreign>, (TA,) <hi>It became retained,</hi> or <hi>suppressed.</hi> (Ṣ, Mṣb, Ḳ, TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="7" xml:id="znO_1_A7">
@@ -19865,7 +19865,7 @@
 						</form>
 						<sense n="1" xml:id="znx_1_A1">
 							1. <foreign lang="ar">zanixa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonaxu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">zanaxN</foreign>, (Ṣ,) said of oil, (Ṣ Ḳ,) and clarified butter, (JK, L,) and food, (L,) <hi>It was,</hi> or <hi>became, altered</hi> [<hi>for the worse</hi>] (Ṣ, Ḳ, TA) <hi>in odour;</hi> (TA;) [<hi>stinking, rancid,</hi>] <hi>bad,</hi> or <hi>corrupt;</hi> like <foreign lang="ar">sanixa</foreign>. (JK.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonaxu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">zanaxN</foreign>, (Ṣ,) said of oil, (Ṣ Ḳ,) and clarified butter, (JK, L,) and food, (L,) <hi>It was,</hi> or <hi>became, altered</hi> [<hi>for the worse</hi>] (Ṣ, Ḳ, TA) <hi>in odour;</hi> (TA;) [<hi>stinking, rancid,</hi>] <hi>bad,</hi> or <hi>corrupt;</hi> like <foreign lang="ar">sanixa</foreign>. (JK.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="znx_1_A2">
@@ -19908,7 +19908,7 @@
 						<hom n="A" xml:id="znd_1_A">
 						<sense n="1" xml:id="znd_1_A1">
 							1. <foreign lang="ar">zanada Aln-aAra</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonidu</foreign>}</expan></choice>, <hi>He produced fire</hi> [<hi>with a</hi> <foreign lang="ar">zanod</foreign> and <foreign lang="ar">zanodap</foreign>]. (A, TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonidu</foreign>}</expan></choice>, <hi>He produced fire</hi> [<hi>with a</hi> <foreign lang="ar">zanod</foreign> and <foreign lang="ar">zanodap</foreign>]. (A, TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="znd_1_A2">
@@ -19926,7 +19926,7 @@
 						<hom n="C" xml:id="znd_1_C">
 						<sense n="1" xml:id="znd_1_C1">
 							<foreign lang="ar">zanida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zanadN</foreign>, (TḲ,) <hi>He</hi> (a man, TA) <hi>thirsted.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zanadN</foreign>, (TḲ,) <hi>He</hi> (a man, TA) <hi>thirsted.</hi> (Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -20469,7 +20469,7 @@
 						<sense n="1" xml:id="znq_1_A1">
 							1. <foreign lang="ar">zanaqahu</foreign>, (JK, Ṣ, O, Ḳ,) 
 							namely, a mule, (JK, O,) or a horse, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoniqu</foreign>}</expan></choice>, (O, TA,) inf. n. <foreign lang="ar">zanoqN</foreign>, (JK, TA,) <hi>He put a ring in the thin skin beneath the part under his lower jaw, and then attached to it a cord:</hi> (JK, O, Ḳ:) this ring is put to the head of the refractory mule; and is called 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoniqu</foreign>}</expan></choice>, (O, TA,) inf. n. <foreign lang="ar">zanoqN</foreign>, (JK, TA,) <hi>He put a ring in the thin skin beneath the part under his lower jaw, and then attached to it a cord:</hi> (JK, O, Ḳ:) this ring is put to the head of the refractory mule; and is called 
 							<anchor type="arrow"><foreign lang="ar">zinaAqapN↓</foreign></anchor>: (JK, O, TA:) or <hi>he put a</hi> 
 							<anchor type="arrow"><foreign lang="ar">zinaAq↓</foreign></anchor> <hi>in the part under his lower jaw, in the skin:</hi> (Ṣ, O:) every cord with which a beast is tied, 
 							[attached to a ring or otherwise] in the skin beneath the part under the lower jaw, is called 
@@ -20479,13 +20479,13 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="znq_1_A2">
 							Also, (IDrd, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoniqu</foreign>}</expan></choice> and <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazonuqu</foreign>}</expan></choice>, (TA,) inf. n. as above, (KL,) <hi>He bound his legs by means of the</hi> <foreign lang="ar">XikaAl</foreign> [or <foreign lang="ar">zinaAq</foreign>, q. v.]; namely, a mule's; (IDrd, Ḳ;) and in like manner, a horse'. (TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoniqu</foreign>}</expan></choice> and <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazonuqu</foreign>}</expan></choice>, (TA,) inf. n. as above, (KL,) <hi>He bound his legs by means of the</hi> <foreign lang="ar">XikaAl</foreign> [or <foreign lang="ar">zinaAq</foreign>, q. v.]; namely, a mule's; (IDrd, Ḳ;) and in like manner, a horse'. (TA.) 
 							[This meaning alone I find in the KL, given on the authority of the Mj: but Golius says, as on the authority of the KL likewise, that it signifies also <hi>He fitted</hi> a shoe <hi>to a horse's foot;</hi> followed by an accus.]
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="znq_1_A3">
 							And <foreign lang="ar">zanaqa</foreign>, (IAạr, O,) or <foreign lang="ar">zanaqa EalaI EiyaAlihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoniqu</foreign>}</expan></choice>; (Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoniqu</foreign>}</expan></choice>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Aznq↓</foreign></anchor>; 
 							and <anchor type="arrow"><foreign lang="ar">zn-q↓</foreign></anchor>, (IAạr, O, Ḳ,) inf. n. <foreign lang="ar">tazoniyqN</foreign>; (IAạr, O;) † <hi>He straitened his household, by reason of niggardliness</hi> or <hi>poverty.</hi> (IAạr, O, Ḳ.) 
 						<pb n="1259" xml:id="Page_1259"/>
@@ -21353,9 +21353,9 @@
 						<hom n="A" xml:id="zhd_1_A">
 						<sense n="1" xml:id="zhd_1_A1">
 							1. <foreign lang="ar">zahida fiyhi</foreign>, (Ṣ, A, Mgh, Mṣb, Ḳ,) and <foreign lang="ar">Eanohu</foreign>, (Ṣ, Mgh, Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohadu</foreign>}</expan></choice>; (Ṣ, Ḳ;) [the most usual form of the verb;] and <foreign lang="ar">zahada</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohadu</foreign>}</expan></choice>; (Ṣ, Mṣb, Ḳ;) which is the most approved form, though MF says otherwise; (TA;) and <foreign lang="ar">zahuda</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohudu</foreign>}</expan></choice>; (Th, Ḳ;) inf. n. <foreign lang="ar">zuhodN</foreign> and <foreign lang="ar">zahaAdapN</foreign> (Ṣ, Mgh, Mṣb, Ḳ) and <foreign lang="ar">zahodN</foreign>; (Sb, TA;) <hi>He abstained from it;</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohadu</foreign>}</expan></choice>; (Ṣ, Ḳ;) [the most usual form of the verb;] and <foreign lang="ar">zahada</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohadu</foreign>}</expan></choice>; (Ṣ, Mṣb, Ḳ;) which is the most approved form, though MF says otherwise; (TA;) and <foreign lang="ar">zahuda</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohudu</foreign>}</expan></choice>; (Th, Ḳ;) inf. n. <foreign lang="ar">zuhodN</foreign> and <foreign lang="ar">zahaAdapN</foreign> (Ṣ, Mgh, Mṣb, Ḳ) and <foreign lang="ar">zahodN</foreign>; (Sb, TA;) <hi>He abstained from it;</hi> 
 							[meaning, from something that would gratify the passions or senses;] <hi>relinquished it; forsook it; shunned,</hi> or <hi>avoided, it; did not desire it;</hi> (Ṣ, A, Mgh, Mṣb, Ḳ;) <hi>contr. of</hi> <foreign lang="ar">ragiba</foreign> [i. e. of <foreign lang="ar">ragiba fiyhi</foreign>], (Ṣ, Ḳ,) and <hi>i. q.</hi> <foreign lang="ar">ragiba Eanohu</foreign>, (A, Mgh,) and <foreign lang="ar">lamo yuridohu</foreign>, (Mgh,) and <foreign lang="ar">tarakahu</foreign> and <foreign lang="ar">OaEoraDa Eanohu</foreign>: (Mṣb:) or <hi>he abstained from it,</hi> meaning a thing of the lawfulness of which he was sure, <hi>so far as to take the least that was sufficient thereof, leaving the rest to God:</hi> (MF:) or <foreign lang="ar">zahaAdapN</foreign> relates only to worldly things; and <foreign lang="ar">zuhodN</foreign>, to matters of religion: (Kh, Mṣb, Ḳ:) or both signify the <hi>exercising oneself in the service of God,</hi> or <hi>in acts of devotion;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">tazah-udN↓</foreign></anchor>: (KL:) he who makes a difference between <foreign lang="ar">zahida fiyhi</foreign> and <foreign lang="ar">zahida Eanohu</foreign> errs. (Mgh.)
 						</sense>
@@ -21374,7 +21374,7 @@
 						<hom n="B" xml:id="zhd_1_B">
 						<sense n="1" xml:id="zhd_1_B1">
 							<foreign lang="ar">zahadahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zahodN</foreign>, (TA,) ‡ <hi>He computed,</hi> or <hi>determined, its quantity, measure, size, bulk, proportion, extent, amount, sum,</hi> or <hi>number;</hi> or <hi>he computed by conjecture its quantity</hi> or <hi>measure</hi>, &amp;c., or <hi>the quantity of its fruit;</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohadu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zahodN</foreign>, (TA,) ‡ <hi>He computed,</hi> or <hi>determined, its quantity, measure, size, bulk, proportion, extent, amount, sum,</hi> or <hi>number;</hi> or <hi>he computed by conjecture its quantity</hi> or <hi>measure</hi>, &amp;c., or <hi>the quantity of its fruit;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">Azhdhu↓</foreign></anchor>, (Ḳ, TA,) inf. n. <foreign lang="ar">UizohaAdN</foreign>; 
 							and <anchor type="arrow"><foreign lang="ar">zh-dhu↓</foreign></anchor>, 
 							inf. n. <foreign lang="ar">tazohiydN</foreign>: all used in relation to palm-trees. (TA.) 
@@ -21560,7 +21560,7 @@
 						<sense n="5" xml:id="zahiydN_A5">
 							† A man (Lḥ, TA) <hi>narrow,</hi> or <hi>niggardly, in disposition;</hi> (Lḥ, Ḳ, TA;) 
 							as also <anchor type="arrow"><foreign lang="ar">zaAhidN↓</foreign></anchor>; (Ḳ;) 
-							fem. of the former <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zahiydapN</foreign>}</expan></choice>: (Lḥ, TA:) 
+							fem. of the former <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zahiydapN</foreign>}</expan></choice>: (Lḥ, TA:) 
 							a <hi>low, ignoble, ungenerous, mean,</hi> or <hi>sordid,</hi> man; <hi>such that one does not desire what he possesses; as also</hi> 
 							<anchor type="arrow"><foreign lang="ar">zaAhidN↓</foreign></anchor>. (L.)
 						</sense>
@@ -21635,11 +21635,11 @@
 						<hom n="A" xml:id="zhr_1_A">
 						<sense n="1" xml:id="zhr_1_A1">
 							1. <foreign lang="ar">zahara</foreign> and <foreign lang="ar">zaharato</foreign>, (Ṣ, A, Ḳ, &amp;c.,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zuhuwrN</foreign>, (Ṣ, Ḳ,) <hi>It</hi> (a star, TA, and the moon, and a lamp, and the face, Ḳ) <hi>shone,</hi> or <hi>glistened;</hi> (Ḳ, TA;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">zuhuwrN</foreign>, (Ṣ, Ḳ,) <hi>It</hi> (a star, TA, and the moon, and a lamp, and the face, Ḳ) <hi>shone,</hi> or <hi>glistened;</hi> (Ḳ, TA;) 
 							as also <anchor type="arrow"><foreign lang="ar">Azdhr↓</foreign></anchor>: (Ḳ:) <hi>it</hi> (fire, Ṣ, A, Ḳ, and the sun, A) <hi>gave light; shone;</hi> or <hi>shone brightly:</hi> (Ṣ, A, Ḳ:) <hi>it</hi> (a thing) <hi>was clear in colour, and gave light,</hi> or <hi>shone,</hi> or <hi>shone brightly:</hi> (Mṣb:) and you say also, of the moon and of the sun, <foreign lang="ar">zahara</foreign> [and <foreign lang="ar">zaharato</foreign>], 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zahorN</foreign>; and <foreign lang="ar">zahura</foreign> [and <foreign lang="ar">zahurato</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohuru</foreign>}</expan></choice>]. (TA.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohuru</foreign>}</expan></choice>]. (TA.) 
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zhr_1_A2">
@@ -21652,12 +21652,12 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="zhr_1_A4">
 							<foreign lang="ar">zahara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>; (Mṣb;) and <foreign lang="ar">zahira</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaharN</foreign>; (TA;) and <foreign lang="ar">zahura</foreign>; (Ḳ;) † <hi>He,</hi> or <hi>it, was,</hi> or <hi>became, white;</hi> (Mṣb, Ḳ;) <hi>and beautiful:</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>; (Mṣb;) and <foreign lang="ar">zahira</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zaharN</foreign>; (TA;) and <foreign lang="ar">zahura</foreign>; (Ḳ;) † <hi>He,</hi> or <hi>it, was,</hi> or <hi>became, white;</hi> (Mṣb, Ḳ;) <hi>and beautiful:</hi> 
 							(Ḳ: [so in the CK and in my MṢ. copy of the Ḳ; but omitted in the TA:]) 
 							or <hi>of a bright white colour:</hi> (TA:) or <hi>of any shining colour:</hi> (AḤn, R:) and <foreign lang="ar">zahara</foreign> 
 							† <hi>it</hi> (a plant) <hi>was,</hi> or <hi>became, beautiful:</hi> (AḤn, TA:) and <foreign lang="ar">zahira</foreign> 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice> 
 							‡ <hi>he</hi> (a man) <hi>was,</hi> or <hi>became, white,</hi> or <hi>fair, in face.</hi> (Mṣb.)
 						</sense>
 						<span type="sig">―</span>
@@ -21696,7 +21696,7 @@
 							<anchor type="arrow"><foreign lang="ar">Aizohar-a↓</foreign></anchor>, like <foreign lang="ar">AiHomar-a</foreign>,]) 
 							<hi>It</hi> (a plant, or herbage, Ṣ, Ḳ, &amp;c., and a tree, TA) <hi>flowered,</hi> or <hi>blossomed;</hi> (AḤn, T, Ṣ, Mṣb, &amp;c.;) 
 							as also <anchor type="arrow"><foreign lang="ar">zahara↓</foreign></anchor>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>; (Mṣb;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazoharu</foreign>}</expan></choice>; (Mṣb;) 
 							and <anchor type="arrow"><foreign lang="ar">AzhAr-↓</foreign></anchor>. (AḤn, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -22022,7 +22022,7 @@
 						<hom n="A" xml:id="zhq_1_A">
 						<sense n="1" xml:id="zhq_1_A1">
 							1. <foreign lang="ar">zahaqato nafosuhu</foreign>, and <foreign lang="ar">zahiqato</foreign>, (Ṣ, Mgh, Mṣb, Ḳ,) the latter preferred by IḲooṭ and Hr, but the former by AʼObeyd, (TA,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohaqu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,*) inf. n. <foreign lang="ar">zuhuwqN</foreign>, (Ṣ, Mgh,) which is of both verbs, (Ṣ,) or this is of the former verb, and the inf. n. of the latter is <foreign lang="ar">zahaqN</foreign>, (Mṣb,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohaqu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,*) inf. n. <foreign lang="ar">zuhuwqN</foreign>, (Ṣ, Mgh,) which is of both verbs, (Ṣ,) or this is of the former verb, and the inf. n. of the latter is <foreign lang="ar">zahaqN</foreign>, (Mṣb,) 
 							[but in the Ḳ it seems to be indicated, by its being said of the latter verb that it is of the class of <foreign lang="ar">samiEa</foreign>, that the inf. n. of this verb is <foreign lang="ar">zahoqN</foreign>,] <hi>His soul went forth, passed forth,</hi> or <hi>departed:</hi> (Ṣ, Mgh, Mṣb, Ḳ, TA:) <hi>it perished: it died:</hi> (TA:) 
 							<anchor type="arrow"><foreign lang="ar">Ainozahaqato↓ nafosuhu</foreign></anchor> and <foreign lang="ar">AinozihaAqu Alr-uwHi</foreign> are not of the [classical] language of the Arabs. (Mgh.) 
 							It is said in the Ḳur [ix. 55 and 86] <foreign lang="ar">watazohaqa Oanofusuhumo wahumo kaAfiruwna</foreign> [<hi>And that their souls may depart while they are unbelievers</hi>]. (Ṣ.) The primary meaning of <foreign lang="ar">zuhuwqN</foreign> is The <hi>going forth, passing forth,</hi> or <hi>departing, with difficulty.</hi> (Bḍ in ix. 55.)
@@ -22041,7 +22041,7 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="zhq_1_A4">
 							And <foreign lang="ar">zahaqa Alfarasu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohaqu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohaqu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zuhuwqN</foreign>, † <hi>The horse preceded, went before, got before, outwent,</hi> or <hi>outstripped.</hi> (Ṣ,* Mṣb.) 
 							And <foreign lang="ar">zahaqati Alr-aAHilapu</foreign>, 
 							inf. n. <foreign lang="ar">zuhuwqN</foreign> (ISk, Ṣ, Ḳ) and <foreign lang="ar">zahoqN</foreign>, 
@@ -22058,7 +22058,7 @@
 						<hom n="B" xml:id="zhq_1_B">
 						<sense n="1" xml:id="zhq_1_B1">
 							<foreign lang="ar">zahaqa</foreign> said of a bone, (Ṣ, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zuhuwqN</foreign>, <hi>Its marrow became compact and full;</hi> (Ṣ, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohaqu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zuhuwqN</foreign>, <hi>Its marrow became compact and full;</hi> (Ṣ, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">Azhq↓</foreign></anchor>. (L, Ḳ.) 
 							And <foreign lang="ar">zahaqati Ald-aAb-apu</foreign>, with the same aor. and inf. n., <hi>The beast was,</hi> or <hi>became, marrowy in the utmost degree, its marrow-bones being compacted and full.</hi> (TA.)
 						</sense>
@@ -22428,7 +22428,7 @@
 							(MA. [<ref target="zuhuwmapN">See also <foreign lang="ar">zuhuwmapN</foreign></ref> 
 							<ref target="zahamN">and <foreign lang="ar">zahamN</foreign> below</ref>.]) 
 							And <foreign lang="ar">zahimato yaduhu</foreign> (Ṣ, MA, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohamu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zahamN</foreign>, (Ṣ, Ḳ,) <hi>His hand was,</hi> or <hi>became, greasy,</hi> (Ṣ, MA, Ḳ,) <foreign lang="ar">mina AlX-aHomi</foreign> <hi>from the fat:</hi> (MA:) or <hi>had in it the odour of fat.</hi> (TA)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohamu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">zahamN</foreign>, (Ṣ, Ḳ,) <hi>His hand was,</hi> or <hi>became, greasy,</hi> (Ṣ, MA, Ḳ,) <foreign lang="ar">mina AlX-aHomi</foreign> <hi>from the fat:</hi> (MA:) or <hi>had in it the odour of fat.</hi> (TA)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="zhm_1_A2">
@@ -22437,7 +22437,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zhm_1_A3">
 							<foreign lang="ar">zahama</foreign>, (Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yazohumu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yazohumu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">zahomN</foreign>, (TḲ,) <hi>It</hi> (a bone) <hi>was,</hi> or <hi>became, marrowy; had,</hi> or <hi>contained, marrow;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">Azhm↓</foreign></anchor>. (Ḳ, TA.)
 						</sense>
@@ -23892,7 +23892,7 @@
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="zaworN_A3">
-							And, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zaworapN</foreign>}</expan></choice>, 
+							And, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zaworapN</foreign>}</expan></choice>, 
 							A she-camel <hi>that looks from the outer angle of her eye, by reason of her vehemence and sharpness of temper:</hi> 
 							(Ḳ,* TA: [<ref target="zaWorapN">see <foreign lang="ar">zaworapN</foreign> below</ref>: 
 							<ref target="Oazowaru">and see also <foreign lang="ar">Oazowaru</foreign></ref>:]) 
@@ -24066,7 +24066,7 @@
 						<hom n="D" xml:id="ziyrN_D">
 						<sense n="1" xml:id="ziyrN_D1">
 							<hi>Flax:</hi> (Yaạḳoob, Ṣ, Ḳ:) 
-							and <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">ziyrapN</foreign>}</expan></choice> <hi>a portion thereof:</hi> (Ḳ:) pl. <foreign lang="ar">OazowaArN</foreign>. (TA.)
+							and <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">ziyrapN</foreign>}</expan></choice> <hi>a portion thereof:</hi> (Ḳ:) pl. <foreign lang="ar">OazowaArN</foreign>. (TA.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -25057,7 +25057,7 @@
 						<hom n="B" xml:id="zawolN_B">
 						<sense n="1" xml:id="zawolN_B1">
 							As an epithet applied to a man, (Ṣ,) <hi>Light, agile,</hi> or <hi>active: acute</hi> or <hi>sharp</hi> or <hi>quick in intellect, clever, ingenious, skilful, knowing,</hi> or <hi>intelligent:</hi> (Ṣ, Ḳ:) <hi>at whose acuteness</hi> or <hi>sharpness</hi> or <hi>quickness of intellect,</hi>, &amp;c., <hi>one wonders:</hi> (ISk, Ṣ:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zawolapN</foreign>}</expan></choice>; (Ṣ, Ḳ;) said to mean <hi>skilful, knowing,</hi> or <hi>intelligent,</hi> (Ṣ, TA,) as also the masc., (TA,) and <hi>cunning:</hi> (Ṣ, TA:) and a servant-girl who is <hi>sharp and effective in the conveying of messages:</hi> and applied to a woman as meaning <foreign lang="ar">barozapN lilr-ijaAli</foreign> [<hi>who goes or comes forth to men, and with whom they sit, and of whom they talk, and who abstains from what is unlawful and indecorous, and is intelligent;</hi>, &amp;c.: 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zawolapN</foreign>}</expan></choice>; (Ṣ, Ḳ;) said to mean <hi>skilful, knowing,</hi> or <hi>intelligent,</hi> (Ṣ, TA,) as also the masc., (TA,) and <hi>cunning:</hi> (Ṣ, TA:) and a servant-girl who is <hi>sharp and effective in the conveying of messages:</hi> and applied to a woman as meaning <foreign lang="ar">barozapN lilr-ijaAli</foreign> [<hi>who goes or comes forth to men, and with whom they sit, and of whom they talk, and who abstains from what is unlawful and indecorous, and is intelligent;</hi>, &amp;c.: 
 							<ref target="Root_brz">see art. <foreign lang="ar">brz</foreign></ref>]: (TA:) 
 						<pb n="1272" xml:id="Page_1272"/>
 							pl. masc. <foreign lang="ar">OazowaAlN</foreign> (Ḳ, TA) and fem. <foreign lang="ar">zawolaAtN</foreign>; the former applied to young men, and the latter to young women. (TA.)
@@ -26082,7 +26082,7 @@
 							<foreign lang="ar">zayotuwnN</foreign> 
 							[The <hi>olive-tree;</hi>] <hi>a certain kind of tree,</hi> (Mṣb, Ḳ,*) <hi>well known,</hi> (Ṣ, Mṣb,) <hi>whence</hi> <foreign lang="ar">zayot</foreign> <hi>is obtained;</hi> (Ṣ, Mṣb, Ḳ;) [<hi>a tree</hi>] <hi>of the kind called</hi> <foreign lang="ar">EiDaAh</foreign>; (AḤn, Mgh, TA;) Aṣ says, on the authority of ʼAbd-El-Melik Ibn-Sálih Ibn-ʼAlee, that a single tree of this kind lasts thirty thousand years; and that every tree of this kind in Palestine was planted by the ancient Greeks who are called the Yoonánees: (TA:) and the <hi>fruit of that tree:</hi> (Mgh:) or it has the latter signification, and is tropically applied to the tree: or it properly has both of these significations: (TA:) 
 							[it is a coll. gen. n.:] 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zayotuwnapN</foreign>}</expan></choice>: (Ṣ, TA:) accord. to some, the <foreign lang="ar">n</foreign> is a radical letter, and the <foreign lang="ar">I</foreign> is augmentative, because they said <foreign lang="ar">ArD ztnp</foreign> [i. e. <foreign lang="ar">OaroDN zatinapN</foreign>, like <foreign lang="ar">OaroDN EaDihapN</foreign> from <foreign lang="ar">AlEiDaAhu</foreign>], 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zayotuwnapN</foreign>}</expan></choice>: (Ṣ, TA:) accord. to some, the <foreign lang="ar">n</foreign> is a radical letter, and the <foreign lang="ar">I</foreign> is augmentative, because they said <foreign lang="ar">ArD ztnp</foreign> [i. e. <foreign lang="ar">OaroDN zatinapN</foreign>, like <foreign lang="ar">OaroDN EaDihapN</foreign> from <foreign lang="ar">AlEiDaAhu</foreign>], 
 							meaning “a land in which are <foreign lang="ar">zayotuwn</foreign>;” so that the measure is <foreign lang="ar">fayoEuwlN</foreign>; and if so, its proper place is art. <foreign lang="ar">ztn</foreign>. (TA.) Respecting the phrase in the Ḳur xcv. l, <foreign lang="ar">waAlt-iyni waAlz-ayotuwni</foreign>, 
 							<ref target="tiynN">see <foreign lang="ar">tiynN</foreign></ref>.
 						</sense>
@@ -26969,7 +26969,7 @@
 						</form>
 						<sense n="1" xml:id="zaAgN.1_A1">
 							<foreign lang="ar">zaAgN</foreign> 
-							[The <hi>rook;</hi>] <hi>a small</hi> <foreign lang="ar">guraAb</foreign> [or <hi>bird of the crow-kind</hi>], <hi>inclining to white,</hi> (O, Mgh, Ḳ, TA,) <hi>that does not eat carrion,</hi> (O, Mgh, TA,) <hi>and is allowed to be eaten; now called in Egypt the</hi> <foreign lang="ar">guraAb nuwHiI-</foreign> [or <hi>Noachian crow</hi>]: (TA:) or <hi>a</hi> <foreign lang="ar">guraAb</foreign> <hi>like the pigeon, black, with a dusty colour in its head;</hi> or, as some say, <hi>inclining to white; that does not eat carrion:</hi> (Mṣb in art. <foreign lang="ar">zwg</foreign>:) or <hi>a small black</hi> <foreign lang="ar">guraAb</foreign>, <hi>that is eaten; also called</hi> <foreign lang="ar">HacafN</foreign>, of which the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">HacafapN</foreign>}</expan></choice>: (ISh, TA in art. <foreign lang="ar">Hcf</foreign>:) 
+							[The <hi>rook;</hi>] <hi>a small</hi> <foreign lang="ar">guraAb</foreign> [or <hi>bird of the crow-kind</hi>], <hi>inclining to white,</hi> (O, Mgh, Ḳ, TA,) <hi>that does not eat carrion,</hi> (O, Mgh, TA,) <hi>and is allowed to be eaten; now called in Egypt the</hi> <foreign lang="ar">guraAb nuwHiI-</foreign> [or <hi>Noachian crow</hi>]: (TA:) or <hi>a</hi> <foreign lang="ar">guraAb</foreign> <hi>like the pigeon, black, with a dusty colour in its head;</hi> or, as some say, <hi>inclining to white; that does not eat carrion:</hi> (Mṣb in art. <foreign lang="ar">zwg</foreign>:) or <hi>a small black</hi> <foreign lang="ar">guraAb</foreign>, <hi>that is eaten; also called</hi> <foreign lang="ar">HacafN</foreign>, of which the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">HacafapN</foreign>}</expan></choice>: (ISh, TA in art. <foreign lang="ar">Hcf</foreign>:) 
 							[these descriptions correctly apply to different varieties of the rook; some of which are distinguished by more or less whiteness in the head and other parts: in the present day, the word is, by some, perhaps generally, erroneously applied to the <hi>carrion-crow:</hi>] Az says, “I know not whether it be Arabic or arabicized:” (Mṣb in art. <foreign lang="ar">zwg</foreign>, and TA:) the truth is, that it is a Pers. word, 
 							[<foreign lang="ar">zaAgo</foreign>,] 
 							arabicized; originally applied to crows (<foreign lang="ar">girobaAn</foreign>), whether small or large; but when arabicized, applied peculiarly to one species thereof: (TA:) pl. <foreign lang="ar">ziygaAnN</foreign>. (O, Mgh, Mṣb, Ḳ.)
@@ -27104,7 +27104,7 @@
 							Also The <foreign lang="ar">Uiforiyz</foreign>, i. e., (Kr, TA,) the <foreign lang="ar">Tanaf</foreign>, (Kr, O, Ḳ, TA,) 
 							[meaning the <hi>coping,</hi> or <hi>ledge,</hi> or <hi>cornice,</hi>] <hi>that protects a wall,</hi> (O, Ḳ, TA,) <hi>surrounding the upper part of the wall,</hi> (Kr,) or <hi>surrounding the walls at the top of a house:</hi> (TA:) or, as some say, (O, in the Ḳ “and,”) the <hi>steps,</hi> or <hi>stairs, of places of ascent:</hi> (O, Ḳ:) or, as some say, (Kr, O, in the Ḳ “and,”) <hi>i. q.</hi> <foreign lang="ar">XurafN</foreign> 
 							[meaning <hi>acroterial ornaments forming a single member of a cresting of a wall,</hi> or <hi>of the crown of a cornice</hi>]: 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zayofapN</foreign>}</expan></choice>. (Kr, O, Ḳ.)
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zayofapN</foreign>}</expan></choice>. (Kr, O, Ḳ.)
 						</sense>
 						</hom>
 					</entry>
@@ -27117,7 +27117,7 @@
 						</form>
 						<sense n="1" xml:id="zay-aAfN_A1">
 							<foreign lang="ar">zay-aAfN</foreign>, 
-							and <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">zay-aAfapN</foreign>}</expan></choice>: 
+							and <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">zay-aAfapN</foreign>}</expan></choice>: 
 							<ref target="zaAyifN">see the next paragraph</ref>, in three places.
 						</sense>
 					</entry>

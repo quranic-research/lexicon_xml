@@ -680,7 +680,7 @@
 						<hom n="A" xml:id="tb_1_A">
 						<sense n="1" xml:id="tb_1_A1">
 							1. [<foreign lang="ar">tab-a</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobibu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobibu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tab-N</foreign>, and perhaps 
 							<anchor type="arrow"><foreign lang="ar">tababN↓</foreign></anchor> 
 							and <anchor type="arrow"><foreign lang="ar">tabaAbN↓</foreign></anchor> 
@@ -707,7 +707,7 @@
 							meaning the same in an intensive, or emphatic, manner: (M, Ḳ:) 
 							and <anchor type="arrow"><foreign lang="ar">tab-FA tabaAbFA↓</foreign></anchor>. (TA.) 
 							And <foreign lang="ar">tab-ato yadaAhu</foreign>, (T, Ṣ, M, Ḳ,) and <foreign lang="ar">tab-ato yaduhu</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobibu</foreign>}</expan></choice>, (Mṣb,) inf. n. <foreign lang="ar">tab-N</foreign> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobibu</foreign>}</expan></choice>, (Mṣb,) inf. n. <foreign lang="ar">tab-N</foreign> 
 							and <anchor type="arrow"><foreign lang="ar">tabaAbN↓</foreign></anchor>, but IDrd says that the former of these seems to be the inf. n., and the latter the simple subst., (M,) <hi>May his arms,</hi> or <hi>hands,</hi> and <hi>his arm,</hi> or <hi>hand, suffer loss,</hi> or <hi>be lost,</hi> or <hi>perish:</hi> (T, M, Mṣb, Ḳ, and Bḍ in cxi. 1:) or ‡ <hi>may he himself suffer loss,</hi>, &amp;c., (Mṣb,* and Bḍ ubi suprà,) i. e., ‡ <hi>his whole person:</hi> (Jel in cxi. 1:) or ‡ <hi>his good in the present life and that in the life to come.</hi> (Bḍ ubi suprà.)
 						</sense>
 						<span type="sig">―</span>
@@ -874,7 +874,7 @@
 						<sense n="1" xml:id="taAb-N_A1">
 							<foreign lang="ar">taAb-N</foreign> 
 							‡ An <hi>old</hi> man; (AZ, T, M, A, Ḳ;) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">taAb-apN</foreign>}</expan></choice>: (AZ, T, M, A:) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">taAb-apN</foreign>}</expan></choice>: (AZ, T, M, A:) 
 							and † <hi>weak:</hi> 
 							pl. <foreign lang="ar">OatobaAbN</foreign>: of the dial. of Hudheyl; and extr. [with respect to analogy]. (M.) 
 							You say, <foreign lang="ar">kunotu XaAb-FA faSirotu taAb-FA</foreign> [<hi>I was a young man, and I have become an old man</hi>]. (A.) 
@@ -942,8 +942,8 @@
 						<hom n="A" xml:id="tbr_1_A">
 						<sense n="1" xml:id="tbr_1_A1">
 							1. <foreign lang="ar">tabira</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobaru</foreign>}</expan></choice>, (Lth, T, M, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tabaArN</foreign>; (Lth, T, M;) and <foreign lang="ar">tabara</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoburu</foreign>}</expan></choice>; (Mṣb;) <hi>He,</hi> or <hi>it,</hi> (a thing, Lth, T, M,) <hi>perished.</hi> (Lth, T, M, Mṣb, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobaru</foreign>}</expan></choice>, (Lth, T, M, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tabaArN</foreign>; (Lth, T, M;) and <foreign lang="ar">tabara</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoburu</foreign>}</expan></choice>; (Mṣb;) <hi>He,</hi> or <hi>it,</hi> (a thing, Lth, T, M,) <hi>perished.</hi> (Lth, T, M, Mṣb, Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -965,7 +965,7 @@
 							2. <foreign lang="ar">tb-rhu</foreign>, 
 							inf. n. <foreign lang="ar">tatobiyrN</foreign>; (Zj, T, Ṣ, M, Mṣb,* Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">tabarahu↓</foreign></anchor>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobiru</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobiru</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">taborN</foreign>; (Ḳ;) <hi>He broke it:</hi> (Ḳ:) or <hi>he broke it in pieces;</hi> (Ṣ, M;) <hi>and did away with it:</hi> (M:) or <hi>he crumbled it,</hi> or <hi>broke it into small pieces, with his fingers:</hi> (Zj, T:) and <hi>he destroyed it:</hi> (Zj, T, Ṣ, Mṣb, Ḳ:) <hi>He</hi> (God) <hi>destroyed him.</hi> (A.)
 						</sense>
 					</entry>
@@ -979,7 +979,7 @@
 						</form>
 						<sense n="1" xml:id="tiborN_A1">
 							[<foreign lang="ar">tiborN</foreign> a coll. gen. n., 
-							of which the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tiborapN</foreign>}</expan></choice>: 
+							of which the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tiborapN</foreign>}</expan></choice>: 
 							<hi>Native gold, in the form of dust</hi> or <hi>of nuggets:</hi> this is the sense in which the word is generally used in the present day:] <hi>broken gold:</hi> (M:) it is not so called unless <hi>in the dust of its mine,</hi> or <hi>broken:</hi> (IJ, M:) or <hi>gold,</hi> and <hi>silver, before it is wrought:</hi> (Lth, T, IF, Mṣb:) or <hi>broken,</hi> or <hi>crumbled, particles of gold,</hi> and <hi>of silver, before they are wrought:</hi> when they are wrought, they are called <foreign lang="ar">cahabN</foreign> and <foreign lang="ar">fiD-apN</foreign>: (IAạr, T, Ḳ:) or <hi>uncoined gold</hi> (Ṣ, Mgh, Mṣb) and <hi>silver:</hi> (Mgh:) when coined, it is called <foreign lang="ar">EayonN</foreign>: (Ṣ, Mṣb:) [properly,] 
 							the term <foreign lang="ar">tbr</foreign> should not be employed save as applied to gold; but some apply it to silver also: (Ṣ:) the <foreign lang="ar">tbr</foreign> of silver, as well as of gold, is mentioned in a trad.: (TA:) or <hi>gold</hi> (M, Ḳ) universally: (M:) and <hi>silver:</hi> (Ḳ:) or <hi>what is extracted from the mine,</hi> (M, Ḳ,) <hi>of gold</hi> and <hi>silver</hi> and <hi>all</hi> <foreign lang="ar">jawaAhir</foreign> 
 							[here meaning <hi>native ores</hi>] <hi>of the earth,</hi> (M,) <hi>before it is wrought</hi> (M, Ḳ) <hi>and used:</hi> (M:) or <hi>any</hi> <foreign lang="ar">jawohar</foreign> [or <hi>native ore</hi>] <hi>before it is used, of copper</hi> (Zj, T, Mgh, Mṣb) and <hi>brass</hi> (Zj, T, Mgh) or <hi>iron</hi> (Mṣb) <hi>&amp;c.:</hi> (Zj, Mgh, Mṣb:) and <hi>any</hi> <foreign lang="ar">jwhr</foreign> [or <hi>native ore</hi>] <hi>that is used, of copper and brass:</hi> (Ḳ:) the word is sometimes applied to other minerals than gold and silver, as <hi>copper</hi> and <hi>iron</hi> and <hi>lead,</hi> but generally to <hi>gold;</hi> and some say that its primary application is to gold, and that the other applications are later, or tropical: (TA:) also <hi>broken pieces of glass.</hi> (Zj, T, M, Ḳ.)
@@ -1058,7 +1058,7 @@
 						</form>
 						<sense n="1" xml:id="tbE_1_A1">
 							1. <foreign lang="ar">tabiEahu</foreign>, (Ṣ, Mgh, Mṣb, Ḳ, &amp;c.,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobaEu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobaEu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tabaEN</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">tabaAEapN</foreign>, (Ṣ, Ḳ,) <hi>He followed;</hi> or <hi>went,</hi> or <hi>walked, behind,</hi> or <hi>after;</hi> (Ṣ, Mgh, Mṣb, Ḳ;) <hi>him,</hi> (Mgh, Mṣb, Ḳ,) or <hi>it;</hi> namely, a people, or company of men: (Ṣ:) or 
 							[in the CK “and”] <hi>he went with him,</hi> or <hi>it, when the latter had passed by him:</hi> (Ṣ, Mgh, Mṣb, Ḳ:) 
 							and <anchor type="arrow"><foreign lang="ar">Ait-abaEahu↓</foreign></anchor> signifies the same; (Lth, Ṣ, Ḳ *) 
@@ -1321,7 +1321,7 @@
 						<sense n="1" xml:id="tiboEN_A1">
 							<foreign lang="ar">tiboEN</foreign> 
 							<hi>A follower</hi> of women: (Lḥ,* Az:) or <hi>a passionate lover, and follower,</hi> of a woman, (Ḳ,) whithersoever she goes: (TA:) 
-							and <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tiboEapN</foreign>}</expan></choice>, of a man: (Lḥ:) 
+							and <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tiboEapN</foreign>}</expan></choice>, of a man: (Lḥ:) 
 							and <anchor type="arrow"><foreign lang="ar">tub-aEN↓</foreign></anchor> <hi>a sedulous seeker</hi> of women. (Ḳ.) 
 							[<ref target="taAbiEN">See <foreign lang="ar">taAbiEN</foreign></ref>.] 
 							You say also, <foreign lang="ar">huwa tiboEu Dil-apK</foreign>, meaning <hi>He is a follower of women:</hi> and <foreign lang="ar">tiboEu Dil-apN</foreign> <hi>one in whom is no good, and with whom is no good:</hi> or, accord. to Th, you only say <foreign lang="ar">tiboEu Dil-apK</foreign>. (TA.)
@@ -1414,7 +1414,7 @@
 						<sense n="1" xml:id="tabiyEN_B1">
 							The <hi>young one of a cow in the first year;</hi> (Ṣ, Mṣb, Ḳ;) so says Aboo-Fak'as El-Asadee: (TA:) or <hi>that is a year old;</hi> (Az, Mgh, TA;) not so called until he has completed the year; erroneously said by Lth to signify <hi>a calf ripening to his perfect state:</hi> (Az, TA:) thus called because he yet follows his mother; (Mgh, Mṣb;) the word in this sense being of the measure <foreign lang="ar">faEiylN</foreign> in the sense of the measure <foreign lang="ar">faAEilN</foreign>: (Mṣb:) 
 							and <anchor type="arrow"><foreign lang="ar">tiboEN↓</foreign></anchor> signifies the same: (TA:) 
-							fem. of the former <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tabiyEapN</foreign>}</expan></choice>: (Ṣ, Mṣb, Ḳ:) 
+							fem. of the former <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tabiyEapN</foreign>}</expan></choice>: (Ṣ, Mṣb, Ḳ:) 
 							pl. <foreign lang="ar">tibaAEN</foreign> 
 							and <foreign lang="ar">tabaAYiEN</foreign>; (AA, Ṣ, O, Ḳ;) 
 							both pls. of <foreign lang="ar">tabiyEN</foreign>; (AA, Ṣ, O;) or the former 
@@ -1692,7 +1692,7 @@
 						<hom n="A" xml:id="tbl_1_A">
 						<sense n="1" xml:id="tbl_1_A1">
 							1. <foreign lang="ar">tabalahu</foreign>, (Lth, T, M,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobilu</foreign>}</expan></choice>, (M,) inf. n. <foreign lang="ar">tabolN</foreign>, (Lth, T, M,) <hi>He pursued him with enmity,</hi> or <hi>hostility:</hi> (Lth, T:) or <hi>he bore enmity,</hi> or <hi>was hostile, to him.</hi> (M.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobilu</foreign>}</expan></choice>, (M,) inf. n. <foreign lang="ar">tabolN</foreign>, (Lth, T, M,) <hi>He pursued him with enmity,</hi> or <hi>hostility:</hi> (Lth, T:) or <hi>he bore enmity,</hi> or <hi>was hostile, to him.</hi> (M.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="tbl_1_A2">
@@ -1702,7 +1702,7 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="tbl_1_A3">
 							<foreign lang="ar">tabalahu AlHub-u</foreign>, (Ṣ, M,) or <foreign lang="ar">AlhawaI</foreign>, (T,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobilu</foreign>}</expan></choice>, (M,) inf. n. <foreign lang="ar">tabolN</foreign>; (T, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobilu</foreign>}</expan></choice>, (M,) inf. n. <foreign lang="ar">tabolN</foreign>; (T, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">Atblhu↓</foreign></anchor>, (Ṣ, M,) inf. n. <foreign lang="ar">UitobaAlN</foreign>; (Ḳ, TA;) <hi>Love made him sick,</hi> or <hi>ill;</hi> 
 							(T, Ṣ, M, Ḳ; [in the CK, <foreign lang="ar">wAlAasoqaAmu kAlAatobaAli</foreign> is erroneously put for <foreign lang="ar">wAlUisoqaAmu kAlUitobaAli</foreign>;]) 
 							and <hi>caused him to be in a bad,</hi> or <hi>unsound, state:</hi> (Ṣ:) or, as some say, <foreign lang="ar">tabalahu</foreign> signifies, (M,) or signifies also, (Ḳ,) <hi>it took away his reason,</hi> (M, Ḳ,) and <hi>bewildered him.</hi> (TA.)
@@ -1966,7 +1966,7 @@
 						<hom n="A" xml:id="tbn_1_A">
 						<sense n="1" xml:id="tbn_1_A1">
 							1. <foreign lang="ar">tabana</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobinu</foreign>}</expan></choice>, (Ṣ, M, Ḳ,) inf. n. <foreign lang="ar">tabonN</foreign>, (Ṣ,) <hi>He fed</hi> a beast <hi>with</hi> <foreign lang="ar">tibon</foreign> [q. v.]. (Ṣ, M, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobinu</foreign>}</expan></choice>, (Ṣ, M, Ḳ,) inf. n. <foreign lang="ar">tabonN</foreign>, (Ṣ,) <hi>He fed</hi> a beast <hi>with</hi> <foreign lang="ar">tibon</foreign> [q. v.]. (Ṣ, M, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="tbn_1_A2">
@@ -1978,7 +1978,7 @@
 						<hom n="B" xml:id="tbn_1_B">
 						<sense n="1" xml:id="tbn_1_B1">
 							<foreign lang="ar">tabina</foreign>, (T, Ṣ, M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatobanu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">tabanN</foreign>, (T, Ṣ,) or <foreign lang="ar">tabonN</foreign>, (M, Ḳ,) and <foreign lang="ar">tabaAnapN</foreign> (T, Ṣ,* M, Ḳ) and <foreign lang="ar">tabaAniyapN</foreign>, (M,) <hi>He was,</hi> or <hi>became, intelligent, sagacious, skilful,</hi> or <hi>knowing;</hi> syn. <foreign lang="ar">faTina</foreign>, (Ḳ,) or <foreign lang="ar">SaAra faTinFA</foreign>; (Ṣ;) <hi>and nice,</hi> or <hi>minute, in inspection</hi> (Ṣ, Ḳ) <hi>into affairs:</hi> (Ṣ:) or <foreign lang="ar">tabaAnapN</foreign> signifies the <hi>being very intelligent</hi> or <hi>sagacious</hi> or <hi>skilful</hi> or <hi>knowing, and nice,</hi> or <hi>minute, in inspection;</hi> as also <foreign lang="ar">TabaAnahN</foreign>; accord. to AO and AA: (T:) these two words signify the same (T, Ṣ, M *) accord. to 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatobanu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">tabanN</foreign>, (T, Ṣ,) or <foreign lang="ar">tabonN</foreign>, (M, Ḳ,) and <foreign lang="ar">tabaAnapN</foreign> (T, Ṣ,* M, Ḳ) and <foreign lang="ar">tabaAniyapN</foreign>, (M,) <hi>He was,</hi> or <hi>became, intelligent, sagacious, skilful,</hi> or <hi>knowing;</hi> syn. <foreign lang="ar">faTina</foreign>, (Ḳ,) or <foreign lang="ar">SaAra faTinFA</foreign>; (Ṣ;) <hi>and nice,</hi> or <hi>minute, in inspection</hi> (Ṣ, Ḳ) <hi>into affairs:</hi> (Ṣ:) or <foreign lang="ar">tabaAnapN</foreign> signifies the <hi>being very intelligent</hi> or <hi>sagacious</hi> or <hi>skilful</hi> or <hi>knowing, and nice,</hi> or <hi>minute, in inspection;</hi> as also <foreign lang="ar">TabaAnahN</foreign>; accord. to AO and AA: (T:) these two words signify the same (T, Ṣ, M *) accord. to 
 							[most of] the leading authorities: (T:) and Yaạḳoob asserts that the <foreign lang="ar">t</foreign> is a substitute for <foreign lang="ar">T</foreign>: (M:) [or the reverse seems to be the case in the opinion of Az, who here remarks that there are many instances of the change of <foreign lang="ar">t</foreign> into <foreign lang="ar">T</foreign>:] 
 							or the former is <hi>in evil;</hi> and the latter, in good: (M:) or, accord. to Lth, <foreign lang="ar">Tabina</foreign> means in evil; and <foreign lang="ar">tabina</foreign>, <hi>in good;</hi> so that he makes <foreign lang="ar">TbAnp</foreign> to be in deceiving, or beguiling, and suddenly, or unexpectedly, attacking or destroying: but En-Naḍr says the contr.; and accord. to him, <foreign lang="ar">TabanN</foreign> signifies the having knowledge of affairs, and intelligence, or sagacity, and science: (T:) 
 							and <anchor type="arrow"><foreign lang="ar">tb-n↓</foreign></anchor>, 
@@ -2051,7 +2051,7 @@
 							and <anchor type="arrow"><foreign lang="ar">tabonN↓</foreign></anchor> (M, Ḳ) 
 							<hi>Straw;</hi> i. e. the <hi>stalks,</hi> or <hi>stems,</hi> (<foreign lang="ar">EaSiyf</foreign>, M, Ḳ,) or the <hi>stalk,</hi> or <hi>stem,</hi> (<foreign lang="ar">saAq</foreign>, Mṣb,) <hi>of seed-produce,</hi> (M, Mṣb, Ḳ,) <hi>such as wheat and the like,</hi> (M, Ḳ,) 
 							[generally] <hi>after it has been trodden</hi> or <hi>thrashed</hi> [<hi>and cut</hi>]; (Mṣb;) <hi>wheat when it has been trodden</hi> or <hi>thrashed</hi> [<hi>and cut</hi>] <hi>by the feet of beasts</hi> or <hi>by repeatedly drawing over it the</hi> [<hi>machine called</hi>] <foreign lang="ar">midowas</foreign> [q. v.]: (Mgh in art. <foreign lang="ar">dws</foreign>:) [a coll. gen. n.:] 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tibonapN</foreign>}</expan></choice> 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tibonapN</foreign>}</expan></choice> 
 							[signifying <hi>a straw,</hi> or <hi>piece of straw</hi>]. (Ṣ, M.) 
 							You say <foreign lang="ar">Oaqal-u mino tibonapK</foreign> [<hi>Less than a straw,</hi> or <hi>piece of straw</hi>]. (TA.)
 						</sense>
@@ -2260,7 +2260,7 @@
 						</form>
 						<sense n="1" xml:id="tjr_1_A1">
 							1. <foreign lang="ar">tajara</foreign>, (Ṣ, A, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatojuru</foreign>}</expan></choice>, (Ṣ, Mṣb,) inf. n. <foreign lang="ar">tajorN</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">tijaArapN</foreign>, (Ṣ, A, Ḳ,) or the latter is a simple subst., (Mṣb,) or quasi-inf. n., (Mgh,) and <foreign lang="ar">matojarN</foreign>; (A;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatojuru</foreign>}</expan></choice>, (Ṣ, Mṣb,) inf. n. <foreign lang="ar">tajorN</foreign> (Ṣ, Mṣb, Ḳ) and <foreign lang="ar">tijaArapN</foreign>, (Ṣ, A, Ḳ,) or the latter is a simple subst., (Mṣb,) or quasi-inf. n., (Mgh,) and <foreign lang="ar">matojarN</foreign>; (A;) 
 							and <anchor type="arrow"><foreign lang="ar">Ait-ajara↓</foreign></anchor>, (Ṣ, A, Mṣb, Ḳ,) of the measure <foreign lang="ar">AifotaEala</foreign>; (Ṣ;) <hi>He practised traffic, merchandise,</hi> or <hi>commerce; trafficked; traded; dealt; sold and bought;</hi> (Ḳ;) <hi>employed property for the purpose of gain.</hi> (A.) 
 							You say, <foreign lang="ar">tajara tijaArapF raAbiHapF</foreign> [<hi>He practised a profitable,</hi> or <hi>lucrative, traffic</hi>]. (A.) 
 							And <anchor type="arrow"><foreign lang="ar">fulaAnN yat-ajiru↓ fiI Albar-i waAlbaHori</foreign></anchor> [<hi>Such a one traffics on land and sea</hi>]. (A.) There can hardly, if at all, be found any other instance of <foreign lang="ar">t</foreign> immediately followed by <foreign lang="ar">j</foreign> except <foreign lang="ar">ntj</foreign> and <foreign lang="ar">rtj</foreign>: the <foreign lang="ar">t</foreign> in <foreign lang="ar">tujaAha</foreign> is originally <foreign lang="ar">w</foreign>. (Mṣb.)
@@ -2407,7 +2407,7 @@
 						</form>
 						<sense n="1" xml:id="tjh_1_A1">
 							1. <foreign lang="ar">tajaha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatojahu</foreign>}</expan></choice>, (AZ, Ḳ, art. <foreign lang="ar">wjh</foreign>,) inf. n. <foreign lang="ar">tajohN</foreign>; (AZ, TA, in that art.;) or, as Aṣ says, <foreign lang="ar">tajuha</foreign>, with damm; (TA in that art.;) <hi>i. q.</hi> <foreign lang="ar">tawaj-aha</foreign> and <foreign lang="ar">waj-aha</foreign> (Ḳ in that art.) and <foreign lang="ar">Ait-ajaha</foreign>. (Ḳ in art. <foreign lang="ar">tjh</foreign>.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatojahu</foreign>}</expan></choice>, (AZ, Ḳ, art. <foreign lang="ar">wjh</foreign>,) inf. n. <foreign lang="ar">tajohN</foreign>; (AZ, TA, in that art.;) or, as Aṣ says, <foreign lang="ar">tajuha</foreign>, with damm; (TA in that art.;) <hi>i. q.</hi> <foreign lang="ar">tawaj-aha</foreign> and <foreign lang="ar">waj-aha</foreign> (Ḳ in that art.) and <foreign lang="ar">Ait-ajaha</foreign>. (Ḳ in art. <foreign lang="ar">tjh</foreign>.) 
 							<ref target="Root_wjh">See art. <foreign lang="ar">wjh</foreign></ref>.
 						</sense>
 					</entry>
@@ -2585,7 +2585,7 @@
 						</form>
 						<sense n="1" xml:id="tx_1_A1">
 							1. <foreign lang="ar">tax-a</foreign>, (JK, Ṣ, L, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoxixu</foreign>}</expan></choice>, (JK, L,) inf. n. <foreign lang="ar">tuxuwxN</foreign>, (JK, L, and so in a copy of the Ṣ,) or <foreign lang="ar">tuxuwxapN</foreign>, (Ḳ, and so in a copy of the Ṣ,) or both, (TA,) <hi>It</hi> (dough) <hi>became sour:</hi> (JK, Ṣ, L, Ḳ:) <hi>it became soft by reason of too much water:</hi> and in like manner, clay, or mud, <hi>so that one could not plaster with it.</hi> (L.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoxixu</foreign>}</expan></choice>, (JK, L,) inf. n. <foreign lang="ar">tuxuwxN</foreign>, (JK, L, and so in a copy of the Ṣ,) or <foreign lang="ar">tuxuwxapN</foreign>, (Ḳ, and so in a copy of the Ṣ,) or both, (TA,) <hi>It</hi> (dough) <hi>became sour:</hi> (JK, Ṣ, L, Ḳ:) <hi>it became soft by reason of too much water:</hi> and in like manner, clay, or mud, <hi>so that one could not plaster with it.</hi> (L.) 
 							Also, said of dough, <hi>It became leavened;</hi> or <hi>mature.</hi> (JK.)
 						</sense>
 					</entry>
@@ -2683,7 +2683,7 @@
 						</form>
 						<sense n="1" xml:id="txc_1_A1">
 							1. <foreign lang="ar">taxica</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoxacu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoxacu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">taxacN</foreign> 
 							and <foreign lang="ar">taxocN</foreign>: 
 							<ref target="Axc_8">see 8</ref> 
@@ -2756,7 +2756,7 @@
 						</form>
 						<sense n="1" xml:id="txm_1_A1">
 							1. <foreign lang="ar">taxima</foreign>, [originally <foreign lang="ar">waxima</foreign>,] 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoxamu</foreign>}</expan></choice>, (Mṣb, and Ḳ in art. <foreign lang="ar">wxm</foreign>,) inf. n. <foreign lang="ar">taxamN</foreign>; (Mṣb;) and <foreign lang="ar">taxama</foreign>, aor. <foreign lang="ar">i</foreign>; (Ḳ ubi suprà;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoxamu</foreign>}</expan></choice>, (Mṣb, and Ḳ in art. <foreign lang="ar">wxm</foreign>,) inf. n. <foreign lang="ar">taxamN</foreign>; (Mṣb;) and <foreign lang="ar">taxama</foreign>, aor. <foreign lang="ar">i</foreign>; (Ḳ ubi suprà;) 
 							and <anchor type="arrow"><foreign lang="ar">Ait-axama ↓</foreign></anchor>; (Mṣb, and Ṣ and Ḳ, &amp;c. in art. <foreign lang="ar">wxm</foreign>;) <hi>He suffered from indigestion,</hi> or <hi>heaviness of the stomach arising from food which it was too weak to digest;</hi> (Mṣb in art. <foreign lang="ar">wxm</foreign>;) <hi>he suffered from a disease produced by unsuitable</hi> [or <hi>unwholesome</hi>] <hi>food,</hi> (Ḳ and TA in art. <foreign lang="ar">wxm</foreign>,) or <hi>by fulness of the stomach:</hi> (TA in that art.:) followed by <foreign lang="ar">mina AlT-aEaAmi</foreign> and <foreign lang="ar">Eani AlT-aEaAmi</foreign>. (Ṣ and TA in that art.)
 						</sense>
 					</entry>
@@ -2933,8 +2933,8 @@
 						<hom n="A" xml:id="tr_1_A">
 						<sense n="1" xml:id="tr_1_A1">
 							1. <foreign lang="ar">tar-a</foreign>, (T, M, A, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>  
-							and <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoruru</foreign>}</expan></choice>, (M, Ḳ,) the latter irregular, (TA,) inf. n. <foreign lang="ar">tar-N</foreign> and <foreign lang="ar">turuwrN</foreign>, (M, Ḳ,) <hi>It</hi> (a bone, M, Ḳ, or anything, M,) <hi>became severed, separated,</hi> or <hi>cut off,</hi> (T, M, Ḳ,) by a blow, or stroke 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>  
+							and <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoruru</foreign>}</expan></choice>, (M, Ḳ,) the latter irregular, (TA,) inf. n. <foreign lang="ar">tar-N</foreign> and <foreign lang="ar">turuwrN</foreign>, (M, Ḳ,) <hi>It</hi> (a bone, M, Ḳ, or anything, M,) <hi>became severed, separated,</hi> or <hi>cut off,</hi> (T, M, Ḳ,) by a blow, or stroke 
 							[of a sword, &amp;c.]. (M, A.) 
 							And <foreign lang="ar">tar-ato yaduhu</foreign>, 
 							inf. n. <foreign lang="ar">turuwrN</foreign>, <hi>His arm,</hi> or <hi>hand, became cut off;</hi> (M;) and in like manner, any member: (TA:) or <hi>fell off;</hi> as also <foreign lang="ar">Tar-ato</foreign>. (Ṣ in art. <foreign lang="ar">Tr</foreign>.)
@@ -2942,7 +2942,7 @@
 						<span type="sig">―</span>
 						<sense n="2" xml:id="tr_1_A2">
 							<foreign lang="ar">tar-ati Aln-awaApu</foreign>, (Ṣ, M, A,)) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>, (Ṣ, M,) and <foreign lang="ar">_u</foreign>, (Ṣ,) inf. n. <foreign lang="ar">turuwrN</foreign>, (T, M,) <hi>The date-stone leaped,</hi> (T, M,) or <hi>went forth,</hi> (Ṣ, A,) from the 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>, (Ṣ, M,) and <foreign lang="ar">_u</foreign>, (Ṣ,) inf. n. <foreign lang="ar">turuwrN</foreign>, (T, M,) <hi>The date-stone leaped,</hi> (T, M,) or <hi>went forth,</hi> (Ṣ, A,) from the 
 							[mess called] <foreign lang="ar">Hayos</foreign> 
 							[in the process of kneading], (T,) or from the stone with which it was to be broken. (Ṣ, A.)
 						</sense>
@@ -2959,12 +2959,12 @@
 						<hom n="B" xml:id="tr_1_B">
 						<sense n="1" xml:id="tr_1_B1">
 							<foreign lang="ar">tar-a</foreign>, (M,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">tar-N</foreign>, (Ḳ,) <hi>He</hi> (an ostrich) <hi>ejected what was in his belly.</hi> (M, Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>, (TA,) inf. n. <foreign lang="ar">tar-N</foreign>, (Ḳ,) <hi>He</hi> (an ostrich) <hi>ejected what was in his belly.</hi> (M, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="tr_1_B2">
 							<foreign lang="ar">tar-a bisaloHihi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoruru</foreign>}</expan></choice> and <foreign lang="ar">_i</foreign>, <hi>He ejected his excrement.</hi> (AA, T.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoruru</foreign>}</expan></choice> and <foreign lang="ar">_i</foreign>, <hi>He ejected his excrement.</hi> (AA, T.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="tr_1_B3">
@@ -2975,14 +2975,14 @@
 						<hom n="C" xml:id="tr_1_C">
 						<sense n="1" xml:id="tr_1_C1">
 							<foreign lang="ar">tar-a</foreign>, (T, M, Ḳ,) sec. pers. <foreign lang="ar">tarirota</foreign>, (Ṣ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoraru</foreign>}</expan></choice>, (T, M,) and [sec. pers. <foreign lang="ar">tararota</foreign>, aor.] <foreign lang="ar">_i</foreign>, (M,) [and app. sec. pers. <foreign lang="ar">tarurota</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoruru</foreign>}</expan></choice>,] inf. n. 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoraru</foreign>}</expan></choice>, (T, M,) and [sec. pers. <foreign lang="ar">tararota</foreign>, aor.] <foreign lang="ar">_i</foreign>, (M,) [and app. sec. pers. <foreign lang="ar">tarurota</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoruru</foreign>}</expan></choice>,] inf. n. 
 							[of <foreign lang="ar">tarirota</foreign> or <foreign lang="ar">tararota</foreign>] <foreign lang="ar">tar-N</foreign> and [of <foreign lang="ar">tararota</foreign>] <foreign lang="ar">turuwrN</foreign> (M, Ḳ) and [of <foreign lang="ar">tarurota</foreign>] <foreign lang="ar">taraArapN</foreign>, [which last is the most common,] (Lth, T, Ṣ, M, Ḳ,) <hi>He was,</hi> or <hi>became, plump:</hi> (T in explanation of the first verb:) or <hi>his body became plump, and his bones full of moisture:</hi> (Lth, T, M, Ḳ:) or <hi>he became fat, soft, thin-skinned, and plump.</hi> (Ṣ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="tr_1_C2">
 							And <foreign lang="ar">tar-a</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>, <hi>He was,</hi> or <hi>became, relaxed,</hi> or <hi>flaccid, from impatience or some other cause.</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoriru</foreign>}</expan></choice>, <hi>He was,</hi> or <hi>became, relaxed,</hi> or <hi>flaccid, from impatience or some other cause.</hi> 
 							(T. [<ref target="taAr-u">See <foreign lang="ar">taAr-u</foreign></ref>.])
 						</sense>
 						</hom>
@@ -3116,7 +3116,7 @@
 						<hom n="B" xml:id="taAr-N_B">
 						<sense n="1" xml:id="taAr-N_B1">
 							<hi>Plump</hi> (Lth, T, Ṣ, A) <hi>in body,</hi> (Lth, T,) <hi>and having the bones full of moisture;</hi> (Lth, T, A;) <hi>fat, soft, thin-skinned, and plump:</hi> (Ṣ, TA:) applied to a youth: 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">taAr-apN</foreign>}</expan></choice>, applied to a girl; (A, TA;) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">taAr-apN</foreign>}</expan></choice>, applied to a girl; (A, TA;) 
 							meaning [<hi>plump</hi>, &amp;c.: or] <hi>beautiful and foolish and soft</hi> or <hi>weak.</hi> (T.) 
 							You say, <foreign lang="ar">gulaAmN taAr-N TaAr-N</foreign> [<hi>A boy that is plump, and with bones full of moisture, whose mustache is growing forth</hi>]. (A.) 
 							And <foreign lang="ar">qaSabapN taAr-apN</foreign> [<hi>A bone of the kind called</hi> <foreign lang="ar">qSbp</foreign> <hi>full of moisture</hi>]. (A.)
@@ -3166,7 +3166,7 @@
 						<hom n="A" xml:id="trb_1_A">
 						<sense n="1" xml:id="trb_1_A1">
 							1. <foreign lang="ar">tariba</foreign>, (Ṣ, M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatorabu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">tarabN</foreign>, (M,) <hi>It</hi> (a thing) <hi>became dusted,</hi> or <hi>dusty; dust lighted upon it:</hi> (Ṣ, TA:) <hi>it</hi> (a place, M,) <hi>had much dust,</hi> or <hi>earth; abounded with dust,</hi> or <hi>earth.</hi> (M, Ḳ, TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatorabu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">tarabN</foreign>, (M,) <hi>It</hi> (a thing) <hi>became dusted,</hi> or <hi>dusty; dust lighted upon it:</hi> (Ṣ, TA:) <hi>it</hi> (a place, M,) <hi>had much dust,</hi> or <hi>earth; abounded with dust,</hi> or <hi>earth.</hi> (M, Ḳ, TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="trb_1_A2">
@@ -3261,7 +3261,7 @@
 							as also <anchor type="arrow"><foreign lang="ar">tr-bhu↓</foreign></anchor>: (A, Ḳ:) or the latter, 
 							inf. n. <foreign lang="ar">tatoriybN</foreign>, signifies <hi>he defiled it,</hi> or <hi>soiled it,</hi> (namely, a thing,) <hi>with dust,</hi> or <hi>earth:</hi> (Ṣ:) or you say, 
 							<anchor type="arrow"><foreign lang="ar">tarabahu↓</foreign></anchor>, (TA,) or <foreign lang="ar">tarabahu biAlt-uraAbi</foreign>, (Mṣb,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoribu</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">tarobN</foreign>, (TA,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoribu</foreign>}</expan></choice>, (Mṣb, TA,) inf. n. <foreign lang="ar">tarobN</foreign>, (TA,) 
 							[meaning <hi>he sprinkled it with dust,</hi>] namely, a writing 
 							[for the purpose of drying up the ink], (Mṣb,) or a paper; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">tr-bhu↓</foreign></anchor>, (T, Mṣb, TA,) with teshdeed, (Mṣb,) 
@@ -3331,7 +3331,7 @@
 						<sense n="1" xml:id="tirobN_A1">
 							<foreign lang="ar">tirobN</foreign> 
 							<hi>One born at the same time with thee;</hi> (M, Ḳ;) <hi>a coëtanean; a contemporary in birth; an equal in age: an equal; a match; a fellow; a peer,</hi> or <hi>compeer:</hi> syn. <foreign lang="ar">lidapN</foreign>: (T, Ṣ, M, A, Ḳ:) and <foreign lang="ar">sin-N</foreign>: (M, A, Ḳ:) applied to a male and to a female; (TA;) but mostly to a female; (M;) or, accord. to an opinion confirmed by 
-							[most of] the leading lexicologists, only to a female; and <foreign lang="ar">sin-N</foreign> is applied, as also <corr resp="EWL"><foreign lang="ar">qaronN</foreign></corr>, to a male; and <foreign lang="ar">lidapN</foreign>, to a male and a female: (TA:) pl. <foreign lang="ar">OatoraAbN</foreign>. (Ṣ, M, A.) 
+							[most of] the leading lexicologists, only to a female; and <foreign lang="ar">sin-N</foreign> is applied, as also <corr resp="#EWL"><foreign lang="ar">qaronN</foreign></corr>, to a male; and <foreign lang="ar">lidapN</foreign>, to a male and a female: (TA:) pl. <foreign lang="ar">OatoraAbN</foreign>. (Ṣ, M, A.) 
 							[The following exs. are given.] 
 							You say, [applying it to a female,] <foreign lang="ar">hecihi tirobu hecihi</foreign>, (T, Ṣ,) and <foreign lang="ar">hiIa tirobuhaA</foreign>, (M,) and <foreign lang="ar">hiIa tirobiI</foreign>; (Ḳ;) and [applying it to females and males,] <foreign lang="ar">humaA tirobaAni</foreign>, (T, A,) and <foreign lang="ar">hun-a OatoraAbN</foreign>, (Ṣ, A,) and <foreign lang="ar">humo OatoraAbN</foreign>. (A.) Accord. to Th, <foreign lang="ar">EurubFA OatorabFA</foreign>, in the Ḳur [lvi. 36], 
 							means [<hi>Showing love to their husbands;</hi>] <hi>like,</hi> or <hi>equal, unto them,</hi> or <hi>resembling them:</hi> which is a good rendering, as there is no begetting or bearing of children, [or rather as the latter word does not apply to females born or generated,] 
@@ -3905,7 +3905,7 @@
 						</form>
 						<sense n="1" xml:id="trH_1_A1">
 							1. <foreign lang="ar">tariHa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoraHu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoraHu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">taraHN</foreign>, <hi>He grieved; he was,</hi> or <hi>became, sorrowful, unhappy,</hi> or <hi>anxious;</hi> (Mṣb, Ḳ;) syn. <foreign lang="ar">Hazina</foreign>; (Mṣb;) [<hi>contr. of</hi> <foreign lang="ar">fariHa</foreign>; 
 							(<ref target="taraHN">see <foreign lang="ar">taraHN</foreign>, below</ref>;)] 
 							as also <anchor type="arrow"><foreign lang="ar">ttr-H↓</foreign></anchor>. (Ḳ.)
@@ -4097,7 +4097,7 @@
 						</form>
 						<sense n="1" xml:id="trs_1_A1">
 							1. <foreign lang="ar">tarasa AlbaAba</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatorusu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatorusu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tarosN</foreign>, <hi>He fastened,</hi> or <hi>closed, the door</hi> [<hi>with a bar</hi> or] <hi>in any manner.</hi> (TA.)
 						</sense>
 					</entry>
@@ -4289,7 +4289,7 @@
 						<hom n="A" xml:id="trE_1_A">
 						<sense n="1" xml:id="trE_1_A1">
 							1. <foreign lang="ar">tariEa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoraEu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoraEu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">taraEN</foreign>, <hi>It</hi> (a vessel, Ṣ, or a thing, TA) <hi>was,</hi> or <hi>became, full,</hi> or <hi>filled;</hi> (Ṣ, Z, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">Ait-araEa↓</foreign></anchor>: (Ṣgh, Ḳ:) or <hi>it was,</hi> or <hi>became, very full,</hi> or <hi>much filled.</hi> 
 							(Lth, in TA. [But it is said in the TA, in one place, that Lth ignored the verb in this sense; and in another place, that he said, I have not heard them say, <foreign lang="ar">tariEa AlUinaMCu</foreign>.])
@@ -4423,7 +4423,7 @@
 						</sense>
 						<span type="sig">―</span>
 						<sense n="4" xml:id="tariEN_B4">
-							And, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tariEapN</foreign>}</expan></choice>, 
+							And, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tariEapN</foreign>}</expan></choice>, 
 							A woman <hi>who transgresses the proper bounds</hi> or <hi>limits, and is light</hi> [<hi>in conduct</hi>]. (TA.)
 						</sense>
 						</hom>
@@ -4565,7 +4565,7 @@
 						</form>
 						<sense n="1" xml:id="trf_1_A1">
 							1. <foreign lang="ar">tarifa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatorafu</foreign>}</expan></choice>, (Ṣgh, Ḳ,) inf. n. <foreign lang="ar">tarafN</foreign>, (M, TA,) <hi>He enjoyed,</hi> or <hi>led, a plentiful, and a pleasant</hi> or <hi>an easy, and a soft</hi> or <hi>delicate, life;</hi> or <hi>a life of ease and plenty;</hi> (M, Ṣgh, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatorafu</foreign>}</expan></choice>, (Ṣgh, Ḳ,) inf. n. <foreign lang="ar">tarafN</foreign>, (M, TA,) <hi>He enjoyed,</hi> or <hi>led, a plentiful, and a pleasant</hi> or <hi>an easy, and a soft</hi> or <hi>delicate, life;</hi> or <hi>a life of ease and plenty;</hi> (M, Ṣgh, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">ttr-f↓</foreign></anchor>. (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
@@ -4839,7 +4839,7 @@
 						<hom n="A" xml:id="trk_1_A">
 						<sense n="1" xml:id="trk_1_A1">
 							1. <foreign lang="ar">tarakahu</foreign>, (Ṣ, M, Mṣb, Ḳ, &amp;c.,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoruku</foreign>}</expan></choice>, (Ṣ, M,) inf. n. <foreign lang="ar">tarokN</foreign> (Ṣ, M, Mṣb, Ḳ, &amp;c.) and <foreign lang="ar">trokaAnN</foreign>, with kesr, (Fr, Ḳ,) <hi>He left it, forsook it, relinquished it, abandoned it, deserted it,</hi> or <hi>quitted it;</hi> either <hi>intentionally, and by choice,</hi> or <hi>by constraint, and of necessity:</hi> (Er-Rághib, TA:) <hi>he left it, forsook it,</hi>, &amp;c., as above; namely, a thing that he desired, or wished for, and also a thing that he did not desire, or did not wish for: (Ibn-ʼArafeh, TA:) <hi>he left it, quitted it, went away from it,</hi> or <hi>departed from it;</hi> namely, a place: and <hi>he left him, forsook him, relinquished him, abandoned him, deserted him, quitted him,</hi> or <hi>separated himself from him:</hi> (Mṣb:) <hi>he cast it,</hi> or <hi>threw it, away, as a thing of no account; rejected it; discarded it; cast it off; left it off:</hi> (MF, TA:) <hi>he left it, left it alone, let it alone; ceased, desisted, forbore,</hi> or <hi>abstained, from it; neglected it, omitted it,</hi> or <hi>left it undone;</hi> syn. <foreign lang="ar">xal-aAhu</foreign>; (Ṣ, A, O;) or <foreign lang="ar">wadaEahu</foreign>; (M, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoruku</foreign>}</expan></choice>, (Ṣ, M,) inf. n. <foreign lang="ar">tarokN</foreign> (Ṣ, M, Mṣb, Ḳ, &amp;c.) and <foreign lang="ar">trokaAnN</foreign>, with kesr, (Fr, Ḳ,) <hi>He left it, forsook it, relinquished it, abandoned it, deserted it,</hi> or <hi>quitted it;</hi> either <hi>intentionally, and by choice,</hi> or <hi>by constraint, and of necessity:</hi> (Er-Rághib, TA:) <hi>he left it, forsook it,</hi>, &amp;c., as above; namely, a thing that he desired, or wished for, and also a thing that he did not desire, or did not wish for: (Ibn-ʼArafeh, TA:) <hi>he left it, quitted it, went away from it,</hi> or <hi>departed from it;</hi> namely, a place: and <hi>he left him, forsook him, relinquished him, abandoned him, deserted him, quitted him,</hi> or <hi>separated himself from him:</hi> (Mṣb:) <hi>he cast it,</hi> or <hi>threw it, away, as a thing of no account; rejected it; discarded it; cast it off; left it off:</hi> (MF, TA:) <hi>he left it, left it alone, let it alone; ceased, desisted, forbore,</hi> or <hi>abstained, from it; neglected it, omitted it,</hi> or <hi>left it undone;</hi> syn. <foreign lang="ar">xal-aAhu</foreign>; (Ṣ, A, O;) or <foreign lang="ar">wadaEahu</foreign>; (M, Ḳ;) 
 							as also <anchor type="arrow"><foreign lang="ar">At-rkhu↓</foreign></anchor>. 
 							(Ḳ. [But respecting this latter verb, see what follows.]) 
 							<foreign lang="ar">waQtoruki AlbaHora rahowFA</foreign>, in the Ḳur xliv. 23, <hi>And leave thou the sea opened with a wide interval;</hi> or <hi>motionless,</hi> in the same state as before thy passing through it, and strike it not with thy rod, nor alter anything thereof; (Bḍ;) or <hi>motionless, parted asunder;</hi> (Jel;) so that the Egyptians may enter it; (Bḍ, Jel;) is an instance of the verb meaning leaving intentionally, and by choice: (Er-Rághib, TA:) and <foreign lang="ar">kamo tarakuwA mino jan-aAtK waEuyuwnK</foreign>, in the next verse, <hi>How many gardens and springs did they leave!</hi> (Jel,) is an instance of the verb meaning leaving by constraint, and of necessity. (Er-Rághib, TA.) 
@@ -4870,7 +4870,7 @@
 						<hom n="B" xml:id="trk_1_B">
 						<sense n="1" xml:id="trk_1_B1">
 							<foreign lang="ar">tarika</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoraku</foreign>}</expan></choice>, (IAạr, Ḳ,) inf. n. <foreign lang="ar">tarokN</foreign>, (TḲ,) <hi>He</hi> (a man, IAạr) <hi>married,</hi> i. e. <hi>took to wife, a</hi> <foreign lang="ar">tariykap</foreign>, (IAạr, Ḳ,) meaning <hi>a woman that had remained a virgin, unmarried, until she had become of middle age,</hi> or <hi>long after she had attained to puberty, in the house,</hi> or <hi>tent, of her parents.</hi> (TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoraku</foreign>}</expan></choice>, (IAạr, Ḳ,) inf. n. <foreign lang="ar">tarokN</foreign>, (TḲ,) <hi>He</hi> (a man, IAạr) <hi>married,</hi> i. e. <hi>took to wife, a</hi> <foreign lang="ar">tariykap</foreign>, (IAạr, Ḳ,) meaning <hi>a woman that had remained a virgin, unmarried, until she had become of middle age,</hi> or <hi>long after she had attained to puberty, in the house,</hi> or <hi>tent, of her parents.</hi> (TA.)
 						</sense>
 						</hom>
 					</entry>
@@ -5134,7 +5134,7 @@
 							<orth lang="ar">taramaA</orth>
 						</form>
 						<sense n="1" xml:id="taramaA_A1">
-							<corr resp="EWL"><foreign lang="ar">laA taramaA</foreign></corr> <add resp="EWL">(in the CḲ <foreign lang="ar">laA taromaA</foreign>)</add> 
+							<corr resp="#EWL"><foreign lang="ar">laA taramaA</foreign></corr> <add resp="#EWL">(in the CḲ <foreign lang="ar">laA taromaA</foreign>)</add> 
 							<hi>i. q.</hi> <foreign lang="ar">lA siy-amaA</foreign> 
 							[<ref target="siy-amaA">which see</ref> 
 							<ref target="Root_swy">in art. <foreign lang="ar">swI</foreign></ref>]. (Ḳ.) 
@@ -5161,7 +5161,7 @@
 							<foreign lang="ar">turomusN</foreign> [vulgarly pronounced in the present day <foreign lang="ar">tiromis</foreign>; from the Greek <foreign lang="gr">θέρμος</foreign>, or Coptic <foreign lang="gr">θαρμος</foreign>; <hi>Lupines;</hi> or the <hi>lupine;</hi>] <hi>a certain grain, well known, of the description termed</hi> <foreign lang="ar">qaTaAniI-</foreign>; (Mṣb;) the <hi>produce of a tree</hi> [or <hi>plant</hi>] <hi>which has a grain ribbed and notched:</hi> (Lth, M,* Ḳ:) or <hi>i. q.</hi> <foreign lang="ar">baAqil-aI miSoriI-N</foreign>: (the Minháj and Ḳ:) 
 							[but if this be the same as the <foreign lang="ar">baAqil-aI qiboTiI-</foreign>, it is a mistake, accord. to Ibn-Beytár, to identify it with the <foreign lang="ar">trms</foreign>:] 
 							AHn says that it is the <foreign lang="ar">jirojiyr miSoriI-</foreign>, and is <hi>of the description termed</hi> <foreign lang="ar">qaTaAniI-</foreign>; and under the head of the letter <foreign lang="ar">j</foreign>, he says that the <foreign lang="ar">jirojiyr</foreign> is the <foreign lang="ar">baAqil-iI</foreign>: accord. to the Minháj, it is <hi>a grain of an expanded shape, of bitter taste, hollowed in the middle; and the wild kind is smaller than the other, and stronger: and the</hi> <foreign lang="ar">trms</foreign> <hi>approaches more to medicine than to food: the best is the white, large, and heavy:</hi> (TA:) some say that the <foreign lang="ar">t</foreign> is augmentative, and that the word is from <foreign lang="ar">ramasa</foreign>, signifying “he concealed” a thing: (MF, TA:) 
-							the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">turomusapN</foreign>}</expan></choice> (Mṣb.)
+							the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">turomusapN</foreign>}</expan></choice> (Mṣb.)
 						</sense>
 					</entry>
 				</superEntry>
@@ -5257,7 +5257,7 @@
 						</form>
 						<sense n="1" xml:id="trh_1_A1">
 							1. <foreign lang="ar">tariha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatorahu</foreign>}</expan></choice>, <hi>He fell into what are termed</hi> <foreign lang="ar">tur-ahaAt</foreign>, said to signify, originally, [<hi>deserts, such as are termed</hi>] <foreign lang="ar">qifaAr</foreign>, and to be metaphorically applied to ‡ <hi>false,</hi> or <hi>vain, sayings</hi> or <hi>actions</hi> or <hi>affairs; unprofitable sayings:</hi> (Ḳ,* TA:) or † <hi>he uttered false and confused and vain speech, with somewhat of embellishment,</hi> (Lth, TA,) or <hi>without foundation,</hi> or <hi>order,</hi> or <hi>method.</hi> (Akh, TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatorahu</foreign>}</expan></choice>, <hi>He fell into what are termed</hi> <foreign lang="ar">tur-ahaAt</foreign>, said to signify, originally, [<hi>deserts, such as are termed</hi>] <foreign lang="ar">qifaAr</foreign>, and to be metaphorically applied to ‡ <hi>false,</hi> or <hi>vain, sayings</hi> or <hi>actions</hi> or <hi>affairs; unprofitable sayings:</hi> (Ḳ,* TA:) or † <hi>he uttered false and confused and vain speech, with somewhat of embellishment,</hi> (Lth, TA,) or <hi>without foundation,</hi> or <hi>order,</hi> or <hi>method.</hi> (Akh, TA.)
 						</sense>
 					</entry>
 					<entry type="xref" n="4165" xml:id="tur-ahN">
@@ -5340,8 +5340,8 @@
 						</form>
 						<sense n="1" xml:id="tsE_1_A1">
 							1. <foreign lang="ar">tasaEahumo</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatosaEu</foreign>}</expan></choice> (Ṣ, Mṣb, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatosiEu</foreign>}</expan></choice> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatosaEu</foreign>}</expan></choice> (Ṣ, Mṣb, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatosiEu</foreign>}</expan></choice> 
 							(Yoo, Mṣb, Ḳ) and <foreign lang="ar">_u</foreign>, (Mṣb,) inf. n. <foreign lang="ar">tasoEN</foreign>, (T Ḳ,) <hi>He took the ninth part of their possessions:</hi> or <hi>he became the ninth of them:</hi> (Ṣ, Mṣb, Ḳ:) or <hi>he made them to be nine with himself;</hi> (Ḳ;) they having before been eight. (TA.) 
 							[<ref target="tsE_2">See also 2</ref>.]
 						</sense>
@@ -5695,7 +5695,7 @@
 						</form>
 						<sense n="1" xml:id="tEb_1_A1">
 							1. <foreign lang="ar">taEiba</foreign>, (Ṣ, A, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoEabu</foreign>}</expan></choice>, (A, Ḳ,) inf. n. <foreign lang="ar">taEabN</foreign>, (Ṣ, Mṣb,) <hi>He</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoEabu</foreign>}</expan></choice>, (A, Ḳ,) inf. n. <foreign lang="ar">taEabN</foreign>, (Ṣ, Mṣb,) <hi>He</hi> 
 							[a man and a beast] <hi>was,</hi> or <hi>became, fatigued, tired, wearied</hi> [<hi>by labour</hi> or <hi>journeying</hi>, &amp;c.], 
 							or <hi>jaded;</hi> (Ṣ, A, Mṣb;) <hi>contr. of</hi> <foreign lang="ar">AisotaraAHa</foreign>. (Ḳ.) 
 							[<foreign lang="ar">taEabN</foreign>, which, used as a simple subst., may be rendered <hi>Fatigue, tiredness, weariness,</hi> or the <hi>state of being jaded,</hi> is here said in the TA to be <hi>contr. of</hi> <foreign lang="ar">raAHapN</foreign>; and to signify <foreign lang="ar">Xid-apu AlEanaMCi</foreign>, which may be rendered <hi>much fatigue</hi>, &amp;c.; but accord. to an explanation of the verb of <foreign lang="ar">EanaMCN</foreign> in the Ṣ and TA in art. <foreign lang="ar">EnI</foreign>, this word and <foreign lang="ar">taEabN</foreign> signify the same. 
@@ -5745,7 +5745,7 @@
 							<hi>Fatigued, tired, wearied,</hi> or <hi>jaded;</hi> 
 							as also <anchor type="arrow"><foreign lang="ar">mutoEabN↓</foreign></anchor>; (Ṣ, Mṣb, Ḳ;) but not <foreign lang="ar">matoEuwbN</foreign>. (Ṣ, Ḳ.) 
 							[<anchor type="arrow"><foreign lang="ar">taEobaAn↓</foreign></anchor>, for <foreign lang="ar">taEobaAnN</foreign>, 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">taEobaAnapN</foreign>}</expan></choice>, 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">taEobaAnapN</foreign>}</expan></choice>, 
 							is used in this sense in the present day.]
 						</sense>
 					</entry>
@@ -5834,9 +5834,9 @@
 						<hom n="A" xml:id="tEs_1_A">
 						<sense n="1" xml:id="tEs_1_A1">
 							1. <foreign lang="ar">taEasa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoEasu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoEasu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">taEosN</foreign>; (Ṣ, A, Mṣb, Ḳ, &amp;c.;) and <foreign lang="ar">taEsa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoEasu</foreign>}</expan></choice>; (Sh, AHeyth, A, IAth, Ḳ;) but the latter is not chaste; (A, TA;) or the former is used in addressing a person, saying <foreign lang="ar">taEasota</foreign>; and the latter, in narration; (Ḳ;) accord. to Sh; but ISd says that this is strange; (TA;) <hi>He fell, having stumbled; contr. of</hi> <foreign lang="ar">AinotaEaXa</foreign>: this is the primary signification: (Ṣ:) or <hi>he stumbled and fell</hi> (AHeyth, A, IAth, Ḳ) <hi>upon his hands and mouth,</hi> (AHeyth, TA,) or <hi>upon his face:</hi> (IAth, TA:) or <hi>he fell upon his face:</hi> (Er-Rustamee, Mṣb, TA:) [and this may also be meant by one of the explanations of the inf. n. in the TA, which is <foreign lang="ar">nukosN fiI safaAlK</foreign>:] 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoEasu</foreign>}</expan></choice>; (Sh, AHeyth, A, IAth, Ḳ;) but the latter is not chaste; (A, TA;) or the former is used in addressing a person, saying <foreign lang="ar">taEasota</foreign>; and the latter, in narration; (Ḳ;) accord. to Sh; but ISd says that this is strange; (TA;) <hi>He fell, having stumbled; contr. of</hi> <foreign lang="ar">AinotaEaXa</foreign>: this is the primary signification: (Ṣ:) or <hi>he stumbled and fell</hi> (AHeyth, A, IAth, Ḳ) <hi>upon his hands and mouth,</hi> (AHeyth, TA,) or <hi>upon his face:</hi> (IAth, TA:) or <hi>he fell upon his face:</hi> (Er-Rustamee, Mṣb, TA:) [and this may also be meant by one of the explanations of the inf. n. in the TA, which is <foreign lang="ar">nukosN fiI safaAlK</foreign>:] 
 							or <hi>he fell in any manner.</hi> (TA.) 
 							You say, by way of imprecation, <foreign lang="ar">taEasa waQnotakasa</foreign>, meaning <hi>May he fall upon his face, and not rise after his fall until he fall a second time.</hi> (Mṣb.) 
 							And <foreign lang="ar">taEasa famaA QnotaEaXa waXiyka falaA QnotaqaXa</foreign> [<hi>May he fall, having stumbled,</hi> or <hi>stumble and fall,</hi>, &amp;c., <hi>and not rise again; and may he be pricked with a thorn, and not extract the thorn</hi>]. (TA.) 
@@ -5861,7 +5861,7 @@
 						<hom n="B" xml:id="tEs_1_B">
 						<sense n="1" xml:id="tEs_1_B1">
 							<foreign lang="ar">taEasahu Qll-ehu</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoEasu</foreign>}</expan></choice>, 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoEasu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">taEosN</foreign>;] (AʼObeyd, A, Mṣb, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">AtEshu↓</foreign></anchor>; (AHeyth, Ṣ, A, Mṣb, Ḳ;) the former unknown to Sb; (Az, TA;) <hi>God made him to fall, having stumbled:</hi> (Ṣ:) or <hi>to stumble and fall</hi> (AHeyth, A, Ḳ) <hi>upon his hands and mouth,</hi> (AHeyth, TA,) or <hi>upon his face:</hi> (TA:) or <hi>to fall upon his face:</hi> (Mṣb:) or <hi>to fall in any manner.</hi> (TA.)
 						</sense>
@@ -5970,7 +5970,7 @@
 						</form>
 						<sense n="1" xml:id="tfv_1_A1">
 							1. <foreign lang="ar">tafiva</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofavu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofavu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tafavN</foreign>, <hi>He left off,</hi> or <hi>abstained from, anointing himself, and shaving his pubes, and in consequence became dirty:</hi> (Mṣb:) or <foreign lang="ar">tafavN</foreign> signifies the <hi>state of being dirty;</hi> (Mgh;) the <hi>state of having matted and dusty hair,</hi> or <hi>a dusty head, long left unanointed:</hi> (T, Mgh, Ḳ:) so in relation to the rites and ceremonies of the pilgrimage: (T, Ḳ:) thus explained by ISh; but not by any 
 							[other] of the lexicologists: he says that it is <hi>one of the rites and ceremonies of the pilgrimage;</hi> (T;) which is a conventional term of the professors, or lecturers, of the colleges: (Mgh:) accord. to I’Ab, it signifies the <hi>shaving, and shortening,</hi> or <hi>clipping, of the beard and mustache and</hi> [<hi>the hair of</hi>] <hi>the armpit, and slaughtering</hi> [<hi>of the victims</hi>], <hi>and casting</hi> [<hi>of the pebbles</hi>]: 
 							accord. to Fr, the <hi>slaughtering of the</hi> [<hi>victims termed</hi>] <foreign lang="ar">budon</foreign>, <hi>and other victims, namely, kine, and sheep</hi> or <hi>goats, and shaving the head, and paring the nails, and the like:</hi> (T:) AO says that no poem is adduced as presenting an ex. of it: (Mṣb, TA:) and Zj says that it is not known by the lexicologists except from the expositors of the Ḳur-án; (T, M;) who say that it is the <hi>clipping the mustache, and paring the nails, and plucking out the hair of the armpit, and shaving the pubes, and clipping the hair</hi> [<hi>of the head</hi>]: (T:) or the <hi>plucking out the hair, and paring of the nails, and deviating from all that is prohibited to the</hi> <foreign lang="ar">muHorim</foreign>: (M:) as though it were a passing from the state of <foreign lang="ar">UiHoraAm</foreign> to the state of <foreign lang="ar">UiHolaAl</foreign>: (T, M:) or, in the rites and ceremonies of the pilgrimage, the <hi>doing such things as paring the nails, and clipping the mustache, and shaving the pubes</hi> (Ṣ, Ḳ) <hi>and the head, and casting the pebbles, and slaughtering the</hi> <foreign lang="ar">budon</foreign>, (Ṣ,) <hi>&amp;c.:</hi> 
@@ -6039,7 +6039,7 @@
 						<sense n="1" xml:id="tuf-aAHN_A1">
 							<foreign lang="ar">tuf-aAHN</foreign>, of the measure <foreign lang="ar">fuE-aAlN</foreign>; an Arabic word; [not arabicized;] (Mṣb;) 
 							[The <hi>apple,</hi> or <hi>apples;</hi>] <hi>a certain fruit,</hi> (L, Mṣb,) <hi>well known,</hi> (Ṣ, L, Mṣb, Ḳ,) <hi>plentiful in</hi> [<hi>the cooler parts of</hi>] <hi>the land of the Arabs:</hi> (AḤn, TA:) the word is said by Abu-l-Khattáb to be derived from <foreign lang="ar">tafoHapN</foreign> “a sweet odour:” (L:) 
-							the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tuf-aAHapN</foreign>}</expan></choice>: (Ṣ, L, Mṣb:) 
+							the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tuf-aAHapN</foreign>}</expan></choice>: (Ṣ, L, Mṣb:) 
 							the pl. is <foreign lang="ar">tafaAfiyHu</foreign>: (T:) 
 							and the dim. of the n. un. is <anchor type="arrow"><foreign lang="ar">tufayofyHapN↓</foreign></anchor>. (L.) 
 							You say, <foreign lang="ar">fulaAnN tuHofatuhu tuf-aAHapN</foreign> [<hi>Such a one, his present is an apple</hi>]. (A.)
@@ -6127,8 +6127,8 @@
 						<hom n="A" xml:id="tfl_1_A">
 						<sense n="1" xml:id="tfl_1_A1">
 							1. <foreign lang="ar">tafala</foreign>, [in the CK, erroneously, <foreign lang="ar">tafila</foreign>,] 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofilu</foreign>}</expan></choice> (Ṣ, M, Mṣb, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofulu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tafolN</foreign>, (T, Ṣ, M, Mṣb,) <hi>He spat;</hi> syn. <foreign lang="ar">baSaqa</foreign>: (M, Ḳ:) [or rather, <hi>he spat, emitting a small quantity of saliva,</hi> generally <hi>in scattered portions, as when one spits forth some minute thing:</hi>] <foreign lang="ar">Alt-afolu</foreign> is <hi>similar to</hi> <foreign lang="ar">Albazoqu</foreign>, <hi>but less in degree:</hi> (Ṣ, Mṣb:*) the first degree is <foreign lang="ar">Albazoqu</foreign>; then, <foreign lang="ar">Alt-afolu</foreign>; then, <foreign lang="ar">Aln-afovu</foreign>; and then, <foreign lang="ar">Aln-afoxu</foreign>: (Ṣ:) <foreign lang="ar">Alt-afolu</foreign> with the mouth is [<hi>an action</hi>] <hi>never without somewhat of spittle:</hi> a blowing without spittle is 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofilu</foreign>}</expan></choice> (Ṣ, M, Mṣb, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofulu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tafolN</foreign>, (T, Ṣ, M, Mṣb,) <hi>He spat;</hi> syn. <foreign lang="ar">baSaqa</foreign>: (M, Ḳ:) [or rather, <hi>he spat, emitting a small quantity of saliva,</hi> generally <hi>in scattered portions, as when one spits forth some minute thing:</hi>] <foreign lang="ar">Alt-afolu</foreign> is <hi>similar to</hi> <foreign lang="ar">Albazoqu</foreign>, <hi>but less in degree:</hi> (Ṣ, Mṣb:*) the first degree is <foreign lang="ar">Albazoqu</foreign>; then, <foreign lang="ar">Alt-afolu</foreign>; then, <foreign lang="ar">Aln-afovu</foreign>; and then, <foreign lang="ar">Aln-afoxu</foreign>: (Ṣ:) <foreign lang="ar">Alt-afolu</foreign> with the mouth is [<hi>an action</hi>] <hi>never without somewhat of spittle:</hi> a blowing without spittle is 
 							[said to be] termed <foreign lang="ar">nafovN</foreign>. (T.) 
 							Hence, <foreign lang="ar">tafolu Alr-aAqiI</foreign> [<hi>The spitting of the charmer, in which he emits a small quantity of saliva at a time, in scattered portions:</hi> 
 							<ref target="nafava">see also <foreign lang="ar">nafava</foreign></ref>]. (Ṣ.) 
@@ -6139,7 +6139,7 @@
 						<hom n="B" xml:id="tfl_1_B">
 						<sense n="1" xml:id="tfl_1_B1">
 							<foreign lang="ar">tafila</foreign>, (M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">tafalN</foreign>, (Ṣ, M, Mgh, Ḳ,) <hi>He,</hi> or <hi>it,</hi> (a thing, M,) <hi>became altered for the worse in odour, ill-smelling,</hi> or <hi>frouzy:</hi> (M, Ḳ:) <hi>he neglected,</hi> or <hi>left off the use of, perfume:</hi> (M:) <hi>he was unperfumed:</hi> (Ṣ:) <hi>he neglected,</hi> or <hi>left off the use of, perfume, and so became altered for the worse in odour, ill-smelling,</hi> or <hi>frouzy:</hi> (Mgh, TA:) and <foreign lang="ar">tafilato</foreign>, aor. and inf. n. as above, <hi>she</hi> (a woman) <hi>stank, by reason of having neglected,</hi> or <hi>left off the use of, perfume and ointments:</hi> and also <hi>she perfumed herself:</hi> thus bearing two contr. significations. (Mṣb.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofalu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">tafalN</foreign>, (Ṣ, M, Mgh, Ḳ,) <hi>He,</hi> or <hi>it,</hi> (a thing, M,) <hi>became altered for the worse in odour, ill-smelling,</hi> or <hi>frouzy:</hi> (M, Ḳ:) <hi>he neglected,</hi> or <hi>left off the use of, perfume:</hi> (M:) <hi>he was unperfumed:</hi> (Ṣ:) <hi>he neglected,</hi> or <hi>left off the use of, perfume, and so became altered for the worse in odour, ill-smelling,</hi> or <hi>frouzy:</hi> (Mgh, TA:) and <foreign lang="ar">tafilato</foreign>, aor. and inf. n. as above, <hi>she</hi> (a woman) <hi>stank, by reason of having neglected,</hi> or <hi>left off the use of, perfume and ointments:</hi> and also <hi>she perfumed herself:</hi> thus bearing two contr. significations. (Mṣb.)
 						</sense>
 						</hom>
 					</entry>
@@ -6308,22 +6308,22 @@
 						</form>
 						<sense n="1" xml:id="tfh_1_A1">
 							1. <foreign lang="ar">tafiha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofahu</foreign>}</expan></choice>, (Ṣ, Mgh, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tafahN</foreign>, (JK, Mṣb, Ḳ, TA,) or <foreign lang="ar">tafohN</foreign>, (Mgh, CK,) and <foreign lang="ar">tufuwhN</foreign> (Ḳ) and <foreign lang="ar">tafaAhapN</foreign>, (Mṣb, TA,) or this last is a mistake; (Mgh;) and <foreign lang="ar">tafaha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofihu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofahu</foreign>}</expan></choice>, (Ṣ, Mgh, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tafahN</foreign>, (JK, Mṣb, Ḳ, TA,) or <foreign lang="ar">tafohN</foreign>, (Mgh, CK,) and <foreign lang="ar">tufuwhN</foreign> (Ḳ) and <foreign lang="ar">tafaAhapN</foreign>, (Mṣb, TA,) or this last is a mistake; (Mgh;) and <foreign lang="ar">tafaha</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofihu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tufuwhN</foreign>; (JK;) <hi>It</hi> (a thing, JK, Mgh, Mṣb) <hi>was,</hi> or <hi>became, paltry, sorry, mean, contemptible,</hi> or <hi>inconsiderable;</hi> (JK, Ṣ, Mgh, Mṣb;) and <hi>little,</hi> or <hi>small, in quantity</hi> or <hi>number.</hi> (JK, Ṣ, Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="tfh_1_A2">
 							<foreign lang="ar">tafiha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofahu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofahu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tufuwhN</foreign>, <hi>He</hi> (a man) <hi>was,</hi> or <hi>became, stupid,</hi> or <hi>foolish.</hi> (JK, Ḳ.) 
 							And <foreign lang="ar">tafihato nafosuhu</foreign> <hi>His mind became weak.</hi> (JK.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="3" xml:id="tfh_1_A3">
 							<foreign lang="ar">tafaha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofuhu</foreign>}</expan></choice>; and <foreign lang="ar">tafiha</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatofahu</foreign>}</expan></choice>; <hi>He,</hi> or <hi>it, was,</hi> or <hi>became, lean,</hi> or <hi>meagre;</hi> syn. <foreign lang="ar">gav-a</foreign>. (Ḳ.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofuhu</foreign>}</expan></choice>; and <foreign lang="ar">tafiha</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatofahu</foreign>}</expan></choice>; <hi>He,</hi> or <hi>it, was,</hi> or <hi>became, lean,</hi> or <hi>meagre;</hi> syn. <foreign lang="ar">gav-a</foreign>. (Ḳ.) 
 							It is said in a trad. (Ṣ, Ḳ) of Ibn-Mesʼood, (Ḳ,) <foreign lang="ar">AlquroMnu laA yatofahu walaA yataX-aAnu</foreign>, 
 							(Ṣ, Ḳ, [in the CK, erroneously, <foreign lang="ar">yutofahu</foreign> and <foreign lang="ar">yutaXAn-u</foreign>, and in some copies of the Ḳ, for the latter is put <foreign lang="ar">yntAn</foreign>,]) 
 							i. e. <foreign lang="ar">laA yagiv-u walaA yaxolaqu</foreign> 
@@ -6751,7 +6751,7 @@
 						</form>
 						<sense n="1" xml:id="tkl_1_A1">
 							1. <foreign lang="ar">takila Ealayohi</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatokalu</foreign>}</expan></choice> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatokalu</foreign>}</expan></choice> 
 							<ref target="Uit-akala">a dial. var. of <foreign lang="ar">Ait-akala</foreign></ref>. (Ibn-ʼAbbád, Ḳ) 
 							<ref target="Root_wkl">See art. <foreign lang="ar">wkl</foreign></ref>; where, also, 
 							<ref target="tukalapN">see <foreign lang="ar">tukalapN</foreign></ref>, &amp;c.
@@ -6776,7 +6776,7 @@
 						<hom n="A" xml:id="tl_1_A">
 						<sense n="1" xml:id="tl_1_A1">
 							1. <foreign lang="ar">tal-ahu</foreign>, (T, Ṣ,* M, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolulu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolulu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tal-N</foreign>, (M, Mṣb,) <hi>He prostrated him,</hi> or <hi>threw him down;</hi> (T, Ṣ, M, Mṣb, Ḳ;) 
 							[as some say,] <hi>upon the</hi> <foreign lang="ar">tal-</foreign>: (TA:) or <hi>he threw him down</hi> (M, Ḳ, TA) <hi>upon his</hi> <foreign lang="ar">taliyl</foreign>, i. e., (TA,) <hi>upon his neck,</hi> and <hi>his cheek:</hi> (M, Ḳ TA:) but the former is the more approved; and thus it is explained as used in the phrase <foreign lang="ar">watal-ahu lilojabiyni</foreign> [in the Ḳur xxxvii. 103], (M,) <hi>and he prostrated him,</hi> or <hi>threw him down,</hi> (Aboo-Is-ḥáḳ, T, Ṣ, Bḍ,) <hi>upon his side, so that the side of his forehead fell upon the ground;</hi> (Bḍ;) or <hi>upon his mouth;</hi> (Katá- deh, T;) or <hi>upon his face.</hi> (Bḍ.) 
 							And <foreign lang="ar">tal-a Aln-aAqapa</foreign> <hi>He made the she-camel to lie down upon her breast.</hi> (TA.)
@@ -6788,8 +6788,8 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="tl_1_A3">
 							<foreign lang="ar">tal-a</foreign>,, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolulu</foreign>}</expan></choice> (IAạr, T, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolilu</foreign>}</expan></choice>, (Ḳ,) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolulu</foreign>}</expan></choice> (IAạr, T, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolilu</foreign>}</expan></choice>, (Ḳ,) 
 							[the latter anomalous in this case, and doubtful,] 
 							also signifies <hi>He poured</hi> (IAạr, T, Ḳ, TA) into the hand of another. (TA.) 
 							And <foreign lang="ar">tal-a AlX-aIoCa fiI yadihi</foreign> <hi>He gave,</hi> or <hi>delivered, the thing to him:</hi> (M, Ḳ *:) or <hi>he threw,</hi> or <hi>put, the thing into his hand.</hi> (Ḳ.) The Prophet says, <foreign lang="ar">bayonaA OanaA naAYimN Outiytu bimafaAtiyHi xazaAYini AlOaroDi fatul-ato fiI yadiI</foreign>, i. e. [<hi>While I was sleeping, I had the keys of the treasures of the earth brought to me,</hi>] <hi>and they were poured into my hand:</hi> (IAạr, T, M:) or <hi>were thrown,</hi> or <hi>put, into my hand.</hi> (IAmb, M.)
@@ -6801,14 +6801,14 @@
 						<span type="sig">―</span>
 						<sense n="5" xml:id="tl_1_A5">
 							<anchor type="arrow"><foreign lang="ar">tal-ahu bitil-api↓ sawoCK</foreign></anchor>, 
-							[aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolulu</foreign>}</expan></choice>, accord. to rule,] <hi>He charged him,</hi> or <hi>upbraided him, with an evil,</hi> or <hi>a foul, thing.</hi> (Th, M, Ḳ.)
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolulu</foreign>}</expan></choice>, accord. to rule,] <hi>He charged him,</hi> or <hi>upbraided him, with an evil,</hi> or <hi>a foul, thing.</hi> (Th, M, Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
 						<hom n="B" xml:id="tl_1_B">
 						<sense n="1" xml:id="tl_1_B1">
 							<foreign lang="ar">tal-a</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolilu</foreign>}</expan></choice> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolilu</foreign>}</expan></choice> 
 							(IAạr, T, M, Ḳ) and <foreign lang="ar">_u</foreign>, (Ḳ,) 
 							[the latter anomalous in this case, and doubtful,] <hi>He was,</hi> or <hi>became, prostrated,</hi> or <hi>thrown down;</hi> (M, Ḳ) <hi>he fell,</hi> or <hi>fell down.</hi> (IAạr, T, M, Ḳ.)
 						</sense>
@@ -6817,7 +6817,7 @@
 						<hom n="C" xml:id="tl_1_C">
 						<sense n="1" xml:id="tl_1_C1">
 							<foreign lang="ar">tal-a jabiynuhu</foreign>, (M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolilu</foreign>}</expan></choice> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolilu</foreign>}</expan></choice> 
 							(T, M, Ḳ) and <foreign lang="ar">_u</foreign>, (Ḳ,) 
 							[the latter anomalous in this case also, and doubtful,] inf. n. <foreign lang="ar">tal-N</foreign>, (T, M,) <hi>The side of his forehead sweated,</hi> or <hi>exuded sweat.</hi> (M, Ḳ.) 
 							And in like manner the verb is used in relation to a wateringtrough. (Lḥ, M.)
@@ -7296,7 +7296,7 @@
 						<hom n="A" xml:id="tld_1_A">
 						<sense n="1" xml:id="tld_1_A1">
 							1. <foreign lang="ar">talada</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolidu</foreign>}</expan></choice>; (T, Ṣ, M, Mṣb, Ḳ;) and <foreign lang="ar">_u</foreign>, (T, sudot;, M, Ḳ,) inf. n. <foreign lang="ar">tuluwdN</foreign>; (Ṣ, M, Mṣb, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolidu</foreign>}</expan></choice>; (T, Ṣ, M, Mṣb, Ḳ;) and <foreign lang="ar">_u</foreign>, (T, sudot;, M, Ḳ,) inf. n. <foreign lang="ar">tuluwdN</foreign>; (Ṣ, M, Mṣb, Ḳ;) 
 							[and <anchor type="arrow"><foreign lang="ar">Ait-alada↓</foreign></anchor>; (see Ḥam p. 699;)] 
 							<hi>It</hi> (property, consisting of camels or the like, syn. <foreign lang="ar">maAlN</foreign>, T, Ṣ, M, &amp;c.) <hi>was,</hi> or <hi>became, old,</hi> or <hi>long-possessed;</hi> (Mṣb;) <hi>such as is termed</hi> <foreign lang="ar">tilaAd</foreign>. (T, Ṣ, M, Mṣb, Ḳ.)
 						</sense>
@@ -7307,8 +7307,8 @@
 						<span type="sig">―</span>
 						<sense n="3" xml:id="tld_1_A3">
 							And <foreign lang="ar">talada</foreign>, (T, Ṣ, M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoludu</foreign>}</expan></choice>, (M, Ḳ,) inf. n. as above; (T, L;) and <foreign lang="ar">talida</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoladu</foreign>}</expan></choice>; (Ḳ;) <hi>He remained, stayed, abode,</hi> or <hi>dwelt,</hi> (Aṣ, T, Ṣ, M, Ḳ,) <foreign lang="ar">fiI baniI fulaAnK</foreign> <hi>among the sons of such a one,</hi> (Ṣ,) and <foreign lang="ar">bayonahumo</foreign> <hi>among them,</hi> (M,) and <foreign lang="ar">bimakaAnK</foreign> <hi>in a place.</hi> (Aṣ, T, L.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoludu</foreign>}</expan></choice>, (M, Ḳ,) inf. n. as above; (T, L;) and <foreign lang="ar">talida</foreign>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoladu</foreign>}</expan></choice>; (Ḳ;) <hi>He remained, stayed, abode,</hi> or <hi>dwelt,</hi> (Aṣ, T, Ṣ, M, Ḳ,) <foreign lang="ar">fiI baniI fulaAnK</foreign> <hi>among the sons of such a one,</hi> (Ṣ,) and <foreign lang="ar">bayonahumo</foreign> <hi>among them,</hi> (M,) and <foreign lang="ar">bimakaAnK</foreign> <hi>in a place.</hi> (Aṣ, T, L.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -7464,7 +7464,7 @@
 							(ISh, T: [<ref target="tilaAdN">see also <foreign lang="ar">tilaAdN</foreign></ref>:]) 
 							or one <hi>who has parents at thine own abode,</hi> or <hi>home;</hi> whereas <foreign lang="ar">muwal-adN</foreign> signifies one who has only one parent there: 
 							(Mgh, from the Tekmileh [of the ʼEyn]:) 
-							the fem. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">taliydapN</foreign>}</expan></choice>; (Ṣ;) 
+							the fem. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">taliydapN</foreign>}</expan></choice>; (Ṣ;) 
 							signifying a female slave <hi>who is born in a foreign country, and is carried away, and grows up in the territory of the Arabs:</hi> (Ḳṭ, T:) 
 							or a female slave <hi>whose father and family and all her relations are in one country and who is herself in another:</hi> (ISh, L in art. <foreign lang="ar">wld</foreign>:) 
 							or a female slave <hi>born the property of a people with whom are her parents:</hi> (L in art. <foreign lang="ar">wld</foreign>:) 
@@ -7591,7 +7591,7 @@
 						</form>
 						<sense n="1" xml:id="tlf_1_A1">
 							1. <foreign lang="ar">talifa</foreign>, (Ṣ, M, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolafu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">talafN</foreign>, (Lth, T, Ṣ, M, &amp;c.,) <hi>He,</hi> or <hi>it,</hi> (a thing, Lth, T, Ṣ, Mṣb, of any kind, Lth, T,) <hi>perished, passed away, was not, was no more, became nonexistent</hi> or <hi>annihilated;</hi> or <hi>went away, no one knew whither;</hi> or <hi>became in a bad,</hi> or <hi>corrupt, state; became corrupted, vitiated, marred,</hi> or <hi>spoiled;</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolafu</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">talafN</foreign>, (Lth, T, Ṣ, M, &amp;c.,) <hi>He,</hi> or <hi>it,</hi> (a thing, Lth, T, Ṣ, Mṣb, of any kind, Lth, T,) <hi>perished, passed away, was not, was no more, became nonexistent</hi> or <hi>annihilated;</hi> or <hi>went away, no one knew whither;</hi> or <hi>became in a bad,</hi> or <hi>corrupt, state; became corrupted, vitiated, marred,</hi> or <hi>spoiled;</hi> 
 							[in this sense the verb is often used in the present day;] or <hi>he died:</hi> syn. <foreign lang="ar">halaka</foreign>; (M, Ḳ;) 
 						<pb n="313" xml:id="Page_0313"/>
 							and of the inf. n., <foreign lang="ar">EaTabN</foreign> (Lth, T,) and <foreign lang="ar">halaAkN</foreign>. (Lth, T, Ṣ.) 
@@ -7852,7 +7852,7 @@
 							1. <foreign lang="ar">talaA</foreign> 
 							<hi>He followed;</hi> or <hi>went,</hi> or <hi>walked, behind,</hi> or <hi>after.</hi> (IAạr, T.) 
 							You say, <foreign lang="ar">talawotuhu</foreign>, (Ṣ, M, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoluwu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tuluw-N</foreign> (Ṣ, M, Mṣb, Ḳ) and <foreign lang="ar">talowN</foreign>, (Er-Rághib, MF,) <hi>I followed him</hi> or <hi>it;</hi> or <hi>went,</hi> or <hi>walked, behind,</hi> or <hi>after, him</hi> or <hi>it;</hi> (Ṣ, M, Mṣb, Ḳ;) namely, a man [&amp;c.]; (Ṣ, Mṣb;) <hi>immediately,</hi> or <hi>without intervention;</hi> and sometimes it means <hi>bodily</hi> [or <hi>in reality</hi>]; and sometimes, <hi>virtually,</hi> or <hi>in effect:</hi> (Er-Rághib:) and so <foreign lang="ar">talayotuhu</foreign>; (Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoluwu</foreign>}</expan></choice>, (Ṣ, Mṣb, Ḳ,) inf. n. <foreign lang="ar">tuluw-N</foreign> (Ṣ, M, Mṣb, Ḳ) and <foreign lang="ar">talowN</foreign>, (Er-Rághib, MF,) <hi>I followed him</hi> or <hi>it;</hi> or <hi>went,</hi> or <hi>walked, behind,</hi> or <hi>after, him</hi> or <hi>it;</hi> (Ṣ, M, Mṣb, Ḳ;) namely, a man [&amp;c.]; (Ṣ, Mṣb;) <hi>immediately,</hi> or <hi>without intervention;</hi> and sometimes it means <hi>bodily</hi> [or <hi>in reality</hi>]; and sometimes, <hi>virtually,</hi> or <hi>in effect:</hi> (Er-Rághib:) and so <foreign lang="ar">talayotuhu</foreign>; (Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">tal-ayotuhu↓</foreign></anchor>, (Aṣ,* T,* Ḳ,) inf. n. <foreign lang="ar">tatoliyapN</foreign>. (Ḳ.) The phrase, in the Ḳur xci. 2, <foreign lang="ar">waAlqamari UicaA talaAhaA</foreign> means <hi>By the moon when its rising follows the rising thereof;</hi> i. e., the rising of the sun; at the beginning of the lunar month: (Bḍ:) or, <hi>when it follows in rising the setting thereof,</hi> (Bḍ, Jel,) on the night of the full moon: (Bḍ:) or, <hi>when it follows it in becoming round, and in fullness of light;</hi> (M,* Bḍ;) i. e., <hi>when it follows it in the way of imitation, and in respect of rank;</hi> for the moon borrows its light of the sun, and is to it in the place of a successor. (Er-Rághib.) Here, Ks pronounced <foreign lang="ar">tlAhA</foreign> with imáleh, 
 							[either because <foreign lang="ar">talayotu</foreign> 
 							<ref target="talaWotu">is a dial. var. of <foreign lang="ar">talawotu</foreign></ref>, or] because, although it has <foreign lang="ar">w</foreign> for its last radical letter, it occurs with words that may be so pronounced, namely, <foreign lang="ar">yagoXaAhaA</foreign> and <foreign lang="ar">banaAhaA</foreign>. (M.)
@@ -7869,7 +7869,7 @@
 						<span type="sig">―</span>
 						<sense n="4" xml:id="tlw_1_A4">
 							<foreign lang="ar">talaA</foreign>, (T,) first pers. <foreign lang="ar">talawotu</foreign>, (Ṣ, M, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoluwu</foreign>}</expan></choice>, (T,) inf. n. <foreign lang="ar">tilaAwapN</foreign>, (T, Ṣ, M, Mṣb, Ḳ,) <hi>He read,</hi> or <hi>perused,</hi> or <hi>he recited,</hi> (T, M, Ḳ,) the Ḳur-án, (Ṣ, M, Mṣb, Ḳ,) or any discourse, or piece of language: (M, Ḳ:) or <hi>he followed</hi> it, (I’Ab, T, Ṣ,* M,) <hi>and did according to it;</hi> (I’Ab, Mujáhid, T;) namely, the Scripture: (I’Ab, Mujáhid, T, M:) or the inf. n. specially signifies the <hi>following</hi> God's revealed Scriptures, sometimes <hi>by reading,</hi> or <hi>perusing,</hi> or <hi>by reciting,</hi> and sometimes <hi>by conforming therewith</hi> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoluwu</foreign>}</expan></choice>, (T,) inf. n. <foreign lang="ar">tilaAwapN</foreign>, (T, Ṣ, M, Mṣb, Ḳ,) <hi>He read,</hi> or <hi>perused,</hi> or <hi>he recited,</hi> (T, M, Ḳ,) the Ḳur-án, (Ṣ, M, Mṣb, Ḳ,) or any discourse, or piece of language: (M, Ḳ:) or <hi>he followed</hi> it, (I’Ab, T, Ṣ,* M,) <hi>and did according to it;</hi> (I’Ab, Mujáhid, T;) namely, the Scripture: (I’Ab, Mujáhid, T, M:) or the inf. n. specially signifies the <hi>following</hi> God's revealed Scriptures, sometimes <hi>by reading,</hi> or <hi>perusing,</hi> or <hi>by reciting,</hi> and sometimes <hi>by conforming therewith</hi> 
 							[as well as by reading, &amp;c., but not otherwise, for] every <foreign lang="ar">tilaAwap</foreign> is <foreign lang="ar">qiraMCap</foreign>, but the reverse is not the case. (Er-Rághib, TA.) 
 							[You say also, <foreign lang="ar">talaA Ealayohi</foreign> <hi>He recited,</hi> or <hi>related, to him</hi> a narrative, &amp;c.: 
 							see Ḳur v. 30, &amp;c.] 
@@ -7887,7 +7887,7 @@
 							<hi>He remained behind,</hi> or <hi>held back.</hi> (IAạr, ISk, T.) 
 							You say, <foreign lang="ar">talaA baEoda qawomihi</foreign> <hi>He held back,</hi> or <hi>lagged behind, after his people,</hi> or <hi>company, and remained.</hi> (TA.) 
 							And <foreign lang="ar">talawotuhu</foreign>, (AZ, AʼObeyd, T, Ṣ, M, Ḳ,) and <foreign lang="ar">talawotu Eanohu</foreign>, (AZ, T, M, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatoluwu</foreign>}</expan></choice>, (AZ, T,) inf. n. <foreign lang="ar">tuluw-N</foreign>, (AZ, T, M,) <hi>I left him, and held back from going with him:</hi> (AZ, T:) <hi>I held back from him,</hi> or <hi>from aiding him, and left him:</hi> (AZ, AʼObeyd, T, Ṣ, M, Ḳ:) thus the verb bears two contr. significations. (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatoluwu</foreign>}</expan></choice>, (AZ, T,) inf. n. <foreign lang="ar">tuluw-N</foreign>, (AZ, T, M,) <hi>I left him, and held back from going with him:</hi> (AZ, T:) <hi>I held back from him,</hi> or <hi>from aiding him, and left him:</hi> (AZ, AʼObeyd, T, Ṣ, M, Ḳ:) thus the verb bears two contr. significations. (Ḳ.)
 						</sense>
 						</hom>
 						<span type="dis">＝</span>
@@ -7900,7 +7900,7 @@
 						<hom n="D" xml:id="tlw_1_D">
 						<sense n="1" xml:id="tlw_1_D1">
 							<foreign lang="ar">taliyato liI mino Haq-iI taliy-apN</foreign>, and <foreign lang="ar">tulaAwapN</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatolawu</foreign>}</expan></choice>, (ISk, Ṣ,) inf. n. <foreign lang="ar">talFA</foreign>, (TA,) <hi>There remained to me, of my right,</hi> or <hi>due, a remainder.</hi> (ISk, Ṣ.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatolawu</foreign>}</expan></choice>, (ISk, Ṣ,) inf. n. <foreign lang="ar">talFA</foreign>, (TA,) <hi>There remained to me, of my right,</hi> or <hi>due, a remainder.</hi> (ISk, Ṣ.) 
 							And <foreign lang="ar">taliyato liI Einodahu taliy-apN</foreign> <hi>There remained to me, with him,</hi> or <hi>there remained owing to me by him, a remainder.</hi> (Aṣ, T.) 
 							And <foreign lang="ar">taliIa mina AlX-ahori kacaA</foreign>, (M, Ḳ,) inf. n. <foreign lang="ar">talFA</foreign>, (M,) <hi>There remained, of the month, such a portion.</hi> (M, Ḳ.)
 						</sense>
@@ -8108,9 +8108,9 @@
 							[Hence,] <foreign lang="ar">tilowu Aln-aAqapi</foreign> <hi>The she-camel's young one that follows her:</hi> (Ṣ:) and <foreign lang="ar">tilowN</foreign> 
 							[alone] <hi>a ewe's,</hi> or <hi>she-goat's,</hi> (M,) or <hi>she-camel's,</hi> (Ḳ,) <hi>young one when weaned, and following the mother;</hi> 
 							pl. <foreign lang="ar">OatolaMCN</foreign>; 
-							and fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tilowapN</foreign>}</expan></choice>: (M, Ḳ:) 
+							and fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tilowapN</foreign>}</expan></choice>: (M, Ḳ:) 
 							and the <hi>young one of the ass;</hi> (M, Ḳ;) because he follows his mother: (M:) and the <hi>young one of a mule:</hi> (IAạr, T, Ḳ:) and, accord. to En-Naḍr, <hi>a kid,</hi> and <hi>a lamb, that has become large in the stomach</hi> or <hi>belly</hi> (<foreign lang="ar">AstkrX</foreign>) <hi>and in no need of his mother;</hi> 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tilowapN</foreign>}</expan></choice>: (T:) or the fem. signifies <hi>a she-kid that has passed beyond the limit of those that are termed</hi> <foreign lang="ar">OajofaAr</foreign> 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tilowapN</foreign>}</expan></choice>: (T:) or the fem. signifies <hi>a she-kid that has passed beyond the limit of those that are termed</hi> <foreign lang="ar">OajofaAr</foreign> 
 							[<ref target="jaforN">pl. of <foreign lang="ar">jaforN</foreign>, q. v.</ref>], (M, Ḳ,) <hi>until she has completed a year</hi> [<hi>from her birth</hi>] <hi>and so become a</hi> <foreign lang="ar">jacaE</foreign>. (M.) 
 							And a <foreign lang="ar">tilowap</foreign> of sheep or goats is <hi>One that is brought forth,</hi> or <hi>that brings forth,</hi> 
 							[the verb is <foreign lang="ar">tunotaju</foreign>, which has both of these meanings,] <hi>before the</hi> <foreign lang="ar">Safariy-ap</foreign> [q. v.]. (Ṣ, Ḳ.)
@@ -8359,7 +8359,7 @@
 						<hom n="A" xml:id="tm_1_A">
 						<sense n="1" xml:id="tm_1_A1">
 							1. <foreign lang="ar">tam-a AlX-aIoCu</foreign>, (T, Ṣ, M, Ḳ, &amp;c.,) 
-							aor. <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatomimu</foreign>}</expan></choice>, (T, M, Ḳ,) inf. n. <foreign lang="ar">tamaAmN</foreign>, (T, Ṣ,) or <foreign lang="ar">timaAmN</foreign>, (M,) or both, and <foreign lang="ar">tumaAmN</foreign>, (Ḳ,) and <foreign lang="ar">tamaAmapN</foreign> (M, Ḳ) and <foreign lang="ar">timaAmapN</foreign>, (Ḳ,) and <foreign lang="ar">tm-u</foreign> and <foreign lang="ar">tam-N</foreign> and <foreign lang="ar">tum-N</foreign>, (M, Ḳ,) of which last three forms the first is said to be the most chaste, (TA,) [<hi>The thing was,</hi> or <hi>became, complete, entire, whole,</hi> or <hi>full;</hi> i. e., <hi>without,</hi> or <hi>free from, deficiency:</hi> and sometimes, <hi>the thing was,</hi> or <hi>became, consummate,</hi> or <hi>perfect;</hi> which latter signification is more properly expressed by <foreign lang="ar">kamala</foreign>:] 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatomimu</foreign>}</expan></choice>, (T, M, Ḳ,) inf. n. <foreign lang="ar">tamaAmN</foreign>, (T, Ṣ,) or <foreign lang="ar">timaAmN</foreign>, (M,) or both, and <foreign lang="ar">tumaAmN</foreign>, (Ḳ,) and <foreign lang="ar">tamaAmapN</foreign> (M, Ḳ) and <foreign lang="ar">timaAmapN</foreign>, (Ḳ,) and <foreign lang="ar">tm-u</foreign> and <foreign lang="ar">tam-N</foreign> and <foreign lang="ar">tum-N</foreign>, (M, Ḳ,) of which last three forms the first is said to be the most chaste, (TA,) [<hi>The thing was,</hi> or <hi>became, complete, entire, whole,</hi> or <hi>full;</hi> i. e., <hi>without,</hi> or <hi>free from, deficiency:</hi> and sometimes, <hi>the thing was,</hi> or <hi>became, consummate,</hi> or <hi>perfect;</hi> which latter signification is more properly expressed by <foreign lang="ar">kamala</foreign>:] 
 							accord. to the author of the Ḳ, as is shown in art. <foreign lang="ar">kml</foreign>, and accord. to some others, <foreign lang="ar">tamaAmN</foreign> and <foreign lang="ar">kamaAlN</foreign> are syn.; but several authors make a distinction between them: the former is said to signify a thing's <hi>being,</hi> or <hi>becoming, without,</hi> or <hi>free from, deficiency;</hi> and the latter, to signify <foreign lang="ar">tmAm</foreign> and something more, as, for instance, goodliness, and excellence, essential or accidental; though each is sometimes used in the sense of the other: or, as some say, the former necessarily implies previous deficiency; but the latter does not: (MF, TA:) or, accord. to El-Harállee, the latter signifies the attaining to the utmost point, or degree, in every respect: or, as Ibn-El-Kemál says, when one says of a thing <foreign lang="ar">kamala</foreign>, he means that what was desired of it became realized. (TA.) 
 							[<ref target="tamaAmN">See also <foreign lang="ar">tamaAmN</foreign>, below</ref>.] 
 							You say, <foreign lang="ar">tam-a xaloquhu</foreign> [<hi>His make,</hi> or <hi>formation, was,</hi> or <hi>became, complete,</hi> or <hi>perfect; he</hi> (a child or the like, and a man,) <hi>was,</hi> or <hi>became, fully formed</hi> or <hi>developed,</hi> or <hi>complete in his members;</hi> and <hi>he</hi> (a man) <hi>was,</hi> or <hi>became, full-grown</hi>]: (TA:) 
@@ -8833,7 +8833,7 @@
 						<sense n="1" xml:id="tamiymN_A1">
 							<foreign lang="ar">tamiymN</foreign> 
 							<hi>Strong; firm; hard:</hi> (AʼObeyd, T, Ṣ, M, Mṣb, Ḳ:) or <hi>strong in make,</hi> or <hi>formation:</hi> (TA:) or <hi>complete,</hi> or <hi>perfect, in make,</hi> or <hi>formation, and strong:</hi> (M:) applied to a man and to a horse: (M, TA:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tamiymapN</foreign>}</expan></choice>. (TA.) 
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tamiymapN</foreign>}</expan></choice>. (TA.) 
 							<ref target="taAm-N">See also <foreign lang="ar">taAm-N</foreign></ref>.
 						</sense>
 						<span type="sig">―</span>
@@ -8913,7 +8913,7 @@
 							One <hi>whose utterance is such as is termed</hi> <foreign lang="ar">tamotamapN</foreign>: (Ṣ, M, Mgh, Mṣb, Ḳ:) 
 							[<ref target="tm_RQ1">see R. Q. 1</ref>: accord. to most authorities,] 
 							one <hi>who reiterates in uttering the letter</hi> <foreign lang="ar">t</foreign>: (Ṣ, Mgh, Mṣb:) or, accord. to AZ, one <hi>who jabbers,</hi> or <hi>hurries in his speech, so as not to make another understand:</hi> (Mgh, Mṣb:) 
-							fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tamotaAmapN</foreign>}</expan></choice>. (M, Ḳ.)
+							fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tamotaAmapN</foreign>}</expan></choice>. (M, Ḳ.)
 						</sense>
 					</entry>
 					<entry type="main" n="4345" xml:id="taAm-N">
@@ -9044,7 +9044,7 @@
 						</form>
 						<sense n="1" xml:id="tmr_1_A1">
 							1. <foreign lang="ar">tamara</foreign>, (Ṣ, M, Ḳ, &amp;c.,) 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatomuru</foreign>}</expan></choice>, (M, TA,) or <foreign lang="ar">_i</foreign>, (Mṣb,) inf. n. <foreign lang="ar">tamorN</foreign>; (Ṣ, Mṣb, Ḳ;) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatomuru</foreign>}</expan></choice>, (M, TA,) or <foreign lang="ar">_i</foreign>, (Mṣb,) inf. n. <foreign lang="ar">tamorN</foreign>; (Ṣ, Mṣb, Ḳ;) 
 							and <anchor type="arrow"><foreign lang="ar">tm-r↓</foreign></anchor>, (M, Ḳ,) inf. n. <foreign lang="ar">tatomiyrN</foreign>; (TA;) 
 							and <anchor type="arrow"><foreign lang="ar">Atmr↓</foreign></anchor>; (M, Ḳ;) <hi>He fed</hi> people <hi>with,</hi> or <hi>gave</hi> them <hi>to eat,</hi> <foreign lang="ar">tamor</foreign> [or <hi>dried dates</hi>]. (Ṣ, M, Mṣb, Ḳ.)
 						</sense>
@@ -9127,7 +9127,7 @@
 						</form>
 						<sense n="1" xml:id="tamorN_A1">
 							<foreign lang="ar">tamorN</foreign>, a coll. gen. n.; (Ṣ, A;) masc. in one dial. and fem. in another [like other nouns of the same class]; (Mṣb;) <hi>Dates,</hi> or the <hi>fruit of the palmtree:</hi> (M:) or <hi>dried dates,</hi> like <foreign lang="ar">zabiybN</foreign> as applied to grapes, by general consent of the lexicologists: (Mgh, Mṣb:) the dates are left upon the palmtree, after they have become ripe, until they are dry, or nearly so, when they are cut, and left in the sun to dry thoroughly; and sometimes, as AḤát says, the fruit of the palm-tree is cut when full-grown but unripe, to lighten the tree, or from fear of theft, and left until it becomes <foreign lang="ar">tamor</foreign>: (Mṣb:) 
-							the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tamorapN</foreign>}</expan></choice>: 
+							the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tamorapN</foreign>}</expan></choice>: 
 							<ref target="tamorN">and the pl. of <foreign lang="ar">tamorN</foreign></ref> is <foreign lang="ar">tumuwrN</foreign> and <foreign lang="ar">tumoraAnN</foreign>, (T, Ṣ, M, Mṣb, Ḳ,) meaning <hi>sorts</hi> or <hi>varieties</hi> [<hi>of</hi> <foreign lang="ar">tamor</foreign>]; for a coll. gen. n. has not a pl. in the proper sense: (Ṣ:) and in like manner the dual <foreign lang="ar">tamoraAni</foreign> means <hi>two sorts</hi> [<hi>of</hi> <foreign lang="ar">tamor</foreign>]: (Sb cited in the M in art. <foreign lang="ar">bsr</foreign>:) 
 							<ref target="tamorapN">the pl. of <foreign lang="ar">tamorapN</foreign></ref> is <foreign lang="ar">tamaraAtN</foreign>. (Ṣ, Ḳ.) 
 							[<ref target="busorN">See also <foreign lang="ar">busorN</foreign></ref>.] 
@@ -9248,8 +9248,8 @@
 						</form>
 						<sense n="1" xml:id="tmk_1_A1">
 							1. <foreign lang="ar">tamaka</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatomuku</foreign>}</expan></choice> (Ṣ, Ḳ)  
-							and <choice><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatomiku</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">tamukN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">tumuwkN</foreign>, (Ḳ,) <hi>It</hi> (a camel's hump) <hi>was,</hi> or <hi>became, tall,</hi> or <hi>long and high:</hi> (Ṣ, Ḳ:) <hi>it was,</hi> or <hi>became, juicy, and compact,</hi> (O, Ḳ,) <hi>and plump.</hi> (M, TA.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_u</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatomuku</foreign>}</expan></choice> (Ṣ, Ḳ)  
+							and <choice type="infl"><abbr><foreign lang="ar">_i</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatomiku</foreign>}</expan></choice>, (Ḳ,) inf. n. <foreign lang="ar">tamukN</foreign> (Ṣ, Ḳ) and <foreign lang="ar">tumuwkN</foreign>, (Ḳ,) <hi>It</hi> (a camel's hump) <hi>was,</hi> or <hi>became, tall,</hi> or <hi>long and high:</hi> (Ṣ, Ḳ:) <hi>it was,</hi> or <hi>became, juicy, and compact,</hi> (O, Ḳ,) <hi>and plump.</hi> (M, TA.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="tmk_1_A2">
@@ -9524,7 +9524,7 @@
 						<hom n="A" xml:id="tnO_1_A">
 						<sense n="1" xml:id="tnO_1_A1">
 							1. <foreign lang="ar">tanaOa</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatonaOu</foreign>}</expan></choice>, 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatonaOu</foreign>}</expan></choice>, 
 							inf. n. <foreign lang="ar">tunuwoCN</foreign>, <hi>He remained, stayed, dwelt,</hi> or <hi>abode,</hi> (T, Ṣ, M, Mṣb, Ḳ,) <foreign lang="ar">bihi</foreign> <hi>in it,</hi> namely, a country, or town, (Ṣ, Mṣb,) or a place; (M;) <hi>he settled</hi> therein: (Mṣb:) as also <foreign lang="ar">tnA</foreign>, (M, Mṣb,) not a dial. var., but formed by substitution 
 							[of <foreign lang="ar">A</foreign> for <foreign lang="ar">O</foreign>], (M,) [i. e.] by suppression of the <foreign lang="ar">C</foreign>. (Mṣb.)
 						</sense>
@@ -9724,7 +9724,7 @@
 						<sense n="1" xml:id="tan-uwmN_A1">
 							<foreign lang="ar">tan-uwmN</foreign> 
 							<hi>A kind of trees</hi> (Ṣ, M, Ḳ) <hi>having a small fruit,</hi> (Ṣ, M,) <hi>like that of the</hi> <foreign lang="ar">xirowaE</foreign> [or <hi>castor-oil plant</hi>], (M,) <hi>which, bursting, discloses grains, that are eaten by the people of the desert:</hi> (Ṣ, M:) <hi>as the sun declines, it follows it with the</hi> [<hi>upper</hi>] <hi>sides of its leaves:</hi> (M:) <hi>its fruit, with</hi> <foreign lang="ar">Hurof</foreign>, (Ḳ,) i. e. <foreign lang="ar">Hab-u Alr-aXaAdi</foreign> [q. v.], (TA,) <hi>and water, drunk, expels worms; and the application of its leaves, with vinegar, in the manner of a poultice, draws forth warts:</hi> (Ḳ:) 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tan-uwmapN</foreign>}</expan></choice>: (Ṣ, M, Ḳ:) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tan-uwmapN</foreign>}</expan></choice>: (Ṣ, M, Ḳ:) 
 							AḤn says, it is <hi>a kind of dust-coloured trees, of those termed</hi> <foreign lang="ar">OagolaAv</foreign>, <hi>eaten by ostriches and gazelles, and of those among which gazelles are snared: its grain, when the coverings thereof open, becomes black; and it has a root</hi> (<foreign lang="ar">Eiroq</foreign>), <hi>sometimes made into a</hi> <foreign lang="ar">zanod</foreign> [<hi>for producing fire</hi>]: <hi>the places where it grows are mostly the sides of valleys:</hi> IAạr says, the <foreign lang="ar">tn-wmp</foreign> is <hi>a tree of the kind called</hi> <foreign lang="ar">janobap</foreign>, <hi>of large size, in which grow grains like hemp-seed, used for ointment, and as a seasoning,</hi> or <hi>condiment: it dries up at the beginning of winter, and disappears:</hi> all this is from AḤn: (M:) AʼObeyd says, it is <hi>one of the plants of the earth, in which, and in the fruit whereof, is a blackness: it is eaten by the ostrich:</hi> the pl. [or coll. gen. n.] 
 							is <foreign lang="ar">tan-uwmN</foreign>: (T: the author of which then adds,) I say, <hi>it is a tree which I have seen in the desert: the colour of its leaves inclines to blackness, and it has grains like hemp-seed, or a little larger: I have seen the women of the desert bruise its grains, and express from them a blue oil, in which is a viscosity; and they anoint their hair with it when they comb themselves:</hi> AA says, <hi>the</hi> <foreign lang="ar">tn-wm</foreign> <hi>has a grain which is oily and dustcoloured:</hi> En-Naḍr says, <hi>the</hi> <foreign lang="ar">tn-wmp</foreign> <hi>is of an ill savour, and the beasts do not like it,</hi> or <hi>eat much of it:</hi> (T:) 
 							[it is erroneously said in the Ḳ, voce <foreign lang="ar">Tul-aAmN</foreign>, to be <hi>hemp-seed</hi> (<foreign lang="ar">Hab-u AlX-aAhodaAnij</foreign>): and] some say that it is the <hi>hemp-plant</hi> (<foreign lang="ar">Xjr AlXhdAnj</foreign>). (Ḥam p. 135.) The sun, when eclipsed, is said in a trad. to have become black, and like a <foreign lang="ar">tn-wmp</foreign>. (T.) 
@@ -9894,7 +9894,7 @@
 						</form>
 						<sense n="1" xml:id="thm_1_A1">
 							1. <foreign lang="ar">tahima</foreign>, (JK, Mṣb, Ḳ,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatohamu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">tahamN</foreign>, (Mṣb,) or <foreign lang="ar">tahaAmapN</foreign>, (JK,) <hi>It</hi> (flesh-meat, JK, Mṣb, Ḳ, and milk, Mṣb, and oil, Ḳ) <hi>became altered for the worse, and stank:</hi> (JK,* Mṣb, Ḳ:*) <hi>it</hi> (flesh-meat, TḲ) <hi>had a foul odour; it stank.</hi> (Ḳ.)
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatohamu</foreign>}</expan></choice>, (Mṣb, Ḳ,) inf. n. <foreign lang="ar">tahamN</foreign>, (Mṣb,) or <foreign lang="ar">tahaAmapN</foreign>, (JK,) <hi>It</hi> (flesh-meat, JK, Mṣb, Ḳ, and milk, Mṣb, and oil, Ḳ) <hi>became altered for the worse, and stank:</hi> (JK,* Mṣb, Ḳ:*) <hi>it</hi> (flesh-meat, TḲ) <hi>had a foul odour; it stank.</hi> (Ḳ.)
 						</sense>
 						<span type="sig">―</span>
 						<sense n="2" xml:id="thm_1_A2">
@@ -10501,7 +10501,7 @@
 							<foreign lang="ar">tuwtN</foreign> (ISk, T, Ṣ, M, Mgh, Mṣb, Ḳ) and <foreign lang="ar">tuwvN</foreign>; (Mgh, and L and Ḳ in art. <foreign lang="ar">twv</foreign>, q. v.;) the latter sometimes used; (Mṣb;) or this is not allowable; (ISk, T, Ṣ, Mṣb;) for the word, which is app. Persian, is pronounced by the Arabs with <foreign lang="ar">t</foreign> for the final as well as for the initial letter; (T, Mṣb;) 
 							[The <hi>mulberry;</hi> and especially the <hi>white mulberry;</hi>] <hi>i. q.</hi> <foreign lang="ar">firoSaAdN</foreign>: (ISk, T, Ṣ, M, Mgh, Mṣb, Ḳ:) or, accord. to the people of El-Basrah, (Mṣb,) or some of the people of El-Basrah, (Mgh,) <foreign lang="ar">twt</foreign> is the name of the <hi>fruit,</hi> and <foreign lang="ar">frSAd</foreign> is that of the <hi>tree;</hi> (Mgh, Mṣb;) and this is what is commonly held: (Mṣb:) or, accord. to IDrd and others, <foreign lang="ar">twt</foreign> is an arabicized word, and <foreign lang="ar">frSAd</foreign> is the Arabic name: (TA:) 
 							[<foreign lang="ar">twt</foreign> is a coll. gen. n.:] 
-							the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tuwtapN</foreign>}</expan></choice>. (M.) 
+							the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tuwtapN</foreign>}</expan></choice>. (M.) 
 							[Golius says, in his Lex., on the authority of Zeyn El-'Attár, that there are three kinds: “<foreign lang="ar">twt Hlw</foreign>,” i. e. <foreign lang="ar">HulowN</foreign>, “the <hi>sweet and white mulberry,</hi> peculiarly called <foreign lang="ar">frSAd</foreign>; and <foreign lang="ar">twt HAmD</foreign>,” i. e. <foreign lang="ar">HaAmiDN</foreign>, ““the <hi>sour and black mulberry;</hi> and <foreign lang="ar">twt wHXI</foreign>,” i. e. <foreign lang="ar">waHoXiI-N</foreign>, “and <foreign lang="ar">twt AlElyq</foreign>,” i. e. <foreign lang="ar">AlEul-ayoqN</foreign>, “the <hi>wild mulberry,</hi> i. e., <hi>with red fruit.</hi>” 
 							In Egypt, <foreign lang="ar">twt</foreign> is applied to the <hi>sweet mulberry, white</hi> and <hi>black,</hi> and especially to the <hi>former,</hi> as also <foreign lang="ar">twt baladiI-</foreign>; and <foreign lang="ar">twt XaAmiI-</foreign> to the <hi>latter.</hi> 
 							In the present day, <foreign lang="ar">twt AlEul-ayoq</foreign> is applied to the <hi>raspberry;</hi> as also <foreign lang="ar">twt XawokiI-</foreign>: and <foreign lang="ar">twt waHoXiI-</foreign>, I believe, to the <hi>blackberry.</hi> <foreign lang="ar">twt OaroDiI-</foreign> and <foreign lang="ar">twt UiforanojiI-</foreign> are applied to the <hi>strawberry.</hi>]
@@ -10563,7 +10563,7 @@
 							<hi>i. q.</hi> <foreign lang="ar">qiroSaAdN</foreign>; 
 							<ref target="tuwtN">a dial. var. of <foreign lang="ar">tuwtN</foreign>, [q. v.,]</ref> 
 							mentioned by IF, (L, Ḳ,) and by AḤn, who cites a verse in which it occurs, and says that he had not heard any one pronounce it with <foreign lang="ar">t</foreign>, but only with <foreign lang="ar">v</foreign>, though <foreign lang="ar">twv</foreign> is Persian and <foreign lang="ar">twt</foreign> is Arabic; (IB, TA;) but it is disallowed by El-Ḥareeree and others: (TA:) in the Expos. of the work entitled Adab el-Kátib, it is said that <foreign lang="ar">twt</foreign> is an arabicized word, originally <foreign lang="ar">twv</foreign> and <foreign lang="ar">twc</foreign>: (Mz, MF:) 
-							the n. un. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tuwvapN</foreign>}</expan></choice>. (L, Ḳ.)
+							the n. un. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tuwvapN</foreign>}</expan></choice>. (L, Ḳ.)
 						</sense>
 					</entry>
 				</superEntry>
@@ -11022,7 +11022,7 @@
 						</form>
 						<sense n="1" xml:id="taAYiqN_A1">
 							<foreign lang="ar">taAYiqN</foreign> 
-							and its fem. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">taAYiqapN</foreign>}</expan></choice>: 
+							and its fem. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">taAYiqapN</foreign>}</expan></choice>: 
 							<ref target="taw-aAqN">see <foreign lang="ar">taw-aAqN</foreign></ref>; 
 							<ref target="tawaqapN">and see <foreign lang="ar">tawaqapN</foreign></ref>.
 						</sense>
@@ -11302,7 +11302,7 @@
 						</form>
 						<sense n="1" xml:id="twy_1_A1">
 							1. <foreign lang="ar">tawiIa</foreign>, (T, Ṣ, M, Mgh, Ḳ,) in the dial. of Teiyi <foreign lang="ar">tawaI</foreign>, (AAF, M,) 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yatowaIu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">tawFI</foreign>, (T, Ṣ, M, Mgh, Ḳ,) <hi>It perished; came to an end;</hi> (Ṣ, Mgh, Ḳ;) <hi>it passed away</hi> (T, M, Mgh) <hi>unhoped for:</hi> (T, M:) said of property. (T, Ṣ, M, Mgh.) 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yatowaIu</foreign>}</expan></choice>, (Ṣ, Ḳ,) inf. n. <foreign lang="ar">tawFI</foreign>, (T, Ṣ, M, Mgh, Ḳ,) <hi>It perished; came to an end;</hi> (Ṣ, Mgh, Ḳ;) <hi>it passed away</hi> (T, M, Mgh) <hi>unhoped for:</hi> (T, M:) said of property. (T, Ṣ, M, Mgh.) 
 							Hence the saying, in a trad., <foreign lang="ar">laA tawaI EalaI maAli QmoriYK musolimK</foreign> [<hi>There shall be no perishing of the property of a man that is a Muslim</hi>]: 
 							applied to the case of a man to whom is transferred the responsibility for a debt, and who dies insolvent; meaning that the responsibility shall return to him who transferred it. (Mgh.)
 						</sense>
@@ -11541,7 +11541,7 @@
 							as also <anchor type="arrow"><foreign lang="ar">mitoyaHN↓</foreign></anchor>, (Ṣ Ḳ,) 
 							and <anchor type="arrow"><foreign lang="ar">tay-aAHN↓</foreign></anchor>, (Ḳ,) <hi>who obtrudes himself,</hi> or <hi>interferes, in that which does not concern him:</hi> (Ṣ, Ḳ:) or <hi>who falls into trials,</hi> or <hi>afflictions:</hi> (Ḳ:) 
 							or <anchor type="arrow"><foreign lang="ar">mitoyaHN↓</foreign></anchor>, (TA,) which is also applied as an epithet to a heart, (Ṣ, A, TA,) signifies <hi>who obtrudes himself,</hi> or <hi>interferes, in everything, and falls into that which does not concern him;</hi> or <hi>who incessantly falls into trials,</hi> or <hi>afflictions;</hi> 
-							and its fem. is <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tay-iHaAnapN</foreign>}</expan></choice>; (TA;) 
+							and its fem. is <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tay-iHaAnapN</foreign>}</expan></choice>; (TA;) 
 							or <hi>who intrudes among a people whose affair,</hi> or <hi>business, is not his:</hi> (IAạr, T, TA:) 
 							and <anchor type="arrow"><foreign lang="ar">mitoyaAHN↓</foreign></anchor>, (Ḳ,) applied to a man, (TA,) signifies <hi>much in motion; forward, officious, meddling,</hi> or <hi>a busybody.</hi> 
 							(Ḳ,* TA. [In the CK, <foreign lang="ar">AlEaryDu</foreign> is erroneously put for <foreign lang="ar">AlEir-iyDu</foreign>.])
@@ -12081,7 +12081,7 @@
 							or the <foreign lang="ar">bls</foreign> <hi>itself:</hi> (M:) [or <hi>both;</hi> i. e.] <hi>a certain well-known kind of tree;</hi> and the <hi>fruit thereof:</hi> (TA:) [or the <hi>latter</hi> only;] <hi>a certain thing that is eaten,</hi> (Ṣ, Mṣb,) <hi>well known:</hi> (Mṣb, Ḳ:) <hi>fresh and ripe, it is the most approved of fruits, and the most nutritious, and the least flatulent; drawing, dissolvent, having the property of opening obstructions of the liver and spleen, and laxative; and the eating much thereof engenders lice:</hi> 
 							(Ḳ: [the last word in this explanation in the Ḳ is <foreign lang="ar">muqomilN</foreign>, which I render agreeably with the TḲ, having found no authoritative explanation of it: but in my own opinion, the meaning of this word is <hi>fattening,</hi> for <foreign lang="ar">qamila</foreign> signifies “he became fat after being lean;” and my opinion is confirmed by what here follows:]) 
 							it is <hi>a pleasant fruit, having nothing redundant, and a nice food, quick of digestion, and a very useful medicine, for it has a laxative property, dissolves phlegm, purifies the kidneys, removes sand of the bladder, opens obstructions of the liver and spleen, and fattens the body:</hi> it is also said, in a trad., that <hi>it stops hemorrhoids, and is good for the gout:</hi> (Bḍ xcv. 1:) AḤn says, <hi>there are many kinds thereof; that of the desert, that of the cultivated land, that of the plains, and that of the mountains; and it is abundant in the land of the Arabs:</hi> and he adds, on the authority of an Arab of the desert, of the Saráh, that <hi>it is, in the Saráh, very abundant, and allowed to be commonly taken; and is eaten by the people there in its fresh state, and also dried and stored:</hi> (M:) the word is Arabic: (Mṣb:) [a coll. gen. n.:] 
-							n. un. <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tiynapN</foreign>}</expan></choice>. (Ṣ, M, Mṣb.) 
+							n. un. <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tiynapN</foreign>}</expan></choice>. (Ṣ, M, Mṣb.) 
 							This is what is meant in the Ḳur [xcv. 1], where it is said, <foreign lang="ar">waAlt-iyni waAlz-ayotuwni</foreign>, (T, Ṣ, M, Mṣb,) accord. to I’Ab, (T, Ṣ, Bḍ, Jel,) and the generality of the interpreters: (Mṣb:) or these two words mean two mountains (Ṣ, M, Bḍ, Jel) of Syria, (Ṣ, Jel,) or of the Holy Land, (Bḍ,) that produce the two fruits thus named: (Jel:) or, accord. to a Syrian interpreter, certain mountains extending from Hulwán, to Hemdán, and the mountains of Syria: (Fr, T:) or Damascus and Jerusalem: (M, Bḍ:) or the mosque of Damascus and that of Jerusalem: (Bḍ:) or two mosques in Syria: accord. to AḤn, the former is the name of a mountain in the country of Ghatafán; but there is no mountain thus called in Syria. (M.)
 						</sense>
 						<span type="sig">―</span>
@@ -12285,7 +12285,7 @@
 							Also, and <anchor type="arrow"><foreign lang="ar">tay-ahaAnN↓</foreign></anchor> 
 							and <anchor type="arrow"><foreign lang="ar">tay-ihaAnN↓</foreign></anchor>, 
 							<hi>Daring,</hi> or <hi>bold; who pursues a random,</hi> or <hi>heedless, course, without any certain aim</hi> or <hi>object, in affairs:</hi> applied to a man: and in like manner to a camel: 
-							and, <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">tayohaAnapN</foreign>}</expan></choice>, to a she-camel. (TA.)
+							and, <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">tayohaAnapN</foreign>}</expan></choice>, to a she-camel. (TA.)
 						</sense>
 					</entry>
 					<entry type="xref" n="4522" xml:id="tay-ahaAnN">

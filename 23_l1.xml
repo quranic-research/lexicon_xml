@@ -2355,7 +2355,7 @@
 						</form>
 						<sense n="1" xml:id="mulas-anN_A1">
 							<foreign lang="ar">mulas-anN</foreign>, (Ṣ,) 
-							or <choice><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">mulas-anapN</foreign>}</expan></choice>, (Ḳ,) 
+							or <choice type="expan"><abbr>with <foreign lang="ar">p</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">mulas-anapN</foreign>}</expan></choice>, (Ḳ,) 
 							A sandal <hi>long and slender, like the form of the tongue:</hi> (Ṣ, Ḳ:) or <hi>having the extremity of its fore part like the extremity of the tongue.</hi> (TA.)
 						</sense>
 					</entry>
@@ -3496,9 +3496,9 @@
 						</form>
 						<sense n="1" xml:id="lqm_1_A1">
 							1. <foreign lang="ar">laqima luqomapF</foreign>, 
-							[aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloqamu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">laqomN</foreign>, (JK, MṢ,) [<hi>He gobbled a gobbet,</hi> or <hi>morsel,</hi> or <hi>mouthful,</hi> or] <hi>he swallowed the gobbet;</hi> 
+							[aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloqamu</foreign>}</expan></choice>,] inf. n. <foreign lang="ar">laqomN</foreign>, (JK, MṢ,) [<hi>He gobbled a gobbet,</hi> or <hi>morsel,</hi> or <hi>mouthful,</hi> or] <hi>he swallowed the gobbet;</hi> 
 							and so <anchor type="arrow"><foreign lang="ar">AilotaqamahaA↓</foreign></anchor>. (Ṣ.) <foreign lang="ar">laqimahu</foreign>, 
-							aor. <choice><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="WHL">{<foreign lang="ar">yaloqamu</foreign>}</expan></choice>, (Mṣb, Ḳ, &amp;c.,) inf. n. <foreign lang="ar">laqomN</foreign>, (JK, MA, Ḳ, MṢ, JM,) or <foreign lang="ar">laqamN</foreign> 
+							aor. <choice type="infl"><abbr><foreign lang="ar">_a</foreign></abbr> <expan resp="#WHL">{<foreign lang="ar">yaloqamu</foreign>}</expan></choice>, (Mṣb, Ḳ, &amp;c.,) inf. n. <foreign lang="ar">laqomN</foreign>, (JK, MA, Ḳ, MṢ, JM,) or <foreign lang="ar">laqamN</foreign> 
 							(Mṣb, [app. a mistake,]) 
 							<hi>He gobbled it;</hi> i. e., <hi>ate it quickly,</hi> (Mṣb, Ḳ, TA,) 
 							as also <anchor type="arrow"><foreign lang="ar">Ailotaqamahu↓</foreign></anchor>, 
