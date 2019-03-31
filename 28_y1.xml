@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
-	<teiHeader type="text" status="new">
+<!DOCTYPE TEI SYSTEM "LanesLexicon.dtd">
+<TEI version="3.5.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>An Arabic-English Lexicon</title>
-				<title><foreign lang="ar">ى</foreign></title>
-				<author>Edward William Lane</author>
+				<title type="main">An Arabic-English Lexicon</title>
+				<title type="sub">Book I. - Part 8.</title>
+				<title type="desc">Supplement for Arabic Letter <foreign lang="ar">ى</foreign></title>
+				<author xml:id="EWL">Edward William Lane</author>
+				<principal ref="http://www.perseus.tufts.edu">Perseus Digital Library</principal>
+				<sponsor ref="http://www.tufts.edu">Tufts University</sponsor>
 				<funder n="org:USDeptEd">The U.S. Department of Education</funder>
 				<funder n="org:MaxPlanck">The Max Planck Society</funder>
+				<respStmt xml:id="WHL">
+					<resp>XML encoding, hyperlinking and textual cleanup</resp>
+					<persName>Winfried H. Leclaire</persName>
+				</respStmt>
+				<respStmt xml:id="NUI">
+					<resp>Proofreading</resp>
+					<persName>Naveed Ul Islam</persName>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Trustees of Tufts University</publisher>
-				<pubPlace>Medford, MA</pubPlace>
+				<pubPlace>Medford, MA, USA</pubPlace>
+				<date>2011</date>
 				<authority>Perseus Project</authority>
+				<ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Download Arabic collection texts</ref>
 				<availability status="free">
 					<p>This text may be freely distributed, subject to the following restrictions:</p>
 					<list>
-						<item>You credit Perseus, as follows, whenever you use the document:
+						<item><s>You credit Perseus, as follows, whenever you use the document:</s>
 							<quote>Text provided by Perseus Digital Library, with funding from The U.S. Department of Education and The Max Planck Society.</quote>
 						</item>
 						<item>You leave this availability statement intact.</item>
@@ -25,17 +39,19 @@
 				</availability>
 			</publicationStmt>
 			<notesStmt>
-				<note anchored="yes" place="unspecified">Additional XML cleanup by Alpheios Technical Services, LLC.
-				</note>
+				<note anchored="yes" place="unspecified">Initial XML cleanup by Alpheios Technical Services, LLC.</note>
+				<note anchored="yes" place="unspecified">Major XML restructuring and text-correction by Winfried H. Leclaire (quranic-research.net)</note>
+				<note anchored="yes" place="unspecified">Additional proofreading by Naveed Ul Islam (lanelexicon.com)</note>
 			</notesStmt>
 			<sourceDesc>
 				<listBibl>
 					<biblStruct>
 						<monogr>
-						<title>An Arabic-English Lexicon</title>
+							<title type="main">An Arabic-English Lexicon</title>
+							<title type="sub">Book I. - Part 8.</title>
 							<imprint>
-								<pubPlace>London</pubPlace>
 								<publisher>Williams and Norgate</publisher>
+								<pubPlace>London</pubPlace>
 								<date>1863</date>
 							</imprint>
 						</monogr>
@@ -51,6 +67,13 @@
 				<state n="chunk" unit="root"/>
 				<state unit="entry"/>
 			</refsDecl>
+			<tagsDecl partial="true">
+				<rendition scheme="css" selector="hi">font-style: italic;</rendition>
+				<namespace name="http://www.tei-c.org/ns/1.0">
+					<tagUsage gi="div1" occurs="1" withId="1">Contains all 'Arabic Roots' for the 'Arabic Letter'.</tagUsage>
+				</namespace>
+			</tagsDecl>
+			&encoding;
 		</encodingDesc>
 		<profileDesc>
 			<langUsage default="NO">
@@ -61,648 +84,867 @@
 				<language id="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+		<revisionDesc>
+			<list>
+				<item>First issue published by Perseus Digital Library on 07th April 2011</item>
+			</list>
+		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
-			<div1 type="alphabetical letter" n="Y">
-				<head><foreign lang="ar">Y</foreign></head>
-				<superEntry type="root" n="Y">
-					<entry type="main" id="n44783" key="Y">
-						<form>
-							<iType>alphabetical letter</iType>
-							<orth extent="full" lang="ar">Y</orth>
-							<orth extent="full" lang="ar">*</orth>
-						</form>
-					</entry>
+			<div1 type="letter" xml:id="Letter_y">
+				<head><foreign lang="ar">I</foreign></head>
+				<superEntry type="main" xml:id="Root_I">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">I</foreign></title>
+						<label>Alphabetical letter <foreign lang="ar">I</foreign></label>
+					</dictScrap>
 				</superEntry>
-				<superEntry type="root" n="ytm">
-					<head>
-								<foreign lang="ar">ytm</foreign>
-					</head>
-					<entry type="main" id="n44784" key="A^ayotamahu">
-						<form>
+				<superEntry type="main" xml:id="Root_ytm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ytm</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44784" xml:id="Oayotamahu">
+						<form type="entry">
 							<iType>4</iType>
-							<orth orig="" extent="full" lang="ar">A^ayotamahu</orth>
-							<orth extent="full" lang="ar">*</orth>
+							<orth orig="" extent="full" lang="ar">Oayotamahu</orth>
 						</form>
-								4. <foreign lang="ar">A^ayotamahu</foreign> [<hi>He made him fatherless</hi>]. (TA in art. <foreign lang="ar">Aym</foreign>.) See an ex. in art. <foreign lang="ar">Aym</foreign>, conj. 2.
+						<hom n="A">
+						<sense n="1">
+							<s>4. <foreign lang="ar">Oayotamahu</foreign> [<hi>He made him fatherless</hi>]. (TA in art. <foreign lang="ar">Aym</foreign>.) See an ex. in art. <foreign lang="ar">Aym</foreign>, conj. 2.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ytn">
-					<head>
-								<foreign lang="ar">ytn</foreign>
-					</head>
-					<entry type="main" id="n44785" key="waladatohu yatonA">
-						<form>
+				<superEntry type="main" xml:id="Root_ytn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ytn</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44785" xml:id="waladatohu yatonA">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">waladatohu yatonA</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">waladatohu yatonA</foreign> <hi>She brought him forth feet foremost.</hi> (M.) In Fresnel's three copies of the Aghánee, (see his “ Seconde lettre sur l'Histoire des Arabes avant l'Islamisme, ” Journal Asiatique, 3rd Series, no. 16,) erroneously written <foreign lang="ar">nynA</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">waladatohu yatonA</foreign> <hi>She brought him forth feet foremost.</hi> (M.) In Fresnel's three copies of the Aghánee, (see his “ Seconde lettre sur l'Histoire des Arabes avant l'Islamisme, ” Journal Asiatique, 3rd Series, no. 16,) erroneously written <foreign lang="ar">nynA</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yvm">
-					<head>
-								<foreign lang="ar">yvm</foreign>
-					</head>
-					<entry type="main" id="n44786" key="A_iyvamu">
-						<form>
-							<orth orig="" extent="full" lang="ar">A_iyvamu</orth>
-							<orth extent="full" lang="ar">*</orth>
+				<superEntry type="main" xml:id="Root_yvm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yvm</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44786" xml:id="Uiyvamu">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">Uiyvamu</orth>
 						</form>
-								<foreign lang="ar">A_iyvamu</foreign> and <foreign lang="ar">tiyvamu</foreign> [for <foreign lang="ar">A=vamu</foreign> and <foreign lang="ar">taA^ovamu</foreign>]: see <foreign lang="ar">A^avima</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">Uiyvamu</foreign> and <foreign lang="ar">tiyvamu</foreign> [for <foreign lang="ar">Mvamu</foreign> and <foreign lang="ar">taOovamu</foreign>]: see <foreign lang="ar">Oavima</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yd">
-					<head>
-								<foreign lang="ar">yd</foreign>
-					</head>
-					<entry type="main" id="n44787" key="yadN">
-						<form>
+				<superEntry type="main" xml:id="Root_yd">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yd</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44787" xml:id="yadN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yadN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yadN</foreign> The <hi>arm, from the shoulder-joint to the extremities of the fingers.</hi> (Msb.)
-						―
-						-b2-
-								[The <hi>foreleg</hi> of a horse, &amp;c.]
-						―
-						-b3-
-								<foreign lang="ar">yadN bayoDaA='u</foreign>: see <foreign lang="ar">A^aboyaDu</foreign>, in two places, near the end of the paragraph.
-						―
-						-b4-
-								<foreign lang="ar">yadN</foreign> A <hi>sleeve:</hi> see R. Q. 1 in art. <foreign lang="ar">*b</foreign>.
-						―
-						-b5-
-								<foreign lang="ar">yadu Alqawosi</foreign>: see <foreign lang="ar">rijolN</foreign>, in two places.
-						―
-						-b6-
-								<foreign lang="ar">TiwaAlu AlA^ayodi</foreign> for <foreign lang="ar">AlA^ayodiY</foreign>: see <foreign lang="ar">vamaAniyapN</foreign>.
-						―
-						-b7-
-								<foreign lang="ar">A^aEoTaAhu</foreign> 
-								<foreign lang="ar">Eano yadK</foreign>, as occurring in the Kur, ix., 29, <hi>He gave it in acknowledgement of the superiority of the receiver;</hi> that the power (<foreign lang="ar">yado</foreign>) of the latter was superior to that of the giver: or, <hi>because of favour received;</hi> or, <hi>from subjection and abasement:</hi> (M:) or, <hi>from compulsion:</hi> (A 'Obeyd, T:) or, <hi>obediently:</hi> or, <hi>walking with it; not riding, nor sending it:</hi> or, <hi>in ready money.</hi> (TA.)
-						―
-						-b8-
-								<foreign lang="ar">A^asolama EalaY yadaYo fulaAnK</foreign> 
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yadN</foreign> The <hi>arm, from the shoulder-joint to the extremities of the fingers.</hi> (Msb.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s>[The <hi>foreleg</hi> of a horse, &amp;c.]</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="3">
+							<s><foreign lang="ar">yadN bayoDaMCu</foreign>: see <foreign lang="ar">OaboyaDu</foreign>, in two places, near the end of the paragraph.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="4">
+							<s><foreign lang="ar">yadN</foreign> A <hi>sleeve:</hi> see R. Q. 1 in art. <foreign lang="ar">cb</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="5">
+							<s><foreign lang="ar">yadu Alqawosi</foreign>: see <foreign lang="ar">rijolN</foreign>, in two places.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="6">
+							<s><foreign lang="ar">TiwaAlu AlOayodi</foreign> for <foreign lang="ar">AlOayodiI</foreign>: see <foreign lang="ar">vamaAniyapN</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="7">
+							<s><foreign lang="ar">OaEoTaAhu</foreign> 
+								<foreign lang="ar">Eano yadK</foreign>, as occurring in the Kur, ix., 29, <hi>He gave it in acknowledgement of the superiority of the receiver;</hi> that the power (<foreign lang="ar">yado</foreign>) of the latter was superior to that of the giver: or, <hi>because of favour received;</hi> or, <hi>from subjection and abasement:</hi> (M:) or, <hi>from compulsion:</hi> (A 'Obeyd, T:) or, <hi>obediently:</hi> or, <hi>walking with it; not riding, nor sending it:</hi> or, <hi>in ready money.</hi> (TA.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="8">
+							<s><foreign lang="ar">Oasolama EalaI yadaIo fulaAnK</foreign> 
 								<hi>He became a Muslim by the advice and persuasion of such a one.</hi> (Marg. note in a copy of the Jámi' es-Sagheer, on a trad. commencing <foreign lang="ar">mano</foreign> 
-								<foreign lang="ar">A^asolama</foreign>.)
-						―
-						-b9-
-								<foreign lang="ar">A^axa*t~u Einodahu yadFA</foreign>: see art. <foreign lang="ar">Ax*</foreign>.
-						―
-						-b10-
-								<foreign lang="ar">lifulaAnK EinodiY yadN</foreign> 
-								<hi>I owe such a one a benefit.</hi>
-						―
-						-b11-
-								<foreign lang="ar">EalaY yadihi</foreign> 
-								<hi>By his agency,</hi> or <hi>means.</hi> See the corresponding expression in Hebrew, in Ps. lxiii. 11, Jer. xviii. 21, and Ezek. xxxv. 5, in the phrase “ to pour out (the blood of) a person by means of the sword. ”
-						―
-						-b12-
-								<foreign lang="ar">walaA tuloquwA biA^ayodiykumo A_ilaY Alt~aholukapi</foreign> (Kur, ii. 191): see <foreign lang="ar">b</foreign> (used redundantly).
-						―
-						-b13-
-								<foreign lang="ar">lA</foreign> 
-								<foreign lang="ar">A=tiyhi yada Ald~ahori</foreign>, and <foreign lang="ar">yada Almusonadi</foreign> 
-								<hi>I will not come to him,</hi> or <hi>do it, ever; I will never do it.</hi> (IAar, in I., voce <foreign lang="ar">musonadN</foreign>.) See <foreign lang="ar">A^abadN</foreign> and <foreign lang="ar">jadFA</foreign>.
-						―
-						-b14-
-								<foreign lang="ar">EalaY yadaYi</foreign> 
-								<foreign lang="ar">Alxayori waAlyumoni</foreign>: see <foreign lang="ar">xayorN</foreign>.
-						―
-						-b15-
-								<foreign lang="ar">biEotuhu yadFA biyadK</foreign>: see <foreign lang="ar">naAjizN</foreign>.
-						―
-						-b16-
-							You say, also, <foreign lang="ar">baAyaEotuhu yadFA biyadK</foreign>, the two nouns being only thus used, as a denotative of state, <hi>I contracted a sale with him for ready money; i. q.</hi> 
-								<foreign lang="ar">biAlt~aEojiyli waAln~aqodi</foreign>. (Mgh.)
-						―
-						-b17-
-								<foreign lang="ar">laka A^ano yakuwna ka*aA</foreign> [or <foreign lang="ar">yadaY~a</foreign>?] <foreign lang="ar">yadiY~a</foreign> is like <foreign lang="ar">EalaY~a</foreign> 
-								<foreign lang="ar">lk An ykwn k*A</foreign>. (Aboo-Sahl El-Harawee, TA in art. <foreign lang="ar">Hbq</foreign>.)
-						―
-						-b18-
-								<foreign lang="ar">A^utiYa EalaY yadi fulaAnK</foreign>: see <foreign lang="ar">A^ataY</foreign>.
-						―
-						-b19-
-								<foreign lang="ar">A^aw~ala *iY yadayoni</foreign> and <foreign lang="ar">*aAti yadayoni</foreign>: see art. <foreign lang="ar">*w</foreign>.
-						―
-						-b20-
-								<foreign lang="ar">taHota yadihi</foreign> 
-								<hi>Under his authority.</hi>
-						―
-						-b21-
-								<foreign lang="ar">yadN</foreign> (assumed tropical:) <hi>Generosity.</hi> (A, voce <foreign lang="ar">$aborN</foreign>)
+								<foreign lang="ar">Oasolama</foreign>.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="9">
+							<s><foreign lang="ar">OaxactRu Einodahu yadFA</foreign>: see art. <foreign lang="ar">Axc</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="10">
+							<s><foreign lang="ar">lifulaAnK EinodiI yadN</foreign> 
+								<hi>I owe such a one a benefit.</hi></s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="11">
+							<s><foreign lang="ar">EalaI yadihi</foreign> 
+								<hi>By his agency,</hi> or <hi>means.</hi> See the corresponding expression in Hebrew, in Ps. lxiii. 11, Jer. xviii. 21, and Ezek. xxxv. 5, in the phrase “ to pour out (the blood of) a person by means of the sword. ”</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="12">
+							<s><foreign lang="ar">walaA tuloquwA biOayodiykumo UilaI AltRaholukapi</foreign> (Kur, ii. 191): see <foreign lang="ar">b</foreign> (used redundantly).</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="13">
+							<s><foreign lang="ar">lA</foreign> 
+								<foreign lang="ar">Mtiyhi yada AldRahori</foreign>, and <foreign lang="ar">yada Almusonadi</foreign> 
+								<hi>I will not come to him,</hi> or <hi>do it, ever; I will never do it.</hi> (IAar, in I., voce <foreign lang="ar">musonadN</foreign>.) See <foreign lang="ar">OabadN</foreign> and <foreign lang="ar">jadFA</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="14">
+							<s><foreign lang="ar">EalaI yadaIi</foreign> 
+								<foreign lang="ar">Alxayori waAlyumoni</foreign>: see <foreign lang="ar">xayorN</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="15">
+							<s><foreign lang="ar">biEotuhu yadFA biyadK</foreign>: see <foreign lang="ar">naAjizN</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="16">
+							<s>You say, also, <foreign lang="ar">baAyaEotuhu yadFA biyadK</foreign>, the two nouns being only thus used, as a denotative of state, <hi>I contracted a sale with him for ready money; i. q.</hi> 
+								<foreign lang="ar">biAltRaEojiyli waAlnRaqodi</foreign>. (Mgh.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="17">
+							<s><foreign lang="ar">laka Oano yakuwna kacaA</foreign> [or <foreign lang="ar">yadaIRa</foreign>?] <foreign lang="ar">yadiIRa</foreign> is like <foreign lang="ar">EalaIRa</foreign> 
+								<foreign lang="ar">lk An ykwn kcA</foreign>. (Aboo-Sahl El-Harawee, TA in art. <foreign lang="ar">Hbq</foreign>.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="18">
+							<s><foreign lang="ar">OutiIa EalaI yadi fulaAnK</foreign>: see <foreign lang="ar">OataI</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="19">
+							<s><foreign lang="ar">OawRala ciI yadayoni</foreign> and <foreign lang="ar">caAti yadayoni</foreign>: see art. <foreign lang="ar">cw</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="20">
+							<s><foreign lang="ar">taHota yadihi</foreign> 
+								<hi>Under his authority.</hi></s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="21">
+							<s><foreign lang="ar">yadN</foreign> (assumed tropical:) <hi>Generosity.</hi> (A, voce <foreign lang="ar">XaborN</foreign>)</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44788" key="mayodiY~N">
-						<form>
-							<orth orig="" extent="full" lang="ar">mayodiY~N</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44788" xml:id="mayodiIRN">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">mayodiIRN</orth>
 						</form>
-								<foreign lang="ar">mayodiY~N</foreign> A gazelle <hi>whose fore-leg is caught in a snare:</hi> see <foreign lang="ar">marojuwlN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">mayodiIRN</foreign> A gazelle <hi>whose fore-leg is caught in a snare:</hi> see <foreign lang="ar">marojuwlN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yrbE">
-					<head>
-								<foreign lang="ar">yrbE</foreign>
-					</head>
-					<entry type="main" id="n44789" key="AljaAru AlyarobuwEiY~u">
-						<form>
-							<orth orig="" extent="full" lang="ar">AljaAru AlyarobuwEiY~u</orth>
-							<orth extent="full" lang="ar">*</orth>
+				<superEntry type="main" xml:id="Root_yrbE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yrbE</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44789" xml:id="AljaAru AlyarobuwEiIRu">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">AljaAru AlyarobuwEiIRu</orth>
 						</form>
-								<foreign lang="ar">AljaAru AlyarobuwEiY~u</foreign>: see <foreign lang="ar">AljAr AlbaraAqi$iY~u</foreign>, in art. <foreign lang="ar">brq$</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">AljaAru AlyarobuwEiIRu</foreign>: see <foreign lang="ar">AljAr AlbaraAqiXiIRu</foreign>, in art. <foreign lang="ar">brqX</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yrE">
-					<head>
-								<foreign lang="ar">yrE</foreign>
-					</head>
-					<entry type="main" id="n44790" key="yaraAEN">
-						<form>
+				<superEntry type="main" xml:id="Root_yrE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yrE</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44790" xml:id="yaraAEN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yaraAEN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yaraAEN</foreign> <hi>A firefly:</hi> see <foreign lang="ar">HubaAHibN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yaraAEN</foreign> <hi>A firefly:</hi> see <foreign lang="ar">HubaAHibN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yrq">
-					<head>
-								<foreign lang="ar">yrq</foreign>
-					</head>
-					<entry type="main" id="n44791" key="yaraqaAnN">
-						<form>
+				<superEntry type="main" xml:id="Root_yrq">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yrq</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44791" xml:id="yaraqaAnN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yaraqaAnN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yaraqaAnN</foreign> <hi>Saffron.</hi> (Sgh, in TA, art. <foreign lang="ar">$Er</foreign>.)
-						―
-						-b2-
-							See <foreign lang="ar">A^araqaAnN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yaraqaAnN</foreign> <hi>Saffron.</hi> (Sgh, in TA, art. <foreign lang="ar">XEr</foreign>.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s>See <foreign lang="ar">OaraqaAnN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yrm">
-					<head>
-								<foreign lang="ar">yrm</foreign>
-					</head>
-					<entry type="main" id="n44792" key="yaramiY~N">
-						<form>
-							<orth orig="" extent="full" lang="ar">yaramiY~N</orth>
-							<orth extent="full" lang="ar">*</orth>
+				<superEntry type="main" xml:id="Root_yrm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yrm</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44792" xml:id="yaramiIRN">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">yaramiIRN</orth>
 						</form>
-								<foreign lang="ar">yaramiY~N</foreign> and <foreign lang="ar">A^ayoramiY~N</foreign> 
-								<hi>A sign-stone:</hi> see <foreign lang="ar">A_iramN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yaramiIRN</foreign> and <foreign lang="ar">OayoramiIRN</foreign> 
+								<hi>A sign-stone:</hi> see <foreign lang="ar">UiramN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yzn">
-					<head>
-								<foreign lang="ar">yzn</foreign>
-					</head>
-					<entry type="main" id="n44793" key="yazaniY~N">
-						<form>
-							<orth orig="" extent="full" lang="ar">yazaniY~N</orth>
-							<orth extent="full" lang="ar">*</orth>
+				<superEntry type="main" xml:id="Root_yzn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yzn</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44793" xml:id="yazaniIRN">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">yazaniIRN</orth>
 						</form>
-								<foreign lang="ar">yazaniY~N</foreign> and <foreign lang="ar">A^ayozaniY~N</foreign>, applied to a spear: see <foreign lang="ar">A^azoA^aniY</foreign>, in art. <foreign lang="ar">zA^n</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yazaniIRN</foreign> and <foreign lang="ar">OayozaniIRN</foreign>, applied to a spear: see <foreign lang="ar">OazoOaniI</foreign>, in art. <foreign lang="ar">zOn</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="y$m">
-					<head>
-								<foreign lang="ar">y$m</foreign>
-					</head>
-					<entry type="main" id="n44794" key="maA A^ayo$amahu">
-						<form>
+				<superEntry type="main" xml:id="Root_yXm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yXm</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44794" xml:id="maA OayoXamahu">
+						<form type="entry">
 							<iType>4</iType>
-							<orth orig="" extent="full" lang="ar">maA A^ayo$amahu</orth>
-							<orth extent="full" lang="ar">*</orth>
+							<orth orig="" extent="full" lang="ar">maA OayoXamahu</orth>
 						</form>
-								4. <foreign lang="ar">maA A^ayo$amahu</foreign> <hi>How unlucky!</hi> a vulgarism: see 4 in art. <foreign lang="ar">$A^m</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s>4. <foreign lang="ar">maA OayoXamahu</foreign> <hi>How unlucky!</hi> a vulgarism: see 4 in art. <foreign lang="ar">XOm</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yfE">
-					<head>
-								<foreign lang="ar">yfE</foreign>
-					</head>
-					<entry type="main" id="n44795" key="yafaEN">
-						<form>
+				<superEntry type="main" xml:id="Root_yfE">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yfE</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44795" xml:id="yafaEN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yafaEN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yafaEN</foreign>: see <foreign lang="ar">yaAfiEN</foreign>
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yafaEN</foreign>: see <foreign lang="ar">yaAfiEN</foreign></s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44796" key="yafaEapN">
-						<form>
+					<entry type="main" n="e44796" xml:id="yafaEapN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yafaEapN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yafaEapN</foreign>: see <foreign lang="ar">yaAfiEN</foreign>
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yafaEapN</foreign>: see <foreign lang="ar">yaAfiEN</foreign></s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44797" key="yafaAEN">
-						<form>
+					<entry type="main" n="e44797" xml:id="yafaAEN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yafaAEN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yafaAEN</foreign>: see <foreign lang="ar">yaAfiEN</foreign>
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yafaAEN</foreign>: see <foreign lang="ar">yaAfiEN</foreign></s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44798" key="yaAfiEN">
-						<form>
+					<entry type="main" n="e44798" xml:id="yaAfiEN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yaAfiEN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yaAfiEN</foreign> and 
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yaAfiEN</foreign> and 
 							<anchor type="arrow"><foreign lang="ar">yafaEapN↓</foreign></anchor> A boy <hi>grown up,</hi> (Msb, TA,) <hi>grown tall;</hi> (Ham, p. 354 et seq., Har, p. 189;) as also 
 							<anchor type="arrow"><foreign lang="ar">yafaAEN↓</foreign></anchor> and 
-							<anchor type="arrow"><foreign lang="ar">yafaEN↓</foreign></anchor>. (Ham, ibid.) See an ex. voce <foreign lang="ar">xaboA^apN</foreign>; and <foreign lang="ar">$aAdixN</foreign> and <foreign lang="ar">muTab~ixN</foreign>.
+							<anchor type="arrow"><foreign lang="ar">yafaEN↓</foreign></anchor>. (Ham, ibid.) See an ex. voce <foreign lang="ar">xaboOapN</foreign>; and <foreign lang="ar">XaAdixN</foreign> and <foreign lang="ar">muTabRixN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44799" key="waladu AlmuyaAfaEapi">
-						<form>
+					<entry type="main" n="e44799" xml:id="waladu AlmuyaAfaEapi">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">waladu AlmuyaAfaEapi</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">waladu AlmuyaAfaEapi</foreign> [<hi>The offspring of fornication,</hi> or <hi>adultery</hi>].
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">waladu AlmuyaAfaEapi</foreign> [<hi>The offspring of fornication,</hi> or <hi>adultery</hi>].</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yqn">
-					<head>
-								<foreign lang="ar">yqn</foreign>
-					</head>
-					<entry type="main" id="n44800" key="yaqinahu">
-						<form>
+				<superEntry type="main" xml:id="Root_yqn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yqn</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44800" xml:id="yaqinahu">
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">yaqinahu</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								1. <foreign lang="ar">yaqinahu</foreign>, (S, Msb, K,) and <foreign lang="ar">yaqina bihi</foreign>; (Msb;) and 
-							<anchor type="arrow"><foreign lang="ar">A^ayoqanahu↓</foreign></anchor>, (S, K,) and <foreign lang="ar">bihi</foreign> 
+						<hom n="A">
+						<sense n="1">
+							<s>1. <foreign lang="ar">yaqinahu</foreign>, (S, Msb, K,) and <foreign lang="ar">yaqina bihi</foreign>; (Msb;) and 
+							<anchor type="arrow"><foreign lang="ar">Oayoqanahu↓</foreign></anchor>, (S, K,) and <foreign lang="ar">bihi</foreign> 
 							<anchor type="arrow"><foreign lang="ar">Ayqn↓</foreign></anchor>; (K;) and 
-							<anchor type="arrow"><foreign lang="ar">tayaq~anahu↓</foreign></anchor>; and 
+							<anchor type="arrow"><foreign lang="ar">tayaqRanahu↓</foreign></anchor>; and 
 							<anchor type="arrow"><foreign lang="ar">Aisotayoqanahu↓</foreign></anchor>, (S, Msb, K,) and 
 							<anchor type="arrow"><foreign lang="ar">Astyqn↓</foreign></anchor> 
-								<foreign lang="ar">bihi</foreign>; (K;) all signify the same; (S;) <hi>He knew it; he was,</hi> or <hi>became, certain,</hi> or <hi>sure,</hi> or <hi>he made sure, of it;</hi> syn. <foreign lang="ar">Ealimahu</foreign>; (Msb, K;) <hi>intuitively,</hi> and <hi>inferentially;</hi> (Msb;) [see 1 in art. <foreign lang="ar">Elm</foreign>;] and <foreign lang="ar">taHaqaq~ahu</foreign>. (K.)
+								<foreign lang="ar">bihi</foreign>; (K;) all signify the same; (S;) <hi>He knew it; he was,</hi> or <hi>became, certain,</hi> or <hi>sure,</hi> or <hi>he made sure, of it;</hi> syn. <foreign lang="ar">Ealimahu</foreign>; (Msb, K;) <hi>intuitively,</hi> and <hi>inferentially;</hi> (Msb;) [see 1 in art. <foreign lang="ar">Elm</foreign>;] and <foreign lang="ar">taHaqaqRahu</foreign>. (K.)</s>
+						</sense>
+						</hom>
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>4</iType>
-							<orth lang="ar">A^ayoqana</orth>
+							<orth lang="ar">Oayoqana</orth>
 						</form>
-								4: see 1.
+						<hom n="A">
+						<sense n="1">
+							<s>4: see 1.</s>
+						</sense>
+						</hom>
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>5</iType>
-							<orth lang="ar">tayaq~ana</orth>
+							<orth lang="ar">tayaqRana</orth>
 						</form>
-								5: see 1.
+						<hom n="A">
+						<sense n="1">
+							<s>5: see 1.</s>
+						</sense>
+						</hom>
 					</entry>
 					<entry>
-						<form>
+						<form type="entry">
 							<iType>10</iType>
-							<orth lang="ar">A_isotayoqana</orth>
+							<orth lang="ar">Uisotayoqana</orth>
 						</form>
-								10: see 1.
+						<hom n="A">
+						<sense n="1">
+							<s>10: see 1.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44801" key="yaqiynN">
-						<form>
+					<entry type="main" n="e44801" xml:id="yaqiynN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yaqiynN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yaqiynN</foreign> is of the measure <foreign lang="ar">faEiylN</foreign> in the sense of the measure <foreign lang="ar">faAEilN</foreign>, signifying <hi>Sure,</hi> or <hi>certain,</hi>
-						<pb n="3064"/> and <hi>manifest.</hi> (Msb.)
-						―
-						-b2-
-							And <hi>knowledge,</hi> or <hi>certainty;</hi> [see <foreign lang="ar">Zan~N</foreign>;] <hi>instinctive</hi> and <hi>inferential.</hi> (Msb.)
-						―
-						-b3-
-								<foreign lang="ar">Eayonu Alyaqiyni</foreign>: see <foreign lang="ar">EayonN</foreign> (latter part).
-						―
-						-b4-
-								<foreign lang="ar">AlHq~u Alyaqiynu</foreign> and <foreign lang="ar">Haq~u Alyaqiyni</foreign>: see <foreign lang="ar">jaAmiEN</foreign>; where the two words are said to have the same meaning: and Bd and Jel in lvi. 95; in the latter of which, <foreign lang="ar">Alyqyn</foreign> in <foreign lang="ar">Haq~u Alyaqiyni</foreign> is expressly said to be an epithet: see also Ham, p. 335.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yaqiynN</foreign> is of the measure <foreign lang="ar">faEiylN</foreign> in the sense of the measure <foreign lang="ar">faAEilN</foreign>, signifying <hi>Sure,</hi> or <hi>certain,</hi> 
+						<pb n="3064" xml:id="Page_3064"/>
+							and <hi>manifest.</hi> (Msb.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s>And <hi>knowledge,</hi> or <hi>certainty;</hi> [see <foreign lang="ar">ZanRN</foreign>;] <hi>instinctive</hi> and <hi>inferential.</hi> (Msb.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="3">
+							<s><foreign lang="ar">Eayonu Alyaqiyni</foreign>: see <foreign lang="ar">EayonN</foreign> (latter part).</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="4">
+							<s><foreign lang="ar">AlHqRu Alyaqiynu</foreign> and <foreign lang="ar">HaqRu Alyaqiyni</foreign>: see <foreign lang="ar">jaAmiEN</foreign>; where the two words are said to have the same meaning: and Bd and Jel in lvi. 95; in the latter of which, <foreign lang="ar">Alyqyn</foreign> in <foreign lang="ar">HaqRu Alyaqiyni</foreign> is expressly said to be an epithet: see also Ham, p. 335.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ym">
-					<head>
-								<foreign lang="ar">ym</foreign>
-					</head>
-					<entry type="main" id="n44802" key="yam~ama">
-						<form>
+				<superEntry type="main" xml:id="Root_ym">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ym</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44802" xml:id="yamRama">
+						<form type="entry">
 							<iType>2</iType>
-							<orth orig="" extent="full" lang="ar">yam~ama</orth>
-							<orth extent="full" lang="ar">*</orth>
+							<orth orig="" extent="full" lang="ar">yamRama</orth>
 						</form>
-								2. <foreign lang="ar">yam~ama</foreign>: see <foreign lang="ar">A^am~ama</foreign>. And <foreign lang="ar">yam~ama AlmariyDa</foreign> and <foreign lang="ar">Almay~ita</foreign>: see Mgh in art. <foreign lang="ar">A^am~a</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s>2. <foreign lang="ar">yamRama</foreign>: see <foreign lang="ar">OamRama</foreign>. And <foreign lang="ar">yamRama AlmariyDa</foreign> and <foreign lang="ar">AlmayRita</foreign>: see Mgh in art. <foreign lang="ar">OamRa</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44803" key="tayam~ama">
-						<form>
+					<entry type="main" n="e44803" xml:id="tayamRama">
+						<form type="entry">
 							<iType>5</iType>
-							<orth orig="" extent="full" lang="ar">tayam~ama</orth>
-							<orth extent="full" lang="ar">*</orth>
+							<orth orig="" extent="full" lang="ar">tayamRama</orth>
 						</form>
-								5. <foreign lang="ar">tayam~ama</foreign>: see <foreign lang="ar">SaEiydN</foreign> and art. <foreign lang="ar">Am</foreign>.
-						―
-						-b2-
-								<foreign lang="ar">tayam~ama</foreign> 
+						<hom n="A">
+						<sense n="1">
+							<s>5. <foreign lang="ar">tayamRama</foreign>: see <foreign lang="ar">SaEiydN</foreign> and art. <foreign lang="ar">Am</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s><foreign lang="ar">tayamRama</foreign> 
 								<foreign lang="ar">yamaAmapF</foreign> 
 								<hi>i. q.</hi> 
-								<foreign lang="ar">qaSada qaSodFA</foreign>. (TA in art. <foreign lang="ar">Am</foreign>.)
+								<foreign lang="ar">qaSada qaSodFA</foreign>. (TA in art. <foreign lang="ar">Am</foreign>.)</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44804" key="AlfariyDapu Alyam~iy~apu">
-						<form>
-							<orth orig="" extent="full" lang="ar">AlfariyDapu Alyam~iy~apu</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44804" xml:id="AlfariyDapu AlyamRiyRapu">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">AlfariyDapu AlyamRiyRapu</orth>
 						</form>
-								<foreign lang="ar">AlfariyDapu Alyam~iy~apu</foreign>: see <foreign lang="ar">Almu$ar~akapu</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">AlfariyDapu AlyamRiyRapu</foreign>: see <foreign lang="ar">AlmuXarRakapu</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44805" key="yamaAmN">
-						<form>
+					<entry type="main" n="e44805" xml:id="yamaAmN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yamaAmN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yamaAmN</foreign>: see <foreign lang="ar">HamaAmN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yamaAmN</foreign>: see <foreign lang="ar">HamaAmN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ymr">
-					<head>
-								<foreign lang="ar">ymr</foreign>
-					</head>
-					<entry type="main" id="n44806" key="yaAmurrN">
-						<form>
+				<superEntry type="main" xml:id="Root_ymr">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ymr</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44806" xml:id="yaAmurrN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yaAmurrN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yaAmurrN</foreign> The <hi>male of the</hi> 
-								<foreign lang="ar">A^ay~il</foreign> [or <hi>mountain goat:</hi> not <foreign lang="ar">l</foreign>: <foreign lang="ar">A</foreign>]. (M, TT.)
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yaAmurrN</foreign> The <hi>male of the</hi> 
+								<foreign lang="ar">OayRil</foreign> [or <hi>mountain goat:</hi> not <foreign lang="ar">l</foreign>: <foreign lang="ar">A</foreign>]. (M, TT.)</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ymn">
-					<head>
-								<foreign lang="ar">ymn</foreign>
-					</head>
-					<entry type="main" id="n44807" key="yumina">
-						<form>
+				<superEntry type="main" xml:id="Root_ymn">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ymn</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44807" xml:id="yumina">
+						<form type="entry">
 							<iType>1</iType>
 							<orth orig="" extent="full" lang="ar">yumina</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								1. <foreign lang="ar">yumina</foreign>, (T, M, K,) and <foreign lang="ar">yamina</foreign>, (M, K,) <hi>He was prosperous; fortunate; lucky.</hi> (T, M, K.)
+						<hom n="A">
+						<sense n="1">
+							<s>1. <foreign lang="ar">yumina</foreign>, (T, M, K,) and <foreign lang="ar">yamina</foreign>, (M, K,) <hi>He was prosperous; fortunate; lucky.</hi> (T, M, K.)</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44808" key="yaAmana">
-						<form>
+					<entry type="main" n="e44808" xml:id="yaAmana">
+						<form type="entry">
 							<iType>3</iType>
 							<orth orig="" extent="full" lang="ar">yaAmana</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								3. <foreign lang="ar">yaAmana</foreign>: see 3 in art. <foreign lang="ar">$A^m</foreign> in two places.
+						<hom n="A">
+						<sense n="1">
+							<s>3. <foreign lang="ar">yaAmana</foreign>: see 3 in art. <foreign lang="ar">XOm</foreign> in two places.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44809" key="A^ayomanahu">
-						<form>
+					<entry type="main" n="e44809" xml:id="Oayomanahu">
+						<form type="entry">
 							<iType>4</iType>
-							<orth orig="" extent="full" lang="ar">A^ayomanahu</orth>
-							<orth extent="full" lang="ar">*</orth>
+							<orth orig="" extent="full" lang="ar">Oayomanahu</orth>
 						</form>
-								4. <foreign lang="ar">A^ayomanahu</foreign> <hi>He made it to incline towards the right:</hi> see an ex. voce <foreign lang="ar">sin~N</foreign> (near the end of the paragraph).
-						―
-						-b2-
-								<foreign lang="ar">A^ayomana</foreign>: see <foreign lang="ar">A^a$oA^ama</foreign> in two places.
-						―
-						-b3-
-								<foreign lang="ar">A^ayomanotu A_ibiliY</foreign>: see <foreign lang="ar">A^ayosarotu</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s>4. <foreign lang="ar">Oayomanahu</foreign> <hi>He made it to incline towards the right:</hi> see an ex. voce <foreign lang="ar">sinRN</foreign> (near the end of the paragraph).</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s><foreign lang="ar">Oayomana</foreign>: see <foreign lang="ar">OaXoOama</foreign> in two places.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="3">
+							<s><foreign lang="ar">Oayomanotu UibiliI</foreign>: see <foreign lang="ar">Oayosarotu</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44810" key="tayam~ana">
-						<form>
+					<entry type="main" n="e44810" xml:id="tayamRana">
+						<form type="entry">
 							<iType>5</iType>
-							<orth orig="" extent="full" lang="ar">tayam~ana</orth>
-							<orth extent="full" lang="ar">*</orth>
+							<orth orig="" extent="full" lang="ar">tayamRana</orth>
 						</form>
-								5. <foreign lang="ar">tayam~ana</foreign> <hi>He was placed on his right side in the grave.</hi> (TA, voce <foreign lang="ar">EalobaY</foreign>.)
-						―
-						-b2-
-								<foreign lang="ar">tayam~ana bihi</foreign> 
+						<hom n="A">
+						<sense n="1">
+							<s>5. <foreign lang="ar">tayamRana</foreign> <hi>He was placed on his right side in the grave.</hi> (TA, voce <foreign lang="ar">EalobaI</foreign>.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s><foreign lang="ar">tayamRana bihi</foreign> 
 								<hi>i. q.</hi> 
-								<foreign lang="ar">tabar~aka bihi</foreign> [q. v.]. (S.)
-						―
-						-b3-
-								<foreign lang="ar">fulaAnN yutayam~anu biraA^oyihi</foreign>, i. e. <foreign lang="ar">yutabar~aku bihi</foreign>, (T,) app. <hi>One is fortunate in, or derives a blessing from, his counsel.</hi>
-						―
-						-b4-
-							<hi>He augured good by it,</hi> or <hi>from it; or looked for good fortune, or a blessing, from it;</hi> syn. <foreign lang="ar">tab~araka</foreign> 
-								<foreign lang="ar">bihi</foreign>: (Mgh, Msb, &amp;c:) opposed to <foreign lang="ar">ta$aA^'ama bihi</foreign>, in the K, art. <foreign lang="ar">Tyr</foreign>; and in Bd, xvii. 14; and well known.
-						―
-						-b5-
-								<foreign lang="ar">tayam~ana bikalimapK</foreign> [<hi>He augured good from the word</hi>], (Har, p. 488,) and <foreign lang="ar">bikalaAmK</foreign>. (Msb. in art. <foreign lang="ar">fA^l</foreign>.)
+								<foreign lang="ar">tabarRaka bihi</foreign> [q. v.]. (S.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="3">
+							<s><foreign lang="ar">fulaAnN yutayamRanu biraOoyihi</foreign>, i. e. <foreign lang="ar">yutabarRaku bihi</foreign>, (T,) app. <hi>One is fortunate in, or derives a blessing from, his counsel.</hi></s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="4">
+							<s><hi>He augured good by it,</hi> or <hi>from it; or looked for good fortune, or a blessing, from it;</hi> syn. <foreign lang="ar">tabRaraka</foreign> 
+								<foreign lang="ar">bihi</foreign>: (Mgh, Msb, &amp;c.:) opposed to <foreign lang="ar">taXaOCama bihi</foreign>, in the K, art. <foreign lang="ar">Tyr</foreign>; and in Bd, xvii. 14; and well known.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="5">
+							<s><foreign lang="ar">tayamRana bikalimapK</foreign> [<hi>He augured good from the word</hi>], (Har, p. 488,) and <foreign lang="ar">bikalaAmK</foreign>. (Msb. in art. <foreign lang="ar">fOl</foreign>.)</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44811" key="tayaAmana">
-						<form>
+					<entry type="main" n="e44811" xml:id="tayaAmana">
+						<form type="entry">
 							<iType>6</iType>
 							<orth orig="" extent="full" lang="ar">tayaAmana</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								6. <foreign lang="ar">tayaAmana</foreign>: see <foreign lang="ar">ta$a~aAma</foreign>.
-						―
-						-b2-
-								<foreign lang="ar">tayaAmanuwA</foreign>: see 3 in art. <foreign lang="ar">ysr</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s>6. <foreign lang="ar">tayaAmana</foreign>: see <foreign lang="ar">taXaRaAma</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s><foreign lang="ar">tayaAmanuwA</foreign>: see 3 in art. <foreign lang="ar">ysr</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44812" key="yumonN">
-						<form>
+					<entry type="main" n="e44812" xml:id="yumonN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yumonN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yumonN</foreign> <hi>Prosperity; good fortune; good luck; auspiciousness;</hi> (T, S, M, K;) <hi>contr. of</hi> 
-								<foreign lang="ar">$uw^omN</foreign>, (M,) and of <foreign lang="ar">naHosN</foreign>. (L, art. <foreign lang="ar">sEd</foreign>.)
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yumonN</foreign> <hi>Prosperity; good fortune; good luck; auspiciousness;</hi> (T, S, M, K;) <hi>contr. of</hi> 
+								<foreign lang="ar">XuWomN</foreign>, (M,) and of <foreign lang="ar">naHosN</foreign>. (L, art. <foreign lang="ar">sEd</foreign>.)</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44813" key="yumonapN">
-						<form>
+					<entry type="main" n="e44813" xml:id="yumonapN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yumonapN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yumonapN</foreign>: its pl. seems to be <foreign lang="ar">yumanN</foreign>. See <foreign lang="ar">burodN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yumonapN</foreign>: its pl. seems to be <foreign lang="ar">yumanN</foreign>. See <foreign lang="ar">burodN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44814" key="Alyamiynu">
-						<form>
+					<entry type="main" n="e44814" xml:id="Alyamiynu">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">Alyamiynu</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">Alyamiynu</foreign> <hi>The location that is on the right.</hi>
-						―
-						-b2-
-								<foreign lang="ar">yamiynN</foreign> also, The <hi>south.</hi> See <foreign lang="ar">saroHN</foreign>.
-						―
-						-b3-
-								<foreign lang="ar">yamiynu</foreign> also signifies <hi>A covenant</hi> (Bd, and Jel in lxviii. 39) <hi>confirmed by an oath.</hi> (Bd, ibid.) <foreign lang="ar">yamiynu A@ll~`hi</foreign> 
-								<hi>The oath by attestation of God:</hi> see <foreign lang="ar">A^ayomu A@ll~`hi</foreign>, and <foreign lang="ar">Eahodu A@ll~`hi</foreign>.
-						―
-						-b4-
-								<foreign lang="ar">Halafotu yamiynFA</foreign> [<hi>I swore,</hi> or <hi>have sworn, an oath</hi>]. (T, S, M, voce <foreign lang="ar">A^amiynN</foreign>, which see. You say, <foreign lang="ar">yamiyna A@ll~`hi laA A^afoElu</foreign> (as in some copies of the S [meaning, <foreign lang="ar">Halafotu yamiyna A@ll~`hi</foreign>]): or <foreign lang="ar">yamiynu A@ll~`hi</foreign> (as in other copies [meaning, <foreign lang="ar">yamiynu</foreign> 
-								<foreign lang="ar">A@ll~`hi qasamiY</foreign>]). See a similar form of oath voce <foreign lang="ar">HaraAmN</foreign>.
-						―
-						-b5-
-								<foreign lang="ar">yamiynFA SaAdiqapF laA^afoEalan~a</foreign>: see <foreign lang="ar">zaEompN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">Alyamiynu</foreign> <hi>The location that is on the right.</hi></s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s><foreign lang="ar">yamiynN</foreign> also, The <hi>south.</hi> See <foreign lang="ar">saroHN</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="3">
+							<s><foreign lang="ar">yamiynu</foreign> also signifies <hi>A covenant</hi> (Bd, and Jel in lxviii. 39) <hi>confirmed by an oath.</hi> (Bd, ibid.) <foreign lang="ar">yamiynu QllRehi</foreign> 
+								<hi>The oath by attestation of God:</hi> see <foreign lang="ar">Oayomu QllRehi</foreign>, and <foreign lang="ar">Eahodu QllRehi</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="4">
+							<s><foreign lang="ar">Halafotu yamiynFA</foreign> [<hi>I swore,</hi> or <hi>have sworn, an oath</hi>]. (T, S, M, voce <foreign lang="ar">OamiynN</foreign>, which see. You say, <foreign lang="ar">yamiyna QllRehi laA OafoElu</foreign> (as in some copies of the S [meaning, <foreign lang="ar">Halafotu yamiyna QllRehi</foreign>]): or <foreign lang="ar">yamiynu QllRehi</foreign> (as in other copies [meaning, <foreign lang="ar">yamiynu</foreign> 
+								<foreign lang="ar">QllRehi qasamiI</foreign>]). See a similar form of oath voce <foreign lang="ar">HaraAmN</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="5">
+							<s><foreign lang="ar">yamiynFA SaAdiqapF laOafoEalanRa</foreign>: see <foreign lang="ar">zaEompN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44815" key="yamaAnK">
-						<form>
+					<entry type="main" n="e44815" xml:id="yamaAnK">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yamaAnK</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yamaAnK</foreign> <hi>A garment of Yemen:</hi> see a verse voce <foreign lang="ar">tasohiymN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yamaAnK</foreign> <hi>A garment of Yemen:</hi> see a verse voce <foreign lang="ar">tasohiymN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44816" key="yamaAniY~N">
-						<form>
-							<orth orig="" extent="full" lang="ar">yamaAniY~N</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44816" xml:id="yamaAniIRN">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">yamaAniIRN</orth>
 						</form>
-								<foreign lang="ar">yamaAniY~N</foreign> and <foreign lang="ar">yamaAnuwna</foreign>: see <foreign lang="ar">tihaAmiY~N</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yamaAniIRN</foreign> and <foreign lang="ar">yamaAnuwna</foreign>: see <foreign lang="ar">tihaAmiIRN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44817" key="yaAminN">
-						<form>
+					<entry type="main" n="e44817" xml:id="yaAminN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yaAminN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yaAminN</foreign>: see <foreign lang="ar">yaAsirN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yaAminN</foreign>: see <foreign lang="ar">yaAsirN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44818" key="A^ayomanu">
-						<form>
-							<orth orig="" extent="full" lang="ar">A^ayomanu</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44818" xml:id="Oayomanu">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">Oayomanu</orth>
 						</form>
-								<foreign lang="ar">A^ayomanu</foreign> [The <hi>right, as opposed to</hi> the <hi>left;</hi> see Kur, xix. 53, xx. 82, and xxviii. 30:] <hi>contr. of</hi> 
-								<foreign lang="ar">A^ayosaru</foreign>; and [in like manner] 
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">Oayomanu</foreign> [The <hi>right, as opposed to</hi> the <hi>left;</hi> see Kur, xix. 53, xx. 82, and xxviii. 30:] <hi>contr. of</hi> 
+								<foreign lang="ar">Oayosaru</foreign>; and [in like manner] 
 							<anchor type="arrow"><foreign lang="ar">mayomanapN↓</foreign></anchor> is <hi>contr. of</hi> 
-								<foreign lang="ar">mayosarapN</foreign>. (S.)
-						―
-						-b2-
-								<foreign lang="ar">A^ayomanu</foreign>, <hi>contr. of</hi> 
-								<foreign lang="ar">A^a$oA^amu</foreign>, as signifying The <hi>right,</hi> opposed to the <hi>left:</hi> and as signifying <hi>Lucky,</hi> or <hi>auspicious:</hi> pl. <foreign lang="ar">A^ayaAminu</foreign>. See <foreign lang="ar">A^a$oA^amu</foreign>.
-						―
-						-b3-
-							It is also used in the sense of <foreign lang="ar">yumonN</foreign>: see <foreign lang="ar">A^a$oA^amu</foreign>.
-						―
-						-b4-
-							Also <hi>More,</hi> and <hi>most, lucky,</hi> or <hi>auspicious,</hi> or <hi>happy:</hi> see 8 in art. <foreign lang="ar">fy^l</foreign>.
+								<foreign lang="ar">mayosarapN</foreign>. (S.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s><foreign lang="ar">Oayomanu</foreign>, <hi>contr. of</hi> 
+								<foreign lang="ar">OaXoOamu</foreign>, as signifying The <hi>right,</hi> opposed to the <hi>left:</hi> and as signifying <hi>Lucky,</hi> or <hi>auspicious:</hi> pl. <foreign lang="ar">OayaAminu</foreign>. See <foreign lang="ar">OaXoOamu</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="3">
+							<s>It is also used in the sense of <foreign lang="ar">yumonN</foreign>: see <foreign lang="ar">OaXoOamu</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="4">
+							<s>Also <hi>More,</hi> and <hi>most, lucky,</hi> or <hi>auspicious,</hi> or <hi>happy:</hi> see 8 in art. <foreign lang="ar">fYl</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44819" key="A^ayomunN">
-						<form>
-							<orth orig="" extent="full" lang="ar">A^ayomunN</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44819" xml:id="OayomunN">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">OayomunN</orth>
 						</form>
-								<foreign lang="ar">A^ayomunN</foreign>, used only in swearing, is a sing. noun, not a particle, nor pl. of <foreign lang="ar">yamiynN</foreign>: and is derived from <foreign lang="ar">yumonN</foreign>. (Mughnee.)
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">OayomunN</foreign>, used only in swearing, is a sing. noun, not a particle, nor pl. of <foreign lang="ar">yamiynN</foreign>: and is derived from <foreign lang="ar">yumonN</foreign>. (Mughnee.)</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44820" key="AlA^ayaAminu">
-						<form>
-							<orth orig="" extent="full" lang="ar">AlA^ayaAminu</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44820" xml:id="AlOayaAminu">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">AlOayaAminu</orth>
 						</form>
-								<foreign lang="ar">AlA^ayaAminu</foreign>: see an ex. of this word, voce <foreign lang="ar">vaAbirN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">AlOayaAminu</foreign>: see an ex. of this word, voce <foreign lang="ar">vaAbirN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44821" key="mayomanapN">
-						<form>
+					<entry type="main" n="e44821" xml:id="mayomanapN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mayomanapN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">mayomanapN</foreign> The <hi>right wing</hi> of an army. See <foreign lang="ar">A^ayomanu</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">mayomanapN</foreign> The <hi>right wing</hi> of an army. See <foreign lang="ar">Oayomanu</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44822" key="mayomuwnN">
-						<form>
+					<entry type="main" n="e44822" xml:id="mayomuwnN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">mayomuwnN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">mayomuwnN</foreign> <hi>Fortunate; happy;</hi> (T, M, MA, KL;) <hi>blest.</hi> (T.) See an ex. voce <foreign lang="ar">EariykapN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">mayomuwnN</foreign> <hi>Fortunate; happy;</hi> (T, M, MA, KL;) <hi>blest.</hi> (T.) See an ex. voce <foreign lang="ar">EariykapN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44823" key="tayam~unN">
-						<form>
-							<orth orig="" extent="full" lang="ar">tayam~unN</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44823" xml:id="tayamRunN">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">tayamRunN</orth>
 						</form>
-								<foreign lang="ar">tayam~unN</foreign> The <hi>having</hi> [or <hi>receiving</hi>] a <hi>blessing.</hi> (K L.)
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">tayamRunN</foreign> The <hi>having</hi> [or <hi>receiving</hi>] a <hi>blessing.</hi> (K L.)</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44824" key="tiyman~aA">
-						<form>
-							<orth orig="" extent="full" lang="ar">tiyman~aA</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44824" xml:id="tiymanRaA">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">tiymanRaA</orth>
 						</form>
-								<foreign lang="ar">tiyman~aA</foreign> for <foreign lang="ar">taA^oman~aA</foreign>: see <foreign lang="ar">A^aminahu</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">tiymanRaA</foreign> for <foreign lang="ar">taOomanRaA</foreign>: see <foreign lang="ar">Oaminahu</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ynm">
-					<head>
-								<foreign lang="ar">ynm</foreign>
-					</head>
-					<entry type="main" id="n44825" key="yanamapN">
-						<form>
+				<superEntry type="main" xml:id="Root_ynm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ynm</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44825" xml:id="yanamapN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yanamapN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yanamapN</foreign>: see <foreign lang="ar">HalamapN</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yanamapN</foreign>: see <foreign lang="ar">HalamapN</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="ywm">
-					<head>
-								<foreign lang="ar">ywm</foreign>
-					</head>
-					<entry type="main" id="n44826" key="yawomN">
-						<form>
+				<superEntry type="main" xml:id="Root_ywm">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">ywm</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44826" xml:id="yawomN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">yawomN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">yawomN</foreign> <hi>A time, whether night or day;</hi> (Msb;) <hi>time absolutely, whether night or not, little or not:</hi> this is the proper signification: (Kull, p. 390:) and <hi>day,</hi> meaning the <hi>period from the rising of the sun to its setting;</hi> (Lth, TA:) the <hi>time when the sun is above the earth:</hi> this is the common conventional acceptation: (Kull, ubi suprà:) and the <hi>period from the second</hi> [<hi>or true</hi>] <hi>dawn to sunset:</hi> (Msb, Kull:) this is the legal acceptation: (Kull:) and <hi>a civil day:</hi> the <hi>period of the revolution of the greatest firmament.</hi> (Kull)
-						―
-						-b2-
-							Also, <hi>An accident,</hi> or <hi>event;</hi> syn. <foreign lang="ar">kawonN</foreign> and <foreign lang="ar">kaAy^inapN</foreign>. Ex., <foreign lang="ar">niEoma A@loA^axu fulaAnN fiY Alyawomi A_i*aA nazala binaA</foreign> 
-								<hi>Excellent is the brother, such a one, in the case of the accident, when it befalls us.</hi> (T.)
-						―
-						-b3-
-							See <foreign lang="ar">nahaArN</foreign>.
-						―
-						-b4-
-								<foreign lang="ar">yaA^otiynaA yawoma yawoma</foreign> 
-								<hi>He comes to us day after day,</hi> i. e., <hi>every day:</hi> (Sharh esh-Shudhoor:) and <foreign lang="ar">yawoma yawomK</foreign>. (In a verse cited by IJ. in Mz, sect. on the <foreign lang="ar">Haqiyqap</foreign> and <foreign lang="ar">majaAz</foreign>.)
-						―
-						-b5-
-								<foreign lang="ar">yawomN</foreign> 
-								<hi>A dayjourney,</hi> or <hi>day's journey.</hi>
-						―
-						-b6-
-							<hi>A day,</hi> as in our phrase “ he won the day; ” meaning <hi>contest, fight,</hi> or <hi>battle:</hi> I render it <hi>a day</hi> [<hi>of conflict</hi>].
-						―
-						-b7-
-								<foreign lang="ar">A^ay~aAmu AlEarabi</foreign> 
-								<hi>The</hi> [<hi>days,</hi> (agreeably with an English, as well as Arabian, usage,) meaning] <hi>conflicts</hi> (<foreign lang="ar">waqaAy^iE</foreign>) <hi>of the Arabs.</hi> (ISk, T.)
-						―
-						-b8-
-								<foreign lang="ar">Aibonu yawomihi</foreign> 
-								<hi>He who thinks</hi> [<hi>only of the present day,</hi>] <hi>not of the morrow.</hi> (Er-Rághib. in TA, art. <foreign lang="ar">bnY</foreign>.)
-						―
-						-b9-
-								<foreign lang="ar">yawomu Al$~ak~i</foreign>: see <foreign lang="ar">$ak~N</foreign>.
-						―
-						-b10-
-								<foreign lang="ar">bayon AlA^ay~aAmi</foreign> and <foreign lang="ar">fiymaA bayona AlA^ay~aAmi</foreign>: see <foreign lang="ar">nadorapN</foreign>, in two places.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yawomN</foreign> <hi>A time, whether night or day;</hi> (Msb;) <hi>time absolutely, whether night or not, little or not:</hi> this is the proper signification: (Kull, p. 390:) and <hi>day,</hi> meaning the <hi>period from the rising of the sun to its setting;</hi> (Lth, TA:) the <hi>time when the sun is above the earth:</hi> this is the common conventional acceptation: (Kull, ubi suprà:) and the <hi>period from the second</hi> [<hi>or true</hi>] <hi>dawn to sunset:</hi> (Msb, Kull:) this is the legal acceptation: (Kull:) and <hi>a civil day:</hi> the <hi>period of the revolution of the greatest firmament.</hi> (Kull)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="2">
+							<s>Also, <hi>An accident,</hi> or <hi>event;</hi> syn. <foreign lang="ar">kawonN</foreign> and <foreign lang="ar">kaAYinapN</foreign>. Ex., <foreign lang="ar">niEoma QloOaxu fulaAnN fiI Alyawomi UicaA nazala binaA</foreign> 
+								<hi>Excellent is the brother, such a one, in the case of the accident, when it befalls us.</hi> (T.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="3">
+							<s>See <foreign lang="ar">nahaArN</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="4">
+							<s><foreign lang="ar">yaOotiynaA yawoma yawoma</foreign> 
+								<hi>He comes to us day after day,</hi> i. e., <hi>every day:</hi> (Sharh esh-Shudhoor:) and <foreign lang="ar">yawoma yawomK</foreign>. (In a verse cited by IJ. in Mz, sect. on the <foreign lang="ar">Haqiyqap</foreign> and <foreign lang="ar">majaAz</foreign>.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="5">
+							<s><foreign lang="ar">yawomN</foreign> 
+								<hi>A dayjourney,</hi> or <hi>day's journey.</hi></s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="6">
+							<s><hi>A day,</hi> as in our phrase “ he won the day; ” meaning <hi>contest, fight,</hi> or <hi>battle:</hi> I render it <hi>a day</hi> [<hi>of conflict</hi>].</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="7">
+							<s><foreign lang="ar">OayRaAmu AlEarabi</foreign> 
+								<hi>The</hi> [<hi>days,</hi> (agreeably with an English, as well as Arabian, usage,) meaning] <hi>conflicts</hi> (<foreign lang="ar">waqaAYiE</foreign>) <hi>of the Arabs.</hi> (ISk, T.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="8">
+							<s><foreign lang="ar">Aibonu yawomihi</foreign> 
+								<hi>He who thinks</hi> [<hi>only of the present day,</hi>] <hi>not of the morrow.</hi> (Er-Rághib. in TA, art. <foreign lang="ar">bnI</foreign>.)</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="9">
+							<s><foreign lang="ar">yawomu AlXRakRi</foreign>: see <foreign lang="ar">XakRN</foreign>.</s>
+						</sense>
+						<span type="sig">―</span>
+						<sense n="10">
+							<s><foreign lang="ar">bayon AlOayRaAmi</foreign> and <foreign lang="ar">fiymaA bayona AlOayRaAmi</foreign>: see <foreign lang="ar">nadorapN</foreign>, in two places.</s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44827" key="yawomiy~apN">
-						<form>
-							<orth orig="" extent="full" lang="ar">yawomiy~apN</orth>
-							<orth extent="full" lang="ar">*</orth>
+					<entry type="main" n="e44827" xml:id="yawomiyRapN">
+						<form type="entry">
+							<orth orig="" extent="full" lang="ar">yawomiyRapN</orth>
 						</form>
-								<foreign lang="ar">yawomiy~apN</foreign> <hi>A day's wages.</hi>
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">yawomiyRapN</foreign> <hi>A day's wages.</hi></s>
+						</sense>
+						</hom>
 					</entry>
-					<entry type="main" id="n44828" key="muyaAwamapN">
-						<form>
+					<entry type="main" n="e44828" xml:id="muyaAwamapN">
+						<form type="entry">
 							<orth orig="" extent="full" lang="ar">muyaAwamapN</orth>
-							<orth extent="full" lang="ar">*</orth>
 						</form>
-								<foreign lang="ar">muyaAwamapN</foreign> from <foreign lang="ar">Alyawomu</foreign> is like <foreign lang="ar">mulaAyalapN</foreign> from <foreign lang="ar">All~ayolu</foreign>, and <foreign lang="ar">mu$aAharapN</foreign> from <foreign lang="ar">Al$~ahoru</foreign>, &amp;c. (TA, in art. <foreign lang="ar">rbE</foreign>.) See <foreign lang="ar">musaAwaEap</foreign>.
+						<hom n="A">
+						<sense n="1">
+							<s><foreign lang="ar">muyaAwamapN</foreign> from <foreign lang="ar">Alyawomu</foreign> is like <foreign lang="ar">mulaAyalapN</foreign> from <foreign lang="ar">AllRayolu</foreign>, and <foreign lang="ar">muXaAharapN</foreign> from <foreign lang="ar">AlXRahoru</foreign>, &amp;c. (TA, in art. <foreign lang="ar">rbE</foreign>.) See <foreign lang="ar">musaAwaEap</foreign>.</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
-				<superEntry type="root" n="yY">
-					<head>
-								<foreign lang="ar">yY</foreign>
-					</head>
-					<entry type="main" id="n44829" key="yay~ayotu yaA='F HasanapF">
-						<form>
+				<superEntry type="main" xml:id="Root_yI">
+					<dictScrap type="front">
+						<title type="root"><foreign lang="ar">yI</foreign></title>
+						<label></label>
+					</dictScrap>
+					<entry type="main" n="e44829" xml:id="yayRayotu yaMCF HasanapF">
+						<form type="entry">
 							<iType>2</iType>
-							<orth orig="" extent="full" lang="ar">yay~ayotu yaA='F HasanapF</orth>
-							<orth extent="full" lang="ar">*</orth>
+							<orth orig="" extent="full" lang="ar">yayRayotu yaMCF HasanapF</orth>
 						</form>
-								2. <foreign lang="ar">yay~ayotu yaA='F HasanapF</foreign> [<hi>I wrote a beautiful</hi> 
-								<foreign lang="ar">Y</foreign>]. (TA, in art. <foreign lang="ar">HY</foreign>.)
+						<hom n="A">
+						<sense n="1">
+							<s>2. <foreign lang="ar">yayRayotu yaMCF HasanapF</foreign> [<hi>I wrote a beautiful</hi> 
+								<foreign lang="ar">I</foreign>]. (TA, in art. <foreign lang="ar">HI</foreign>.)</s>
+						</sense>
+						</hom>
 					</entry>
 				</superEntry>
 			</div1>

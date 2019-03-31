@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Import DTD for additional 'Encoding' dataw which then imports the definitions for 'Inline Elements' -->
+<!ENTITY % import SYSTEM "Encoding.dtd">
+    %import;
+
+<!ENTITY encoding "
+    &characters;
+    &terms;
+    &authorities;
+">
+
+<!-- ELEMENT DEFINITIONDS -->
+
+<!ELEMENT TEI (teiHeader,text)>
+<!ATTLIST TEI
+  version NMTOKEN #REQUIRED
+  xmlns CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+>
+<!ELEMENT teiHeader (fileDesc,encodingDesc,profileDesc,revisionDesc)>
+<!ELEMENT text (body)>
+
+<!-- ELEMENTS for teiHeader -->
+<!ELEMENT fileDesc (titleStmt,publicationStmt,notesStmt,sourceDesc)>
+<!ELEMENT encodingDesc (#PCDATA|refsDecl|tagsDecl|charDecl|listNym)*>
+<!ELEMENT profileDesc (langUsage)>
+<!ELEMENT revisionDesc (list,listChange*)>
+
+<!-- SUB-elements of fileDesc -->
+<!-- titleStmt -->
+<!ELEMENT titleStmt (title+,author,editor?,principal,sponsor,funder+,respStmt+)>
+<!ELEMENT title (#PCDATA|foreign|lb)*>
+<!ATTLIST title
+  type (main|sub|desc|root|entry) #REQUIRED
+>
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST author
+  xml:id (EWL) #FIXED 'EWL'
+>
+<!ELEMENT editor (#PCDATA)>
+<!ATTLIST editor
+  xml:id ID #REQUIRED
+>
+<!ELEMENT principal (#PCDATA)>
+<!ATTLIST principal
+  ref CDATA #IMPLIED
+>
+<!ELEMENT sponsor (#PCDATA)>
+<!ATTLIST sponsor
+  ref CDATA #IMPLIED
+>
+<!ELEMENT funder (#PCDATA)>
+<!ATTLIST funder
+  n NMTOKEN #REQUIRED
+>
+<!ELEMENT respStmt (resp,persName)>
+<!ATTLIST respStmt
+  xml:id (WHL|NUI) #REQUIRED
+>
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT persName (#PCDATA)>
+<!-- publicationStmt -->
+<!ELEMENT publicationStmt (publisher,pubPlace,date,authority,ref,availability)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT pubPlace (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT authority (#PCDATA)>
+<!ELEMENT availability (p|list)*>
+<!ATTLIST availability
+  status NMTOKEN #REQUIRED
+>
+<!ELEMENT p (#PCDATA)>
+<!ATTLIST p
+>
+<!-- notesStmt -->
+<!ELEMENT notesStmt (note)+>
+<!ATTLIST notesStmt
+>
+<!-- sourceDesc -->
+<!ELEMENT sourceDesc (listBibl)>
+<!ELEMENT listBibl (biblStruct)>
+<!ELEMENT biblStruct (analytic*,monogr)>
+<!ELEMENT analytic EMPTY>
+<!ELEMENT monogr (title+,imprint)>
+<!ELEMENT imprint (publisher,pubPlace,date)>
+
+<!-- SUB-elements of encodingDesc -->
+<!-- refsDecl -->
+<!ELEMENT refsDecl (state)+>
+<!ATTLIST refsDecl
+  doctype NMTOKEN #REQUIRED
+>
+<!ELEMENT state EMPTY>
+<!ATTLIST state
+  n NMTOKEN #IMPLIED
+  unit NMTOKEN #REQUIRED
+>
+<!-- tagsDecl -->
+<!ELEMENT tagsDecl (rendition+,namespace)>
+<!ATTLIST tagsDecl
+  partial NMTOKEN #IMPLIED
+>
+<!ELEMENT rendition (#PCDATA)>
+<!ATTLIST rendition
+  scheme (css) #FIXED 'css'
+  selector NMTOKEN #REQUIRED
+>
+<!ELEMENT namespace (tagUsage)+>
+<!ATTLIST namespace
+  name CDATA #FIXED 'http://www.tei-c.org/ns/1.0'
+>
+<!ELEMENT tagUsage (#PCDATA)>
+<!ATTLIST tagUsage
+  gi NMTOKEN #REQUIRED
+  occurs NMTOKEN #IMPLIED
+  withId NMTOKEN #IMPLIED
+>
+
+<!-- SUB-elements of profileDesc -->
+<!-- langUsage -->
+<!ELEMENT langUsage (language)+>
+<!ATTLIST langUsage
+  default NMTOKEN #REQUIRED
+>
+<!ELEMENT language (#PCDATA)>
+<!ATTLIST language
+  id NMTOKEN #REQUIRED
+>
+
+<!-- SUB-elements of revisionDesc -->
+<!-- list -->
+<!ELEMENT list (item)+>
+<!ELEMENT item (#PCDATA|s|quote)*>
+<!-- listChange -->
+<!ELEMENT listChange (change)>
+<!ELEMENT change (#PCDATA)>
+
+<!-- ELEMENTS for text -->
+<!ELEMENT body (div1)>
+<!ELEMENT div1 (head,superEntry+)>
+<!ATTLIST div1
+  n CDATA #REQUIRED
+  type (letter) #FIXED 'letter'
+  xml:id ID #REQUIRED
+>
+
+<!-- SUB-elements of div1 -->
+<!-- head -->
+<!ELEMENT head (#PCDATA|foreign)*>
+<!-- superEntry -->
+<!ELEMENT superEntry (dictScrap,form?,entry*,dictScrap?)>
+<!ATTLIST superEntry
+  n NMTOKEN #IMPLIED
+  type (main|xref|supplemental) #REQUIRED
+  xml:id ID #REQUIRED
+>
+
+<!-- SUB-elements of superEntry -->
+<!-- dictScrap -->
+<!ELEMENT dictScrap (title|label|note|pb)*>
+<!ATTLIST dictScrap
+  type (front|back|entry) #REQUIRED
+>
+<!-- form -->
+<!ELEMENT form (iType?,orth+)>
+<!ATTLIST form
+  type CDATA #REQUIRED>
+<!-- entry -->
+<!ELEMENT entry (dictScrap|form|hom|span|pb)*>
+<!ATTLIST entry
+  n NMTOKEN #IMPLIED
+  type (main|xref) #REQUIRED
+  xml:id ID #REQUIRED
+>
+
+<!-- SUB-elements of dictScrap -->
+<!-- title (see above) -->
+<!-- label -->
+<!ELEMENT label (#PCDATA|%inline;)*>
+<!-- note (see above) -->
+  
+<!-- SUB-elements of form -->
+<!ELEMENT iType (#PCDATA)>
+<!ATTLIST orth
+>
+<!ELEMENT orth (#PCDATA)>
+<!ATTLIST orth
+  orig CDATA #IMPLIED
+  extent CDATA #IMPLIED
+  lang NMTOKEN #REQUIRED
+>
+
+<!-- SUB-elements of entry -->
+<!-- dictScrap (see above) -->
+<!-- form (see above) -->
+<!-- hom -->
+<!ELEMENT hom (sense|span|pb)*>
+<!ATTLIST hom
+  n NMTOKEN #REQUIRED
+  type (main|xref|supplemental) #IMPLIED
+  xml:id ID #REQUIRED
+>
+<!-- sense -->
+<!ELEMENT sense (s|pb|list|quote|table|span|%inline;)*>
+<!ATTLIST sense
+  n CDATA #REQUIRED
+  type (main|xref|supplemental) #IMPLIED
+  xml:id ID #REQUIRED
+>
+<!-- span -->
+<!ELEMENT span (#PCDATA|foreign)*>
+<!ATTLIST span
+  type (dis|sig|supplemental) #REQUIRED
+>
+<!-- pb -->
+<!ELEMENT pb EMPTY>
+<!ATTLIST pb
+  n CDATA #REQUIRED
+  xml:id ID #REQUIRED
+>
+
+<!-- SUB-elements of sense -->
+<!ELEMENT s (#PCDATA|pb|%inline;)*>
+<!ATTLIST s
+>
+<!-- pb (see above) -->
+<!-- list (see above) -->
+<!-- quote -->
+<!ELEMENT quote (#PCDATA|L)*>
+<!ATTLIST quote
+>
+<!ELEMENT L (#PCDATA|corr|anchor|foreign)*>
+<!ATTLIST L
+>
+<!-- table -->
+<!ELEMENT table (row)*>
+<!ATTLIST table
+>
+<!ELEMENT row (cell)*>
+<!ATTLIST row
+  role NMTOKEN #IMPLIED
+>
+<!ELEMENT cell (#PCDATA|foreign|hi)*>
+<!ATTLIST cell
+  role NMTOKEN #IMPLIED
+  rows NMTOKEN #IMPLIED
+  cols NMTOKEN #IMPLIED
+>

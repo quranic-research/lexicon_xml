@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % inline "choice|expan|corr|reg|ref|subst|del|add|anchor|foreign|note|hi|lb">
+
+<!-- general -->
+<!ELEMENT foreign (#PCDATA|hi)*>
+<!ATTLIST foreign
+  lang (ar|fa|gr|la|fr|he|syc) #REQUIRED
+>
+<!ELEMENT hi (#PCDATA|%inline;)*>
+<!-- attribute rend="ital" was removed as rendition is now defined in the teiHeader (under encodingDesc) -->
+<!ELEMENT lb EMPTY>
+<!ELEMENT note (#PCDATA|foreign|ref)*>
+<!ATTLIST note
+  anchored NMTOKEN #IMPLIED
+  place NMTOKEN #IMPLIED
+  xml:id ID #IMPLIED
+>
+<!-- choice (expansion and correction) -->
+<!ELEMENT choice ((abbr,expan)|(sic,corr)|(orig,reg))>
+<!ATTLIST choice
+  type (infl|expan|corr|reg) #IMPLIED
+  xml:id ID #IMPLIED
+>
+<!ELEMENT abbr (#PCDATA|foreign|corr)*>
+<!ELEMENT expan (#PCDATA|%inline;)*>
+<!ATTLIST expan
+  resp CDATA #REQUIRED
+>
+<!ELEMENT sic (#PCDATA|foreign)*>
+<!ELEMENT corr (#PCDATA|foreign|note)*>
+<!ATTLIST corr
+  resp CDATA #REQUIRED
+  cert (high|low) #IMPLIED
+>
+<!ELEMENT orig (#PCDATA|foreign)*>
+<!ELEMENT reg (#PCDATA|foreign|note)*>
+<!ATTLIST reg
+  resp CDATA #REQUIRED
+>
+<!-- subst (deletion and addition) -->
+<!ELEMENT subst (del,add)>
+<!ELEMENT add (#PCDATA|%inline;)*>
+<!ATTLIST add
+  resp CDATA #REQUIRED
+>
+<!ELEMENT del (#PCDATA|%inline;)*>
+<!ATTLIST del
+  resp CDATA #REQUIRED
+>
+<!-- referencing -->
+<!ELEMENT ref (#PCDATA|%inline;)*>
+<!ATTLIST ref
+  target CDATA #REQUIRED
+>
+<!ELEMENT anchor (#PCDATA|%inline;)*>
+<!ATTLIST anchor
+  type (arrow) #REQUIRED
+>
